@@ -1,0 +1,85 @@
+Game Name: ScummVM
+Operating System: 
+Microsoft Windows NT 5.1.2600 Service Pack 3
+
+Install Path: 
+ProgramFiles\ScummVM
+
+Save Path: 
+AppData\ScummVM
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ScummVM_is1
+Value: Inno Setup: App Path
+Data: ProgramFiles\ScummVM
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ScummVM_is1
+Value: InstallLocation
+Data: ProgramFiles\ScummVM
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\Authors.lnk - 694
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\AUTHORS.txt - 17639
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\Copying.LGPL.lnk - 731
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\COPYING.LGPL.txt - 27229
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\Copying.lnk - 694
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\COPYING.txt - 18331
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\Copyright.lnk - 710
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\COPYRIGHT.txt - 4607
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\News.lnk - 671
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\NEWS.txt - 56803
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\QuickStart.lnk - 717
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\QUICKSTART.txt - 7020
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\Readme.lnk - 687
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\README.txt - 92318
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\ScummVM (noconsole).lnk - 720
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\scummvm.exe - 17774094
+5/1/2012 4:35:44 PM - StartMenu\Programs\ScummVM\ScummVM.lnk - 694
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\scummvm.exe - 17774094
+5/1/2012 4:35:43 PM - StartMenu\Programs\ScummVM\Uninstall  ScummVM.lnk - 685
+5/1/2012 4:35:36 PM - ProgramFiles\ScummVM\unins000.exe - 788254
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+5/1/2012 6:37:38 PM - AppData\ScummVM\scummvm.ini - 322
+5/1/2012 6:38:07 PM - AppData\ScummVM\Logs\scummvm.log - 218
+
+Install Folder Dump: 
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\AUTHORS.txt - 17639
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\COPYING.LGPL.txt - 27229
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\COPYING.txt - 18331
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\COPYRIGHT.txt - 4607
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\drascula.dat - 218771
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\hugo.dat - 189584
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\kyra.dat - 385091
+5/1/2012 6:37:58 PM - ProgramFiles\ScummVM\lure.001 - 19964
+5/1/2012 6:38:04 PM - ProgramFiles\ScummVM\lure.002 - 20129
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\lure.dat - 637824
+11/17/2011 9:09:26 AM - ProgramFiles\ScummVM\m4.dat - 137897
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\NEWS.txt - 56803
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\pred.dic - 126481
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\queen.tbl - 1084522
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\QUICKSTART.txt - 7020
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\README-SDL.txt - 438
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\README.txt - 92318
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\scummclassic.zip - 91156
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\scummmodern.zip - 198479
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\scummvm.exe - 17774094
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\SDL.dll - 324096
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\sky.cpt - 419427
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\teenagent.dat - 70047
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\toon.dat - 17986
+1/18/2012 9:29:20 AM - ProgramFiles\ScummVM\translations.dat - 285122
+5/1/2012 4:35:44 PM - ProgramFiles\ScummVM\unins000.dat - 4622
+5/1/2012 4:35:36 PM - ProgramFiles\ScummVM\unins000.exe - 788254
+
+UAC Disabled or not present
+
