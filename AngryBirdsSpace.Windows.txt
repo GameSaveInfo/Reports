@@ -1,0 +1,882 @@
+Game Name: Angry Birds Space
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\Rovio\Angry Birds Space
+
+Save Path:
+AppData\Rovio\Angry Birds Space
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{541297B4-5E23-4ABF-9ECE-C35B25992A65}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\Rovio\Angry Birds Space
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{541297B4-5E23-4ABF-9ECE-C35B25992A65}
+Value: ConfigGDFBinaryPath
+Data: 3/19/2012 10:30:45 PM - ProgramFilesX86\Rovio\Angry Birds Space\Angry Birds Space.gdf - 248944
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\03F451F302798024EA8B297CE12B7F8F
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:20:30 PM - ProgramFilesX86\Rovio\Angry Birds Space\msvcp100.dll - 421200
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\19FEBD781F9C6044B9D6D9FEE1A84C00
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:07 PM - ProgramFilesX86\Rovio\Angry Birds Space\config.lua - 400
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\2CE13559E4EA8234A976685873B6CF8E
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\Bonus191.lua - 24656
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\349CE1492C155C74FA945D725EC89B87
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\balloon_pop.mp3 - 4668
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\39CD2C3F196F9F64D81A253281DF9C12
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/24/2012 7:16:49 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace.exe - 1699960
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\404A193BABE2DE54EA98DAA33F87C0D5
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\AchievementPopup.lua - 6048
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\494F2576C0DCC5D4FAF3E612913A231C
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-afterburner.ps - 614
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\59CD2A7FA4B22A2428937D315C81467D
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:45 PM - ProgramFilesX86\Rovio\Angry Birds Space\updater.exe - 213104
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\5AC394DCFEAE212499704E638E9CEF7D
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:20:30 PM - ProgramFilesX86\Rovio\Angry Birds Space\msvcr100.dll - 773968
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\5DEC64254FFD07148AEF9A74C671C83E
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\achievementsLogic.lua - 6960
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\64E5ABBE4408CFE49B6B4D2DD80BED2C
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:45 PM - ProgramFilesX86\Rovio\Angry Birds Space\Angry Birds Space.gdf - 248944
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\6AF2172494705FE4A866CDBA0BCC2F70
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level119.lua - 13344
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\6BD7DE25CC594F442BDC36599A47C81C
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\BlockAttributesPage.lua - 6176
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\88A3E4868E0CEE949A40FA7008C973A1
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\vertexShaders\diff-tex.vs - 4332
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\905559AA0089BDF4FB58EA11F2AE882C
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\BGBox.lua - 2240
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\9D874525A8AAA8743B6D0C863A8C5DB1
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\commons\attributes.sh - 335
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\9E4F733336D092E45B9A08222B54FD92
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level01.lua - 12912
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\B08E9A2D6DDB6834BBA42D9A9B62E563
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:14 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_ambience_dangerzone.mp3 - 891294
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\B09254796B6D3C143BE9BDA98177EF45
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\Level299.lua - 7008
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\B9913E2F9E632A844BF23328596CD434
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\2d-sprite-alpha-masked.fx - 172
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\C28D6F19AAD100445B660018829035C5
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_BASIC.dat - 1330
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\C37CA1D8663DEB94D87530A9F86EDC97
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\Credits.lua - 13408
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\DD67531A02E9D3D4ABDAECD72CD06939
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\BUTTONS_COMPOSPRITES.dat - 2720
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\EA3C9042F1D905E449CF11CDF8642C6C
+Value: E323A2F34C068E14C8BC79511D7D053C
+Data: 3/19/2012 10:19:57 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\localization\TEXTS_BASIC.dat - 48351
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\E323A2F34C068E14C8BC79511D7D053C\InstallProperties
+Value: InstallLocation
+Data: ProgramFilesX86\Rovio\Angry Birds Space
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Media Center\Extensibility\Entry Points\{a5dd6ec3-6c30-4ba5-897b-8f70be3a40a2}
+Value: Run
+Data: 3/24/2012 7:15:23 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace-MCE.lnk - 1037
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Media Center\Extensibility\Entry Points\{a5dd6ec3-6c30-4ba5-897b-8f70be3a40a2}
+Value: ImageUrl
+Data: 3/24/2012 7:15:23 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace-MCE.png - 56965
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{3F2A323E-60C4-41E8-8CCB-9715D1D750C3}
+Value: InstallLocation
+Data: ProgramFilesX86\Rovio\Angry Birds Space
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+3/24/2012 7:15:21 AM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Rovio\Angry Birds Space\Angry Birds Space.lnk - 1165
+3/24/2012 7:16:49 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace.exe - 1699960
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+3/26/2012 5:46:16 AM - AppData\Rovio\Angry Birds Space\highscores.lua - 80
+3/26/2012 5:46:16 AM - AppData\Rovio\Angry Birds Space\settings.lua - 1168
+3/26/2012 5:46:11 AM - AppData\Rovio\Angry Birds Space\updates\AngryBirdsSpace.aiu - 277
+
+Install Folder Dump:
+3/19/2012 10:30:45 PM - ProgramFilesX86\Rovio\Angry Birds Space\Angry Birds Space.gdf - 248944
+3/24/2012 7:15:23 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace-MCE.lnk - 1037
+3/24/2012 7:15:23 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace-MCE.png - 56965
+3/24/2012 7:15:22 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace-MCE.xml - 1340
+3/24/2012 7:16:49 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace.exe - 1699960
+3/24/2012 7:16:49 AM - ProgramFilesX86\Rovio\Angry Birds Space\AngryBirdsSpace.exe.BAK - 1699960
+3/19/2012 10:19:07 PM - ProgramFilesX86\Rovio\Angry Birds Space\config.lua - 400
+3/19/2012 10:20:30 PM - ProgramFilesX86\Rovio\Angry Birds Space\msvcp100.dll - 421200
+3/19/2012 10:20:30 PM - ProgramFilesX86\Rovio\Angry Birds Space\msvcr100.dll - 773968
+3/19/2012 10:30:45 PM - ProgramFilesX86\Rovio\Angry Birds Space\updater.exe - 213104
+3/24/2012 7:15:21 AM - ProgramFilesX86\Rovio\Angry Birds Space\updater.ini - 351
+3/19/2012 10:19:14 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_ambience_dangerzone.mp3 - 891294
+3/19/2012 10:19:14 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_ambience_eggsteroid.mp3 - 896601
+3/19/2012 10:19:15 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_ambience_iceworld.mp3 - 864201
+3/19/2012 10:19:15 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_ambience_pigbang.mp3 - 895691
+3/19/2012 10:19:14 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_bonus_warp.mp3 - 105547
+3/19/2012 10:19:14 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_bonus_warp_reversed.mp3 - 139314
+3/19/2012 10:19:15 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_comic.mp3 - 455812
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_level_menu.mp3 - 796674
+3/19/2012 10:19:14 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_newbird_tutorial.mp3 - 145431
+3/19/2012 10:19:14 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_stars_03_example.mp3 - 74553
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\AB_space_theme.mp3 - 1403759
+3/19/2012 10:19:15 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\BossLevelMusic.mp3 - 520384
+3/19/2012 10:19:15 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\bosstest.mp3 - 1024164
+3/19/2012 10:19:15 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\spaceAmbient01.mp3 - 754983
+3/19/2012 10:19:15 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\spaceAmbient02.mp3 - 913683
+3/19/2012 10:19:15 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\music\World_1_Ambient.mp3 - 901308
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\balloon_pop.mp3 - 4668
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ball_bounce.mp3 - 4851
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bigbrother_fly.mp3 - 11581
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bigbrother_select.mp3 - 10277
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 collision a1.mp3 - 8136
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 collision a1_low.mp3 - 8032
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 collision a2.mp3 - 9441
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 collision a2_low.mp3 - 8972
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 collision a3.mp3 - 7616
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 collision a3_low.mp3 - 7250
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 collision a4.mp3 - 11450
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 collision a4_low.mp3 - 10980
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 flying.mp3 - 23315
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 01 select.mp3 - 16170
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 02 collision a1.mp3 - 8398
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 02 collision a2.mp3 - 8293
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 02 collision a3.mp3 - 9390
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 02 collision a4.mp3 - 8372
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 02 collision a5.mp3 - 4876
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 02 flying.mp3 - 15281
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 02 select.mp3 - 12180
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 03 collision a1.mp3 - 7668
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 03 collision a2.mp3 - 6102
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 03 collision a3.mp3 - 5503
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 03 collision a4.mp3 - 4746
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 03 collision a5.mp3 - 6156
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 03 flying.mp3 - 23211
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 03 select.mp3 - 8321
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 04 collision a1.mp3 - 5059
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 04 collision a2.mp3 - 6730
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 04 collision a3.mp3 - 5581
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 04 collision a4.mp3 - 9573
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 04 flying.mp3 - 20395
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 04 select.mp3 - 15700
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 05 collision a1.mp3 - 8580
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 05 collision a2.mp3 - 7876
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 05 collision a3.mp3 - 8085
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 05 collision a4.mp3 - 7406
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 05 collision a5.mp3 - 6468
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 05 flying.mp3 - 18883
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird 05 select.mp3 - 12674
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird destroyed.mp3 - 11107
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a1.mp3 - 8239
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a10.mp3 - 10691
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a11.mp3 - 11680
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a12.mp3 - 15229
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a2.mp3 - 7511
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a3.mp3 - 10012
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a4.mp3 - 7223
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a5.mp3 - 8658
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a6.mp3 - 9518
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a7.mp3 - 12254
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a8.mp3 - 12047
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird misc a9.mp3 - 15226
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird next military a1.mp3 - 26913
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird next military a2.mp3 - 27121
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird next military a3.mp3 - 24982
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird pushing egg out.mp3 - 8136
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird shot-a1.mp3 - 10328
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird shot-a2.mp3 - 10171
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird shot-a3.mp3 - 7407
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bird_06_flying.mp3 - 21124
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlackHoleClose.mp3 - 44424
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlackHoleOpen.mp3 - 67157
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\blackhole_in.mp3 - 6048
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\blackhole_loop.mp3 - 2736
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\blackhole_out.mp3 - 10440
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\blackhole_shot.mp3 - 15012
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlueCollision01.mp3 - 5217
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlueCollision02.mp3 - 4981
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlueCollision03.mp3 - 4119
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlueCollision04.mp3 - 5687
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlueCollision05.mp3 - 5478
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlueLaunch.mp3 - 21384
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BlueSpecial.mp3 - 15022
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BombCollision01.mp3 - 6884
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BombCollision02.mp3 - 9339
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BombCollision03.mp3 - 6860
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BombCollision04.mp3 - 7981
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BombCollision05.mp3 - 11060
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BombLaunch.mp3 - 21436
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\boomerang_activate.mp3 - 7770
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\boomerang_select.mp3 - 10276
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\boomerang_swish.mp3 - 4643
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bossBuggy01.mp3 - 388026
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bossBuggyDamage01.mp3 - 27484
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bossBuggyDestroy.mp3 - 51533
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bounce material a4.mp3 - 13536
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\bounce material a5.mp3 - 9808
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\break01.mp3 - 14867
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\break02.mp3 - 16694
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\break03.mp3 - 10693
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BubbleBounce.mp3 - 7485
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\BubbleBreak.mp3 - 5007
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ButtonBack.mp3 - 7407
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ButtonFocus.mp3 - 4904
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ButtonProceed.mp3 - 8059
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\collision01.mp3 - 6208
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\collision02.mp3 - 7668
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\collision03.mp3 - 7589
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\eagle_blast.mp3 - 56685
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\Eggsteroid_break.mp3 - 58159
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\EnterAtmosphere.mp3 - 49809
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ExitAtmosphere.mp3 - 19351
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\gamescorescreen_score_count_loop.mp3 - 13465
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\GreenSpecial.mp3 - 24936
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\highscore.mp3 - 63610
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ice light collision a1.mp3 - 6154
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ice light collision a2.mp3 - 5216
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ice light collision a3.mp3 - 10666
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ice light collision a4.mp3 - 8398
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ice light collision a5.mp3 - 6625
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ice light collision a6.mp3 - 10639
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ice light collision a7.mp3 - 11421
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\ice light collision a8.mp3 - 8293
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceAsteroidCollision.mp3 - 6728
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceAsteroidDestroyed.mp3 - 15125
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceAsteroidDestroyedLight.mp3 - 12207
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceAsteroidDestroyedM.mp3 - 15045
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceCollision01.mp3 - 19250
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceCollision02.mp3 - 17266
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceCollision03.mp3 - 10695
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceCollision04.mp3 - 14213
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceCollision05.mp3 - 17528
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceLaunch.mp3 - 26963
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\IceSpecial.mp3 - 52839
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\KingPigLaugh.mp3 - 27698
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\KingPigLaugh02.mp3 - 27070
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\launchBomb.mp3 - 20708
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\launchBulk.mp3 - 24072
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\LazerCollision01.mp3 - 7147
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\LazerCollision02.mp3 - 6310
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\LazerCollision03.mp3 - 6232
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\LazerCollision04.mp3 - 5137
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\LazerCollision05.mp3 - 6155
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\LazerLaunch.mp3 - 25974
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\LazerSpecial.mp3 - 27227
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\level clear military a1.mp3 - 90416
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\level clear military a2.mp3 - 64129
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\level failed piglets a1.mp3 - 133082
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\level failed piglets a2.mp3 - 109529
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\level start military a1.mp3 - 67660
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\level start military a2.mp3 - 75237
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\LevelLocked.mp3 - 6155
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\light damage a1.mp3 - 13560
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\light damage a2.mp3 - 11683
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\light damage a3.mp3 - 13219
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\light destroyed a1.mp3 - 17262
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\light destroyed a2.mp3 - 15855
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\light destroyed a3.mp3 - 14419
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\light rolling.mp3 - 34584
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\MenuButtonClose.mp3 - 26913
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\MenuButtonOpen.mp3 - 24355
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\menuStar02.mp3 - 22580
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\menuStar05.mp3 - 32489
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigFreeze01.mp3 - 16119
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigFreeze02.mp3 - 12412
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigFreeze03.mp3 - 18304
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\Pigglette_death 01.mp3 - 11004
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\Pigglette_death 02.mp3 - 10769
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\Pigglette_death 03.mp3 - 10275
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\Pigglette_death 04.mp3 - 10692
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle01.mp3 - 12520
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle02.mp3 - 14713
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle03.mp3 - 8347
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle04.mp3 - 8918
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle05.mp3 - 14450
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle06.mp3 - 8528
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle07.mp3 - 6365
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle08.mp3 - 12832
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle09.mp3 - 9756
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle10.mp3 - 16853
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle11.mp3 - 7094
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigIdle12.mp3 - 5971
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigLaugh01.mp3 - 22694
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigLaugh02.mp3 - 26076
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigLaugh03.mp3 - 26076
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigLaugh04.mp3 - 18933
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigLaugh05.mp3 - 29022
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a1.mp3 - 8866
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a2.mp3 - 3442
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a3.mp3 - 4902
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a4.mp3 - 5162
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a5.mp3 - 6988
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a6.mp3 - 5946
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a7.mp3 - 5529
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a8.mp3 - 5736
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette collision a9.mp3 - 5631
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette damage a1.mp3 - 4275
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette damage a2.mp3 - 7615
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette damage a3.mp3 - 4016
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette damage a4.mp3 - 9415
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette damage a5.mp3 - 7043
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette damage a6.mp3 - 5580
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a1.mp3 - 11791
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a10.mp3 - 17063
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a11.mp3 - 6991
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a12.mp3 - 5997
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a2.mp3 - 5945
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a3.mp3 - 7773
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a4.mp3 - 8762
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a5.mp3 - 12049
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a6.mp3 - 8400
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a7.mp3 - 6574
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a8.mp3 - 22117
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\piglette oink a9.mp3 - 10017
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigRelieved01.mp3 - 9075
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigRelieved02.mp3 - 10093
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigRelieved03.mp3 - 8684
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigRelieved04.mp3 - 8815
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigSqueal01.mp3 - 11216
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigSqueal02.mp3 - 12571
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigSqueal03.mp3 - 5947
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigSqueal04.mp3 - 7513
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigTongue01.mp3 - 23062
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigTongue02.mp3 - 24417
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigTongue03.mp3 - 25671
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigYawn01.mp3 - 58209
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigYawn02.mp3 - 22483
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigYawn03.mp3 - 33437
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\PigYawn04.mp3 - 42042
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_eat_1.mp3 - 76867
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_eat_2.mp3 - 52902
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_eat_3.mp3 - 85805
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_eat_4.mp3 - 97183
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_eat_5.mp3 - 122882
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_snore_1.mp3 - 6677
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_snore_2.mp3 - 13664
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_snore_3.mp3 - 15387
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\pig_snore_4.mp3 - 14969
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\plant breaks a1.mp3 - 12881
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\plant breaks a2.mp3 - 9856
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\plant breaks a3.mp3 - 9178
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\plant collision a1.mp3 - 7249
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\plant collision a2.mp3 - 8396
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\plant collision a4.mp3 - 9334
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\plant collision a5.mp3 - 7979
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\purple_mushroom.mp3 - 26705
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\redbird_yell01.mp3 - 16768
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\redbird_yell02.mp3 - 16768
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\redbird_yell03.mp3 - 16768
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\RedLaunch.mp3 - 20707
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock collision a1.mp3 - 16377
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock collision a2.mp3 - 19273
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock collision a3.mp3 - 20447
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock collision a4.mp3 - 21177
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock collision a5.mp3 - 21906
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock damage a1.mp3 - 9832
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock damage a2.mp3 - 10850
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock damage a3.mp3 - 12001
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock destroyed a1.mp3 - 19661
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock destroyed a2.mp3 - 20130
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock destroyed a3.mp3 - 17839
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\rock rolling.mp3 - 23710
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\RockAsteroidCollision.mp3 - 14476
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\RockAsteroidDestroyed.mp3 - 12414
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\RockAsteroidDestroyed02.mp3 - 20652
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\sardine.mp3 - 23838
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\scaffolding_break_a1.mp3 - 18591
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\scaffolding_break_a2.mp3 - 13508
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\scaffolding_break_a3.mp3 - 22921
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\scaffolding_collision_a1.mp3 - 13250
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\scaffolding_collision_a2.mp3 - 24673
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\scaffolding_collision_a3.mp3 - 17422
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\slingshot streched.mp3 - 20662
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\spaceBlast01.mp3 - 37179
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\spaceBlast02.mp3 - 55059
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\space_eagle.mp3 - 69237
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\special boost.mp3 - 16797
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\special egg explosion.mp3 - 14864
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\special egg.mp3 - 6129
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\special group.mp3 - 10405
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\star_1.mp3 - 22526
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\star_2.mp3 - 21143
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\star_3.mp3 - 49899
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\tnt box explodes.mp3 - 21174
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\UfoDamage.mp3 - 27638
+3/19/2012 10:19:16 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\UfoDestroy.mp3 - 49971
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\UfoFlying.mp3 - 105661
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood collision a1.mp3 - 9467
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood collision a2.mp3 - 5033
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood collision a3.mp3 - 7172
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood collision a4.mp3 - 7848
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood collision a5.mp3 - 6310
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood collision a6.mp3 - 10224
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood damage a1.mp3 - 11656
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood damage a2.mp3 - 11554
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood damage a3.mp3 - 10956
+3/19/2012 10:19:19 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood destroyed a1.mp3 - 16894
+3/19/2012 10:19:17 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood destroyed a2.mp3 - 17887
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood destroyed a3.mp3 - 19635
+3/19/2012 10:19:18 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\audio\sfx\wood rolling.mp3 - 32211
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_BASIC.dat - 1330
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_BASIC.png - 46306
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_BASIC_SMALL.dat - 1360
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_BASIC_SMALL.png - 28858
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_BIG_HEADLINE.dat - 1277
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_BIG_HEADLINE.png - 150549
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_LS.dat - 170
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_LS_IPHONE.png - 4536
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_SCORE_BIG.dat - 182
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_SCORE_BIG.png - 8147
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_SCORE_SMALL.dat - 184
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_SCORE_SMALL.png - 4994
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_SCORE_TEXT.dat - 1287
+3/19/2012 10:19:58 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\fonts\PC\FONT_SPACE_SCORE_TEXT.png - 27198
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\BUTTONS_COMPOSPRITES.dat - 2720
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\BUTTONS_SHEET_1.dat - 1181
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\BUTTONS_SHEET_1.png - 166500
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\CURSORS_SHEET_1.dat - 164
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\CURSORS_SHEET_1.png - 5246
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BIRDS_1.dat - 2405
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BIRDS_1.png - 316140
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_GLASS_1.dat - 1531
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_GLASS_1.png - 163986
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_MISC_1.dat - 2669
+3/19/2012 10:19:29 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_MISC_1.png - 701351
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_MISC_2.dat - 199
+3/19/2012 10:19:29 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_MISC_2.png - 69697
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_STATIC_1.dat - 366
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_STATIC_1.png - 8393
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_STONE_1.dat - 1517
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_STONE_1.png - 115920
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_WOOD_1.dat - 1482
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BLOCKS_WOOD_1.png - 140022
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BOSS_1.dat - 1827
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_BOSS_1.png - 419213
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_COMPOSPRITES.dat - 48452
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PARTICLES_1.dat - 6599
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PARTICLES_1.png - 414262
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PIGS_1.dat - 7958
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PIGS_1.png - 255237
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PIGS_2.dat - 1952
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PIGS_2.png - 108464
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PLANET_BASES_1.dat - 80
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PLANET_BASES_1.png - 24165
+3/19/2012 10:19:29 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PLANET_BASES_2.dat - 85
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PLANET_BASES_2.png - 160353
+3/19/2012 10:19:29 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PLANET_BASES_3.dat - 81
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PLANET_BASES_3.png - 104946
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PLANET_DECORATIONS_1.dat - 372
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_PLANET_DECORATIONS_1.png - 30896
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_SCORES_1.dat - 366
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_SCORES_1.png - 34785
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_TEXTURE_ICE_1.dat - 73
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_TEXTURE_ICE_1.png - 17812
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_TEXTURE_SAND_1.dat - 75
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_TEXTURE_SAND_1.png - 16600
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_TRANSITION_SCREEN_1.dat - 805
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\INGAME_TRANSITION_SCREEN_1.png - 295684
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_COMMON_COMPOSPRITES.dat - 660
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_COMMON_ELEMENTS_1.dat - 1182
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_COMMON_ELEMENTS_1.png - 345556
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_COMMON_ELEMENTS_2.dat - 106
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_COMMON_ELEMENTS_2.png - 69131
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_COMPOSPRITES.dat - 11597
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_DIALOG_1.dat - 307
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_DIALOG_1.png - 242380
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_ELEMENTS_1.dat - 2774
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_ELEMENTS_1.png - 303028
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_ELEMENTS_2.dat - 965
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_ELEMENTS_2.png - 310818
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_ELEMENTS_2.pvr - 1243252
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_ELEMENTS_3.dat - 260
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_ELEMENTS_3.png - 202800
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_RESULT_1.dat - 547
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_RESULT_1.png - 159703
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_RESULT_STARS_1.dat - 234
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\MENU_RESULT_STARS_1.png - 188463
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\SPLASHES_SHEET_1.dat - 66
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\SPLASHES_SHEET_1.png - 14610
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\SPLASHES_SHEET_2.dat - 68
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\SPLASHES_SHEET_2.png - 1091018
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\SPLASHES_SHEET_3.dat - 70
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\SPLASHES_SHEET_3.png - 2562
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_1_COMIC_1.dat - 223
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_1_COMIC_1.png - 476554
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_1_COMIC_2.dat - 190
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_1_COMIC_2.png - 407114
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_2_COMIC_1.dat - 157
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_2_COMIC_1.png - 474234
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_2_COMIC_2.dat - 70
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_2_COMIC_2.png - 282623
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_DANGER_ZONE_1_COMIC_1.dat - 125
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\STORY_DANGER_ZONE_1_COMIC_1.png - 442473
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_BG_1.dat - 67
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_BG_1.png - 554703
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_COMPOSPRITES.dat - 719
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_PARALLAX_1.dat - 524
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_PARALLAX_1.png - 88348
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_PARALLAX_2.dat - 323
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_PARALLAX_2.png - 43477
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_THEME_1_STARS.dat - 131
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_1_THEME_1_STARS.png - 1278
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_2_BG_1.dat - 64
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_2_BG_1.png - 773699
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_2_PARALLAX_1.dat - 541
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_2_PARALLAX_1.png - 122461
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_COMMON_ATMOSPHERE_1.dat - 211
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_COMMON_ATMOSPHERE_1.png - 42621
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_COMMON_ATMOSPHERE_2.dat - 231
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_COMMON_ATMOSPHERE_2.png - 29323
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_COMMON_ATMOSPHERE_3.dat - 227
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_COMMON_ATMOSPHERE_3.png - 29122
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_COMMON_BLOCKS_1.dat - 436
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_COMMON_BLOCKS_1.png - 55461
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_DANGER_BG_1.dat - 74
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_DANGER_BG_1.png - 59631
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_DANGER_COMPOSPRITES.dat - 611
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_DANGER_PARALLAX_1.dat - 665
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_DANGER_PARALLAX_1.png - 134767
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_EGGSTEROID_BG_1.dat - 82
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_EGGSTEROID_BG_1.png - 1078475
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_EGGSTEROID_COMPOSPRITES.dat - 796
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_EGGSTEROID_PARALLAX_1.dat - 618
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\THEME_EGGSTEROID_PARALLAX_1.png - 37467
+3/19/2012 10:19:27 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\TUTORIALS_COMPOSPRITES.dat - 61428
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\TUTORIALS_TUTORIAL_1.dat - 1615
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\TUTORIALS_TUTORIAL_1.png - 653973
+3/19/2012 10:19:28 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\TUTORIALS_TUTORIAL_2.dat - 1651
+3/19/2012 10:19:26 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\images\PC\TUTORIALS_TUTORIAL_2.png - 242010
+3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\Credits.lua - 13408
+3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\EpisodeSelection.lua - 16336
+3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\EpisodeSelection_noDangerZone.lua - 15568
+3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\MainMenu.lua - 4480
+3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\Bonus191.lua - 24656
+3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\Bonus240.lua - 29904
+3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\Bonus270.lua - 10432
+3/19/2012 10:30:37 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\Bonus271.lua - 13936
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\Bonus279.lua - 22160
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\Bonus285.lua - 12336
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\Bonus33.lua - 11056
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\bonus\LevelSelection.lua - 5040
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level01.lua - 12912
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level02.lua - 2192
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level03.lua - 1376
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level04.lua - 2192
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level05.lua - 2192
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level286.lua - 10880
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level287.lua - 9296
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level288.lua - 16368
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\D_Level290.lua - 14736
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\LevelComicD1.lua - 1280
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\LevelComicD2.lua - 1280
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\LevelSelection.lua - 20992
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level288.lua - 20416
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level290.lua - 15360
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level292.lua - 13776
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level293.lua - 16928
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level294.lua - 13488
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level295.lua - 18704
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level296.lua - 9680
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level302.lua - 13632
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level304.lua - 13008
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level305.lua - 15536
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level306.lua - 11216
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level307.lua - 19760
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P14_Level308.lua - 30480
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level295.lua - 20352
+3/19/2012 10:30:38 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level298.lua - 17312
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level301.lua - 22224
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level304.lua - 16880
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level307.lua - 18608
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level312.lua - 18768
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level316.lua - 19520
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level317.lua - 18656
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level318.lua - 12704
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level319.lua - 15136
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level323.lua - 20688
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\dangerZone\P15_Level324.lua - 13840
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level119.lua - 13344
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level154.lua - 11808
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level168.lua - 13712
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level170.lua - 5360
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level173.lua - 5088
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level177.lua - 9376
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level178.lua - 7168
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level179.lua - 6064
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level181.lua - 7088
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level183.lua - 10928
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level185.lua - 15632
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level186.lua - 16992
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level188.lua - 8304
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level191.lua - 4288
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level232.lua - 6000
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level233.lua - 2992
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level235.lua - 5264
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level236.lua - 6768
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level238.lua - 7168
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level239.lua - 10000
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level240.lua - 9424
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level241.lua - 27520
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level258.lua - 4000
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level266.lua - 10304
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level267.lua - 10496
+3/19/2012 10:30:39 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level30.lua - 12784
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\Level36.lua - 10768
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\LevelBossTheme1.lua - 19872
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\LevelComic1.lua - 1280
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\LevelComic2.lua - 1280
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\LevelSelection.lua - 36944
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\LevelSelectionFirst15.lua - 18208
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\T1_Level277.lua - 27536
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme1\T1_Level285.lua - 10032
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\Level299.lua - 7008
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelBossTheme2.lua - 19120
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelComic3.lua - 1280
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelComic4.lua - 1280
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelP2_123.lua - 10048
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelP2_165.lua - 2320
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelP2_189.lua - 17040
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelP2_259.lua - 8576
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelP2_261.lua - 13840
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\LevelSelection.lua - 26560
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level277.lua - 13984
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level278.lua - 13424
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level280.lua - 8400
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level282.lua - 11888
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level283.lua - 16800
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level285.lua - 17744
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level286.lua - 15632
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level287.lua - 11104
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level289.lua - 30656
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P14_Level298.lua - 23168
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P15_Level300.lua - 17520
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P15_Level303.lua - 15056
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P15_Level308.lua - 13728
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P15_Level310.lua - 14432
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P15_Level313.lua - 14832
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\P15_Level320.lua - 12672
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\T2_Level174.lua - 6464
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\T2_Level259.lua - 9568
+3/19/2012 10:30:40 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\T2_Level282.lua - 13728
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\T2_Level283.lua - 14032
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\T2_Level284.lua - 12176
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\T2_Level29.lua - 10352
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\T2_level_2.lua - 9472
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\levels\theme2\T2_level_3.lua - 13744
+3/19/2012 10:19:57 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\localization\TEXTS_BASIC.dat - 48351
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\achievementsLogic.lua - 6960
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\actions.lua - 29168
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\actions_birds.lua - 19904
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\actions_bonus.lua - 13008
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\actions_boss1.lua - 22976
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\actions_boss2.lua - 9600
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\actions_menuStructure.lua - 12048
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\actions_pigEmotions.lua - 14032
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ads.lua - 20720
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\animations.lua - 2688
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\birds.lua - 6896
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_asteroids.lua - 1888
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_bonusLevels.lua - 6128
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_bosses.lua - 6384
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_comic.lua - 3856
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_compound.lua - 560
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_decorations.lua - 1296
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_gameElements.lua - 8288
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_glass.lua - 4080
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_hazard.lua - 608
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_items.lua - 1232
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_levelgoals.lua - 14496
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_menu.lua - 23040
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_metal.lua - 128
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_planets.lua - 2560
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_scoreobjects.lua - 144
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_sensors.lua - 4640
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_static.lua - 2048
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_stone.lua - 4256
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_themeObjects.lua - 144
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\blocks_wood.lua - 3760
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\damagefactors.lua - 3408
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\events.lua - 2080
+3/19/2012 10:30:41 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\flurry.lua - 6880
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\gamelogic.lua - 343296
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\gameplay_objects.lua - 368
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\game_center.lua - 4848
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\groups.lua - 896
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\iap.lua - 5472
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\leaderboardsLogic.lua - 2032
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\levelOrder.lua - 10480
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\loadlist.lua - 6720
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\materials.lua - 5552
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu.lua - 10240
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\options.lua - 624
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\page.lua - 3376
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\particles.lua - 19424
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\pc_drm.lua - 1072
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\settingsWrapper.lua - 11840
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\soundManager.lua - 22496
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\starLimits.lua - 4304
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\subsystemsapi.lua - 3184
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\textures.lua - 240
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\themes.lua - 8208
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\trackpad.lua - 1760
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\worldAttributes.lua - 368
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\BlockAttributesPage.lua - 6176
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\ButtonFactory.lua - 18224
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\EditorItemsPage.lua - 7664
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\EditorJointPage.lua - 18064
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\EditorScene.lua - 54640
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\EditorSensorsPage.lua - 7680
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\EditorWorldAttributesPage.lua - 4976
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\LevelSelectionEditPage.lua - 2784
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\LevelSelectionScene.lua - 2528
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\MainMenuInitialPage.lua - 24016
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\MainMenuPage.lua - 768
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\MainMenuScene.lua - 3296
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\MenuEngine.lua - 1728
+3/19/2012 10:30:42 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\ObjectEditorScene.lua - 5776
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\OverlayPage.lua - 3232
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\Page.lua - 5520
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\PageGrid.lua - 832
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\rioUIComponents.lua - 12640
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\Scene.lua - 3312
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\SceneManager.lua - 1712
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menu\ScrollPage.lua - 7856
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\AchievementPopup.lua - 6048
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\blachHoleTransition.lua - 7024
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\comicPage1.lua - 5712
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\ConfirmPrompt.lua - 4352
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\CreditsBubble.lua - 4000
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\CreditsDecoBubble.lua - 2656
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\CreditsDecoBubbles.lua - 1648
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\CreditsItem.lua - 720
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\CreditsLink.lua - 2960
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\CreditsScreen.lua - 5168
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\EpisodeButton.lua - 5232
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\GameHud.lua - 7344
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\GesturePausePage.lua - 3536
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\infoFrame.lua - 1776
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\ISSButton.lua - 1168
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\LevelButton.lua - 4896
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\level_end.lua - 33488
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\main_menu.lua - 16480
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\MenuUFO.lua - 1568
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\MEPage.lua - 5968
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\MightyEagle.lua - 3232
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\MightyEagleButton.lua - 4960
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\PausePage.lua - 8816
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\ProcessManager.lua - 2240
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\Prompt.lua - 3152
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\PurchaseEpisodePage.lua - 3680
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\RegistrationDialog.lua - 9168
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\resolution.lua - 2800
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\SplashPage.lua - 3600
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\templateFrame.lua - 1056
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\TutorialFrame.lua - 9584
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\menus_space\UpdatePrompt.lua - 2736
+3/19/2012 10:30:43 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\BGBox.lua - 2240
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\EventManager.lua - 3136
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\Frame.lua - 3488
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\FrameUtils.lua - 2160
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\GridFrame.lua - 3744
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\Image.lua - 2304
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\ImageButton.lua - 2128
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\InvisibleButton.lua - 1600
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\MenuManager.lua - 7632
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\PCEventManager.lua - 1056
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\ProgressBar.lua - 2176
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\RectangleButton.lua - 2752
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\ScallableButton.lua - 5120
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\scrollframe.lua - 4912
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\SliderFrame.lua - 4464
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\StaticButton.lua - 1040
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\templateFrame.lua - 1056
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\Text.lua - 3728
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\TextButton.lua - 4384
+3/19/2012 10:30:44 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\scripts\ui_components\ToggleButton.lua - 976
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\2d-sprite-alpha-masked.fx - 172
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\2d-sprite-alpha.fx - 153
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\2d-sprite.fx - 85
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\2d-vertexcolor-alpha.fx - 198
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\2d-vertexcolor.fx - 138
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-afterburner.fx - 436
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-blackhole.fx - 444
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-blend.fx - 354
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-Blur.fx - 254
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-HBbrightpass.fx - 260
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-HBdownsample.fx - 260
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-HBdownsampleluminance.fx - 269
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-HBfinal.fx - 257
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-oldmovie.fx - 258
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-shocktrail.fx - 445
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\composite-shockwave.fx - 440
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pp.fx - 1958
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\commons\attributes.sh - 335
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\commons\defines.sh - 1670
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\commons\functions.sh - 2453
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\commons\uniforms.sh - 799
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\commons\varyings.sh - 681
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-afterburner.ps - 614
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-blackhole.ps - 1062
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-blend.ps - 308
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-blur.ps - 318
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-brightpass.ps - 1128
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-downsample.ps - 930
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-downsampleluminance.ps - 1088
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-HBfinal.ps - 513
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-oldmovie.ps - 1244
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-shocktrail.ps - 764
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp-shockwave.ps - 694
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\pixelShaders\pp.ps - 1000
+3/19/2012 10:19:21 PM - ProgramFilesX86\Rovio\Angry Birds Space\data\shaders\vertexShaders\diff-tex.vs - 4332
+
+UAC Disabled or not present
