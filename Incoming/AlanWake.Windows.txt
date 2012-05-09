@@ -1,0 +1,494 @@
+Game Name: Alan Wake
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\GOG.com\Alan Wake
+
+Save Path:
+UserDocuments\Remedy\AlanWake_GOG_Version
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{018AF8D8-55CC-4F15-8888-CC5D06E52404}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\GOG.com\Alan Wake
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{018AF8D8-55CC-4F15-8888-CC5D06E52404}
+Value: ConfigGDFBinaryPath
+Data: 5/7/2012 4:02:36 PM - ProgramFilesX86\GOG.com\Alan Wake\goggame.dll - 213504
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGALANWAKE
+Value: EXE
+Data: 4/25/2012 12:04:52 PM - ProgramFilesX86\GOG.com\Alan Wake\alanwake.exe - 3042144
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGALANWAKE
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Alan Wake
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGALANWAKE
+Value: LAUNCHCOMMAND
+Data: 4/25/2012 12:04:52 PM - ProgramFilesX86\GOG.com\Alan Wake\alanwake.exe - 3042144
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Alan Wake_is1
+Value: Inno Setup: App Path
+Data: ProgramFilesX86\GOG.com\Alan Wake
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Alan Wake_is1
+Value: InstallLocation
+Data: ProgramFilesX86\GOG.com\Alan Wake
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+5/8/2012 9:21:47 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Alan Wake\Alan Wake.lnk - 2062
+4/25/2012 12:04:52 PM - ProgramFilesX86\GOG.com\Alan Wake\alanwake.exe - 3042144
+5/8/2012 9:21:45 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Alan Wake\Uninstall Alan Wake.lnk - 1082
+5/8/2012 9:16:41 PM - ProgramFilesX86\GOG.com\Alan Wake\unins000.exe - 2142547
+5/8/2012 9:21:38 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Alan Wake\Documents\Manual.lnk - 1160
+4/30/2012 11:38:00 AM - ProgramFilesX86\GOG.com\Alan Wake\Manual.pdf - 2625932
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+5/8/2012 9:28:21 PM - UserDocuments\Remedy\AlanWake_GOG_Version\config - 394
+5/8/2012 9:23:51 PM - UserDocuments\Remedy\AlanWake_GOG_Version\keybinds.xml - 1376
+5/8/2012 9:23:47 PM - UserDocuments\Remedy\AlanWake_GOG_Version\resolution.xml - 121
+5/8/2012 9:27:38 PM - UserDocuments\Remedy\AlanWake_GOG_Version\savegames\savegame_aw1\savegame.aws - 149
+
+Install Folder Dump:
+4/25/2012 12:05:16 PM - ProgramFilesX86\GOG.com\Alan Wake\ai_f_Win32.dll - 619872
+4/25/2012 12:04:52 PM - ProgramFilesX86\GOG.com\Alan Wake\alanwake.exe - 3042144
+4/25/2012 12:05:16 PM - ProgramFilesX86\GOG.com\Alan Wake\app_f_Win32.dll - 239968
+1/31/2012 2:47:04 PM - ProgramFilesX86\GOG.com\Alan Wake\binkw32.dll - 226304
+4/25/2012 12:05:22 PM - ProgramFilesX86\GOG.com\Alan Wake\d3d_f_Win32.dll - 190304
+4/25/2012 12:05:22 PM - ProgramFilesX86\GOG.com\Alan Wake\dm_f_Win32.dll - 89440
+10/6/2011 5:54:32 PM - ProgramFilesX86\GOG.com\Alan Wake\fmodex.dll - 374784
+4/30/2012 3:07:20 PM - ProgramFilesX86\GOG.com\Alan Wake\gfw_high.ico - 106350
+5/7/2012 4:02:36 PM - ProgramFilesX86\GOG.com\Alan Wake\goggame.dll - 213504
+4/25/2012 12:05:22 PM - ProgramFilesX86\GOG.com\Alan Wake\grph_f_Win32.dll - 61280
+11/28/2008 10:32:10 PM - ProgramFilesX86\GOG.com\Alan Wake\innosetup_license.txt - 1471
+4/25/2012 12:05:22 PM - ProgramFilesX86\GOG.com\Alan Wake\loc_f_Win32.dll - 44896
+4/30/2012 11:38:00 AM - ProgramFilesX86\GOG.com\Alan Wake\Manual.pdf - 2625932
+4/25/2012 12:05:22 PM - ProgramFilesX86\GOG.com\Alan Wake\physics_f_Win32.dll - 4943712
+4/25/2012 12:05:22 PM - ProgramFilesX86\GOG.com\Alan Wake\renderer_f_Win32.dll - 1357152
+4/25/2012 12:05:22 PM - ProgramFilesX86\GOG.com\Alan Wake\rl_f_Win32.dll - 407392
+4/25/2012 12:05:28 PM - ProgramFilesX86\GOG.com\Alan Wake\snd_f_Win32.dll - 106848
+4/20/2010 12:37:04 PM - ProgramFilesX86\GOG.com\Alan Wake\Support.ico - 62895
+5/8/2012 9:21:48 PM - ProgramFilesX86\GOG.com\Alan Wake\unins000.dat - 93305
+5/8/2012 9:16:41 PM - ProgramFilesX86\GOG.com\Alan Wake\unins000.exe - 2142547
+5/8/2012 9:21:47 PM - ProgramFilesX86\GOG.com\Alan Wake\unins000.ini - 78
+2/10/2012 4:08:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-cht.bin - 3627
+2/10/2012 4:08:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-cht.rmdp - 4624712
+3/12/2012 3:33:52 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-cz.bin - 7820
+3/12/2012 3:33:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-cz.rmdp - 7176328
+2/10/2012 4:09:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-de.bin - 182305
+2/10/2012 4:09:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-de.rmdp - 265212880
+2/10/2012 4:18:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-en.bin - 187869
+2/10/2012 4:17:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-en.rmdp - 267865104
+2/10/2012 4:19:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-es.bin - 182305
+2/10/2012 4:19:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-es.rmdp - 265226296
+2/10/2012 4:21:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-esm.bin - 182313
+2/10/2012 4:20:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-esm.rmdp - 263924416
+2/10/2012 4:23:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-fr.bin - 182305
+2/10/2012 4:22:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-fr.rmdp - 265123952
+2/10/2012 4:24:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-it.bin - 182305
+2/10/2012 4:23:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-it.rmdp - 264831536
+2/10/2012 4:26:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-jp.bin - 182295
+2/10/2012 4:25:20 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-jp.rmdp - 269123744
+2/10/2012 4:26:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-ko.bin - 3622
+2/10/2012 4:26:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-ko.rmdp - 4588376
+2/10/2012 4:26:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-pl.bin - 3696
+2/10/2012 4:26:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-pl.rmdp - 5013432
+2/10/2012 4:26:26 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-ru.bin - 3696
+2/10/2012 4:26:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000-ru.rmdp - 5080632
+2/10/2012 4:16:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000.bin - 2436918
+2/10/2012 4:15:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-000.rmdp - 3050241104
+2/22/2012 5:37:52 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-cht.bin - 461
+2/22/2012 5:37:50 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-cht.rmdp - 2685144
+3/16/2012 5:27:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-cz.bin - 296
+3/16/2012 5:27:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-cz.rmdp - 836400
+2/22/2012 5:37:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-de.bin - 296
+2/22/2012 5:37:52 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-de.rmdp - 915408
+2/22/2012 5:38:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-en.bin - 296
+2/22/2012 5:37:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-en.rmdp - 867600
+2/22/2012 5:38:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-es.bin - 296
+2/22/2012 5:38:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-es.rmdp - 875232
+2/28/2012 3:32:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-esm.bin - 535
+2/28/2012 3:32:26 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-esm.rmdp - 3087312
+2/22/2012 5:38:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-fr.bin - 296
+2/22/2012 5:38:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-fr.rmdp - 940192
+2/22/2012 5:38:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-it.bin - 296
+2/22/2012 5:38:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-it.rmdp - 866984
+2/22/2012 5:38:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-jp.bin - 296
+2/22/2012 5:38:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-jp.rmdp - 417640
+2/22/2012 5:38:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-ko.bin - 296
+2/22/2012 5:38:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-ko.rmdp - 534176
+2/22/2012 5:38:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-pl.bin - 296
+2/22/2012 5:38:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-pl.rmdp - 830408
+2/22/2012 5:38:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-ru.bin - 296
+2/22/2012 5:38:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001-ru.rmdp - 855360
+2/22/2012 5:37:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001.bin - 262
+2/22/2012 5:37:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-001.rmdp - 334088
+3/12/2012 3:33:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-cht.bin - 5309
+3/12/2012 3:33:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-cht.rmdp - 2573288
+3/21/2012 11:10:32 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-cz.bin - 296
+3/21/2012 11:10:30 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-cz.rmdp - 836400
+3/12/2012 3:33:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-de.bin - 5305
+3/12/2012 3:33:52 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-de.rmdp - 3080920
+3/12/2012 3:34:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-en.bin - 1142
+3/12/2012 3:33:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-en.rmdp - 1124528
+3/12/2012 3:34:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-es.bin - 5305
+3/12/2012 3:34:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-es.rmdp - 3040760
+3/12/2012 3:34:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-esm.bin - 5309
+3/12/2012 3:34:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-esm.rmdp - 3043560
+3/12/2012 3:34:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-fr.bin - 5305
+3/12/2012 3:34:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-fr.rmdp - 3105704
+3/12/2012 3:34:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-it.bin - 5305
+3/12/2012 3:34:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-it.rmdp - 3032512
+3/12/2012 3:34:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-jp.bin - 5305
+3/12/2012 3:34:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-jp.rmdp - 2583128
+3/12/2012 3:34:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-ko.bin - 5305
+3/12/2012 3:34:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-ko.rmdp - 2699656
+3/12/2012 3:34:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-pl.bin - 5305
+3/12/2012 3:34:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-pl.rmdp - 2995928
+3/12/2012 3:34:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-ru.bin - 5305
+3/12/2012 3:34:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002-ru.rmdp - 3020880
+3/2/2012 6:57:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002.bin - 366
+3/2/2012 6:57:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-002.rmdp - 7062944
+4/25/2012 11:56:52 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-cht.bin - 297
+4/25/2012 11:56:48 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-cht.rmdp - 407832
+4/25/2012 11:56:54 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-cz.bin - 296
+4/25/2012 11:56:52 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-cz.rmdp - 836448
+4/25/2012 11:56:56 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-de.bin - 296
+4/25/2012 11:56:54 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-de.rmdp - 915576
+4/25/2012 11:57:00 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-en.bin - 296
+4/25/2012 11:56:56 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-en.rmdp - 867768
+4/25/2012 11:57:02 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-es.bin - 296
+4/25/2012 11:57:00 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-es.rmdp - 875416
+4/25/2012 11:57:04 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-esm.bin - 297
+4/25/2012 11:57:02 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-esm.rmdp - 878120
+4/25/2012 11:57:06 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-fr.bin - 296
+4/25/2012 11:57:04 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-fr.rmdp - 940360
+4/25/2012 11:57:10 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-it.bin - 296
+4/25/2012 11:57:06 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-it.rmdp - 867168
+4/25/2012 11:57:12 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-jp.bin - 296
+4/25/2012 11:57:10 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-jp.rmdp - 417776
+4/25/2012 11:57:14 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-ko.bin - 296
+4/25/2012 11:57:12 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-ko.rmdp - 534304
+4/25/2012 11:57:18 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-pl.bin - 296
+4/25/2012 11:57:14 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-pl.rmdp - 830584
+4/25/2012 11:57:20 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-ru.bin - 296
+4/25/2012 11:57:18 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003-ru.rmdp - 855536
+3/12/2012 3:33:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003.bin - 1788
+3/12/2012 3:33:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-003.rmdp - 2779328
+3/16/2012 5:27:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-004.bin - 262
+3/16/2012 5:27:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-004.rmdp - 334136
+3/21/2012 11:10:34 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-005.bin - 262
+3/21/2012 11:10:32 AM - ProgramFilesX86\GOG.com\Alan Wake\data\ep999-005.rmdp - 334136
+3/6/2012 2:19:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\config\locale_config.xml - 3780
+1/31/2012 4:04:42 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\alan_wake_logo.bik - 20088192
+2/27/2010 6:58:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_10100.bik - 19512604
+2/28/2010 2:29:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_10200.bik - 914668
+3/8/2010 4:22:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_10300.bik - 49063080
+3/11/2010 5:26:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_10400.bik - 117565220
+3/8/2010 4:05:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_1100.bik - 108646500
+3/11/2010 5:22:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_11000.bik - 34754136
+2/27/2010 6:58:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_11100.bik - 59274640
+2/27/2010 7:00:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_11200.bik - 83530576
+3/8/2010 4:23:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_11300.bik - 31932220
+2/27/2010 7:00:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_11500.bik - 69446196
+2/27/2010 7:00:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_11600.bik - 38643784
+3/9/2010 3:54:50 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_1200.bik - 29082568
+2/27/2010 7:00:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_12100.bik - 99851036
+3/8/2010 4:23:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_12300.bik - 23553096
+2/27/2010 7:00:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_12400.bik - 123452656
+2/27/2010 6:57:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_1300.bik - 37460788
+3/5/2010 4:52:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_13100.bik - 16767008
+3/12/2010 7:15:52 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_13200.bik - 212478180
+3/11/2010 5:27:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_14000.bik - 34909300
+3/5/2010 5:04:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_14100.bik - 53852204
+3/8/2010 4:25:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_14200.bik - 38343440
+3/1/2010 1:38:50 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_14300.bik - 33736668
+3/8/2010 4:25:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_14500.bik - 25735264
+3/11/2010 3:26:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_15100.bik - 94523672
+3/8/2010 4:25:40 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_15300.bik - 19681804
+3/8/2010 4:25:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_15350.bik - 61236140
+3/5/2010 7:17:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_15400.bik - 160819020
+3/1/2010 6:06:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_16000.bik - 34475068
+2/27/2010 7:01:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_16100.bik - 20702316
+3/8/2010 4:25:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_16200.bik - 149169136
+2/28/2010 2:30:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_16300.bik - 3292056
+2/27/2010 7:01:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_16500.bik - 39255672
+3/3/2010 7:12:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_17100.bik - 27405536
+2/27/2010 7:01:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_17200.bik - 52813544
+3/11/2010 5:39:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_17300.bik - 310930396
+3/5/2010 3:26:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_2100.bik - 53470652
+3/11/2010 4:47:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_2300.bik - 60197804
+2/28/2010 2:28:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_2400.bik - 34139968
+3/5/2010 4:14:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_2500.bik - 87841484
+3/9/2010 3:52:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_2600.bik - 19877056
+3/9/2010 4:15:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_2700.bik - 72369268
+3/9/2010 4:01:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_2800.bik - 17740036
+2/27/2010 6:57:20 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_3100.bik - 35092744
+3/9/2010 4:05:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_3150.bik - 33001940
+3/11/2010 4:42:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_3200.bik - 29260608
+3/11/2010 4:53:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_3300.bik - 18967632
+2/28/2010 2:24:26 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_3400.bik - 1552748
+3/5/2010 4:16:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_3500.bik - 129515700
+3/5/2010 5:44:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_4000.bik - 34769248
+3/15/2010 5:45:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_4100.bik - 15270832
+3/2/2010 4:08:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_4200.bik - 98282684
+2/27/2010 6:57:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_4500.bik - 24886812
+3/5/2010 4:45:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_4600.bik - 80610724
+3/8/2010 4:07:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_5100.bik - 56265008
+3/8/2010 4:08:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_5200.bik - 39882100
+2/28/2010 2:29:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_5300.bik - 2580716
+2/27/2010 6:57:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_5400.bik - 30595108
+2/27/2010 6:57:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_5600.bik - 37821896
+3/8/2010 4:08:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_5700.bik - 49466980
+3/8/2010 4:04:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_5800.bik - 143816648
+3/11/2010 5:24:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_9000.bik - 34506200
+2/27/2010 6:58:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_9100.bik - 29717272
+3/8/2010 4:09:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_9200.bik - 85897152
+3/11/2010 5:17:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_9300.bik - 39746296
+2/27/2010 6:58:20 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_9500.bik - 38232788
+3/8/2010 4:21:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\cine_9700.bik - 16880276
+5/19/2009 11:18:38 AM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\credits_background.bik - 18820
+5/19/2009 12:18:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\five_seconds_of_black.bik - 18820
+3/8/2010 1:54:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_a.bik - 366320
+3/8/2010 2:03:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_b.bik - 454972
+3/8/2010 2:03:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_c.bik - 543324
+3/8/2010 2:03:26 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_d.bik - 498044
+3/8/2010 2:03:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_e.bik - 501676
+3/8/2010 2:03:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_f.bik - 546828
+3/8/2010 2:04:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_g.bik - 546464
+3/8/2010 2:04:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_h.bik - 545484
+3/8/2010 2:04:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\flash_18700_i.bik - 544596
+9/2/2009 11:26:56 AM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\ingame_tv_energizer.bik - 1355968
+1/15/2010 1:12:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\ingame_tv_eye.bik - 2452796
+1/30/2010 4:59:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\ingame_tv_ford.bik - 1404888
+5/18/2009 6:44:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\ingame_tv_placeholder.bik - 272360
+9/2/2009 11:26:24 AM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\ingame_tv_trailer.bik - 4644276
+1/30/2010 5:00:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\ingame_tv_verizon.bik - 1453548
+11/28/2009 8:27:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\ingame_tv_whitenoise.bik - 4500028
+12/31/2009 1:49:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\menu_dlc_background.bik - 4901364
+12/30/2009 5:47:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\menu_episode1_background.bik - 12490280
+12/30/2009 6:07:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\menu_episode2_background.bik - 17257632
+3/5/2010 3:30:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\menu_episode3_background.bik - 7651052
+12/30/2009 6:11:52 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\menu_episode4_background.bik - 6526700
+12/30/2009 6:16:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\menu_episode5_background.bik - 12234744
+12/30/2009 5:41:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\menu_episode6_background.bik - 15136120
+3/11/2010 4:21:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\startup_attract.bik - 63318868
+3/7/2010 9:22:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\startup_mgs.bik - 7392428
+3/12/2010 7:17:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\startup_remedy.bik - 5144332
+5/18/2009 3:56:40 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\test_surround_sound.bik - 691980
+3/2/2010 2:34:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_ns_an_absence_of_creativity.bik - 8699576
+3/2/2010 2:36:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_ns_a_family_occasion.bik - 6464220
+3/2/2010 2:39:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_ns_a_quantum_suicide.bik - 9921788
+3/2/2010 2:41:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_ns_taken_in_his_prime.bik - 6514256
+3/2/2010 2:44:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_ns_the_dream_of_dreams.bik - 6597864
+3/2/2010 2:46:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_ns_the_man_in_the_mirror.bik - 8418672
+3/2/2010 2:51:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_talk_show.bik - 9060688
+3/2/2010 2:52:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_writer_in_the_cabin_part_01.bik - 1021732
+3/2/2010 2:53:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_writer_in_the_cabin_part_02.bik - 1494896
+3/2/2010 2:53:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_writer_in_the_cabin_part_03.bik - 1454728
+3/2/2010 2:55:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_writer_in_the_cabin_part_04.bik - 2342700
+3/2/2010 2:56:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_writer_in_the_cabin_part_05.bik - 2678792
+3/2/2010 2:57:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_writer_in_the_cabin_part_06.bik - 2167136
+3/2/2010 2:59:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\tvshow_writer_in_the_cabin_part_07.bik - 3267408
+3/7/2010 5:34:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl01_01.bik - 6418220
+3/7/2010 5:35:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl01_03.bik - 1501260
+3/7/2010 5:35:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl01_04.bik - 3463936
+3/7/2010 5:35:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl02_05.bik - 3614480
+3/7/2010 5:35:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl02_06.bik - 1975212
+3/7/2010 5:35:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl02_07.bik - 3854084
+3/7/2010 5:35:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl02_08.bik - 2762520
+3/7/2010 5:35:40 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl02_09.bik - 4022412
+3/7/2010 5:35:42 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl03_10.bik - 2455308
+3/7/2010 5:35:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl03_11.bik - 5998360
+3/7/2010 5:35:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl03_12.bik - 995000
+3/7/2010 5:35:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl03_13.bik - 1140712
+3/7/2010 5:35:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl03_14.bik - 1317012
+3/7/2010 5:35:50 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl03_15.bik - 763048
+3/7/2010 5:35:50 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl03_16.bik - 763040
+3/7/2010 5:35:52 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl03_17.bik - 3007348
+3/7/2010 5:35:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl04_18.bik - 2794036
+3/5/2010 2:20:20 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl04_19.bik - 1586016
+3/5/2010 2:36:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl05_20.bik - 2280484
+3/7/2010 5:35:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl05_21.bik - 2402984
+3/7/2010 5:35:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl05_22.bik - 5123392
+3/7/2010 5:36:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl05_23.bik - 2526072
+3/7/2010 5:36:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl05_24.bik - 1897308
+3/7/2010 5:36:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl05_25.bik - 1572952
+3/7/2010 5:36:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl05_26.bik - 1510612
+3/7/2010 5:36:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl09_27.bik - 2543896
+3/7/2010 5:36:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl09_28.bik - 4243932
+3/7/2010 5:36:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl09_29.bik - 2264264
+3/7/2010 5:36:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl09_30.bik - 1958044
+3/7/2010 5:36:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl09_31.bik - 2283576
+3/7/2010 5:36:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl09_32.bik - 2612484
+3/7/2010 5:36:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl09_33.bik - 1667532
+3/7/2010 5:36:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl10_34.bik - 2344428
+3/7/2010 5:36:20 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl10_35.bik - 4477436
+3/7/2010 5:36:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl10_36.bik - 3516136
+3/7/2010 5:36:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl10_37.bik - 3399004
+3/7/2010 5:36:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl10_38.bik - 1224988
+3/7/2010 5:36:26 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl10_39.bik - 2055416
+3/7/2010 5:36:28 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl10_40.bik - 2590712
+3/7/2010 5:36:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl11_41.bik - 3007144
+3/7/2010 5:36:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl11_42.bik - 2648520
+3/7/2010 5:36:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl11_43.bik - 2788772
+3/7/2010 5:36:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl11_44.bik - 1731936
+3/7/2010 5:36:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl11_45.bik - 2487100
+3/7/2010 5:36:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl11_46.bik - 1510668
+3/7/2010 5:36:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl12_47.bik - 1234668
+3/5/2010 1:08:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl12_48.bik - 5800432
+3/7/2010 5:36:40 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl12_49.bik - 1225148
+3/7/2010 5:36:40 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl12_50.bik - 1691852
+3/7/2010 5:36:42 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl12_51.bik - 1876988
+3/7/2010 5:36:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl12_52.bik - 2874416
+3/7/2010 5:36:46 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl13_53.bik - 2406368
+3/7/2010 5:36:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl14_54.bik - 3093620
+3/7/2010 5:36:50 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl14_55.bik - 2878748
+3/7/2010 5:36:52 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl14_56.bik - 2862588
+3/7/2010 5:36:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl14_57.bik - 3180204
+3/7/2010 5:36:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl14_58.bik - 2095816
+3/7/2010 5:36:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl15_59.bik - 1355372
+3/7/2010 5:36:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl15_60.bik - 2997896
+3/7/2010 5:37:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl15_61.bik - 2119244
+3/7/2010 5:37:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl15_62.bik - 4799424
+3/7/2010 5:37:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl15_63.bik - 1678528
+3/7/2010 5:37:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl16_64.bik - 3094344
+3/7/2010 5:37:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl16_65.bik - 3407048
+3/7/2010 5:37:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl16_66.bik - 2587452
+3/7/2010 5:37:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl16_67.bik - 3806320
+3/7/2010 5:37:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl16_68.bik - 1833756
+3/7/2010 5:37:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl16_69.bik - 2164036
+3/7/2010 5:37:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl16_70.bik - 1733516
+3/7/2010 5:37:16 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl16_71.bik - 1769776
+3/7/2010 5:37:18 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl17_72.bik - 2555812
+3/7/2010 5:37:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl17_73.bik - 3813872
+3/7/2010 5:37:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\commentary\commentary_lvl17_74.bik - 1012768
+6/25/2010 5:54:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\cine_100000.bik - 25790992
+6/22/2010 5:30:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\cine_100100.bik - 34669080
+6/22/2010 5:30:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\cine_100300.bik - 27812316
+6/23/2010 10:48:22 AM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\cine_100400.bik - 74680776
+5/24/2010 3:57:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\television_noise.bik - 504004
+1/9/2012 12:53:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\television_white_noise.bik - 503992
+5/24/2010 3:58:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\television_white_noise_dim.bik - 504032
+5/26/2010 1:17:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\television_white_noise_mouthless.bik - 503992
+5/14/2010 2:52:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_111_all.bik - 1035148
+5/7/2010 6:01:30 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_128.bik - 1501840
+5/7/2010 6:18:32 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_184.bik - 1668172
+5/7/2010 6:04:48 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_212m.bik - 1490724
+5/7/2010 6:07:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_212q.bik - 2502924
+5/7/2010 5:59:58 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_80aa.bik - 1201480
+5/21/2010 6:02:00 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_90a.bik - 774476
+5/20/2010 4:29:40 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_craziness_generic_1.bik - 1308256
+5/7/2010 7:15:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_eye_generic_1.bik - 1501792
+5/7/2010 7:16:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_eye_generic_2.bik - 1501800
+5/7/2010 7:13:50 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_mouth_generic_1.bik - 1174780
+5/20/2010 4:30:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_mouth_generic_shout_1.bik - 831032
+5/20/2010 4:30:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_mouth_generic_shout_2.bik - 831040
+5/20/2010 4:30:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_mouth_generic_smile_1.bik - 400608
+5/20/2010 4:30:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_onfloor_generic_1.bik - 690916
+5/20/2010 4:30:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc1\tvwake_ultimatedisturbance_generic_1.bik - 1465728
+8/30/2010 2:15:04 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\cine_200000.bik - 22266804
+8/9/2010 1:26:10 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\cine_200100.bik - 21233344
+8/9/2010 1:26:14 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\cine_200200.bik - 14904512
+9/29/2010 8:09:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\cine_200300.bik - 119130956
+5/24/2010 3:57:38 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\television_noise.bik - 504004
+5/26/2010 2:01:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\television_white_noise.bik - 503992
+5/24/2010 3:58:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\television_white_noise_dim.bik - 504032
+5/26/2010 1:17:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\television_white_noise_mouthless.bik - 503992
+5/28/2010 2:16:34 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_120.bik - 1408412
+5/28/2010 2:16:54 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_143a.bik - 1261536
+5/28/2010 2:17:08 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_145a.bik - 894464
+5/28/2010 2:18:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_149a.bik - 5836660
+5/20/2010 4:29:40 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_craziness_generic_1.bik - 1308256
+5/7/2010 7:15:22 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_eye_generic_1.bik - 1501792
+5/7/2010 7:16:56 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_eye_generic_2.bik - 1501800
+5/7/2010 7:13:50 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_mouth_generic_1.bik - 1174780
+5/20/2010 4:30:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_mouth_generic_shout_1.bik - 831032
+5/20/2010 4:30:24 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_mouth_generic_shout_2.bik - 831040
+5/20/2010 4:30:44 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_mouth_generic_smile_1.bik - 400608
+5/20/2010 4:30:12 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_onfloor_generic_1.bik - 690916
+5/20/2010 4:30:02 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tvwake_ultimatedisturbance_generic_1.bik - 1465728
+9/2/2010 11:46:26 AM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tv_alice_117eaa.bik - 1533108
+9/2/2010 11:46:56 AM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tv_alice_117eab.bik - 1067348
+8/31/2010 5:40:06 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tv_alice_117eaf.bik - 2914772
+8/31/2010 5:40:36 PM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tv_alice_117eag.bik - 1123080
+9/2/2010 11:47:32 AM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tv_alice_117eze.bik - 1306076
+9/2/2010 11:48:00 AM - ProgramFilesX86\GOG.com\Alan Wake\data\videos\dlc2\tv_alice_117ezf.bik - 979560
+3/16/2012 5:28:02 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\AfterImage.obj - 672
+3/16/2012 5:28:04 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\AmbientConvolution.obj - 3925
+3/16/2012 5:28:06 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\AmbientProbe.obj - 126791
+3/16/2012 5:28:06 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\AutoExposure.obj - 1655
+3/16/2012 5:28:06 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Backdrop.obj - 2002
+3/16/2012 5:28:06 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\BakeNormals.obj - 480
+3/16/2012 5:28:08 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\BilateralFilter.obj - 6355
+3/16/2012 5:28:08 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\BioTypeSampler.obj - 5201
+3/16/2012 5:28:08 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\BloomX86.obj - 18731
+2/10/2012 4:36:46 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\BloomXbox.obj - 37
+3/16/2012 5:28:08 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Blur.obj - 8599
+3/16/2012 5:28:16 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\CarPaint.obj - 583629
+3/16/2012 5:28:50 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Character.obj - 2831296
+3/16/2012 5:29:04 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Chrome.obj - 1171654
+3/16/2012 5:29:04 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\CinematicRender.obj - 633
+3/16/2012 5:29:04 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Clear.obj - 378
+3/16/2012 5:29:08 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Color.obj - 138915
+3/16/2012 5:29:08 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\ConvertToLinearDepth.obj - 3059
+2/10/2012 4:37:48 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\CopyVideoMemory.obj - 43
+3/16/2012 5:29:16 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\CustomParticle.obj - 395884
+3/16/2012 5:29:16 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\DarkLight.obj - 1024
+3/16/2012 5:29:18 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\DarkPresence.obj - 2665
+3/16/2012 5:29:20 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\DeferredLight.obj - 54304
+3/16/2012 5:29:20 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Displace.obj - 701
+3/16/2012 5:29:26 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Eye.obj - 324277
+3/16/2012 5:29:26 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Flare.obj - 722
+3/16/2012 5:29:28 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\FoliageBillboard.obj - 67719
+3/16/2012 5:29:42 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\FoliagePRT.obj - 576971
+3/16/2012 5:29:42 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\GenerateBillboard.obj - 1942
+3/16/2012 5:29:42 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\GenerateMipmaps.obj - 1523
+3/16/2012 5:29:48 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Glass.obj - 341217
+3/16/2012 5:29:50 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Godray.obj - 31400
+3/16/2012 5:29:52 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Grass.obj - 51826
+3/16/2012 5:29:54 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Light.obj - 99083
+3/16/2012 5:29:54 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\LightBoost.obj - 2351
+3/16/2012 5:29:58 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\LightSensitive.obj - 245797
+3/16/2012 5:29:58 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\LocalPRT.obj - 898
+3/16/2012 5:29:58 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Map.obj - 952
+3/16/2012 5:29:58 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\OcclusionQuery.obj - 466
+3/16/2012 5:30:12 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Particle.obj - 869660
+3/16/2012 5:30:12 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\PickUp.obj - 4741
+3/16/2012 5:30:12 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\PostProcess.obj - 1051
+2/10/2012 4:38:54 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\RestoreSurface.obj - 42
+3/16/2012 5:30:16 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\River.obj - 332755
+3/16/2012 5:30:16 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\ShadeEffect.obj - 2711
+3/16/2012 5:30:16 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\ShadowBlob.obj - 1286
+3/16/2012 5:30:16 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\ShadowBuffer.obj - 19838
+3/16/2012 5:30:26 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Skin.obj - 736834
+3/16/2012 5:30:28 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Sky.obj - 42231
+3/16/2012 5:30:30 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\SSAA.obj - 35489
+3/16/2012 5:30:34 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\SSAO.obj - 51683
+3/16/2012 5:31:02 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\StandardMaterial.obj - 2261682
+3/16/2012 5:31:50 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Taken.obj - 4649515
+3/16/2012 5:31:54 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Terrain.obj - 131695
+3/16/2012 5:31:56 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\TerrainMesh.obj - 65498
+3/16/2012 5:31:56 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\TerrainMeshMaker.obj - 2295
+3/16/2012 5:31:56 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\VectorBlur.obj - 5422
+3/16/2012 5:31:58 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Velocity.obj - 11120
+3/16/2012 5:32:02 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\VideoTexture.obj - 96347
+3/16/2012 5:32:12 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\VolumetricLight.obj - 105791
+3/16/2012 5:32:16 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\Water.obj - 308779
+3/16/2012 5:32:20 PM - ProgramFilesX86\GOG.com\Alan Wake\shaders\build\pc\WindowImpostor.obj - 189973
+
+UAC Enabled
+
+
+VirtualStore Folders:

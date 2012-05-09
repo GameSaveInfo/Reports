@@ -1,0 +1,99 @@
+Game Name: Dinner Date
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\Steam\steamapps\common\dinner date
+
+Save Path:
+ProgramFilesX86\Steam\steamapps\common\dinner date\user
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 94000
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\dinner date
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+5/8/2012 9:14:44 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\user\.user - 229
+5/8/2012 9:15:27 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\user\SanMadJack.user - 1200
+5/8/2012 9:14:44 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\user\[default].user - 1194
+
+Install Folder Dump:
+5/5/2012 4:41:26 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\data.pbpacked - 110081405
+5/5/2012 4:40:54 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\Dinner Date.exe - 4171776
+5/8/2012 9:14:37 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\installscript.vdf - 714
+5/8/2012 7:26:08 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\runasadmin.vdf - 809
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\dependancies\AL.exe - 809496
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\dependancies\DX.exe - 288088
+5/5/2012 4:40:58 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\AsianChars-Regular.otf - 14527484
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\Basic Fonts.xml - 649
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\catFlag.tif - 26120
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\catGame.xml - 18084
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\catMenus.xml - 4536
+5/5/2012 4:40:49 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\catUsers.xml - 490
+5/5/2012 4:40:49 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\daFlag.tif - 26316
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\daGame.xml - 18006
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\daMenus.xml - 4467
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\daUsers.xml - 472
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\duFlag.tif - 24904
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\duGame.xml - 17826
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\duMenus.xml - 4540
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\duUsers.xml - 471
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\enFlag.tif - 26280
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\enGame.xml - 17635
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\English.tif - 26280
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\enMenus.xml - 4427
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\enUsers.xml - 474
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\georgia.ttf - 155068
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\georgiab.ttf - 141032
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\georgiai.ttf - 157388
+5/5/2012 4:40:49 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\georgiaz.ttf - 159736
+5/5/2012 4:40:52 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\Italian.tif - 25252
+5/5/2012 4:40:49 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\itFlag.tif - 25252
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\itGame.xml - 18085
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\itMenus.xml - 4508
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\itUsers.xml - 466
+5/5/2012 4:40:49 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\languageCatalan.xml - 390
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\languageDanish.xml - 401
+5/5/2012 4:40:49 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\languageDutch.xml - 365
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\languageEnglish.xml - 376
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\languageItalian.xml - 378
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\languageMexicanSpanish.xml - 400
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\languageRussian.xml - 408
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\languageSpanish.xml - 387
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\msFlag.tif - 24872
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\msGame.xml - 18421
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\msMenus.xml - 4553
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\msUsers.xml - 487
+5/5/2012 4:40:49 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\ruFlag.tif - 22246
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\ruGame.xml - 23174
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\ruMenus.xml - 5250
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\Russian.tif - 22246
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\ruUsers.xml - 562
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\spFlag.tif - 27524
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\spGame.xml - 18193
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\spMenus.xml - 4537
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\spUsers.xml - 485
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\verdana.ttf - 171792
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\verdanab.ttf - 137616
+5/5/2012 4:40:51 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\verdanai.ttf - 155076
+5/5/2012 4:40:50 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\language\verdanaz.ttf - 154800
+5/8/2012 9:14:44 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\user\.user - 229
+5/8/2012 9:15:27 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\user\SanMadJack.user - 1200
+5/8/2012 9:14:44 PM - ProgramFilesX86\Steam\steamapps\common\dinner date\user\[default].user - 1194
+
+UAC Enabled
+
+
+VirtualStore Folders:
