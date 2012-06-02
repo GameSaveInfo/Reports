@@ -1,0 +1,123 @@
+Game Name: SuperbrothersSwordAndSorcery.Steam
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+SteamCommon\superbrothers sword & sworcery ep
+
+Save Path: 
+SteamUserData\204060
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 59
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 33
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 9:28:44 AM - SteamUserData\204060\remotecache.vdf - 266
+6/2/2012 9:28:37 AM - SteamUserData\204060\local\log.txt - 6323
+6/2/2012 9:28:22 AM - SteamUserData\204060\remote\save_data.dat - 249
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/1/2012 7:21:39 PM - SteamCommon\superbrothers sword & sworcery ep\eula.txt - 8908
+6/1/2012 7:16:25 PM - SteamCommon\superbrothers sword & sworcery ep\fmodex.dll - 798720
+6/1/2012 7:15:32 PM - SteamCommon\superbrothers sword & sworcery ep\fmod_event.dll - 307200
+6/2/2012 9:28:00 AM - SteamCommon\superbrothers sword & sworcery ep\installscript.vdf - 585
+6/1/2012 7:16:22 PM - SteamCommon\superbrothers sword & sworcery ep\lgpl-3.0.txt - 7639
+6/1/2012 7:31:15 PM - SteamCommon\superbrothers sword & sworcery ep\lua5.1.dll - 167936
+6/1/2012 7:15:48 PM - SteamCommon\superbrothers sword & sworcery ep\lua51.dll - 11264
+6/1/2012 7:32:47 PM - SteamCommon\superbrothers sword & sworcery ep\Microsoft.VC80.CRT.manifest - 1869
+6/1/2012 7:33:49 PM - SteamCommon\superbrothers sword & sworcery ep\Microsoft.VC90.CRT.manifest - 524
+6/1/2012 7:15:26 PM - SteamCommon\superbrothers sword & sworcery ep\msvcm80.dll - 479232
+6/1/2012 7:19:50 PM - SteamCommon\superbrothers sword & sworcery ep\msvcm90.dll - 224768
+6/1/2012 7:18:40 PM - SteamCommon\superbrothers sword & sworcery ep\msvcp80.dll - 554832
+6/1/2012 7:25:45 PM - SteamCommon\superbrothers sword & sworcery ep\msvcp90.dll - 568832
+6/1/2012 7:31:55 PM - SteamCommon\superbrothers sword & sworcery ep\msvcr80.dll - 632656
+6/1/2012 7:19:27 PM - SteamCommon\superbrothers sword & sworcery ep\msvcr90.dll - 655872
+6/1/2012 7:23:18 PM - SteamCommon\superbrothers sword & sworcery ep\README.html - 13039
+6/1/2012 7:31:21 PM - SteamCommon\superbrothers sword & sworcery ep\SDL.dll - 324096
+6/2/2012 9:28:41 AM - SteamCommon\superbrothers sword & sworcery ep\stdout.txt - 93
+6/1/2012 7:20:59 PM - SteamCommon\superbrothers sword & sworcery ep\Steam.dll - 2970960
+6/1/2012 7:23:34 PM - SteamCommon\superbrothers sword & sworcery ep\steamclient.dll - 6563624
+6/1/2012 7:31:54 PM - SteamCommon\superbrothers sword & sworcery ep\steam_api.dll - 120616
+6/1/2012 7:22:30 PM - SteamCommon\superbrothers sword & sworcery ep\swordandsworcery_pc.exe - 2633728
+6/1/2012 7:15:26 PM - SteamCommon\superbrothers sword & sworcery ep\swordandsworcery_pc.exe.manifest - 400
+6/1/2012 7:24:04 PM - SteamCommon\superbrothers sword & sworcery ep\tier0_s.dll - 292648
+6/1/2012 7:31:20 PM - SteamCommon\superbrothers sword & sworcery ep\vstdlib_s.dll - 452392
+6/1/2012 7:37:04 PM - SteamCommon\superbrothers sword & sworcery ep\res\sworcery.dat - 19581969
+6/1/2012 7:23:36 PM - SteamCommon\superbrothers sword & sworcery ep\res\sworcery.dat.cat - 41479
+6/1/2012 7:22:23 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSS.fev - 545445
+6/1/2012 7:46:48 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSSmusicsfx.fsb - 121415776
+6/1/2012 7:38:19 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSSmusicsfx_ADPCM.fsb - 24884960
+6/1/2012 7:38:03 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSSpeoplecombat.fsb - 31069088
+6/1/2012 8:10:44 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSSstream.fsb - 78323136
+6/1/2012 7:20:13 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSSWell_ADPCM_LOAD.fsb - 3687168
+6/1/2012 7:38:23 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSSWell_ADPCM_STR.fsb - 8352000
+6/1/2012 7:38:16 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSSWell_MP3_STR.fsb - 16775648
+6/1/2012 7:17:01 PM - SteamCommon\superbrothers sword & sworcery ep\res\sounds\SSS_SFX_ADPCM.fsb - 1929312
+6/1/2012 7:21:39 PM - SteamCommon\superbrothers sword & sworcery ep\reslists\precache.lst - 656
+6/1/2012 7:15:56 PM - SteamCommon\superbrothers sword & sworcery ep\reslists\preload.lst - 656
+6/1/2012 7:23:58 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 01 Dark Flute.mp3 - 6626083
+6/1/2012 7:22:32 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 02 Lone Star.mp3 - 6411879
+6/1/2012 7:22:01 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 03 Doom Sock.mp3 - 6390981
+6/1/2012 7:29:00 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 04 The Prettiest Weed.mp3 - 5762997
+6/1/2012 7:37:39 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 05 The Cloud.mp3 - 9418050
+6/1/2012 7:37:51 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 06 Under A Tree.mp3 - 12324956
+6/1/2012 7:20:45 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 07 The Maelstrom.mp3 - 4835128
+6/1/2012 7:38:33 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 08 The Ballad Of The Space Babies.mp3 - 7629185
+6/1/2012 7:35:30 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 09 Unknowable Geometry.mp3 - 9902883
+6/1/2012 7:28:32 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 10 Bones McCoy.mp3 - 5237413
+6/1/2012 7:18:51 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 11 Ode To A Room.mp3 - 4315813
+6/1/2012 7:31:47 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 12 The Prettiest Remix.mp3 - 2443356
+6/1/2012 7:29:14 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 13 The Whirling Infinite.mp3 - 6191405
+6/1/2012 7:24:20 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 14 Little Furnace.mp3 - 8419128
+6/1/2012 7:15:56 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 15 Bonus Track Intro.mp3 - 265789
+6/1/2012 7:23:08 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 16 Cabin Music (Bonus Track).mp3 - 6584287
+6/1/2012 7:20:59 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 17 Battles 1(Bonus Track).mp3 - 2135111
+6/1/2012 7:22:54 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 18 Battles 2 (Bonus Track).mp3 - 1611618
+6/1/2012 7:19:00 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 19 Com64 (Bonus Track).mp3 - 3468401
+6/1/2012 7:34:50 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 20 Mushrooms (Bonus Track).mp3 - 5604173
+6/1/2012 7:18:12 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 21 Death To Everyone (Bonus Track).mp3 - 3110001
+6/1/2012 7:18:08 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 22 Confronting The Wolf (Bonus Track).mp3 - 3413022
+6/1/2012 7:32:19 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 23 Up A Mountain (Bonus Track).mp3 - 3725446
+6/1/2012 7:18:07 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 24 Activating Trigons (Bonus Track).mp3 - 3521691
+6/1/2012 7:37:42 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 25 How We Get Old (Bonus Track).mp3 - 13044891
+6/1/2012 7:34:52 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 26 And We Got Older.mp3 - 11675030
+6/1/2012 7:22:27 PM - SteamCommon\superbrothers sword & sworcery ep\soundtrack\Jim Guthrie - Sword & Sworcery LP - The Ballad of the Space Babies - 27 Bonus Track Outro.mp3 - 301315
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Capybara Games\Superbrothers: Sword & Sworcery EP
+Value: Install_Path
+Data: SteamCommon\superbrothers sword & sworcery ep
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Capybara Games\Superbrothers: Sword & Sworcery EP
+Value: Exe_Path
+Data: 6/1/2012 7:22:30 PM - SteamCommon\superbrothers sword & sworcery ep\swordandsworcery_pc.exe - 2633728
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 204060
+Value: InstallLocation
+Data: SteamCommon\superbrothers sword & sworcery ep
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

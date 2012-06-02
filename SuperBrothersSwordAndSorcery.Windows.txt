@@ -1,0 +1,88 @@
+Game Name: SuperBrothersSwordsAndSorcery.Windows
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP
+
+Save Path: 
+AppData\capy\SwordAndSworcery
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 59
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 33
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 9:16:27 AM - AppData\capy\SwordAndSworcery\config.txt - 225
+6/2/2012 9:23:47 AM - AppData\capy\SwordAndSworcery\log.txt - 5088
+6/2/2012 9:23:03 AM - AppData\capy\SwordAndSworcery\savedata.bin - 8621
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/1/2012 3:12:46 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\eula.txt - 8908
+5/28/2012 6:17:40 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\fmodex.dll - 798720
+11/30/2010 10:36:36 AM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\fmodexL.dll - 933961
+5/28/2012 6:17:40 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\fmod_event.dll - 307200
+11/30/2010 10:35:04 AM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\fmod_eventL.dll - 376930
+5/28/2012 6:17:40 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\fmod_event_net.dll - 344064
+11/30/2010 10:36:48 AM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\fmod_event_netL.dll - 417898
+5/28/2012 6:17:40 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\lua5.1.dll - 167936
+5/28/2012 6:17:40 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\lua51.dll - 11264
+12/20/2011 10:30:40 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\Microsoft.VC80.CRT.manifest - 1869
+11/6/2007 6:24:10 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\Microsoft.VC90.CRT.manifest - 524
+5/28/2012 6:17:40 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\msvcm80.dll - 479232
+11/6/2007 6:23:58 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\msvcm90.dll - 224768
+5/28/2012 6:17:40 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\msvcp80.dll - 554832
+11/6/2007 11:19:34 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\msvcp90.dll - 568832
+5/28/2012 6:17:42 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\msvcr80.dll - 632656
+11/6/2007 11:19:34 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\msvcr90.dll - 655872
+5/25/2012 4:05:58 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\README.html - 23235
+5/28/2012 6:17:42 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\SDL.dll - 364032
+5/29/2012 5:21:18 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\swordandsworcery_pc.exe - 2268160
+5/29/2012 5:22:12 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\swordandsworcery_pc.exe.manifest - 658
+6/2/2012 8:57:48 AM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\Uninstall.exe - 51556
+5/29/2012 4:48:08 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sworcery.dat - 19494298
+5/29/2012 4:48:08 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sworcery.dat.cat - 41735
+5/28/2012 6:17:04 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSS.fev - 563659
+5/28/2012 6:17:10 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSSmusicsfx.fsb - 121415776
+5/28/2012 6:17:14 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSSmusicsfx_ADPCM.fsb - 24884960
+5/28/2012 6:17:20 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSSpeoplecombat.fsb - 31069088
+5/28/2012 6:17:24 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSSstream.fsb - 78323136
+5/28/2012 6:17:24 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSSWell_ADPCM_LOAD.fsb - 3687168
+5/28/2012 6:17:30 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSSWell_ADPCM_STR.fsb - 8352000
+5/28/2012 6:17:32 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSSWell_MP3_STR.fsb - 16775648
+5/28/2012 6:17:32 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSS_LogfellaJPN.fsb - 3538880
+5/28/2012 6:17:32 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\res\sounds\SSS_SFX_ADPCM.fsb - 1929312
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Key:HKEY_CURRENT_USER\Software\Superbrothers Sword & Sworcery EP
+Value: 
+Data: ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP
+
+Detected Start Menu Shortcuts: 
+6/2/2012 8:57:59 AM - StartMenu\Programs\Superbrothers Sword & Sworcery EP\Superbrothers Sword & Sworcery EP.lnk - 1376
+5/29/2012 5:21:18 PM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\swordandsworcery_pc.exe - 2268160
+6/2/2012 8:57:59 AM - StartMenu\Programs\Superbrothers Sword & Sworcery EP\Uninstall.lnk - 1326
+6/2/2012 8:57:48 AM - ProgramFilesX86\capy\Superbrothers Sword & Sworcery EP\Uninstall.exe - 51556

@@ -1,0 +1,257 @@
+Game Name: Normality
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\GOG.com\Normality
+
+Save Path: 
+VirtualStore\Program Files (x86)\GOG.com\Normality
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{F914A96A-50B2-4D9A-AFD5-6566653D92A2}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\GOG.com\Normality
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{F914A96A-50B2-4D9A-AFD5-6566653D92A2}
+Value: ConfigGDFBinaryPath
+Data: 7/11/2011 11:50:00 AM - ProgramFilesX86\GOG.com\Normality\goggame.dll - 267776
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGNORMALITY
+Value: EXE
+Data: ProgramFilesX86\GOG.com\Normality\DOSBOX
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGNORMALITY
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Normality
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGNORMALITY
+Value: DOSBOXFOLDER
+Data: ProgramFilesX86\GOG.com\Normality\DOSBOX
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGNORMALITY
+Value: DOSBOXVERSION
+Data: ProgramFilesX86\GOG.com\Normality\DOSBOX
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGNORMALITY
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Normality
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Normality_is1
+Value: Inno Setup: App Path
+Data: ProgramFilesX86\GOG.com\Normality
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Normality_is1
+Value: InstallLocation
+Data: ProgramFilesX86\GOG.com\Normality
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+5/25/2012 2:07:49 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Normality\Graphic mode setup.lnk - 2158
+2/25/2011 3:19:10 PM - ProgramFilesX86\GOG.com\Normality\Graphic mode setup.exe - 980992
+5/25/2012 2:07:49 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Normality\Normality.lnk - 2241
+5/12/2010 11:55:40 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\DOSBox.exe - 3727360
+5/25/2012 2:07:49 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Normality\Uninstall Normality.lnk - 1082
+5/25/2012 2:07:01 PM - ProgramFilesX86\GOG.com\Normality\unins000.exe - 2142547
+5/25/2012 2:07:49 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Normality\Documents\Manual.lnk - 1160
+6/22/2011 4:20:22 PM - ProgramFilesX86\GOG.com\Normality\Manual.pdf - 2015422
+5/25/2012 2:07:49 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Normality\Documents\Readme.lnk - 1160
+6/22/2011 4:31:48 PM - ProgramFilesX86\GOG.com\Normality\readme.txt - 2153
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+5/25/2012 2:09:26 PM - VirtualStore\Program Files (x86)\GOG.com\Normality\stderr.txt - 0
+5/25/2012 2:11:44 PM - VirtualStore\Program Files (x86)\GOG.com\Normality\stdout.txt - 351
+5/25/2012 2:11:39 PM - VirtualStore\Program Files (x86)\GOG.com\Normality\SAVEGAME\NORMSAVE.001 - 10531
+
+Install Folder Dump: 
+3/29/2011 4:27:36 PM - ProgramFilesX86\GOG.com\Normality\CONFIG.INI - 207
+3/29/2011 4:31:38 PM - ProgramFilesX86\GOG.com\Normality\dosboxNORMAL.conf - 7395
+6/22/2011 4:27:14 PM - ProgramFilesX86\GOG.com\Normality\gfw_high.ico - 137662
+7/11/2011 11:50:00 AM - ProgramFilesX86\GOG.com\Normality\goggame.dll - 267776
+2/25/2011 3:19:10 PM - ProgramFilesX86\GOG.com\Normality\Graphic mode setup.exe - 980992
+3/29/2011 3:59:10 PM - ProgramFilesX86\GOG.com\Normality\HMIDET.DRV - 52856
+3/29/2011 3:59:12 PM - ProgramFilesX86\GOG.com\Normality\HMIDRV.DRV - 188711
+3/29/2011 3:59:12 PM - ProgramFilesX86\GOG.com\Normality\HMIMDRV.DRV - 100647
+11/28/2008 10:32:10 PM - ProgramFilesX86\GOG.com\Normality\innosetup_license.txt - 1471
+3/29/2011 3:59:10 PM - ProgramFilesX86\GOG.com\Normality\INSTALL.EXE - 153456
+3/29/2011 4:26:38 PM - ProgramFilesX86\GOG.com\Normality\INSTALL.INI - 55150
+3/29/2011 3:59:12 PM - ProgramFilesX86\GOG.com\Normality\INSTGRAV.INI - 63
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\LANG.DAT - 260185
+3/29/2011 3:59:12 PM - ProgramFilesX86\GOG.com\Normality\LOADPATS.EXE - 49194
+6/22/2011 4:20:22 PM - ProgramFilesX86\GOG.com\Normality\Manual.pdf - 2015422
+3/29/2011 3:59:12 PM - ProgramFilesX86\GOG.com\Normality\NORM.EXE - 1048703
+3/29/2011 3:59:12 PM - ProgramFilesX86\GOG.com\Normality\NORMAL.BAT - 116
+2/15/2008 4:36:22 AM - ProgramFilesX86\GOG.com\Normality\NORMAL.GOG - 430368768
+3/29/2011 3:59:12 PM - ProgramFilesX86\GOG.com\Normality\READ.ME - 3422
+6/22/2011 4:31:48 PM - ProgramFilesX86\GOG.com\Normality\readme.txt - 2153
+4/20/2010 12:37:04 PM - ProgramFilesX86\GOG.com\Normality\Support.ico - 62895
+5/25/2012 2:07:50 PM - ProgramFilesX86\GOG.com\Normality\unins000.dat - 68832
+5/25/2012 2:07:01 PM - ProgramFilesX86\GOG.com\Normality\unins000.exe - 2142547
+5/25/2012 2:07:50 PM - ProgramFilesX86\GOG.com\Normality\unins000.ini - 80
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\DIGI\EUREKA0.SFX - 4184244
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\DIGI\HMIDET.386 - 83774
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\DIGI\HMIDRV.386 - 317317
+7/2/2010 1:00:16 PM - ProgramFilesX86\GOG.com\Normality\DOSBOX\dosbox-0.74.tar.gz - 1265711
+5/12/2010 11:55:40 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\DOSBox.exe - 3727360
+4/9/2010 9:04:12 PM - ProgramFilesX86\GOG.com\Normality\DOSBOX\SDL.dll - 448231
+4/9/2010 9:04:12 PM - ProgramFilesX86\GOG.com\Normality\DOSBOX\SDL_net.dll - 13312
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Documentation\dosbox_AUTHORS.txt - 276
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Documentation\dosbox_COPYING.txt - 18332
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Documentation\dosbox_INSTALL.txt - 3937
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Documentation\dosbox_NEWS.txt - 32130
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Documentation\dosbox_README.txt - 63204
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Documentation\dosbox_THANKS.txt - 1001
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Video Codec\Video Instructions.txt - 1608
+4/9/2010 9:08:26 PM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Video Codec\zmbv.dll - 94208
+4/9/2010 9:08:26 PM - ProgramFilesX86\GOG.com\Normality\DOSBOX\Video Codec\zmbv.inf - 4043
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\ASHES.MGL - 108774
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\ASHESLO.MGL - 31014
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\BDMANLO.MGL - 2508
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\BDMANUAL.MGL - 5936
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\BOGPAPER.MGL - 51157
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\BOGPAPLO.MGL - 18527
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\CERTPAPR.MGL - 11825
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\CERTPLO.MGL - 4865
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\COMPSCLO.MGL - 1549
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\COMPSCRN.MGL - 3801
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\CPAPER1.MGL - 10515
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\CPAPER1L.MGL - 2603
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\CPAPER2.MGL - 3856
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\CPAPER2L.MGL - 1313
+3/29/2011 3:59:42 PM - ProgramFilesX86\GOG.com\Normality\GFX\CPAPER5.MGL - 76935
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\CPAPER5L.MGL - 21591
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\CPAPER6.MGL - 60905
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\CPAPER6L.MGL - 20886
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\DOC.MGL - 4977
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\DOCLO.MGL - 1999
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\DOORSGLO.MGL - 1733
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\DOORSIGN.MGL - 7078
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\FAXPAPER.MGL - 4701
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\FAXPAPLO.MGL - 1741
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\FIREEXLO.MGL - 34802
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\FIREEXT.MGL - 118331
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\JEANLO.MGL - 23821
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\JEANLO3.MGL - 24302
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\JEANOTE.MGL - 110365
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\JEANOTE3.MGL - 110755
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\KEYLO.MGL - 14432
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\KEYPAD.MGL - 7316
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\KEYPADLO.MGL - 13558
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\KEYPADS.MGL - 47726
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\KEYPADSC.MGL - 3892
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\LOOPAPLO.MGL - 17759
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\LOOPAPR.MGL - 47959
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\MAPLO.MGL - 41255
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\MAPSCRN.MGL - 152011
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\NEWSLO.MGL - 25840
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\NEWSPAP.MGL - 90720
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\NORMP1LO.MGL - 3316
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\NORMPAP1.MGL - 6516
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\NORMPAPR.MGL - 4823
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\NORMPLO.MGL - 2162
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\OPTSCR.MGL - 186110
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\OPTSCRLO.MGL - 45521
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\PLRSTPAP.MGL - 5761
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\PRPAPLO.MGL - 2237
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\QUIT.MGL - 21335
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\QUITLO.MGL - 6751
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\SAVESCLO.MGL - 54515
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\SAVESCRN.MGL - 214618
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\TEMP.MGL - 1686
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\TVNPAPER.MGL - 7109
+3/29/2011 3:59:44 PM - ProgramFilesX86\GOG.com\Normality\GFX\TVNPAPLO.MGL - 2927
+3/29/2011 3:59:46 PM - ProgramFilesX86\GOG.com\Normality\GFX\TWEEN.DAT - 1152512
+3/29/2011 3:59:46 PM - ProgramFilesX86\GOG.com\Normality\GFX\TWEENWT.DAT - 1152512
+3/29/2011 3:59:46 PM - ProgramFilesX86\GOG.com\Normality\GFX\ZOOMDATA.MGL - 6444
+3/29/2011 3:59:46 PM - ProgramFilesX86\GOG.com\Normality\GFX\ZOOMDTLO.MGL - 2029
+3/29/2011 3:59:46 PM - ProgramFilesX86\GOG.com\Normality\GFX\ZOOMLO.MGL - 16122
+3/29/2011 3:59:46 PM - ProgramFilesX86\GOG.com\Normality\GFX\ZOOMTOOB.MGL - 44094
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\FONT.MGL - 1433
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\FONT1.MGL - 3134
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\FONT2.MGL - 3693
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\FONT3.MGL - 777
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\ICONPAN2.MGL - 4622
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\ICONPAN3.MGL - 4687
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\ICONPANL.MGL - 6024
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\ICONS.MGL - 36865
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\MICON.MGL - 8432
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\REQ.DAT - 256512
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\GFX1\REQ.MGL - 33580
+3/29/2011 3:59:16 PM - ProgramFilesX86\GOG.com\Normality\GFX1\REQLO.DAT - 64512
+3/29/2011 3:59:16 PM - ProgramFilesX86\GOG.com\Normality\GFX1\REQLO.MGL - 10538
+3/29/2011 3:59:16 PM - ProgramFilesX86\GOG.com\Normality\GFX1\RUCKSACK.MGL - 3366
+3/29/2011 3:59:16 PM - ProgramFilesX86\GOG.com\Normality\MAPS\ABOVETV.MGL - 255575
+3/29/2011 3:59:16 PM - ProgramFilesX86\GOG.com\Normality\MAPS\ABOVETV.RAW - 6908
+3/29/2011 3:59:16 PM - ProgramFilesX86\GOG.com\Normality\MAPS\BLOWNUP.MGL - 2041685
+3/29/2011 3:59:16 PM - ProgramFilesX86\GOG.com\Normality\MAPS\BLOWNUP.RAW - 51388
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\CELLS.MGL - 1445069
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\CELLS.RAW - 29926
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\CELLS2.RAW - 6516
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\CELLS3.RAW - 4286
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\CELLS4.RAW - 5402
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\CELLS5.RAW - 5108
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\CELLS6.RAW - 6238
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\DEN.MGL - 996498
+3/29/2011 3:59:18 PM - ProgramFilesX86\GOG.com\Normality\MAPS\DEN.RAW - 2336
+3/29/2011 3:59:20 PM - ProgramFilesX86\GOG.com\Normality\MAPS\DOCKS.MGL - 1584388
+3/29/2011 3:59:20 PM - ProgramFilesX86\GOG.com\Normality\MAPS\DOCKS.RAW - 14576
+3/29/2011 3:59:20 PM - ProgramFilesX86\GOG.com\Normality\MAPS\DUCT.MGL - 176716
+3/29/2011 3:59:20 PM - ProgramFilesX86\GOG.com\Normality\MAPS\DUCT.RAW - 8720
+3/29/2011 4:00:34 PM - ProgramFilesX86\GOG.com\Normality\MAPS\EUREKA0.DAS - 2360814
+3/29/2011 3:59:20 PM - ProgramFilesX86\GOG.com\Normality\MAPS\EUREKA0.MGL - 748352
+3/29/2011 3:59:20 PM - ProgramFilesX86\GOG.com\Normality\MAPS\EUREKA0.RAW - 19632
+3/29/2011 3:59:22 PM - ProgramFilesX86\GOG.com\Normality\MAPS\EUREKA1.MGL - 2051377
+3/29/2011 3:59:22 PM - ProgramFilesX86\GOG.com\Normality\MAPS\EUREKA1.RAW - 35468
+3/29/2011 3:59:22 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FACRECP.MGL - 937334
+3/29/2011 3:59:22 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FACRECP.RAW - 16552
+3/29/2011 3:59:24 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FACTORY.MGL - 2107103
+3/29/2011 3:59:24 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FACTORY.RAW - 36306
+3/29/2011 3:59:26 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FACTOUT.MGL - 1973889
+3/29/2011 3:59:26 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FACTOUT.RAW - 22948
+3/29/2011 3:59:26 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FACTOUT1.RAW - 23212
+3/29/2011 3:59:28 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FILTER.MGL - 1740208
+3/29/2011 3:59:28 PM - ProgramFilesX86\GOG.com\Normality\MAPS\FILTER.RAW - 4680
+3/29/2011 3:59:28 PM - ProgramFilesX86\GOG.com\Normality\MAPS\LABS.MGL - 1010316
+3/29/2011 3:59:28 PM - ProgramFilesX86\GOG.com\Normality\MAPS\LABS.RAW - 23246
+3/29/2011 3:59:28 PM - ProgramFilesX86\GOG.com\Normality\MAPS\LANDING.MGL - 221798
+3/29/2011 3:59:28 PM - ProgramFilesX86\GOG.com\Normality\MAPS\LANDING.RAW - 6076
+3/29/2011 3:59:30 PM - ProgramFilesX86\GOG.com\Normality\MAPS\MINTMALL.MGL - 4271258
+3/29/2011 3:59:30 PM - ProgramFilesX86\GOG.com\Normality\MAPS\MINTMALL.RAW - 44870
+3/29/2011 3:59:32 PM - ProgramFilesX86\GOG.com\Normality\MAPS\MISSILE.MGL - 1156353
+3/29/2011 3:59:32 PM - ProgramFilesX86\GOG.com\Normality\MAPS\MISSILE.RAW - 6424
+3/29/2011 3:59:32 PM - ProgramFilesX86\GOG.com\Normality\MAPS\OUTPOST.MGL - 529197
+3/29/2011 3:59:32 PM - ProgramFilesX86\GOG.com\Normality\MAPS\OUTPOST.RAW - 8468
+3/29/2011 3:59:34 PM - ProgramFilesX86\GOG.com\Normality\MAPS\PROCESS.MGL - 1970815
+3/29/2011 3:59:34 PM - ProgramFilesX86\GOG.com\Normality\MAPS\PROCESS.RAW - 16946
+3/29/2011 3:59:34 PM - ProgramFilesX86\GOG.com\Normality\MAPS\SEWER.MGL - 1358145
+3/29/2011 3:59:34 PM - ProgramFilesX86\GOG.com\Normality\MAPS\SEWER.RAW - 44110
+3/29/2011 3:59:36 PM - ProgramFilesX86\GOG.com\Normality\MAPS\STADIUM.MGL - 2217689
+3/29/2011 3:59:36 PM - ProgramFilesX86\GOG.com\Normality\MAPS\STADIUM.RAW - 44410
+3/29/2011 3:59:38 PM - ProgramFilesX86\GOG.com\Normality\MAPS\TRUCKTV.MGL - 1628803
+3/29/2011 3:59:38 PM - ProgramFilesX86\GOG.com\Normality\MAPS\TRUCKTV.RAW - 47634
+3/29/2011 3:59:38 PM - ProgramFilesX86\GOG.com\Normality\MAPS\TURBINE.MGL - 971709
+3/29/2011 3:59:38 PM - ProgramFilesX86\GOG.com\Normality\MAPS\TURBINE.RAW - 12418
+3/29/2011 3:59:38 PM - ProgramFilesX86\GOG.com\Normality\MAPS\WINBOX.MGL - 608014
+3/29/2011 3:59:38 PM - ProgramFilesX86\GOG.com\Normality\MAPS\WINBOX.RAW - 6558
+3/29/2011 3:59:38 PM - ProgramFilesX86\GOG.com\Normality\MAPS\YELOMALL.RAW - 51490
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\MIDI\DRUM.BNK - 5404
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\MIDI\GRAVIS.INI - 2334
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\MIDI\HMIMDRV.386 - 117852
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\MIDI\MELODIC.BNK - 5404
+3/29/2011 3:59:14 PM - ProgramFilesX86\GOG.com\Normality\MIDI\MT32MAP.MTX - 1104
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+5/25/2012 2:09:26 PM - VirtualStore\Program Files (x86)\GOG.com\Normality\stderr.txt - 0
+5/25/2012 2:11:44 PM - VirtualStore\Program Files (x86)\GOG.com\Normality\stdout.txt - 351
+5/25/2012 2:11:39 PM - VirtualStore\Program Files (x86)\GOG.com\Normality\SAVEGAME\NORMSAVE.001 - 10531

@@ -1,0 +1,79 @@
+Game Name: BlackwellDesception.Windows
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\GOG.com\Blackwell Bundle\Deception
+
+Save Path: 
+SavedGames\Blackwell Deception
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 59
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 33
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 8:48:16 AM - SavedGames\Blackwell Deception\agssave.000 - 433908
+6/2/2012 8:48:23 AM - SavedGames\Blackwell Deception\agssave.002 - 433972
+6/2/2012 8:47:56 AM - SavedGames\Blackwell Deception\agssave.999 - 225839
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+1/12/2012 1:26:34 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\acsetup.cfg - 312
+1/12/2012 1:26:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\audio.vox - 56547139
+1/12/2012 1:26:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\Deception.exe - 303459336
+5/28/2012 2:43:22 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\gfw_high.ico - 114121
+5/28/2012 4:25:52 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\goggame.dll - 237568
+6/2/2012 8:47:56 AM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\prog.bwd - 18
+1/12/2012 1:27:50 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\speech.vox - 253040953
+4/20/2010 12:37:04 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\Support.ico - 62895
+1/12/2012 1:26:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\winsetup.exe - 102426
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{B5F1C930-91B2-4A02-B8A8-9DB567AE76CD}
+Value: ConfigGDFBinaryPath
+Data: 5/28/2012 4:25:52 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\goggame.dll - 237568
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLEDECEPTION
+Value: EXE
+Data: 1/12/2012 1:26:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\Deception.exe - 303459336
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLEDECEPTION
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Blackwell Bundle\Deception
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLEDECEPTION
+Value: LAUNCHCOMMAND
+Data: 1/12/2012 1:26:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\Deception.exe - 303459336
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLEDECEPTION
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Blackwell Bundle\Deception
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+6/1/2012 7:20:59 PM - StartMenu\Programs\GOG.com\Blackwell Bundle\Episode 4 - Blackwell Deception\Episode 4 - Blackwell Deception.lnk - 2294
+1/12/2012 1:26:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\Deception.exe - 303459336
+6/1/2012 7:20:54 PM - StartMenu\Programs\GOG.com\Blackwell Bundle\Episode 4 - Blackwell Deception\Setup.lnk - 1359
+1/12/2012 1:26:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Deception\winsetup.exe - 102426

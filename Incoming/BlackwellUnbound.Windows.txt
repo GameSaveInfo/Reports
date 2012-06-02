@@ -1,0 +1,80 @@
+Game Name: BlackwellUnbound.Windows
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound
+
+Save Path: 
+SavedGames\Blackwell Unbound
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 59
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 33
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 8:43:25 AM - SavedGames\Blackwell Unbound\agssave.000 - 418054
+6/2/2012 8:42:48 AM - SavedGames\Blackwell Unbound\agssave.999 - 168430
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+1/12/2012 2:12:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\acsetup.cfg - 314
+1/12/2012 1:54:02 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\audio.vox - 36257084
+5/28/2012 2:46:22 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\gfw_high.ico - 133360
+5/28/2012 4:25:36 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\goggame.dll - 268800
+6/2/2012 8:42:48 AM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\prog.bwu - 10
+1/12/2012 1:54:28 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\speech.vox - 121376054
+4/20/2010 12:37:04 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\Support.ico - 62895
+1/12/2012 2:12:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\Unbound.001 - 41571278
+1/12/2012 2:12:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\Unbound.002 - 3417728
+1/12/2012 2:12:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\Unbound.exe - 14493753
+1/12/2012 2:12:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\winsetup.exe - 57368
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{5F3A6744-630D-4E30-AFC8-0A901AC918E9}
+Value: ConfigGDFBinaryPath
+Data: 5/28/2012 4:25:36 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\goggame.dll - 268800
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLEUNBOUND
+Value: EXE
+Data: 1/12/2012 2:12:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\Unbound.exe - 14493753
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLEUNBOUND
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLEUNBOUND
+Value: LAUNCHCOMMAND
+Data: 1/12/2012 2:12:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\Unbound.exe - 14493753
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLEUNBOUND
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+6/1/2012 7:20:52 PM - StartMenu\Programs\GOG.com\Blackwell Bundle\Episode 2 - Blackwell Unbound\Episode 2 - Blackwell Unbound.lnk - 2262
+1/12/2012 2:12:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\Unbound.exe - 14493753
+6/1/2012 7:20:46 PM - StartMenu\Programs\GOG.com\Blackwell Bundle\Episode 2 - Blackwell Unbound\Setup.lnk - 1343
+1/12/2012 2:12:48 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Unbound\winsetup.exe - 57368

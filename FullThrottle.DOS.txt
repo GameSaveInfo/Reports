@@ -1,0 +1,42 @@
+Game Name: Full Throttle
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\Games\DOS\THROTTLE
+
+Save Path: 
+Drive\Games\DOS\THROTTLE
+
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: T:\
+Drive Root: T:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+5/13/2012 11:09:23 AM - Drive\Games\DOS\THROTTLE\BOOTFULL.EXE - 59499
+5/13/2012 11:09:23 AM - Drive\Games\DOS\THROTTLE\DOS4GW.EXE - 244716
+5/13/2012 11:09:28 AM - Drive\Games\DOS\THROTTLE\IMUSE.INI - 400
+5/13/2012 11:09:23 AM - Drive\Games\DOS\THROTTLE\README.DOC - 6337
+5/13/2012 11:10:37 AM - Drive\Games\DOS\THROTTLE\SAVEGAME.002 - 70940
+5/13/2012 11:09:22 AM - Drive\Games\DOS\THROTTLE\THROTTLE.EXE - 330953
+
+Install Folder Dump: 
+5/13/2012 11:09:23 AM - Drive\Games\DOS\THROTTLE\BOOTFULL.EXE - 59499
+5/13/2012 11:09:23 AM - Drive\Games\DOS\THROTTLE\DOS4GW.EXE - 244716
+5/13/2012 11:09:28 AM - Drive\Games\DOS\THROTTLE\IMUSE.INI - 400
+5/13/2012 11:09:23 AM - Drive\Games\DOS\THROTTLE\README.DOC - 6337
+5/13/2012 11:10:37 AM - Drive\Games\DOS\THROTTLE\SAVEGAME.002 - 70940
+5/13/2012 11:09:22 AM - Drive\Games\DOS\THROTTLE\THROTTLE.EXE - 330953
+
+UAC Enabled
+
+
+VirtualStore Folders: 

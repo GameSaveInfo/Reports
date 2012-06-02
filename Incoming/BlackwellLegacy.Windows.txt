@@ -1,0 +1,81 @@
+Game Name: Balckwell 
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy
+
+Save Path: 
+SavedGames\Blackwell Legacy v1.7
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 59
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 33
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 8:38:17 AM - SavedGames\Blackwell Legacy v1.7\agssave.000 - 412371
+6/2/2012 8:38:27 AM - SavedGames\Blackwell Legacy v1.7\agssave.001 - 412389
+6/2/2012 8:34:56 AM - SavedGames\Blackwell Legacy v1.7\agssave.999 - 162713
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+1/12/2012 2:25:26 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\acsetup.cfg - 319
+1/12/2012 2:21:16 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\audio.vox - 41666393
+1/12/2012 2:21:14 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\blackwell1.001 - 42074966
+1/12/2012 2:21:16 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\blackwell1.002 - 5118357
+1/12/2012 2:21:16 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\blackwell1.exe - 18822697
+5/28/2012 2:45:30 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\gfw_high.ico - 120614
+5/28/2012 4:25:32 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\goggame.dll - 247808
+6/2/2012 8:35:21 AM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\prog.bwl - 8
+1/12/2012 2:22:00 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\speech.vox - 159196017
+4/20/2010 12:37:04 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\Support.ico - 62895
+1/12/2012 2:21:16 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\winsetup.exe - 73755
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{898FC3CC-1A51-4AEA-8258-3A291EF8AEC9}
+Value: ConfigGDFBinaryPath
+Data: 5/28/2012 4:25:32 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\goggame.dll - 247808
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLELEGACY
+Value: EXE
+Data: 1/12/2012 2:21:16 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\blackwell1.exe - 18822697
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLELEGACY
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLELEGACY
+Value: LAUNCHCOMMAND
+Data: 1/12/2012 2:21:16 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\blackwell1.exe - 18822697
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLELEGACY
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+6/1/2012 7:20:45 PM - StartMenu\Programs\GOG.com\Blackwell Bundle\Episode 1 - The Blackwell Legacy\Episode 1 - The Blackwell Legacy.lnk - 2270
+1/12/2012 2:21:16 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\blackwell1.exe - 18822697
+6/1/2012 7:20:42 PM - StartMenu\Programs\GOG.com\Blackwell Bundle\Episode 1 - The Blackwell Legacy\Setup.lnk - 1336
+1/12/2012 2:21:16 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Legacy\winsetup.exe - 73755

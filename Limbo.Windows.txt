@@ -1,0 +1,96 @@
+Game Name: Limbo.Windows
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\LIMBO
+
+Save Path: 
+VirtualStore\Program Files (x86)\LIMBO\save_game
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 59
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 33
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 9:04:39 AM - VirtualStore\Program Files (x86)\LIMBO\save_game\savegame.txt - 112
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+12/5/2011 7:08:46 AM - ProgramFilesX86\LIMBO\limbo.exe - 5069824
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\limbo_boot.pkg - 19182387
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\limbo_runtime.pkg - 12586807
+12/5/2011 7:23:22 AM - ProgramFilesX86\LIMBO\settings.txt - 1061
+6/2/2012 8:53:55 AM - ProgramFilesX86\LIMBO\Uninstall.exe - 345867
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\145441027.ogg - 165610
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\217485067.wav - 3661504
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\288041556.ogg - 236317
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\351312017.ogg - 416505
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\36509593.ogg - 210046
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\386678257.ogg - 452419
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\410947880.ogg - 290886
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\54189208.ogg - 244048
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\574929999.ogg - 242468
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\58923886.ogg - 167897
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\66327209.wav - 1246768
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\714585267.ogg - 290252
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\721828432.wav - 3853720
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\744911790.ogg - 281471
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\77911966.ogg - 167400
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\932068112.ogg - 236834
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\Init.bnk - 14183
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\l_default.bnk - 47759242
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\data\audio\pc\l_intro.bnk - 462125
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\dot.png - 166
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\limbo_title.png - 79273
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_de.png - 3628
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_es.png - 4410
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_fr.png - 4763
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_it.png - 4753
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_ja.png - 5048
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_ko.png - 4131
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_pt.png - 4169
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_uk.png - 4213
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\loading_zh.png - 4260
+12/5/2011 7:08:48 AM - ProgramFilesX86\LIMBO\titledata\bootscreen\pc_logo.png - 77434
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 9:04:39 AM - VirtualStore\Program Files (x86)\LIMBO\save_game\savegame.txt - 112
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Key:HKEY_CURRENT_USER\Software\LIMBO
+Value: 
+Data: ProgramFilesX86\LIMBO
+
+Detected Start Menu Shortcuts: 
+6/2/2012 8:54:11 AM - StartMenu\Programs\LIMBO\LIMBO.lnk - 1003
+12/5/2011 7:08:46 AM - ProgramFilesX86\LIMBO\limbo.exe - 5069824
+6/2/2012 8:54:11 AM - StartMenu\Programs\LIMBO\Uninstall LIMBO.lnk - 1027
+6/2/2012 8:53:55 AM - ProgramFilesX86\LIMBO\Uninstall.exe - 345867

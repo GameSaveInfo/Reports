@@ -1,0 +1,837 @@
+Game Name: Bastion.Windows
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Bastion
+
+Save Path: 
+SavedGames\Bastion
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 59
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 33
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 9:34:47 AM - SavedGames\Bastion\activeProfile - 256
+6/2/2012 9:48:12 AM - SavedGames\Bastion\Profile1.profile - 4096
+6/2/2012 9:48:12 AM - SavedGames\Bastion\Profile1.sav - 1572868
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+12/20/2011 6:02:56 PM - ProgramFilesX86\Bastion\Bastion.exe - 3112960
+8/6/2011 11:40:08 AM - ProgramFilesX86\Bastion\dotNetFx35setup.exe - 2869264
+8/6/2011 11:40:08 AM - ProgramFilesX86\Bastion\dxwebsetup.exe - 292184
+8/6/2011 11:40:08 AM - ProgramFilesX86\Bastion\xnafx31_redist.msi - 7671808
+8/10/2011 9:45:50 PM - ProgramFilesX86\Bastion\Content\Attack01.pkg - 28758877
+8/10/2011 9:46:52 PM - ProgramFilesX86\Bastion\Content\Backgrounds.pkg - 15499229
+8/10/2011 9:48:02 PM - ProgramFilesX86\Bastion\Content\BigSupport.pkg - 15014965
+8/10/2011 9:48:14 PM - ProgramFilesX86\Bastion\Content\Bull.pkg - 1558849
+8/10/2011 9:48:40 PM - ProgramFilesX86\Bastion\Content\Cannon.pkg - 3428233
+8/10/2011 9:48:56 PM - ProgramFilesX86\Bastion\Content\Challenge01.pkg - 3681005
+8/10/2011 9:49:38 PM - ProgramFilesX86\Bastion\Content\Challenge02.pkg - 8359154
+8/10/2011 9:49:58 PM - ProgramFilesX86\Bastion\Content\Challenge03.pkg - 6629557
+8/10/2011 9:50:18 PM - ProgramFilesX86\Bastion\Content\Challenge04.pkg - 7021110
+8/10/2011 9:50:46 PM - ProgramFilesX86\Bastion\Content\Challenge05.pkg - 7923544
+8/10/2011 9:50:58 PM - ProgramFilesX86\Bastion\Content\Challenge06.pkg - 3747243
+8/10/2011 9:51:24 PM - ProgramFilesX86\Bastion\Content\Challenge07.pkg - 7436515
+8/10/2011 9:51:48 PM - ProgramFilesX86\Bastion\Content\Challenge08.pkg - 8873905
+8/10/2011 9:52:08 PM - ProgramFilesX86\Bastion\Content\Challenge09.pkg - 6872082
+8/10/2011 9:52:24 PM - ProgramFilesX86\Bastion\Content\Challenge10.pkg - 5922780
+8/10/2011 9:52:38 PM - ProgramFilesX86\Bastion\Content\Challenge11.pkg - 4696048
+8/10/2011 9:52:56 PM - ProgramFilesX86\Bastion\Content\Challenge12.pkg - 5354580
+8/10/2011 9:53:34 PM - ProgramFilesX86\Bastion\Content\Crossroads01.pkg - 16954628
+8/10/2011 9:53:58 PM - ProgramFilesX86\Bastion\Content\Crossroads02.pkg - 7780737
+8/10/2011 9:54:02 PM - ProgramFilesX86\Bastion\Content\Deepspawn.pkg - 653586
+8/10/2011 9:54:06 PM - ProgramFilesX86\Bastion\Content\Dev.pkg - 1453085
+8/10/2011 9:54:26 PM - ProgramFilesX86\Bastion\Content\End01.pkg - 5620294
+8/11/2011 9:04:58 PM - ProgramFilesX86\Bastion\Content\ESRB.pkg - 46801
+8/10/2011 9:54:48 PM - ProgramFilesX86\Bastion\Content\Falling01.pkg - 9049019
+8/10/2011 9:55:18 PM - ProgramFilesX86\Bastion\Content\FinalArena01.pkg - 12407513
+8/10/2011 9:55:48 PM - ProgramFilesX86\Bastion\Content\FinalChase01.pkg - 14198786
+8/10/2011 9:56:18 PM - ProgramFilesX86\Bastion\Content\FinalRam01.pkg - 14586788
+8/10/2011 9:57:48 PM - ProgramFilesX86\Bastion\Content\FinalZulf01.pkg - 24422122
+8/10/2011 9:57:58 PM - ProgramFilesX86\Bastion\Content\Firefly.pkg - 385687
+8/10/2011 9:58:06 PM - ProgramFilesX86\Bastion\Content\Flamethrower.pkg - 1055385
+8/10/2011 9:58:08 PM - ProgramFilesX86\Bastion\Content\Flamethrower_Nova.pkg - 188740
+8/10/2011 9:59:16 PM - ProgramFilesX86\Bastion\Content\FlyingSwarmer.pkg - 9574267
+8/10/2011 9:59:52 PM - ProgramFilesX86\Bastion\Content\Fortress01.pkg - 13155466
+8/10/2011 10:00:42 PM - ProgramFilesX86\Bastion\Content\Frog.pkg - 7668485
+8/10/2011 10:01:06 PM - ProgramFilesX86\Bastion\Content\Fx.pkg - 4172408
+8/10/2011 10:03:06 PM - ProgramFilesX86\Bastion\Content\GasfellaSquirt.pkg - 11961431
+8/10/2011 10:03:36 PM - ProgramFilesX86\Bastion\Content\Gauntlet01.pkg - 8069544
+8/10/2011 10:03:40 PM - ProgramFilesX86\Bastion\Content\Grenade.pkg - 400780
+12/23/2011 12:30:28 PM - ProgramFilesX86\Bastion\Content\GUI.pkg - 11224880
+8/10/2011 10:05:02 PM - ProgramFilesX86\Bastion\Content\Hammer.pkg - 7298304
+8/10/2011 10:05:04 PM - ProgramFilesX86\Bastion\Content\Hammer_Whirlwind.pkg - 235717
+8/10/2011 10:05:08 PM - ProgramFilesX86\Bastion\Content\HealthPotion.pkg - 214341
+8/10/2011 10:05:56 PM - ProgramFilesX86\Bastion\Content\Holdout01.pkg - 14181717
+8/10/2011 10:06:20 PM - ProgramFilesX86\Bastion\Content\Hunt01.pkg - 8358079
+8/10/2011 10:06:38 PM - ProgramFilesX86\Bastion\Content\Jump.pkg - 1293693
+8/11/2011 9:05:02 PM - ProgramFilesX86\Bastion\Content\Launch.pkg - 914412
+8/10/2011 10:07:36 PM - ProgramFilesX86\Bastion\Content\Longbow.pkg - 2656928
+8/10/2011 10:07:36 PM - ProgramFilesX86\Bastion\Content\Longbow_BouncingShot.pkg - 5
+8/10/2011 10:08:20 PM - ProgramFilesX86\Bastion\Content\Machete.pkg - 4658673
+8/10/2011 10:08:28 PM - ProgramFilesX86\Bastion\Content\Machete_Bladestorm.pkg - 2119461
+8/10/2011 10:08:36 PM - ProgramFilesX86\Bastion\Content\Mine.pkg - 777993
+8/10/2011 10:09:02 PM - ProgramFilesX86\Bastion\Content\Mole.pkg - 2984555
+8/10/2011 10:09:18 PM - ProgramFilesX86\Bastion\Content\Mortar.pkg - 2289328
+8/10/2011 10:09:24 PM - ProgramFilesX86\Bastion\Content\Mortar_SummonTurret.pkg - 1882341
+8/10/2011 10:09:58 PM - ProgramFilesX86\Bastion\Content\Moving01.pkg - 16640702
+8/10/2011 10:10:24 PM - ProgramFilesX86\Bastion\Content\Onslaught01.pkg - 11592639
+8/10/2011 10:10:42 PM - ProgramFilesX86\Bastion\Content\Onslaught02.pkg - 5340012
+8/10/2011 10:11:02 PM - ProgramFilesX86\Bastion\Content\Onslaught03.pkg - 5918146
+12/14/2011 9:27:30 AM - ProgramFilesX86\Bastion\Content\Onslaught04.pkg - 16368682
+8/10/2011 10:11:34 PM - ProgramFilesX86\Bastion\Content\Platforms01.pkg - 12730748
+8/10/2011 10:11:38 PM - ProgramFilesX86\Bastion\Content\PlayerAreaRoot.pkg - 1530793
+8/10/2011 10:13:54 PM - ProgramFilesX86\Bastion\Content\PlayerBase.pkg - 16402082
+8/10/2011 10:14:02 PM - ProgramFilesX86\Bastion\Content\PlayerDopplewalk.pkg - 2767509
+8/10/2011 10:14:04 PM - ProgramFilesX86\Bastion\Content\PlayerFullDeflection.pkg - 265717
+8/10/2011 10:14:22 PM - ProgramFilesX86\Bastion\Content\ProtoIntro01.pkg - 5850261
+8/10/2011 10:14:40 PM - ProgramFilesX86\Bastion\Content\ProtoIntro01a.pkg - 5528063
+8/10/2011 10:15:06 PM - ProgramFilesX86\Bastion\Content\ProtoIntro01b.pkg - 11632260
+8/10/2011 10:16:06 PM - ProgramFilesX86\Bastion\Content\ProtoTown03.pkg - 30164942
+8/10/2011 10:16:16 PM - ProgramFilesX86\Bastion\Content\RamPound.pkg - 2812417
+8/10/2011 10:16:54 PM - ProgramFilesX86\Bastion\Content\RamShieldBash.pkg - 4733569
+8/10/2011 10:17:04 PM - ProgramFilesX86\Bastion\Content\RamSwipe.pkg - 1767603
+8/10/2011 10:16:06 PM - ProgramFilesX86\Bastion\Content\Ram_Earthquake.pkg - 76457
+8/10/2011 10:17:20 PM - ProgramFilesX86\Bastion\Content\Repeater.pkg - 1985404
+8/10/2011 10:17:22 PM - ProgramFilesX86\Bastion\Content\Repeater_TwirlShot.pkg - 188629
+8/10/2011 10:17:58 PM - ProgramFilesX86\Bastion\Content\Rescue01.pkg - 13050010
+8/10/2011 10:18:40 PM - ProgramFilesX86\Bastion\Content\Revolvers.pkg - 3233262
+8/10/2011 10:19:14 PM - ProgramFilesX86\Bastion\Content\Rifle.pkg - 3181547
+8/10/2011 10:19:14 PM - ProgramFilesX86\Bastion\Content\Rifle_StickyBomb.pkg - 5
+8/10/2011 10:19:26 PM - ProgramFilesX86\Bastion\Content\Roll.pkg - 1293693
+8/10/2011 10:20:22 PM - ProgramFilesX86\Bastion\Content\Scenes01.pkg - 24435023
+8/10/2011 10:20:40 PM - ProgramFilesX86\Bastion\Content\Scenes02.pkg - 5350684
+8/10/2011 10:21:00 PM - ProgramFilesX86\Bastion\Content\Scorched01.pkg - 7095681
+8/10/2011 10:21:42 PM - ProgramFilesX86\Bastion\Content\ShieldBash.pkg - 2112555
+8/10/2011 10:21:20 PM - ProgramFilesX86\Bastion\Content\Shield_SummonSquirt.pkg - 560920
+8/10/2011 10:22:20 PM - ProgramFilesX86\Bastion\Content\Shotgun.pkg - 3172309
+8/10/2011 10:22:24 PM - ProgramFilesX86\Bastion\Content\Shotgun_BulletRain.pkg - 318250
+8/10/2011 10:22:54 PM - ProgramFilesX86\Bastion\Content\Shrine01.pkg - 14655561
+8/10/2011 10:23:30 PM - ProgramFilesX86\Bastion\Content\Siege01.pkg - 16129270
+8/10/2011 10:24:08 PM - ProgramFilesX86\Bastion\Content\Spear.pkg - 3284449
+8/10/2011 10:24:14 PM - ProgramFilesX86\Bastion\Content\Spear_Jump.pkg - 1318502
+8/10/2011 10:24:16 PM - ProgramFilesX86\Bastion\Content\Spear_Spin.pkg - 188733
+8/10/2011 10:24:24 PM - ProgramFilesX86\Bastion\Content\SummonPortalTurret.pkg - 981470
+8/10/2011 10:24:50 PM - ProgramFilesX86\Bastion\Content\Survivor01.pkg - 8566018
+8/10/2011 10:25:20 PM - ProgramFilesX86\Bastion\Content\Survivor02.pkg - 13101706
+8/10/2011 10:29:32 PM - ProgramFilesX86\Bastion\Content\Ura.pkg - 7654659
+8/10/2011 10:30:08 PM - ProgramFilesX86\Bastion\Content\Voyage01.pkg - 17528267
+12/5/2011 5:08:36 PM - ProgramFilesX86\Bastion\Content\Audio\Attack01WaveBank.xwb - 1670308
+12/5/2011 5:01:36 PM - ProgramFilesX86\Bastion\Content\Audio\BastionAudio.xgs - 1340
+12/5/2011 5:09:56 PM - ProgramFilesX86\Bastion\Content\Audio\BastionSoundBank.xsb - 148852
+12/5/2011 5:02:50 PM - ProgramFilesX86\Bastion\Content\Audio\BastionWaveBank.xwb - 22440120
+12/5/2011 5:06:44 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge01WaveBank.xwb - 638824
+12/5/2011 5:07:12 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge02WaveBank.xwb - 946972
+12/5/2011 5:07:14 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge03WaveBank.xwb - 951468
+12/5/2011 5:07:16 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge04WaveBank.xwb - 732580
+12/5/2011 5:09:04 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge05WaveBank.xwb - 772756
+12/5/2011 5:07:20 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge06WaveBank.xwb - 741480
+12/5/2011 5:07:22 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge07WaveBank.xwb - 879892
+12/5/2011 5:09:06 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge08WaveBank.xwb - 750400
+12/5/2011 5:09:08 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge09WaveBank.xwb - 839732
+12/5/2011 5:09:10 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge10WaveBank.xwb - 611980
+12/5/2011 5:09:12 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge11WaveBank.xwb - 696780
+12/5/2011 5:09:16 PM - ProgramFilesX86\Bastion\Content\Audio\Challenge12WaveBank.xwb - 1188040
+12/5/2011 5:06:42 PM - ProgramFilesX86\Bastion\Content\Audio\Crossroads01WaveBank.xwb - 2639392
+12/5/2011 5:07:52 PM - ProgramFilesX86\Bastion\Content\Audio\Crossroads02WaveBank.xwb - 2639628
+12/5/2011 5:09:46 PM - ProgramFilesX86\Bastion\Content\Audio\End01WaveBank.xwb - 3947252
+12/5/2011 5:05:46 PM - ProgramFilesX86\Bastion\Content\Audio\Falling01WaveBank.xwb - 2367272
+12/5/2011 5:09:20 PM - ProgramFilesX86\Bastion\Content\Audio\FinalArena01WaveBank.xwb - 1313476
+12/5/2011 5:09:24 PM - ProgramFilesX86\Bastion\Content\Audio\FinalChase01WaveBank.xwb - 1264388
+12/5/2011 5:09:30 PM - ProgramFilesX86\Bastion\Content\Audio\FinalRam01WaveBank.xwb - 1277444
+12/5/2011 5:09:34 PM - ProgramFilesX86\Bastion\Content\Audio\FinalZulf01WaveBank.xwb - 1393424
+12/5/2011 5:08:26 PM - ProgramFilesX86\Bastion\Content\Audio\Fortress01WaveBank.xwb - 1911576
+12/5/2011 5:08:20 PM - ProgramFilesX86\Bastion\Content\Audio\Gauntlet01WaveBank.xwb - 2889552
+12/5/2011 5:06:30 PM - ProgramFilesX86\Bastion\Content\Audio\Holdout01WaveBank.xwb - 1942928
+12/5/2011 5:07:46 PM - ProgramFilesX86\Bastion\Content\Audio\Hunt01WaveBank.xwb - 2773716
+12/5/2011 5:07:10 PM - ProgramFilesX86\Bastion\Content\Audio\Moving01WaveBank.xwb - 3095460
+12/5/2011 5:07:28 PM - ProgramFilesX86\Bastion\Content\Audio\Onslaught01WaveBank.xwb - 2322116
+12/5/2011 5:08:56 PM - ProgramFilesX86\Bastion\Content\Audio\Onslaught02WaveBank.xwb - 2406680
+12/5/2011 5:09:02 PM - ProgramFilesX86\Bastion\Content\Audio\Onslaught03WaveBank.xwb - 2406636
+12/5/2011 5:09:56 PM - ProgramFilesX86\Bastion\Content\Audio\Onslaught04WaveBank.xwb - 4259228
+12/5/2011 5:08:12 PM - ProgramFilesX86\Bastion\Content\Audio\Platforms01WaveBank.xwb - 2853900
+12/5/2011 5:06:50 PM - ProgramFilesX86\Bastion\Content\Audio\ProtoIntro01aWaveBank.xwb - 871096
+12/5/2011 5:06:48 PM - ProgramFilesX86\Bastion\Content\Audio\ProtoIntro01WaveBank.xwb - 1540816
+12/5/2011 5:06:24 PM - ProgramFilesX86\Bastion\Content\Audio\ProtoTown03WaveBank.xwb - 14526664
+12/5/2011 5:08:50 PM - ProgramFilesX86\Bastion\Content\Audio\Rescue01WaveBank.xwb - 3144220
+12/5/2011 5:08:04 PM - ProgramFilesX86\Bastion\Content\Audio\Scenes01WaveBank.xwb - 2429404
+12/5/2011 5:07:58 PM - ProgramFilesX86\Bastion\Content\Audio\Scenes02WaveBank.xwb - 1616688
+12/5/2011 5:08:32 PM - ProgramFilesX86\Bastion\Content\Audio\Scorched01WaveBank.xwb - 2317932
+12/5/2011 5:07:34 PM - ProgramFilesX86\Bastion\Content\Audio\Shrine01WaveBank.xwb - 1938404
+12/5/2011 5:07:00 PM - ProgramFilesX86\Bastion\Content\Audio\Siege01WaveBank.xwb - 3389844
+12/5/2011 5:05:40 PM - ProgramFilesX86\Bastion\Content\Audio\StreamingWaveBank.xwb - 88139776
+12/5/2011 5:06:34 PM - ProgramFilesX86\Bastion\Content\Audio\Survivor01WaveBank.xwb - 1652724
+12/5/2011 5:07:38 PM - ProgramFilesX86\Bastion\Content\Audio\Survivor02WaveBank.xwb - 826444
+12/5/2011 5:08:42 PM - ProgramFilesX86\Bastion\Content\Audio\Voyage01WaveBank.xwb - 2286512
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\BloomCombine.xnb - 1254
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\BloomExtract.xnb - 1090
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Clouds.xnb - 1330
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\ColorLerp.xnb - 538
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Contrast.xnb - 726
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\ddGodRays.xnb - 4374
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Desaturate.xnb - 594
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Disappear.xnb - 974
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\GaussianBlur.xnb - 1910
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\JaggedEdge.xnb - 414
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Light.xnb - 582
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\LightSource.xnb - 818
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\MultiplyAndLerp.xnb - 710
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\MultiplyAndSaturate.xnb - 666
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\normalmap.xnb - 1134
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Outline.xnb - 874
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\PaintSaturate.xnb - 1098
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Refract.xnb - 1010
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Saturate.xnb - 602
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\SceneFade.xnb - 1186
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Shroud.xnb - 1262
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\Terrain.xnb - 2882
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\TerrainReveal.xnb - 2694
+8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\TerrainTileReveal.xnb - 1106
+8/22/2011 7:12:56 PM - ProgramFilesX86\Bastion\Content\Fonts\GameConsole.xnb - 13283
+9/1/2011 11:39:32 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValley22.xnb - 582416
+9/1/2011 11:40:14 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBold22.xnb - 582416
+9/1/2011 11:41:06 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBold26.xnb - 1106704
+9/1/2011 11:42:00 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBold28.xnb - 1106704
+9/1/2011 11:42:56 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBold30.xnb - 1106704
+9/1/2011 11:44:08 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBold36.xnb - 2155280
+9/1/2011 11:45:20 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBold40.xnb - 2155280
+9/1/2011 11:46:50 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBold48.xnb - 2155280
+9/1/2011 11:48:38 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBold56.xnb - 4252432
+9/1/2011 11:49:30 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBoldItalic28.xnb - 1106704
+9/1/2011 11:50:04 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBoldSpaced16.xnb - 582416
+9/1/2011 11:50:48 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyBoldSpaced22.xnb - 582416
+9/1/2011 11:52:10 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleyItalics48.xnb - 4252432
+9/1/2011 11:52:50 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValleySpaced22.xnb - 582416
+9/1/2011 11:53:22 AM - ProgramFilesX86\Bastion\Content\Fonts\all\MonospaceTypewriterBold14.xnb - 320272
+9/1/2011 11:54:26 AM - ProgramFilesX86\Bastion\Content\Fonts\all\MonospaceTypewriterBold30.xnb - 1106704
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValley22.xnb - 38736
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBold22.xnb - 71504
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBold26.xnb - 71504
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBold28.xnb - 71504
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBold30.xnb - 71504
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBold36.xnb - 137130
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBold40.xnb - 137040
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBold48.xnb - 268112
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBold56.xnb - 268112
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBoldItalic28.xnb - 71504
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBoldSpaced16.xnb - 38736
+12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyBoldSpaced22.xnb - 71504
+12/13/2011 10:30:12 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleyItalics48.xnb - 268112
+12/13/2011 10:30:12 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValleySpaced22.xnb - 38736
+12/13/2011 10:30:12 AM - ProgramFilesX86\Bastion\Content\Fonts\de\MonospaceTypewriterBold14.xnb - 38736
+12/13/2011 10:30:12 AM - ProgramFilesX86\Bastion\Content\Fonts\de\MonospaceTypewriterBold30.xnb - 137040
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValley22.xnb - 38549
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBold22.xnb - 71317
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBold26.xnb - 71317
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBold28.xnb - 71317
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBold30.xnb - 71317
+12/20/2011 6:02:16 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBold36.xnb - 136853
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBold40.xnb - 136853
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBold48.xnb - 267925
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBold56.xnb - 267925
+8/22/2011 7:12:56 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBoldItalic28.xnb - 70627
+12/5/2011 4:58:48 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBoldSpaced16.xnb - 38549
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyBoldSpaced22.xnb - 71317
+8/22/2011 7:12:56 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleyItalics48.xnb - 267235
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValleySpaced22.xnb - 38549
+12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\MonospaceTypewriterBold14.xnb - 38549
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\en\MonospaceTypewriterBold30.xnb - 136853
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValley22.xnb - 38920
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBold22.xnb - 71688
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBold26.xnb - 71688
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBold28.xnb - 71688
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBold30.xnb - 137224
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBold36.xnb - 137498
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBold40.xnb - 137224
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBold48.xnb - 268296
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBold56.xnb - 268296
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBoldItalic28.xnb - 71688
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBoldSpaced16.xnb - 38920
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyBoldSpaced22.xnb - 71688
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleyItalics48.xnb - 268296
+12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValleySpaced22.xnb - 38920
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\es\MonospaceTypewriterBold14.xnb - 38920
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\es\MonospaceTypewriterBold30.xnb - 137224
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValley22.xnb - 72193
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBold22.xnb - 72193
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBold26.xnb - 72193
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBold28.xnb - 72193
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBold30.xnb - 137729
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBold36.xnb - 137865
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBold40.xnb - 137729
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBold48.xnb - 268801
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBold56.xnb - 268801
+12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBoldItalic28.xnb - 137729
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBoldSpaced16.xnb - 39425
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyBoldSpaced22.xnb - 72193
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleyItalics48.xnb - 268801
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValleySpaced22.xnb - 72193
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\MonospaceTypewriterBold14.xnb - 39425
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\MonospaceTypewriterBold30.xnb - 137729
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValley22.xnb - 71781
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBold22.xnb - 71781
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBold26.xnb - 71781
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBold28.xnb - 71781
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBold30.xnb - 137317
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBold36.xnb - 137407
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBold40.xnb - 137317
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBold48.xnb - 268389
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBold56.xnb - 268389
+12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBoldItalic28.xnb - 71781
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBoldSpaced16.xnb - 39013
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyBoldSpaced22.xnb - 71781
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleyItalics48.xnb - 268389
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValleySpaced22.xnb - 71781
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\it\MonospaceTypewriterBold14.xnb - 39013
+12/5/2011 4:59:00 PM - ProgramFilesX86\Bastion\Content\Fonts\it\MonospaceTypewriterBold30.xnb - 137317
+8/10/2011 11:46:02 PM - ProgramFilesX86\Bastion\Content\Game\Conversations.xml - 16893
+4/21/2011 4:10:14 AM - ProgramFilesX86\Bastion\Content\Game\FlyerSettings.xml - 110549
+8/10/2011 11:46:02 PM - ProgramFilesX86\Bastion\Content\Game\Generators.xml - 20709
+10/23/2011 1:33:16 PM - ProgramFilesX86\Bastion\Content\Game\Leaderboards.xml - 1885
+4/7/2011 2:27:18 AM - ProgramFilesX86\Bastion\Content\Game\MapLayouts.xml - 10528
+10/23/2011 1:33:16 PM - ProgramFilesX86\Bastion\Content\Game\Players.xml - 3689
+8/9/2011 10:43:30 PM - ProgramFilesX86\Bastion\Content\Game\TerrainTiles.xml - 66876
+8/10/2011 6:13:32 PM - ProgramFilesX86\Bastion\Content\Game\Animations\Animations.xml - 26275
+8/10/2011 6:13:32 PM - ProgramFilesX86\Bastion\Content\Game\Animations\EnemyAnimations.xml - 113211
+8/5/2011 10:03:48 AM - ProgramFilesX86\Bastion\Content\Game\Animations\FxAnimations.xml - 83486
+4/27/2011 2:21:24 PM - ProgramFilesX86\Bastion\Content\Game\Animations\GeneratorAnimations.xml - 24979
+4/27/2011 2:21:24 PM - ProgramFilesX86\Bastion\Content\Game\Animations\LaunchAnimations.xml - 716
+4/21/2011 4:10:10 AM - ProgramFilesX86\Bastion\Content\Game\Animations\ObstacleAnimations.xml - 32756
+4/29/2011 3:07:34 AM - ProgramFilesX86\Bastion\Content\Game\Animations\PlayerAnimations.xml - 158488
+4/14/2011 2:41:24 AM - ProgramFilesX86\Bastion\Content\Game\Loot\EnemyLoot.xml - 18257
+4/27/2011 4:47:08 PM - ProgramFilesX86\Bastion\Content\Game\Loot\MiscLoot.xml - 5780
+2/15/2011 6:01:28 PM - ProgramFilesX86\Bastion\Content\Game\Loot\MoneyLoot.xml - 1915
+2/15/2011 6:01:28 PM - ProgramFilesX86\Bastion\Content\Game\Loot\StructureSeeds.xml - 1265
+2/15/2011 6:01:28 PM - ProgramFilesX86\Bastion\Content\Game\Loot\UpgradeLoot.xml - 1841
+8/5/2011 7:42:26 AM - ProgramFilesX86\Bastion\Content\Game\Loot\WeaponKits.xml - 12387
+8/10/2011 11:46:02 PM - ProgramFilesX86\Bastion\Content\Game\Loot\WeaponSeeds.xml - 8917
+3/17/2011 11:45:48 PM - ProgramFilesX86\Bastion\Content\Game\Obstacles\1_DevObstacles.xml - 8769
+4/17/2011 1:05:22 AM - ProgramFilesX86\Bastion\Content\Game\Obstacles\CityIndoorObstacles.xml - 6000
+12/16/2011 1:57:36 PM - ProgramFilesX86\Bastion\Content\Game\Obstacles\CityObstacles.xml - 42928
+2/15/2011 6:01:26 PM - ProgramFilesX86\Bastion\Content\Game\Obstacles\Decals.xml - 1981
+4/25/2011 3:20:50 PM - ProgramFilesX86\Bastion\Content\Game\Obstacles\EdgeObstacles.xml - 10877
+10/23/2011 1:33:14 PM - ProgramFilesX86\Bastion\Content\Game\Obstacles\GladeObstacles.xml - 1139
+4/29/2011 4:08:16 AM - ProgramFilesX86\Bastion\Content\Game\Obstacles\LushObstacles.xml - 6903
+4/17/2011 1:05:22 AM - ProgramFilesX86\Bastion\Content\Game\Obstacles\MiscObstacles.xml - 2277
+8/5/2011 7:42:24 AM - ProgramFilesX86\Bastion\Content\Game\Obstacles\NPCs.xml - 7901
+12/5/2011 4:11:50 PM - ProgramFilesX86\Bastion\Content\Game\Obstacles\Portals.xml - 5160
+4/25/2011 3:20:50 PM - ProgramFilesX86\Bastion\Content\Game\Obstacles\WildObstacles.xml - 36816
+12/13/2011 10:24:44 AM - ProgramFilesX86\Bastion\Content\Game\Text\HelpText.de.xml - 203903
+10/23/2011 1:33:14 PM - ProgramFilesX86\Bastion\Content\Game\Text\HelpText.en.xml - 189943
+10/23/2011 1:33:14 PM - ProgramFilesX86\Bastion\Content\Game\Text\HelpText.es.xml - 203489
+10/23/2011 1:33:14 PM - ProgramFilesX86\Bastion\Content\Game\Text\HelpText.fr.xml - 200713
+10/23/2011 1:33:14 PM - ProgramFilesX86\Bastion\Content\Game\Text\HelpText.it.xml - 205518
+8/13/2011 12:15:46 AM - ProgramFilesX86\Bastion\Content\Game\Text\LaunchText.xml - 3141
+4/27/2011 4:47:08 PM - ProgramFilesX86\Bastion\Content\Game\Units\Attackers.xml - 3727
+4/22/2011 12:58:26 AM - ProgramFilesX86\Bastion\Content\Game\Units\BigSupport.xml - 4446
+4/22/2011 12:58:26 AM - ProgramFilesX86\Bastion\Content\Game\Units\Bull.xml - 2906
+4/21/2011 4:10:12 AM - ProgramFilesX86\Bastion\Content\Game\Units\Deepspawn.xml - 2425
+12/16/2011 1:57:10 PM - ProgramFilesX86\Bastion\Content\Game\Units\Enemies.xml - 5473
+8/5/2011 7:42:26 AM - ProgramFilesX86\Bastion\Content\Game\Units\Firefly.xml - 4971
+4/22/2011 12:58:26 AM - ProgramFilesX86\Bastion\Content\Game\Units\FlyingSwarmer.xml - 8102
+4/20/2011 3:05:58 AM - ProgramFilesX86\Bastion\Content\Game\Units\Frog.xml - 2455
+4/21/2011 4:10:12 AM - ProgramFilesX86\Bastion\Content\Game\Units\HeavyMelee.xml - 8351
+4/27/2011 4:47:08 PM - ProgramFilesX86\Bastion\Content\Game\Units\Lasso.xml - 4529
+8/5/2011 7:42:26 AM - ProgramFilesX86\Bastion\Content\Game\Units\LightMelee.xml - 10843
+4/22/2011 12:58:26 AM - ProgramFilesX86\Bastion\Content\Game\Units\Mole.xml - 3386
+4/27/2011 4:47:08 PM - ProgramFilesX86\Bastion\Content\Game\Units\Mudgator.xml - 5256
+3/22/2011 12:59:10 PM - ProgramFilesX86\Bastion\Content\Game\Units\Mushrooms.xml - 2575
+8/13/2011 11:42:52 AM - ProgramFilesX86\Bastion\Content\Game\Units\PlayerUnits.xml - 12970
+4/21/2011 4:10:12 AM - ProgramFilesX86\Bastion\Content\Game\Units\Spineweed.xml - 2919
+4/21/2011 4:10:12 AM - ProgramFilesX86\Bastion\Content\Game\Units\Stinkweed.xml - 2886
+10/23/2011 1:33:16 PM - ProgramFilesX86\Bastion\Content\Game\Units\Turret.xml - 5735
+8/9/2011 10:43:28 PM - ProgramFilesX86\Bastion\Content\Game\Units\Turtle.xml - 3703
+10/23/2011 1:33:16 PM - ProgramFilesX86\Bastion\Content\Game\Units\Ura.xml - 10064
+8/9/2011 10:43:30 PM - ProgramFilesX86\Bastion\Content\Game\Weapons\EnemyWeapons.xml - 82997
+8/14/2011 6:43:34 AM - ProgramFilesX86\Bastion\Content\Game\Weapons\MeleeWeapons.xml - 38480
+4/16/2011 3:11:46 AM - ProgramFilesX86\Bastion\Content\Game\Weapons\MoveWeapons.xml - 6485
+8/9/2011 10:43:30 PM - ProgramFilesX86\Bastion\Content\Game\Weapons\RangedWeapons.xml - 30651
+8/13/2011 12:15:46 AM - ProgramFilesX86\Bastion\Content\Game\Weapons\SpecialWeapons.xml - 51897
+4/29/2011 4:08:16 AM - ProgramFilesX86\Bastion\Content\Game\Weapons\Weapons.xml - 19639
+8/9/2011 10:43:12 PM - ProgramFilesX86\Bastion\Content\Maps\Attack01.map - 242879
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Attack01.prop - 1020
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge01.map - 57661
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge01.prop - 953
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge02.map - 88725
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge02.prop - 951
+8/9/2011 10:43:12 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge03.map - 130678
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge03.prop - 969
+8/11/2011 7:43:14 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge04.map - 74098
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge04.prop - 968
+4/29/2011 4:08:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge05.map - 88223
+4/29/2011 4:08:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge05.prop - 914
+5/11/2011 6:24:44 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge06.map - 239687
+5/11/2011 6:24:44 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge06.prop - 970
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge07.map - 83144
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge07.prop - 969
+4/25/2011 3:20:42 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge08.map - 227055
+4/9/2011 2:02:48 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge08.prop - 899
+4/16/2011 3:11:24 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge09.map - 106711
+4/9/2011 2:02:48 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge09.prop - 892
+8/10/2011 6:13:22 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge10.map - 106023
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge10.prop - 953
+4/25/2011 3:20:42 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge11.map - 108979
+4/9/2011 2:02:48 AM - ProgramFilesX86\Bastion\Content\Maps\Challenge11.prop - 875
+4/27/2011 9:56:28 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge12.map - 190586
+4/27/2011 9:56:28 PM - ProgramFilesX86\Bastion\Content\Maps\Challenge12.prop - 935
+8/9/2011 10:43:14 PM - ProgramFilesX86\Bastion\Content\Maps\Crossroads01.map - 319292
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Crossroads01.prop - 956
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Crossroads02.map - 554059
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Crossroads02.prop - 975
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\End01.map - 43504
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\End01.prop - 1127
+8/11/2011 11:18:06 PM - ProgramFilesX86\Bastion\Content\Maps\Falling01.map - 599563
+5/11/2011 6:24:44 PM - ProgramFilesX86\Bastion\Content\Maps\Falling01.prop - 955
+5/11/2011 6:24:44 PM - ProgramFilesX86\Bastion\Content\Maps\FinalArena01.map - 414517
+5/11/2011 6:24:44 PM - ProgramFilesX86\Bastion\Content\Maps\FinalArena01.prop - 955
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\FinalChase01.map - 602114
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\FinalChase01.prop - 959
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\FinalRam01.map - 333233
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\FinalRam01.prop - 961
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\FinalZulf01.map - 687164
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\FinalZulf01.prop - 959
+8/18/2011 9:13:32 PM - ProgramFilesX86\Bastion\Content\Maps\Fortress01.map - 527864
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Fortress01.prop - 996
+8/18/2011 9:13:32 PM - ProgramFilesX86\Bastion\Content\Maps\Gauntlet01.map - 813814
+8/18/2011 9:13:32 PM - ProgramFilesX86\Bastion\Content\Maps\Gauntlet01.prop - 1001
+4/25/2011 3:20:42 PM - ProgramFilesX86\Bastion\Content\Maps\Holdout01.map - 231794
+4/25/2011 3:20:42 PM - ProgramFilesX86\Bastion\Content\Maps\Holdout01.prop - 918
+8/17/2011 6:51:54 PM - ProgramFilesX86\Bastion\Content\Maps\Hunt01.map - 516976
+5/11/2011 6:24:44 PM - ProgramFilesX86\Bastion\Content\Maps\Hunt01.prop - 1000
+8/9/2011 10:43:12 PM - ProgramFilesX86\Bastion\Content\Maps\Moving01.map - 455525
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Moving01.prop - 952
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\Onslaught01.map - 147115
+5/5/2011 4:42:10 PM - ProgramFilesX86\Bastion\Content\Maps\Onslaught01.prop - 1001
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\Onslaught02.map - 105918
+8/16/2011 10:50:18 PM - ProgramFilesX86\Bastion\Content\Maps\Onslaught02.prop - 1144
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\Onslaught03.map - 136383
+8/23/2011 6:20:56 PM - ProgramFilesX86\Bastion\Content\Maps\Onslaught03.prop - 983
+11/14/2011 3:15:56 PM - ProgramFilesX86\Bastion\Content\Maps\Onslaught04.map - 168025
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\Onslaught04.prop - 1152
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Platforms01.map - 480788
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Platforms01.prop - 985
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\ProtoIntro01.map - 352098
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\ProtoIntro01.prop - 1162
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\ProtoIntro01a.map - 232360
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\ProtoIntro01a.prop - 1171
+12/5/2011 4:11:50 PM - ProgramFilesX86\Bastion\Content\Maps\ProtoIntro01b.map - 653142
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\ProtoIntro01b.prop - 1200
+11/29/2011 4:31:28 PM - ProgramFilesX86\Bastion\Content\Maps\ProtoTown03.map - 446844
+11/29/2011 4:31:28 PM - ProgramFilesX86\Bastion\Content\Maps\ProtoTown03.prop - 4646
+8/18/2011 9:13:32 PM - ProgramFilesX86\Bastion\Content\Maps\Rescue01.map - 815154
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Rescue01.prop - 971
+8/11/2011 7:43:14 PM - ProgramFilesX86\Bastion\Content\Maps\Scenes01.map - 683513
+8/9/2011 10:43:14 PM - ProgramFilesX86\Bastion\Content\Maps\Scenes01.prop - 956
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Scenes02.map - 335414
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Scenes02.prop - 1054
+8/9/2011 10:43:14 PM - ProgramFilesX86\Bastion\Content\Maps\Scorched01.map - 466745
+8/9/2011 10:43:12 PM - ProgramFilesX86\Bastion\Content\Maps\Scorched01.prop - 984
+4/22/2011 12:58:20 AM - ProgramFilesX86\Bastion\Content\Maps\Shrine01.map - 156844
+4/9/2011 2:02:48 AM - ProgramFilesX86\Bastion\Content\Maps\Shrine01.prop - 991
+5/5/2011 4:42:10 PM - ProgramFilesX86\Bastion\Content\Maps\Siege01.map - 913940
+5/5/2011 4:42:10 PM - ProgramFilesX86\Bastion\Content\Maps\Siege01.prop - 955
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Survivor01.map - 443281
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Survivor01.prop - 950
+10/23/2011 1:33:08 PM - ProgramFilesX86\Bastion\Content\Maps\Survivor02.map - 515766
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Survivor02.prop - 950
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Voyage01.map - 709343
+8/5/2011 7:42:16 AM - ProgramFilesX86\Bastion\Content\Maps\Voyage01.prop - 960
+2/15/2011 6:01:22 PM - ProgramFilesX86\Bastion\Content\Particles\laserExplosion.xml - 1652
+2/15/2011 6:01:22 PM - ProgramFilesX86\Bastion\Content\Particles\mineExplosion.xml - 2997
+2/15/2011 6:01:22 PM - ProgramFilesX86\Bastion\Content\Particles\rocketExplosion.xml - 3003
+2/15/2011 6:01:22 PM - ProgramFilesX86\Bastion\Content\Particles\rocketTrail.xml - 4372
+2/15/2011 6:01:22 PM - ProgramFilesX86\Bastion\Content\Particles\shipExplosion.xml - 5732
+2/15/2011 6:01:22 PM - ProgramFilesX86\Bastion\Content\Particles\shipSpawn.xml - 2991
+2/15/2011 6:01:22 PM - ProgramFilesX86\Bastion\Content\Particles\SmelterSparks.xml - 2872
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Attack01_DE.csv - 2405
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge01_DE.csv - 1232
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge02_DE.csv - 2071
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge03_DE.csv - 1833
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge04_DE.csv - 1840
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge05_DE.csv - 1680
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge06_DE.csv - 1660
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge07_DE.csv - 1849
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge08_DE.csv - 1610
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge09_DE.csv - 1950
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge10_DE.csv - 1460
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge11_DE.csv - 1525
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Challenge12_DE.csv - 2369
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Crossroads01_DE.csv - 6120
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Crossroads02_DE.csv - 4481
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Dynamic_DE.csv - 983
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\End01_DE.csv - 4840
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Falling01_DE.csv - 3354
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\FinalArena01_DE.csv - 2183
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\FinalChase01_DE.csv - 2009
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\FinalRam01_DE.csv - 1728
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\FinalZulf01_DE.csv - 2096
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Fortress01_DE.csv - 2556
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Gauntlet01_DE.csv - 4042
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Holdout01_DE.csv - 2865
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Hunt01_DE.csv - 4330
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\IntroPickups_DE.csv - 855
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Menu_DE.csv - 15798
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Moving01_DE.csv - 4852
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\OldLines01_DE.csv - 5526
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\OldLines02_DE.csv - 1729
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Onslaught01_DE.csv - 3657
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Onslaught02_DE.csv - 3805
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Onslaught03_DE.csv - 3751
+12/15/2011 4:38:50 PM - ProgramFilesX86\Bastion\Content\Subtitles\de\Onslaught04_DE.csv - 6082
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Platforms01_DE.csv - 4411
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\ProtoIntro01_DE.csv - 1656
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Rescue01_DE.csv - 4207
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Scenes01_DE.csv - 2303
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Scenes02_DE.csv - 2062
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Scorched01_DE.csv - 3747
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Shrine01_DE.csv - 3454
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Siege01_DE.csv - 5033
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Survivor01_DE.csv - 2968
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Survivor02_DE.csv - 2301
+10/23/2011 1:33:18 PM - ProgramFilesX86\Bastion\Content\Subtitles\de\Town_DE.csv - 21642
+8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Voyage01_DE.csv - 3154
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Attack01.csv - 2284
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge01.csv - 894
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge02.csv - 1588
+8/15/2011 11:09:54 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge03.csv - 1566
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge04.csv - 1326
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge05.csv - 1253
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge06.csv - 1403
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge07.csv - 1604
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge08.csv - 1232
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge09.csv - 1435
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge10.csv - 1108
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge11.csv - 1225
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Challenge12.csv - 2117
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Crossroads01.csv - 6172
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Crossroads02.csv - 3945
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Dynamic.csv - 553
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\End01.csv - 4349
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Falling01.csv - 3105
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\FinalArena01.csv - 2029
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\FinalChase01.csv - 1878
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\FinalRam01.csv - 1604
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\FinalZulf01.csv - 1935
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Fortress01.csv - 2504
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Gauntlet01.csv - 3814
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Holdout01.csv - 2584
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Hunt01.csv - 3677
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\IntroPickups.csv - 650
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Menu.csv - 16561
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Moving01.csv - 4082
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\OldLines01.csv - 5450
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\OldLines02.csv - 21706
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Onslaught01.csv - 3653
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Onslaught02.csv - 3305
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Onslaught03.csv - 3568
+12/15/2011 4:38:50 PM - ProgramFilesX86\Bastion\Content\Subtitles\en\Onslaught04.csv - 5045
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Platforms01.csv - 3855
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\ProtoIntro01.csv - 1889
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Rescue01.csv - 4117
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Scenes01.csv - 2109
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Scenes02.csv - 1979
+12/13/2011 10:22:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Scorched01.csv - 3593
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Shrine01.csv - 2748
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Siege01.csv - 4935
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Survivor01.csv - 2690
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Survivor02.csv - 1855
+12/15/2011 4:38:52 PM - ProgramFilesX86\Bastion\Content\Subtitles\en\Town.csv - 20749
+8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Voyage01.csv - 2921
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Attack01_ES.csv - 2391
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge01_ES.csv - 1355
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge02_ES.csv - 2132
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge03_ES.csv - 2037
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge04_ES.csv - 1785
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge05_ES.csv - 1730
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge06_ES.csv - 2000
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge07_ES.csv - 2161
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge08_ES.csv - 1753
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge09_ES.csv - 2033
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge10_ES.csv - 1512
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge11_ES.csv - 1715
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Challenge12_ES.csv - 2555
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Crossroads01_ES.csv - 7068
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Crossroads02_ES.csv - 4590
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Dynamic_ES.csv - 1078
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\End01_ES.csv - 4699
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Falling01_ES.csv - 3625
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\FinalArena01_ES.csv - 2154
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\FinalChase01_ES.csv - 1948
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\FinalRam01_ES.csv - 1669
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\FinalZulf01_ES.csv - 1940
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Fortress01_ES.csv - 2761
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Gauntlet01_ES.csv - 4144
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Holdout01_ES.csv - 3164
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Hunt01_ES.csv - 4252
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\IntroPickups_ES.csv - 838
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Menu_ES.csv - 18821
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Moving01_ES.csv - 4725
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\OldLines01_ES.csv - 6032
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\OldLines02_ES.csv - 2063
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Onslaught01_ES.csv - 4072
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Onslaught02_ES.csv - 3747
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Onslaught03_ES.csv - 4054
+12/15/2011 4:38:50 PM - ProgramFilesX86\Bastion\Content\Subtitles\es\Onslaught04_ES.csv - 5704
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Platforms01_ES.csv - 4363
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\ProtoIntro01_ES.csv - 1841
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Rescue01_ES.csv - 4390
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Scenes01_ES.csv - 2241
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Scenes02_ES.csv - 2182
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Scorched01_ES.csv - 3798
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Shrine01_ES.csv - 3437
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Siege01_ES.csv - 5770
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Survivor01_ES.csv - 3205
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Survivor02_ES.csv - 2342
+10/23/2011 1:33:18 PM - ProgramFilesX86\Bastion\Content\Subtitles\es\Town_ES.csv - 23795
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Voyage01_ES.csv - 3112
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Attack01_FR.csv - 2463
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge01_FR.csv - 1262
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge02_FR.csv - 2037
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge03_FR.csv - 1961
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge04_FR.csv - 1798
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge05_FR.csv - 1705
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge06_FR.csv - 1873
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge07_FR.csv - 2076
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge08_FR.csv - 1714
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge09_FR.csv - 1967
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge10_FR.csv - 1530
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge11_FR.csv - 1666
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Challenge12_FR.csv - 2502
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Crossroads01_FR.csv - 6309
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Crossroads02_FR.csv - 4345
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Dynamic_FR.csv - 978
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\End01_FR.csv - 4590
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Falling01_FR.csv - 3527
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\FinalArena01_FR.csv - 2174
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\FinalChase01_FR.csv - 1953
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\FinalRam01_FR.csv - 1731
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\FinalZulf01_FR.csv - 2077
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Fortress01_FR.csv - 2659
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Gauntlet01_FR.csv - 4253
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Holdout01_FR.csv - 3078
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Hunt01_FR.csv - 4195
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\IntroPickups_FR.csv - 815
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Menu_FR.csv - 17701
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Moving01_FR.csv - 4619
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\OldLines01_FR.csv - 5921
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\OldLines02_FR.csv - 1991
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Onslaught01_FR.csv - 4079
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Onslaught02_FR.csv - 3904
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Onslaught03_FR.csv - 4026
+12/15/2011 4:38:50 PM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Onslaught04_FR.csv - 5478
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Platforms01_FR.csv - 4297
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\ProtoIntro01_FR.csv - 1763
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Rescue01_FR.csv - 4403
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Scenes01_FR.csv - 2272
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Scenes02_FR.csv - 1992
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Scorched01_FR.csv - 3833
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Shrine01_FR.csv - 3299
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Siege01_FR.csv - 5412
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Survivor01_FR.csv - 3134
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Survivor02_FR.csv - 2234
+10/23/2011 1:33:18 PM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Town_FR.csv - 23405
+8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Voyage01_FR.csv - 3367
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Attack01_IT.csv - 2422
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge01_IT.csv - 1272
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge02_IT.csv - 2016
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge03_IT.csv - 1962
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge04_IT.csv - 1817
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge05_IT.csv - 1692
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge06_IT.csv - 1896
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge07_IT.csv - 2086
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge08_IT.csv - 1680
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge09_IT.csv - 1924
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge10_IT.csv - 1477
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge11_IT.csv - 1616
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Challenge12_IT.csv - 2785
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Crossroads01_IT.csv - 6598
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Crossroads02_IT.csv - 4814
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Dynamic_IT.csv - 1024
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\End01_IT.csv - 4539
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Falling01_IT.csv - 3430
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\FinalArena01_IT.csv - 2098
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\FinalChase01_IT.csv - 1960
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\FinalRam01_IT.csv - 1763
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\FinalZulf01_IT.csv - 2005
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Fortress01_IT.csv - 2766
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Gauntlet01_IT.csv - 4153
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Holdout01_IT.csv - 3090
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Hunt01_IT.csv - 4300
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\IntroPickups_IT.csv - 811
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Menu_IT.csv - 19587
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Moving01_IT.csv - 4429
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\OldLines01_IT.csv - 5739
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\OldLines02_IT.csv - 1885
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Onslaught01_IT.csv - 4006
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Onslaught02_IT.csv - 3973
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Onslaught03_IT.csv - 4134
+12/15/2011 4:38:52 PM - ProgramFilesX86\Bastion\Content\Subtitles\it\Onslaught04_IT.csv - 5707
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Platforms01_IT.csv - 4551
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\ProtoIntro01_IT.csv - 1722
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Rescue01_IT.csv - 4663
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Scenes01_IT.csv - 2145
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Scenes02_IT.csv - 2056
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Scorched01_IT.csv - 3718
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Shrine01_IT.csv - 3163
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Siege01_IT.csv - 5526
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Survivor01_IT.csv - 3125
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Survivor02_IT.csv - 2276
+10/23/2011 1:33:20 PM - ProgramFilesX86\Bastion\Content\Subtitles\it\Town_IT.csv - 22201
+8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Voyage01_IT.csv - 3435
+8/23/2011 6:30:58 PM - ProgramFilesX86\Bastion\Content\Textures\failbag.xnb - 164581
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\17547C4653EE0614DA9C6739BB797363
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/15/2011 11:10:00 AM - ProgramFilesX86\Bastion\Content\Subtitles\de\Attack01_DE.csv - 2405
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\1983F391BB4ACED48AC1045AB9EA3873
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/6/2011 11:40:08 AM - ProgramFilesX86\Bastion\xnafx31_redist.msi - 7671808
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\22778089586B643409987719ACD943EC
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\fr\Attack01_FR.csv - 2463
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\31CF02C6CC354B1408FA79730A79DB7A
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 3/17/2011 11:45:48 PM - ProgramFilesX86\Bastion\Content\Game\Obstacles\1_DevObstacles.xml - 8769
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\36670EA41E58A30469385932E3B1CC70
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/22/2011 7:12:56 PM - ProgramFilesX86\Bastion\Content\Fonts\GameConsole.xnb - 13283
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\3677540AB27A3174EB393969CF5029FC
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/6/2011 11:40:08 AM - ProgramFilesX86\Bastion\dxwebsetup.exe - 292184
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\3DA22B78320BA104CA1065FA4E4ED2A9
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/15/2011 11:10:02 AM - ProgramFilesX86\Bastion\Content\Subtitles\it\Attack01_IT.csv - 2422
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\3DEB336DAC6887E4F89E8C71DD0AB296
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/15/2011 11:09:56 AM - ProgramFilesX86\Bastion\Content\Subtitles\en\Attack01.csv - 2284
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\584CD2A59B0431247AF895EEF5E48811
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 4/14/2011 2:41:24 AM - ProgramFilesX86\Bastion\Content\Game\Loot\EnemyLoot.xml - 18257
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\58BF88118FFF5524B827BCCBF952A38F
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/6/2011 11:40:08 AM - ProgramFilesX86\Bastion\dotNetFx35setup.exe - 2869264
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\5AF12B9A15380C04CBD0E9C717382A32
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 12/5/2011 5:08:36 PM - ProgramFilesX86\Bastion\Content\Audio\Attack01WaveBank.xwb - 1670308
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\63F7DC85E88012342B74FBE169A91A4F
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/10/2011 9:45:50 PM - ProgramFilesX86\Bastion\Content\Attack01.pkg - 28758877
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\73CC257D74BC61F44ABFCFC17C05EFD5
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 12/13/2011 10:30:10 AM - ProgramFilesX86\Bastion\Content\Fonts\de\CreditValley22.xnb - 38736
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\832415FADE6F753478F337A85101BAEA
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/22/2011 7:13:06 PM - ProgramFilesX86\Bastion\Content\Effects\BloomCombine.xnb - 1254
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\8FAD1E6458BE7FD4AB9B14302C510C64
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 4/27/2011 4:47:08 PM - ProgramFilesX86\Bastion\Content\Game\Units\Attackers.xml - 3727
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\934A2595F33CE0D40853FA4AEDFBBB5D
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 12/5/2011 4:58:56 PM - ProgramFilesX86\Bastion\Content\Fonts\fr\CreditValley22.xnb - 72193
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\9A7CAE5BAE76BA94DBECF3870AD16EDC
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 12/5/2011 4:58:54 PM - ProgramFilesX86\Bastion\Content\Fonts\es\CreditValley22.xnb - 38920
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\9ED852ABABE57A848820D4F791A8FB36
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 12/20/2011 6:02:56 PM - ProgramFilesX86\Bastion\Bastion.exe - 3112960
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\A0D58CD2452B15D48AF0A273CCBC577D
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/9/2011 10:43:30 PM - ProgramFilesX86\Bastion\Content\Game\Weapons\EnemyWeapons.xml - 82997
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\A766B38A17B0B1D4F8F945C59F1D8354
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 2/15/2011 6:01:22 PM - ProgramFilesX86\Bastion\Content\Particles\laserExplosion.xml - 1652
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\AC21B643FE620474DBEF53EA793AD606
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/15/2011 11:09:58 AM - ProgramFilesX86\Bastion\Content\Subtitles\es\Attack01_ES.csv - 2391
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\B0049D7138BFED6489260D5B2AD83432
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 12/5/2011 4:58:58 PM - ProgramFilesX86\Bastion\Content\Fonts\it\CreditValley22.xnb - 71781
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\CE7F323E2807F944E8BBA73D1B5D1667
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 9/1/2011 11:39:32 AM - ProgramFilesX86\Bastion\Content\Fonts\all\CreditValley22.xnb - 582416
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\D37E593DBE7115A46A21804256351EED
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 12/13/2011 10:24:44 AM - ProgramFilesX86\Bastion\Content\Game\Text\HelpText.de.xml - 203903
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\DF2A4B023ABEA6D4AA4CEA38C875B23B
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/23/2011 6:30:58 PM - ProgramFilesX86\Bastion\Content\Textures\failbag.xnb - 164581
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\F47733796AD4FE44EAE920561E4395F3
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/9/2011 10:43:12 PM - ProgramFilesX86\Bastion\Content\Maps\Attack01.map - 242879
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\F530D84F5FB64CC45AE318629EF97D29
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 12/5/2011 4:58:50 PM - ProgramFilesX86\Bastion\Content\Fonts\en\CreditValley22.xnb - 38549
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\FA872DAF3A1F4BC41BE6B2FA26C1CFB0
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/10/2011 11:46:02 PM - ProgramFilesX86\Bastion\Content\Game\Conversations.xml - 16893
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components\FEE51F65BDF5D5D4080911F9F85EC0E3
+Value: 2F8D3FA72C2BB8F4FA4A9C00105FB6A1
+Data: 8/10/2011 6:13:32 PM - ProgramFilesX86\Bastion\Content\Game\Animations\Animations.xml - 26275
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\2F8D3FA72C2BB8F4FA4A9C00105FB6A1\InstallProperties
+Value: InstallLocation
+Data: ProgramFilesX86\Bastion
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{7AF3D8F2-B2C2-4F8B-AFA4-C90001F56B1A}
+Value: InstallLocation
+Data: ProgramFilesX86\Bastion
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+6/2/2012 9:15:17 AM - StartMenu\Bastion.lnk - 1859
+12/20/2011 6:02:56 PM - ProgramFilesX86\Bastion\Bastion.exe - 3112960
+6/2/2012 9:15:17 AM - StartMenu\Programs\Bastion\Bastion.lnk - 1871
+12/20/2011 6:02:56 PM - ProgramFilesX86\Bastion\Bastion.exe - 3112960

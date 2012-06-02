@@ -1,0 +1,79 @@
+Game Name: BlackwellConvergence.Windows
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence
+
+Save Path: 
+SavedGames\Blackwell Convergence
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 59
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\.NET\Common\MASGAU.Analyzer\APCAnalyzer.cs:line 33
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+6/2/2012 8:46:27 AM - SavedGames\Blackwell Convergence\agssave.000 - 456842
+6/2/2012 8:46:35 AM - SavedGames\Blackwell Convergence\agssave.001 - 456852
+6/2/2012 8:46:16 AM - SavedGames\Blackwell Convergence\agssave.999 - 248479
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+1/12/2012 1:45:20 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\acsetup.cfg - 319
+1/12/2012 1:45:28 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\audio.vox - 27098029
+1/12/2012 1:45:28 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\Convergence.exe - 172575801
+5/28/2012 2:41:40 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\gfw_high.ico - 116281
+5/28/2012 4:25:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\goggame.dll - 242688
+6/2/2012 8:46:16 AM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\prog.bwc - 12
+1/12/2012 1:45:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\speech.vox - 130863611
+4/20/2010 12:37:04 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\Support.ico - 62895
+1/12/2012 1:45:28 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\winsetup.exe - 57372
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{26B135B6-A52E-494C-AAF1-B6ADD56B7752}
+Value: ConfigGDFBinaryPath
+Data: 5/28/2012 4:25:44 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\goggame.dll - 242688
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLECONVERGENCE
+Value: EXE
+Data: 1/12/2012 1:45:28 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\Convergence.exe - 172575801
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLECONVERGENCE
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLECONVERGENCE
+Value: LAUNCHCOMMAND
+Data: 1/12/2012 1:45:28 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\Convergence.exe - 172575801
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGBLACKWELLBUNDLECONVERGENCE
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+6/1/2012 7:20:54 PM - StartMenu\Programs\GOG.com\Blackwell Bundle\Episode 3 - Blackwell Convergence\Episode 3 - Blackwell Convergence.lnk - 2322
+1/12/2012 1:45:28 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\Convergence.exe - 172575801
+6/1/2012 7:20:53 PM - StartMenu\Programs\GOG.com\Blackwell Bundle\Episode 3 - Blackwell Convergence\Setup.lnk - 1373
+1/12/2012 1:45:28 PM - ProgramFilesX86\GOG.com\Blackwell Bundle\Convergence\winsetup.exe - 57372

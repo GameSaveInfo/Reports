@@ -1,0 +1,198 @@
+Game Name: Alan Wake American Nightmare
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\GOG.com\Alan Wake American Nightmare
+
+Save Path: 
+UserDocuments\Remedy\AmericanNightmare_GOG_Version
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{08E10B43-2C13-4455-8711-BA0F7FD81A96}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\GOG.com\Alan Wake American Nightmare
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{08E10B43-2C13-4455-8711-BA0F7FD81A96}
+Value: ConfigGDFBinaryPath
+Data: 5/22/2012 1:47:26 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\goggame.dll - 240128
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGALANWAKEAMERICANNIGHTMARE
+Value: EXE
+Data: 5/22/2012 1:18:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\alan_wakes_american_nightmare.exe - 5993312
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGALANWAKEAMERICANNIGHTMARE
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Alan Wake American Nightmare
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGALANWAKEAMERICANNIGHTMARE
+Value: LAUNCHCOMMAND
+Data: 5/22/2012 1:18:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\alan_wakes_american_nightmare.exe - 5993312
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Alan Wake American Nightmare_is1
+Value: Inno Setup: App Path
+Data: ProgramFilesX86\GOG.com\Alan Wake American Nightmare
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Alan Wake American Nightmare_is1
+Value: InstallLocation
+Data: ProgramFilesX86\GOG.com\Alan Wake American Nightmare
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+5/25/2012 2:17:49 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Alan Wake American Nightmare\Alan Wake American Nightmare.lnk - 2338
+5/22/2012 1:18:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\alan_wakes_american_nightmare.exe - 5993312
+5/25/2012 2:17:46 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Alan Wake American Nightmare\Language Setup.lnk - 2275
+5/18/2012 9:59:00 AM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\Language Setup.exe - 7216128
+5/25/2012 2:17:48 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Alan Wake American Nightmare\Uninstall Alan Wake American Nightmare.lnk - 1177
+5/25/2012 2:16:42 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\unins000.exe - 2142547
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+5/25/2012 2:27:52 PM - UserDocuments\Remedy\AmericanNightmare_GOG_Version\config - 217
+5/25/2012 2:20:16 PM - UserDocuments\Remedy\AmericanNightmare_GOG_Version\keybinds.xml - 1521
+5/25/2012 2:20:06 PM - UserDocuments\Remedy\AmericanNightmare_GOG_Version\resolution.xml - 121
+5/25/2012 2:24:10 PM - UserDocuments\Remedy\AmericanNightmare_GOG_Version\savegames\savegame_awns\savegame.aws - 846723
+
+Install Folder Dump: 
+5/22/2012 1:18:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\ai_w32_f.dll - 1065312
+5/22/2012 1:18:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\alan_wakes_american_nightmare.exe - 5993312
+5/22/2012 1:18:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\app_w32_f.dll - 166240
+3/21/2012 5:39:24 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\binkw32.dll - 226304
+5/22/2012 1:18:52 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\d3d_w32_f.dll - 494432
+5/22/2012 1:18:52 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\dm_w32_f.dll - 245600
+10/31/2011 5:36:36 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\fmodex.dll - 374784
+5/17/2012 3:32:58 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\gfw_high.ico - 115575
+5/22/2012 1:47:26 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\goggame.dll - 240128
+11/28/2008 10:32:10 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\innosetup_license.txt - 1471
+5/9/2012 4:26:00 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\Language Setup license.txt - 27732
+5/18/2012 9:59:00 AM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\Language Setup.exe - 7216128
+5/22/2012 1:18:52 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\loc_w32_f.dll - 92512
+5/22/2012 1:18:54 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\physics_w32_f.dll - 11456864
+5/22/2012 1:18:54 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\renderer_w32_f.dll - 2414432
+5/22/2012 1:18:56 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\rl_w32_f.dll - 1269600
+5/22/2012 1:18:56 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\snd_w32_f.dll - 182624
+4/20/2010 12:37:04 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\Support.ico - 62895
+5/25/2012 2:17:49 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\unins000.dat - 90587
+5/25/2012 2:16:42 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\unins000.exe - 2142547
+5/25/2012 2:17:49 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\unins000.ini - 112
+5/22/2012 1:06:04 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-de.bin - 1542
+5/22/2012 1:06:04 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-de.rmdp - 5877856
+5/22/2012 1:08:04 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-en.bin - 154719
+5/22/2012 1:08:04 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-en.rmdp - 176257360
+5/22/2012 1:08:06 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-es.bin - 1542
+5/22/2012 1:08:06 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-es.rmdp - 5847296
+5/22/2012 1:08:06 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-fr.bin - 1542
+5/22/2012 1:08:06 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-fr.rmdp - 5869472
+5/22/2012 1:08:06 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-it.bin - 1542
+5/22/2012 1:08:06 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-it.rmdp - 5842944
+5/22/2012 1:08:08 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-jp.bin - 1373
+5/22/2012 1:08:06 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000-jp.rmdp - 5561000
+5/22/2012 1:07:56 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000.bin - 2231484
+5/22/2012 1:07:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\ep999-000.rmdp - 987453968
+10/24/2011 1:19:00 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\config\locale_config.xml - 2692
+5/15/2012 3:32:42 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\alan_wake_logo.bik - 49123956
+4/13/2012 4:22:08 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_1100.bik - 211910124
+5/11/2012 12:57:58 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_1200.bik - 21468072
+5/11/2012 12:38:52 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_1300.bik - 21477712
+4/13/2012 4:22:22 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_1400.bik - 62285656
+4/13/2012 4:22:42 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_2100.bik - 47503004
+4/13/2012 4:22:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_2400.bik - 46740476
+4/13/2012 4:22:56 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_3100.bik - 39646180
+4/13/2012 4:23:12 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_3400.bik - 324627692
+4/13/2012 4:23:18 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_3500.bik - 20676892
+11/23/2011 10:03:20 AM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_5000.bik - 57837752
+11/15/2011 2:29:22 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\cine_6000.bik - 107551948
+5/19/2009 11:18:38 AM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\credits_background.bik - 18820
+9/9/2011 2:06:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\ingame_tv_deathrally.bik - 6897620
+9/2/2009 10:26:24 AM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\ingame_tv_trailer.bik - 4644276
+4/12/2012 6:03:38 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\menu_episode1_background.bik - 28002960
+10/5/2011 2:39:36 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_1.bik - 7264592
+10/6/2011 1:47:40 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_1_movie.bik - 7248232
+10/5/2011 2:42:00 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_2.bik - 8568908
+10/7/2011 5:01:40 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_3.bik - 5083476
+10/5/2011 2:44:56 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_4.bik - 8350084
+10/5/2011 2:46:54 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_5.bik - 7383068
+10/5/2011 2:49:10 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_6.bik - 8198404
+10/5/2011 2:50:36 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_7.bik - 5668440
+10/5/2011 2:52:18 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_8.bik - 6898268
+10/5/2011 2:53:46 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\mrscratch_9.bik - 6503016
+4/13/2012 4:33:10 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\data\videos\startup_remedy.bik - 11556552
+5/9/2012 5:34:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\accumulate.obj - 715
+5/9/2012 5:34:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\ambientconvolution.obj - 3947
+5/9/2012 5:34:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\ambientprobe.obj - 50355
+5/9/2012 5:34:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\autoexposure.obj - 1677
+5/9/2012 5:34:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\backdrop.obj - 4102
+5/9/2012 5:34:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\bakenormals.obj - 480
+5/9/2012 5:34:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\bilateralfilter.obj - 6379
+5/9/2012 5:34:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\biotypesampler.obj - 5201
+5/9/2012 5:34:52 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\bloomx86.obj - 18699
+5/9/2012 5:34:52 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\bloomxbox.obj - 37
+5/9/2012 5:34:52 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\blur.obj - 36055
+5/9/2012 5:34:56 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\carpaint.obj - 96505
+5/9/2012 5:35:12 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\character.obj - 740501
+5/9/2012 5:35:16 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\chrome.obj - 152402
+5/9/2012 5:35:16 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\cinematicrender.obj - 633
+5/9/2012 5:35:18 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\color.obj - 49707
+5/9/2012 5:35:20 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\colorlutmixer.obj - 8756
+5/9/2012 5:35:20 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\converttolineardepth.obj - 3081
+5/9/2012 5:35:20 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\copy.obj - 13674
+5/9/2012 5:35:20 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\copyvideomemory.obj - 43
+5/9/2012 5:35:22 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\customparticle.obj - 69857
+5/9/2012 5:35:22 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\darklight.obj - 1024
+5/9/2012 5:35:22 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\darkpresence.obj - 2619
+5/9/2012 5:35:26 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\deferredlight.obj - 115168
+5/9/2012 5:35:26 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\displace.obj - 701
+5/9/2012 5:35:28 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\eye.obj - 71833
+5/9/2012 5:35:28 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\flare.obj - 996
+5/9/2012 5:35:30 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\foliagebillboard.obj - 12339
+5/9/2012 5:35:34 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\foliageprt.obj - 99943
+5/9/2012 5:35:34 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\generatebillboard.obj - 1942
+5/9/2012 5:35:34 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\generatemipmaps.obj - 1523
+5/9/2012 5:35:36 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\glass.obj - 69101
+5/9/2012 5:35:36 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\godray.obj - 31400
+5/9/2012 5:35:38 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\grass.obj - 10038
+5/9/2012 5:35:38 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\light.obj - 44717
+5/9/2012 5:35:40 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\lightsensitive.obj - 57545
+5/9/2012 5:35:40 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\lighttrail.obj - 4088
+5/9/2012 5:35:40 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\localprt.obj - 898
+5/9/2012 5:35:42 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\manuscript.obj - 3158
+5/9/2012 5:35:42 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\map.obj - 952
+5/9/2012 5:35:42 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\occlusionquery.obj - 466
+5/9/2012 5:35:46 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\particle.obj - 138894
+5/9/2012 5:35:46 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\pickup.obj - 4741
+5/9/2012 5:35:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\poltergeist.obj - 16482
+5/9/2012 5:35:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\postprocess.obj - 1051
+5/9/2012 5:35:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\restoresurface.obj - 42
+5/9/2012 5:35:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\river.obj - 35711
+5/9/2012 5:35:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\shadeeffect.obj - 3076
+5/9/2012 5:35:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\shadowblob.obj - 2776
+5/9/2012 5:35:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\shadowbuffer.obj - 19838
+5/22/2012 9:25:32 AM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\shadowshield.obj - 62167
+5/9/2012 5:35:54 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\skin.obj - 107518
+5/18/2012 4:18:16 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\sky.obj - 78399
+5/9/2012 5:36:00 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\ssaa.obj - 35489
+5/9/2012 5:36:02 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\ssao.obj - 54037
+5/9/2012 5:36:22 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\standardmaterial.obj - 785454
+5/9/2012 5:36:32 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\taken.obj - 452967
+5/9/2012 5:36:32 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\terrain.obj - 19137
+5/9/2012 5:36:34 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\terrainmesh.obj - 31994
+5/9/2012 5:36:34 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\terrainmeshmaker.obj - 2295
+5/9/2012 5:36:34 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\vectorblur.obj - 6192
+5/9/2012 5:36:34 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\velocity.obj - 10710
+5/9/2012 5:36:36 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\videotexture.obj - 45703
+5/9/2012 5:36:36 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\volumefog.obj - 2367
+5/9/2012 5:36:46 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\volumetriclight.obj - 148007
+5/9/2012 5:36:48 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\water.obj - 46599
+5/9/2012 5:36:50 PM - ProgramFilesX86\GOG.com\Alan Wake American Nightmare\shaders\windowimpostor.obj - 53149
+
+UAC Enabled
+
+
+VirtualStore Folders: 
