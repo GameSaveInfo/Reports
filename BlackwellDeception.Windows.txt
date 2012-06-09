@@ -1,4 +1,4 @@
-Game Name: BlackwellDesception.Windows
+Game Name: BlackwellDeception.Windows
 Operating System: 
 Microsoft Windows NT 6.1.7601 Service Pack 1
 

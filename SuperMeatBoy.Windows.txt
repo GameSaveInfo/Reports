@@ -1,3 +1,88 @@
+Game Name: Super Meat Boy
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Team Meat\SuperMeatBoy
+
+Save Path: 
+ProgramFilesX86\Team Meat\SuperMeatBoy\UserData
+
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+6/9/2012 1:40:23 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Team Meat\SuperMeatBoy\Super Meat Boy.lnk - 1223
+12/10/2011 3:00:12 AM - ProgramFilesX86\Team Meat\SuperMeatBoy\SuperMeatBoy.exe - 3074048
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+6/9/2012 2:33:11 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\UserData\Reg0.dat - 121
+6/9/2012 2:32:22 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\UserData\savegame.dat - 7336
+
+Install Folder Dump: 
+7/18/2011 2:02:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\buttonmap.cfg - 171
+7/18/2011 2:02:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\buttonmap.cfg.bak - 171
+7/18/2011 2:12:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\gameaudio.dat - 151018399
+7/18/2011 2:08:14 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\gamedata.dat - 95044834
+7/18/2011 2:02:40 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\installscript.vdf - 1097
+7/29/2011 11:04:06 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\locdb.txt - 168078
+5/10/2011 2:50:10 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\pixel.cache - 60
+11/1/2011 1:06:26 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\steam_api.dll - 120616
+1/18/2011 9:52:10 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\steam_appid.txt - 5
+12/10/2011 3:00:12 AM - ProgramFilesX86\Team Meat\SuperMeatBoy\SuperMeatBoy.exe - 3074048
+5/10/2011 2:51:02 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\vertex.cache - 40
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\APR2007_xinput_x64.cab - 96817
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\APR2007_xinput_x86.cab - 53302
+7/18/2011 2:02:16 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\Aug2009_D3DCompiler_42_x64.cab - 919044
+7/18/2011 2:02:06 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\Aug2009_D3DCompiler_42_x86.cab - 900598
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\Aug2009_d3dx9_42_x64.cab - 930116
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\Aug2009_d3dx9_42_x86.cab - 728456
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\DSETUP.dll - 94040
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\dsetup32.dll - 1691480
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\dxdllreg_x86.cab - 44448
+7/18/2011 2:04:00 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\dxnt.cab - 13264168
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\DXSETUP.exe - 525656
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\dxupdate.cab - 95820
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\Feb2010_XAudio_x64.cab - 276960
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\Feb2010_XAudio_x86.cab - 277191
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\vcredist_x64.exe - 2373640
+1/18/2011 9:20:28 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\Prerequisites\vcredist_x86.exe - 1821192
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Chinese.fnt - 13742
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Chinese_0.png - 888284
+7/19/2011 2:07:10 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Chinese_1.png - 7804
+8/10/2011 12:43:08 AM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\EFIGS.fnt - 3981
+8/9/2011 1:50:44 AM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\EFIGS_0.png - 7167
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Japanese.fnt - 13640
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Japanese_0.png - 551909
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Korean.fnt - 10476
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Korean_0.png - 421867
+7/19/2011 2:07:10 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Korean_1.png - 4874
+2/5/2011 8:24:28 AM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Russian.fnt - 8043
+2/5/2011 8:24:28 AM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Fonts\Russian_0.png - 11020
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Shaders\psshaders.frags - 2214
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Shaders\psshaders.psh - 6176
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Shaders\ShaderMacros.h - 4379
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Shaders\vsshaders.frags - 1128
+1/18/2011 9:52:04 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Shaders\vsshaders.vsh - 2397
+1/18/2011 9:51:58 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\resources\Textures\editoricons.tp - 1742
+6/9/2012 2:33:11 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\UserData\Reg0.dat - 121
+6/9/2012 2:32:22 PM - ProgramFilesX86\Team Meat\SuperMeatBoy\UserData\savegame.dat - 7336
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+
+
+
+Steam version:
 Operating System:
 Microsoft Windows NT 6.1.7600.0
 
