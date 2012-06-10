@@ -1,0 +1,562 @@
+Game Name: SpaceRangers2Reboot
+Operating System: 
+Microsoft Windows NT 5.1.2600 Service Pack 3
+
+Install Path: 
+ProgramFiles\GOG.com\Space Rangers 2 - Reboot
+
+Save Path: 
+ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Save
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Elemental Games\Space Rangers 2
+Value: Path
+Data: ProgramFiles\GOG.com\Space Rangers 2 - Reboot
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\GOGPACKSPACERANGERS2REBOOT
+Value: PACKPATH
+Data: ProgramFiles\GOG.com\Space Rangers 2 - Reboot
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\GOGSPACERANGERS2REBOOT
+Value: EXE
+Data: 9/4/2008 2:06:44 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Rangers.exe - 3386880
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\GOGSPACERANGERS2REBOOT
+Value: PATH
+Data: ProgramFiles\GOG.com\Space Rangers 2 - Reboot
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\GOGSPACERANGERS2REBOOT
+Value: LAUNCHCOMMAND
+Data: 9/4/2008 2:06:44 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Rangers.exe - 3386880
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\GOGSPACERANGERS2REBOOT
+Value: SAVEGAMEFOLDER
+Data: ProgramFiles\GOG.com\Space Rangers 2 - Reboot
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Space Rangers 2
+Value: UninstallString
+Data: 6/9/2012 7:00:16 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\unins000.exe - 2142547
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Space Rangers 2 - Reboot_is1
+Value: Inno Setup: App Path
+Data: ProgramFiles\GOG.com\Space Rangers 2 - Reboot
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Space Rangers 2 - Reboot_is1
+Value: InstallLocation
+Data: ProgramFiles\GOG.com\Space Rangers 2 - Reboot
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+6/9/2012 7:12:20 PM - AllUsersProfile\Start Menu\Programs\GOG.com\Space Rangers 2 - Reboot\Configure.lnk - 895
+9/10/2008 11:19:20 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\setup.exe - 2070016
+6/9/2012 7:12:20 PM - AllUsersProfile\Start Menu\Programs\GOG.com\Space Rangers 2 - Reboot\Space Rangers 2 - Reboot.lnk - 1821
+9/4/2008 2:06:44 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Rangers.exe - 3386880
+6/9/2012 7:12:20 PM - AllUsersProfile\Start Menu\Programs\GOG.com\Space Rangers 2 - Reboot\Uninstall Space Rangers 2 - Reboot.lnk - 812
+6/9/2012 7:00:16 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\unins000.exe - 2142547
+6/9/2012 7:12:20 PM - AllUsersProfile\Start Menu\Programs\GOG.com\Space Rangers 2 - Reboot\Documents\Manual.lnk - 908
+8/1/2008 9:14:36 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\manual.pdf - 17217762
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+6/9/2012 8:46:39 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Save\Ranger center Cedar.sav - 1847289
+
+Install Folder Dump: 
+6/9/2012 8:44:21 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\########.log - 2143
+9/4/2008 3:32:58 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\1c.url - 52
+11/18/2011 3:50:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\cfg.txt - 1175
+1/19/2004 6:16:26 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\DebugMsg.dll - 61440
+11/9/2002 8:22:44 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\ElementalGames.url - 55
+6/4/2012 11:52:22 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\gfw_high.ico - 127768
+6/4/2012 12:58:54 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\goggame.dll - 257536
+11/28/2008 10:32:10 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\innosetup_license.txt - 1471
+6/4/2012 12:56:12 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\install.log - 15288
+11/18/2011 3:50:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\install.txt - 708
+11/5/2004 6:11:56 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Manual.exe - 475648
+8/1/2008 9:14:36 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\manual.pdf - 17217762
+2/16/2007 7:50:28 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\MatrixGame.dll - 1773568
+9/13/2004 10:43:16 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\OKGF.dll - 696320
+7/15/2000 3:12:46 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\OKMPA.DLL - 172032
+7/15/2000 3:12:46 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\OKMPB.DLL - 172032
+9/4/2008 2:06:44 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Rangers.exe - 3386880
+9/10/2008 11:19:20 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\setup.exe - 2070016
+4/20/2010 12:37:04 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Support.ico - 62895
+6/9/2012 7:12:21 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\unins000.dat - 100625
+6/9/2012 7:00:16 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\unins000.exe - 2142547
+6/9/2012 7:12:20 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\unins000.ini - 100
+2/17/2006 2:25:38 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\xvidcore.dll - 561152
+8/13/2008 9:19:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\cfg\CacheData.dat - 62434
+8/13/2008 9:18:50 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\cfg\eng.dat - 478459
+8/13/2008 9:19:02 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\cfg\main.dat - 162554
+5/2/2005 11:22:16 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\cfg\robots.dat - 67532
+12/13/2007 7:58:56 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\1c.vdo - 6369870
+9/16/2004 8:03:14 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\1captain.pkg - 14424046
+9/16/2004 8:03:20 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\1gov.pkg - 28856702
+11/9/2006 6:53:28 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\1Items.pkg - 28588531
+1/24/2008 11:06:34 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\1main.pkg - 148967768
+9/16/2004 8:03:36 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\2captain.pkg - 23425386
+9/16/2004 8:03:48 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\2gov.pkg - 152431072
+11/9/2006 6:54:28 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\2Items.pkg - 35760732
+1/24/2008 11:06:22 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\2main.pkg - 223528990
+2/21/2008 7:33:48 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\common.pkg - 223289054
+8/31/2004 3:23:20 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\hyper.vdo - 4136960
+2/20/2006 12:43:32 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\intro.vdo - 55334912
+8/31/2004 3:20:14 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\outro.vdo - 37156864
+9/5/2004 2:15:46 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\record.vdo - 7995392
+4/3/2007 2:12:04 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\robots.pkg - 131838768
+11/9/2006 6:47:52 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\ShipFull.pkg - 38197480
+11/9/2006 6:47:56 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\ShipSmall.pkg - 17341323
+5/3/2005 6:25:02 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\sound.pkg - 53905311
+7/30/2004 11:39:40 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\data\Star.pkg - 93978128
+2/28/2005 8:30:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\readme.htm - 7845
+6/10/2008 4:32:58 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\beginning.htm - 4775
+4/6/2005 8:04:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\beginning_features.htm - 10622
+4/6/2005 8:08:12 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\beginning_hotkeys.htm - 16107
+4/6/2005 8:21:38 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\beginning_introduction.htm - 5076
+2/24/2006 8:15:24 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\beginning_requirements.htm - 6829
+2/20/2006 8:07:48 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\beginning_startgame.htm - 4043
+3/1/2005 11:59:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide.htm - 3787
+4/6/2005 8:49:20 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_artefacts.htm - 19131
+4/6/2005 11:46:34 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_equipment.htm - 16476
+4/6/2005 12:29:10 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_races.htm - 14337
+4/6/2005 12:44:24 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_ships.htm - 17515
+4/6/2005 1:00:36 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_spaceobjects.htm - 10061
+4/7/2005 6:27:48 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_spacestations.htm - 8818
+4/7/2005 6:46:10 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_spacestations_disease&drugs.htm - 12609
+4/7/2005 6:50:36 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_spacestations_soft.htm - 4893
+4/7/2005 7:08:08 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\guide_weapon.htm - 18622
+3/1/2005 12:01:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual.htm - 3865
+4/7/2005 7:19:22 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_arcadebattle.htm - 9323
+4/7/2005 7:23:28 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_exploration.htm - 4642
+4/7/2005 7:26:26 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_history.htm - 4452
+4/7/2005 7:31:24 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_mainmenu.htm - 3665
+4/7/2005 7:34:52 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_mainmenu_load.htm - 4612
+4/7/2005 7:47:34 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_mainmenu_newgame.htm - 6997
+4/7/2005 8:00:20 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_mainmenu_preferences.htm - 15132
+4/7/2005 8:02:12 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_mainmenu_records.htm - 3646
+4/8/2005 5:08:02 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_navpanel.htm - 7729
+4/8/2005 5:12:48 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_navpanel_endofturn.htm - 5483
+4/8/2005 5:16:08 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_navpanel_map.htm - 4294
+4/8/2005 5:43:42 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_navpanel_rating.htm - 4331
+4/8/2005 6:01:02 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_navpanel_ship.htm - 11803
+4/8/2005 6:02:08 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_navpanel_sysmenu.htm - 3912
+4/8/2005 6:06:22 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_planet.htm - 6004
+4/8/2005 6:12:20 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_planet_equipmentshop.htm - 6126
+4/8/2005 6:53:50 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_planet_gov.htm - 5064
+4/8/2005 7:34:22 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_planet_hangar.htm - 5146
+4/8/2005 7:41:16 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_planet_infocenter.htm - 5656
+4/8/2005 8:11:22 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_planet_tradecenter.htm - 9318
+4/8/2005 8:14:42 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_quest.htm - 4976
+4/8/2005 8:17:58 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space.htm - 6681
+4/8/2005 8:20:10 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_fly.htm - 4404
+4/8/2005 8:23:20 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_follow.htm - 4775
+4/8/2005 8:24:52 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_jump.htm - 4319
+4/8/2005 8:26:08 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_landing.htm - 3821
+4/8/2005 8:30:26 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_radar.htm - 8495
+4/8/2005 8:33:48 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_scan.htm - 4448
+4/8/2005 8:40:22 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_takecargo.htm - 5625
+4/8/2005 8:46:52 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_talk.htm - 6825
+4/8/2005 8:49:20 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_weaponpanel.htm - 4201
+4/8/2005 9:05:28 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\manual_space_weaponshot.htm - 11051
+4/8/2005 10:26:48 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\menu.htm - 4775
+3/1/2005 12:13:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\robotbattles.htm - 3974
+4/8/2005 10:29:42 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\robotbattles_buildings.htm - 6424
+4/8/2005 10:36:36 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\robotbattles_constructor.htm - 6274
+4/8/2005 10:47:06 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\robotbattles_equipment.htm - 14645
+4/8/2005 10:52:04 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\robotbattles_main.htm - 6661
+4/8/2005 10:54:24 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\robotbattles_manual.htm - 4364
+4/8/2005 10:56:40 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\robotbattles_strategy.htm - 5916
+4/8/2005 10:58:22 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\robotbattles_turrets.htm - 4973
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\styles.css - 1918
+2/21/2006 7:55:36 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\1clogo.jpg - 5148
+3/1/2005 11:32:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\activpanel.jpg - 10815
+2/28/2005 10:36:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\arcadebattle.jpg - 158326
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\asteroids.jpg - 5476
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\asteroidshot.jpg - 19118
+2/28/2005 10:41:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\back.gif - 534
+2/28/2005 10:40:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\back1.gif - 531
+2/28/2005 10:40:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\back2.gif - 528
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bg1.jpg - 1338
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\blackhole.jpg - 6399
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\blackholeicon.jpg - 643
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bottom1.jpg - 11898
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bottom2.jpg - 6395
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bottom3.jpg - 656
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bottom4.jpg - 1323
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bottom5.jpg - 534
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bottombg1.jpg - 1320
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bottombg2.jpg - 2998
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\bottom_bg.jpg - 427
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\buttonclose.jpg - 1810
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\buttonclose1.jpg - 1760
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\B_DAMAGE.jpg - 1520
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\B_ENERGY.jpg - 1217
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\B_FAST.jpg - 1863
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\b_invisible.jpg - 1319
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\B_LOCK.jpg - 1312
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\B_question.jpg - 1597
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\B_RELOAD.jpg - 1359
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\B_SLOW.jpg - 1753
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\b_strenght.jpg - 1634
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\cargo.jpg - 3821
+2/21/2006 8:03:12 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\CinemawareLogo.jpg - 5364
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\cursorscan.jpg - 1545
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\cursorscroll.jpg - 1019
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\cursortalk.jpg - 912
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\disease.jpg - 733
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\disease1.jpg - 1371
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\dominator.jpg - 61339
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\dot.gif - 46
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\droid.jpg - 4076
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\drugs.jpg - 730
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\drugs1.jpg - 1372
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\EG_logo.jpg - 3186
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\engine.jpg - 3554
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\equipmentlevels.jpg - 40483
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\equipmentshop.jpg - 123165
+2/28/2005 11:47:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\exploration.jpg - 163193
+2/28/2005 12:19:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\exploration1.jpg - 19975
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\fly.jpg - 32221
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\focusbutton.jpg - 1192
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\focusbutton1.jpg - 747
+2/28/2005 12:28:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\forward.gif - 543
+2/28/2005 12:27:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\forward1.gif - 537
+2/28/2005 12:28:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\forward2.gif - 540
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\fueltank.jpg - 4091
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\generator.jpg - 3447
+3/1/2005 12:44:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\gov.jpg - 163742
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\guide.jpg - 104606
+2/28/2005 12:45:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\hangar.jpg - 124113
+2/28/2005 12:51:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\history.jpg - 121207
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\hull.jpg - 10028
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\hullhint.jpg - 35156
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\hullscheme1.jpg - 5278
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\hullscheme2.jpg - 5681
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\hullscheme3.jpg - 5603
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\humancity.gif - 34660
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\i.jpg - 793
+3/1/2005 12:19:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\i1.jpg - 11983
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\i2.jpg - 890
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\iconmisc1.gif - 90
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\iconmisc2.gif - 50
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\iconmisc3.gif - 45
+2/28/2005 12:57:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\infocenternews.jpg - 104467
+4/8/2005 7:41:02 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\infocentersearch.jpg - 92532
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\jump.jpg - 13501
+6/10/2008 4:28:44 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\katauri_logo.jpg - 28700
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\landing.jpg - 38177
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\left.jpg - 6262
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\leftbg.gif - 1016
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\lefttop.jpg - 979
+2/28/2005 1:14:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\loadgame.jpg - 130255
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\m.jpg - 595
+2/24/2006 8:10:08 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\mainmenu.jpg - 409991
+4/8/2005 5:41:06 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\map.jpg - 214755
+3/1/2005 12:47:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\map1.jpg - 220979
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\menu_top.jpg - 2667
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\minerals.jpg - 1675
+2/28/2005 1:43:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\navpanel.jpg - 107540
+4/8/2005 6:08:14 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\navpanelplanet.jpg - 44979
+2/28/2005 2:18:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\newgame.jpg - 204151
+2/28/2005 2:21:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\newgame_custom.jpg - 145621
+2/28/2005 2:23:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\orders.jpg - 43188
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\pagebg.jpg - 11516
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\page_bg.gif - 2780
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\pipe1.gif - 790
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\pipebg.gif - 93
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\pipebottom.gif - 93
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\pipetop.gif - 93
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\pipetop1.gif - 93
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\pipetop2.gif - 93
+2/28/2005 2:27:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planet.jpg - 212812
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planet1.jpg - 518
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planet2.jpg - 492
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planet3.jpg - 505
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planet4.jpg - 524
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planet5.jpg - 489
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planet6.jpg - 488
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planet7.jpg - 446
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\planets.jpg - 24390
+2/28/2005 2:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\preferences.jpg - 155634
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\q.jpg - 606
+3/1/2005 11:48:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\quest.jpg - 158192
+3/1/2005 11:42:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\quest1.jpg - 18392
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\races_domonator.jpg - 65156
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\races_fei.jpg - 47950
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\races_gaal.jpg - 51232
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\races_human.jpg - 39963
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\races_maloq.jpg - 66317
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\races_peleng.jpg - 45761
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\radar.jpg - 13566
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\radar1.jpg - 7487
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\radar2.jpg - 3462
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\radar_partners.jpg - 4950
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\Rangers2.ico - 29926
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\rangers_ru.jpg - 10421
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ranger_logo.jpg - 60798
+2/28/2005 2:48:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\rating.jpg - 146530
+2/28/2005 2:51:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\records.jpg - 158993
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\reqmax.jpg - 1616
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\reqmin.jpg - 1511
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\reqnorm.jpg - 1556
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\right2.jpg - 4655
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\right3.jpg - 14508
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\rightbottom.jpg - 1035
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robotbattle.jpg - 98190
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\scanbutton.jpg - 2642
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\scanner.jpg - 4177
+4/8/2005 5:54:06 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\servicecenter.jpg - 25513
+4/8/2005 5:48:20 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ship.jpg - 192063
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ship1.gif - 57
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ship2.gif - 57
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ship3.gif - 57
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ship4.gif - 57
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ship5.gif - 57
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ship6.gif - 57
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\skill1.jpg - 971
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\skill2.jpg - 866
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\skill3.jpg - 681
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\skill4.jpg - 903
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\skill5.jpg - 804
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\skill6.jpg - 833
+6/10/2008 4:29:10 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\snk_logo.jpg - 34888
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\soft.jpg - 926
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\space.jpg - 17419
+2/28/2005 3:24:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\space1.jpg - 144562
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\spacer.gif - 43
+3/1/2005 8:34:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\speed.gif - 2095
+2/20/2006 8:50:54 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\SR2logo2.jpg - 247597
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_b.gif - 294
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_bc.jpg - 10780
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_m.gif - 187
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_m1.gif - 189
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_medical.jpg - 12028
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_military.jpg - 20290
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_p.gif - 176
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_pirate.jpg - 19592
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_r.gif - 177
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_ranger.jpg - 15229
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_s.gif - 180
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\station_science.jpg - 17024
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\sun.jpg - 15201
+3/1/2005 8:42:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\sysmenu.jpg - 89284
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\takecargo.jpg - 27425
+3/1/2005 8:47:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\talk.jpg - 75562
+3/1/2005 8:57:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\talk2.jpg - 60234
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\talkbutton.jpg - 2554
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\title.gif - 312
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\top1.jpg - 10538
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\top2.jpg - 1451
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\top3.jpg - 4733
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\topbg.gif - 99
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\top_bg.gif - 169
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\top_bg.jpg - 538
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\tracktorbeam.jpg - 3049
+3/1/2005 9:07:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\tradecenter.jpg - 158072
+3/1/2005 9:09:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\tradecenter1.jpg - 27617
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\tradecenter2.jpg - 10957
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\tradecenter3.jpg - 8705
+3/1/2005 9:10:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\turn1.jpg - 11601
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\turn2.jpg - 9421
+4/8/2005 10:23:50 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapondamage.gif - 4210
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapondamage1.gif - 1861
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapondamage2.gif - 1343
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapondamage3.gif - 843
+3/1/2005 9:51:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weaponpanel.jpg - 30470
+3/1/2005 9:53:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weaponshot.jpg - 62185
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtAnalyzer.jpg - 1518
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtAntigrav.jpg - 1446
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtArtefactor.jpg - 1070
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtBio.jpg - 1404
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtBlackHole.jpg - 1289
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtDecelerate.jpg - 1548
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtDef.jpg - 1343
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtDefToArms1.jpg - 1319
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtDefToArms2.jpg - 1324
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtDefToEnergy.jpg - 1335
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtDroid.jpg - 1489
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtEnergyDef.jpg - 1647
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtEnergyPulse.jpg - 1366
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtForsage.jpg - 1445
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtFuel.jpg - 1255
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtGiperJump.jpg - 1246
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtHook.jpg - 1432
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtHull.jpg - 1112
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtMiniExpl.jpg - 1347
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtMissileDef.jpg - 1569
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtNano.jpg - 1130
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtPower.jpg - 1580
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtRadar.jpg - 1290
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtScaner.jpg - 1154
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtSpeed.jpg - 1314
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtSplinter.jpg - 1255
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtTransmitter.jpg - 1419
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\2ArtWeaponToSpeed.jpg - 1493
+2/25/2005 3:37:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\a_quarkbomb.jpg - 1297
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\artefacts\tranklukator.jpg - 2184
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\b0.jpg - 37029
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\b1.jpg - 30032
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\b2.jpg - 31552
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\b3.jpg - 32507
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\b4.jpg - 37922
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\ch1.jpg - 7577
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\ch2.jpg - 9703
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\ch3.jpg - 8758
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\ch4.jpg - 8661
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\ch5.jpg - 5810
+3/1/2005 10:09:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\constructor.jpg - 144145
+3/1/2005 10:11:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\constructor1.jpg - 62211
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\hull1.jpg - 7447
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\hull2.jpg - 6141
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\hull3.jpg - 10124
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\hull4.jpg - 6587
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\hull5.jpg - 7215
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\hull6.jpg - 7321
+3/1/2005 10:25:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\locator.jpg - 40216
+3/2/2005 7:06:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\main1.jpg - 223317
+3/1/2005 10:31:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\mainmap.jpg - 36446
+3/1/2005 10:38:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\mainpanel.jpg - 74356
+3/1/2005 11:00:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\maintop.jpg - 20774
+3/1/2005 11:09:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\manual.jpg - 216037
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\mod1.jpg - 2535
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\mod2.jpg - 2756
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\mod3.jpg - 2090
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\mod4.jpg - 2993
+3/1/2005 11:12:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\strategy1.jpg - 71080
+3/1/2005 11:15:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\strategy2.jpg - 228294
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\t1.jpg - 15867
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\t2.jpg - 16189
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\t3.jpg - 16267
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\t4.jpg - 15253
+3/1/2005 11:19:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\turret1.jpg - 60446
+3/1/2005 11:26:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\turret2.jpg - 232919
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w0.jpg - 5974
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w1.jpg - 5289
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w2.jpg - 4224
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w3.jpg - 6157
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w4.jpg - 5750
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w5.jpg - 4638
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w6.jpg - 4953
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w7.jpg - 4644
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w8.jpg - 5160
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\robots\w9.jpg - 4075
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\db1.jpg - 3285
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\db2.jpg - 6529
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\db3.jpg - 5289
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\db4.jpg - 9575
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\db5.jpg - 8211
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dk1.jpg - 3784
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dk2.jpg - 6503
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dk3.jpg - 6151
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dk4.jpg - 7713
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dk5.jpg - 10196
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dt1.jpg - 3444
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dt2.jpg - 4481
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dt3.jpg - 6690
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dt4.jpg - 6377
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\dt5.jpg - 10990
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\feidip.jpg - 2903
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\feiliner.jpg - 3353
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\feipirate.jpg - 3406
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\feirang.jpg - 2545
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\feitransp.jpg - 3401
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\feiwar.jpg - 2712
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\gaaldip.jpg - 3035
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\gaalliner.jpg - 2763
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\gaalpirate.jpg - 2581
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\gaalrang.jpg - 2881
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\gaaltransp.jpg - 3269
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\gaalwar.jpg - 3844
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\humandip.jpg - 2544
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\humanliner.jpg - 3285
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\humanpirate.jpg - 2754
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\humanrang.jpg - 11922
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\humantransp.jpg - 2271
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\humanwar.jpg - 2842
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\maldip.jpg - 3163
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\malliner.jpg - 3002
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\malpirate.jpg - 3814
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\malrang.jpg - 3212
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\maltransp.jpg - 3499
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\malwar.jpg - 3120
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\peldip.jpg - 2784
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\pelengrang.jpg - 3569
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\pelliner.jpg - 2545
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\pelpirate.jpg - 2282
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\peltransp.jpg - 2668
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\pelwar.jpg - 2366
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\unknown1.jpg - 3727
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\ships\unknown2.jpg - 4563
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocblank.gif - 58
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocclosedfolder.gif - 275
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\toclastnode.gif - 142
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\toclink.gif - 275
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocminuslastnode.gif - 223
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocminusnode.gif - 227
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocnode.gif - 147
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocopenfolder.gif - 284
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocpluslastnode.gif - 224
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocplusnode.gif - 228
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\toc\tocvert.gif - 140
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\dezinteg.jpg - 2923
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\fazer.jpg - 2894
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\imho.jpg - 3429
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\lezka.jpg - 2376
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\matrix.jpg - 2671
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\multi.jpg - 2336
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\oskol.jpg - 2156
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\potokblaster.jpg - 2742
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\promish.jpg - 2038
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\reton.jpg - 2447
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\rocket.jpg - 2427
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\torped.jpg - 3937
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\turbograv.jpg - 2937
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\vertix.jpg - 2929
+2/25/2005 3:38:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\img\weapon\vizion.jpg - 2901
+3/2/2005 6:31:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\help\content\js\menu.js - 22999
+10/18/2002 11:06:06 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\1c.dat - 333113
+7/13/2004 10:38:50 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\hyper.dat - 387448
+2/20/2006 12:37:46 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\intro.dat - 2896039
+2/18/2004 6:37:36 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\logo.dat - 368640
+8/13/2004 2:13:12 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\outro.dat - 2384875
+9/5/2004 2:14:28 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\record.dat - 480652
+5/23/2000 7:06:40 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\BATTLE\Boy1.dat - 1022067
+1/18/2002 4:59:24 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\BATTLE\fight2.dat - 1275731
+2/18/1999 8:58:04 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\Awakening.dat - 4086148
+6/8/2002 4:58:46 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\Beyond_reach.dat - 4124967
+1/17/2002 3:38:08 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\fly12.dat - 3798998
+2/20/2001 4:35:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\FLY3.dat - 3449963
+10/18/2004 11:32:38 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\HyperDream2.dat - 6110981
+11/30/1999 4:04:54 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\LONGWAY.dat - 3575892
+10/18/2004 11:48:08 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\starflight.dat - 4834951
+6/29/2000 4:44:10 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\Surf.dat - 2962572
+10/18/2004 11:53:32 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\Theo-Inside.dat - 5104953
+10/18/2004 11:58:32 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\FLY\TRASH.dat - 4318772
+5/15/2007 6:26:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\bunker.dat - 2324817
+6/29/2000 9:20:50 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\COSMIC.dat - 1479771
+7/1/2000 9:56:06 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\COSMIC2.dat - 2620982
+2/14/2001 9:17:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\FEI1.dat - 4147954
+2/7/2001 4:22:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\GAAL.dat - 2697636
+1/20/2001 11:25:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\MALLOC4.dat - 1641035
+3/27/2001 7:10:00 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\PEOPLE.dat - 3070456
+9/3/2004 3:46:22 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\RobotForce.dat - 3848695
+8/23/2000 5:16:18 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\PLANET\WEAPON.dat - 1348379
+4/16/2001 6:10:00 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\QUESTS\gladiator.dat - 2007149
+2/18/2004 8:09:50 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\SPECIAL\begin.dat - 1251497
+2/18/2004 8:10:22 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\SPECIAL\begin2.dat - 627902
+1/7/2001 7:32:54 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\SPECIAL\HYMN.dat - 3314456
+9/4/2003 1:30:42 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\SPECIAL\outroden.dat - 3451507
+10/18/2004 12:06:28 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\SPECIAL\SilentFlower.dat - 4380630
+2/18/2004 6:29:14 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\SPECIAL\song.dat - 3542622
+1/14/2004 5:20:02 AM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\SPECIAL\SpaceIsCalling.dat - 2676112
+7/14/2000 7:04:26 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\music\SPECIAL\TRIUMPH.dat - 1223366
+6/9/2012 8:46:39 PM - ProgramFiles\GOG.com\Space Rangers 2 - Reboot\Save\Ranger center Cedar.sav - 1847289
+
+UAC Disabled or not present
+
