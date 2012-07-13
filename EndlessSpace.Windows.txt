@@ -1,0 +1,393 @@
+Game Name: Endless Space
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+SteamCommon\Endless Space
+
+Save Path: 
+UserDocuments\Endless Space
+
+
+ScummVM Path Entries: 
+Error while attempting to cehck for ScummVM path entries:
+Haven't configured for ScummVM yet
+   at MASGAU.Analyzer.APCAnalyzer.scanForScumm(String save_path) in C:\Users\Matthew\Desktop\MASGAU\MASGAU.Analyzer\APCAnalyzer.cs:line 63
+   at MASGAU.Analyzer.APCAnalyzer.analyzerWork() in C:\Users\Matthew\Desktop\MASGAU\MASGAU.Analyzer\APCAnalyzer.cs:line 35
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+7/4/2012 2:36:12 PM - UserDocuments\Endless Space\Registry.xml - 1762
+7/4/2012 2:33:20 PM - UserDocuments\Endless Space\Save\AutoSave 115.bin - 13192
+7/4/2012 2:33:42 PM - UserDocuments\Endless Space\Save\AutoSave 116.bin - 13442
+7/4/2012 2:33:51 PM - UserDocuments\Endless Space\Save\AutoSave 117.bin - 13446
+7/4/2012 2:35:24 PM - UserDocuments\Endless Space\Save\AutoSave 118.bin - 13705
+7/4/2012 2:36:09 PM - UserDocuments\Endless Space\Save\SOWERS - Turn 53.bin - 13747
+7/4/2012 1:23:30 PM - UserDocuments\Endless Space\Save\UNITED EMPIRE - Turn 65.bin - 14209
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+7/4/2012 9:21:26 AM - SteamCommon\Endless Space\208140.vdf - 922
+7/4/2012 1:23:44 PM - SteamCommon\Endless Space\AVProWindowsMedia.dll - 242688
+7/4/2012 9:25:47 AM - SteamCommon\Endless Space\DebugLog.txt - 0
+7/4/2012 9:22:28 AM - SteamCommon\Endless Space\EndlessSpace.exe - 8961024
+7/4/2012 9:24:37 AM - SteamCommon\Endless Space\fmodex.dll - 798720
+7/4/2012 9:22:54 AM - SteamCommon\Endless Space\fmod_event.dll - 327680
+7/4/2012 9:25:24 AM - SteamCommon\Endless Space\fmod_event_net.dll - 364544
+7/4/2012 9:25:34 AM - SteamCommon\Endless Space\steam_api.dll - 120616
+7/4/2012 9:25:34 AM - SteamCommon\Endless Space\stlport_vc10.5.2.dll - 741888
+7/4/2012 1:23:46 PM - SteamCommon\Endless Space\Assets\Xml\GalaxyGenerator\GalaxySettings.xml - 145785
+7/4/2012 9:21:27 AM - SteamCommon\Endless Space\Assets\Xml\GalaxyGenerator\GalaxyShapes.xml - 13686
+7/4/2012 9:22:18 AM - SteamCommon\Endless Space\Components\vcredist_x86.exe - 5073240
+7/4/2012 9:21:35 AM - SteamCommon\Endless Space\Components\DirectX\Apr2005_d3dx9_25_x64.cab - 1347354
+7/4/2012 9:21:38 AM - SteamCommon\Endless Space\Components\DirectX\Apr2005_d3dx9_25_x86.cab - 1078962
+7/4/2012 9:21:29 AM - SteamCommon\Endless Space\Components\DirectX\Apr2006_d3dx9_30_x64.cab - 1397830
+7/4/2012 9:21:29 AM - SteamCommon\Endless Space\Components\DirectX\Apr2006_d3dx9_30_x86.cab - 1115221
+7/4/2012 9:21:28 AM - SteamCommon\Endless Space\Components\DirectX\Apr2006_MDX1_x86.cab - 916430
+7/4/2012 9:21:35 AM - SteamCommon\Endless Space\Components\DirectX\Apr2006_MDX1_x86_Archive.cab - 4162630
+7/4/2012 9:21:28 AM - SteamCommon\Endless Space\Components\DirectX\Apr2006_XACT_x64.cab - 179133
+7/4/2012 9:21:32 AM - SteamCommon\Endless Space\Components\DirectX\Apr2006_XACT_x86.cab - 133103
+7/4/2012 9:21:29 AM - SteamCommon\Endless Space\Components\DirectX\Apr2006_xinput_x64.cab - 87101
+7/4/2012 9:21:30 AM - SteamCommon\Endless Space\Components\DirectX\Apr2006_xinput_x86.cab - 46010
+7/4/2012 9:21:35 AM - SteamCommon\Endless Space\Components\DirectX\APR2007_d3dx10_33_x64.cab - 698612
+7/4/2012 9:21:27 AM - SteamCommon\Endless Space\Components\DirectX\APR2007_d3dx10_33_x86.cab - 695865
+7/4/2012 9:21:33 AM - SteamCommon\Endless Space\Components\DirectX\APR2007_d3dx9_33_x64.cab - 1607358
+7/4/2012 9:21:36 AM - SteamCommon\Endless Space\Components\DirectX\APR2007_d3dx9_33_x86.cab - 1606039
+7/4/2012 9:21:29 AM - SteamCommon\Endless Space\Components\DirectX\APR2007_XACT_x64.cab - 195766
+7/4/2012 9:21:32 AM - SteamCommon\Endless Space\Components\DirectX\APR2007_XACT_x86.cab - 151225
+7/4/2012 9:21:30 AM - SteamCommon\Endless Space\Components\DirectX\APR2007_xinput_x64.cab - 96817
+7/4/2012 9:21:28 AM - SteamCommon\Endless Space\Components\DirectX\APR2007_xinput_x86.cab - 53302
+7/4/2012 9:21:34 AM - SteamCommon\Endless Space\Components\DirectX\Aug2005_d3dx9_27_x64.cab - 1350542
+7/4/2012 9:21:34 AM - SteamCommon\Endless Space\Components\DirectX\Aug2005_d3dx9_27_x86.cab - 1077644
+7/4/2012 9:21:29 AM - SteamCommon\Endless Space\Components\DirectX\AUG2006_XACT_x64.cab - 182903
+7/4/2012 9:21:29 AM - SteamCommon\Endless Space\Components\DirectX\AUG2006_XACT_x86.cab - 137235
+7/4/2012 9:21:29 AM - SteamCommon\Endless Space\Components\DirectX\AUG2006_xinput_x64.cab - 87142
+7/4/2012 9:21:29 AM - SteamCommon\Endless Space\Components\DirectX\AUG2006_xinput_x86.cab - 46058
+7/4/2012 9:21:35 AM - SteamCommon\Endless Space\Components\DirectX\AUG2007_d3dx10_35_x64.cab - 852286
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\AUG2007_d3dx10_35_x86.cab - 796867
+7/4/2012 9:21:37 AM - SteamCommon\Endless Space\Components\DirectX\AUG2007_d3dx9_35_x64.cab - 1800160
+7/4/2012 9:21:38 AM - SteamCommon\Endless Space\Components\DirectX\AUG2007_d3dx9_35_x86.cab - 1708152
+7/4/2012 9:21:31 AM - SteamCommon\Endless Space\Components\DirectX\AUG2007_XACT_x64.cab - 198096
+7/4/2012 9:21:31 AM - SteamCommon\Endless Space\Components\DirectX\AUG2007_XACT_x86.cab - 153012
+7/4/2012 9:21:30 AM - SteamCommon\Endless Space\Components\DirectX\Aug2008_d3dx10_39_x64.cab - 867612
+7/4/2012 9:21:32 AM - SteamCommon\Endless Space\Components\DirectX\Aug2008_d3dx10_39_x86.cab - 849167
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\Components\DirectX\Aug2008_d3dx9_39_x64.cab - 1794084
+7/4/2012 9:21:34 AM - SteamCommon\Endless Space\Components\DirectX\Aug2008_d3dx9_39_x86.cab - 1464672
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\Components\DirectX\Aug2008_XACT_x64.cab - 121772
+7/4/2012 9:21:33 AM - SteamCommon\Endless Space\Components\DirectX\Aug2008_XACT_x86.cab - 92996
+7/4/2012 9:21:33 AM - SteamCommon\Endless Space\Components\DirectX\Aug2008_XAudio_x64.cab - 271412
+7/4/2012 9:21:46 AM - SteamCommon\Endless Space\Components\DirectX\Aug2008_XAudio_x86.cab - 271038
+7/4/2012 9:21:51 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_D3DCompiler_42_x64.cab - 919044
+7/4/2012 9:21:31 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_D3DCompiler_42_x86.cab - 900598
+7/4/2012 9:21:58 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_d3dcsx_42_x64.cab - 3112111
+7/4/2012 9:21:37 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_d3dcsx_42_x86.cab - 3319740
+7/4/2012 9:21:30 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_d3dx10_42_x64.cab - 232635
+7/4/2012 9:21:30 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_d3dx10_42_x86.cab - 192131
+7/4/2012 9:21:59 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_d3dx11_42_x64.cab - 136301
+7/4/2012 9:21:37 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_d3dx11_42_x86.cab - 105044
+7/4/2012 9:21:35 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_d3dx9_42_x64.cab - 930116
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_d3dx9_42_x86.cab - 728456
+7/4/2012 9:22:00 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_XACT_x64.cab - 122408
+7/4/2012 9:21:35 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_XACT_x86.cab - 93106
+7/4/2012 9:21:34 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_XAudio_x64.cab - 273264
+7/4/2012 9:21:37 AM - SteamCommon\Endless Space\Components\DirectX\Aug2009_XAudio_x86.cab - 272642
+7/4/2012 9:21:38 AM - SteamCommon\Endless Space\Components\DirectX\Dec2005_d3dx9_28_x64.cab - 1357976
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Dec2005_d3dx9_28_x86.cab - 1079456
+7/4/2012 9:21:35 AM - SteamCommon\Endless Space\Components\DirectX\DEC2006_d3dx10_00_x64.cab - 212807
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\Components\DirectX\DEC2006_d3dx10_00_x86.cab - 191720
+7/4/2012 9:21:46 AM - SteamCommon\Endless Space\Components\DirectX\DEC2006_d3dx9_32_x64.cab - 1571154
+7/4/2012 9:21:51 AM - SteamCommon\Endless Space\Components\DirectX\DEC2006_d3dx9_32_x86.cab - 1574376
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\DEC2006_XACT_x64.cab - 192475
+7/4/2012 9:21:35 AM - SteamCommon\Endless Space\Components\DirectX\DEC2006_XACT_x86.cab - 145599
+7/4/2012 9:22:00 AM - SteamCommon\Endless Space\Components\DirectX\DSETUP.dll - 89944
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\dsetup32.dll - 1801048
+7/4/2012 9:22:01 AM - SteamCommon\Endless Space\Components\DirectX\dxdllreg_x86.cab - 42410
+7/4/2012 9:21:52 AM - SteamCommon\Endless Space\Components\DirectX\DXSETUP.exe - 537432
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\Components\DirectX\dxupdate.cab - 94011
+7/4/2012 9:22:02 AM - SteamCommon\Endless Space\Components\DirectX\Feb2005_d3dx9_24_x64.cab - 1247499
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Feb2005_d3dx9_24_x86.cab - 1013225
+7/4/2012 9:21:58 AM - SteamCommon\Endless Space\Components\DirectX\Feb2006_d3dx9_29_x64.cab - 1362796
+7/4/2012 9:21:38 AM - SteamCommon\Endless Space\Components\DirectX\Feb2006_d3dx9_29_x86.cab - 1084720
+7/4/2012 9:21:45 AM - SteamCommon\Endless Space\Components\DirectX\Feb2006_XACT_x64.cab - 178359
+7/4/2012 9:21:59 AM - SteamCommon\Endless Space\Components\DirectX\Feb2006_XACT_x86.cab - 132409
+7/4/2012 9:21:42 AM - SteamCommon\Endless Space\Components\DirectX\FEB2007_XACT_x64.cab - 194675
+7/4/2012 9:21:37 AM - SteamCommon\Endless Space\Components\DirectX\FEB2007_XACT_x86.cab - 147983
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Feb2010_X3DAudio_x64.cab - 54678
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Feb2010_X3DAudio_x86.cab - 20713
+7/4/2012 9:22:02 AM - SteamCommon\Endless Space\Components\DirectX\Feb2010_XACT_x64.cab - 122446
+7/4/2012 9:21:41 AM - SteamCommon\Endless Space\Components\DirectX\Feb2010_XACT_x86.cab - 93180
+7/4/2012 9:22:03 AM - SteamCommon\Endless Space\Components\DirectX\Feb2010_XAudio_x64.cab - 276960
+7/4/2012 9:21:37 AM - SteamCommon\Endless Space\Components\DirectX\Feb2010_XAudio_x86.cab - 277191
+7/4/2012 9:22:04 AM - SteamCommon\Endless Space\Components\DirectX\Jun2005_d3dx9_26_x64.cab - 1336002
+7/4/2012 9:21:59 AM - SteamCommon\Endless Space\Components\DirectX\Jun2005_d3dx9_26_x86.cab - 1064925
+7/4/2012 9:21:41 AM - SteamCommon\Endless Space\Components\DirectX\JUN2006_XACT_x64.cab - 180785
+7/4/2012 9:22:05 AM - SteamCommon\Endless Space\Components\DirectX\JUN2006_XACT_x86.cab - 133671
+7/4/2012 9:21:38 AM - SteamCommon\Endless Space\Components\DirectX\JUN2007_d3dx10_34_x64.cab - 699044
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\JUN2007_d3dx10_34_x86.cab - 698472
+7/4/2012 9:22:01 AM - SteamCommon\Endless Space\Components\DirectX\JUN2007_d3dx9_34_x64.cab - 1607774
+7/4/2012 9:21:49 AM - SteamCommon\Endless Space\Components\DirectX\JUN2007_d3dx9_34_x86.cab - 1607286
+7/4/2012 9:22:05 AM - SteamCommon\Endless Space\Components\DirectX\JUN2007_XACT_x64.cab - 197122
+7/4/2012 9:21:42 AM - SteamCommon\Endless Space\Components\DirectX\JUN2007_XACT_x86.cab - 152909
+7/4/2012 9:21:51 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_d3dx10_38_x64.cab - 867828
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_d3dx10_38_x86.cab - 849919
+7/4/2012 9:22:03 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_d3dx9_38_x64.cab - 1792608
+7/4/2012 9:22:07 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_d3dx9_38_x86.cab - 1463878
+7/4/2012 9:22:05 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_X3DAudio_x64.cab - 55154
+7/4/2012 9:22:07 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_X3DAudio_x86.cab - 21905
+7/4/2012 9:21:38 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_XACT_x64.cab - 121054
+7/4/2012 9:21:41 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_XACT_x86.cab - 93128
+7/4/2012 9:21:38 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_XAudio_x64.cab - 269628
+7/4/2012 9:21:42 AM - SteamCommon\Endless Space\Components\DirectX\JUN2008_XAudio_x86.cab - 269024
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_D3DCompiler_43_x64.cab - 944460
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_D3DCompiler_43_x86.cab - 931471
+7/4/2012 9:21:39 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_d3dcsx_43_x64.cab - 752783
+7/4/2012 9:21:47 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_d3dcsx_43_x86.cab - 762188
+7/4/2012 9:21:42 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_d3dx10_43_x64.cab - 235955
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_d3dx10_43_x86.cab - 197283
+7/4/2012 9:22:06 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_d3dx11_43_x64.cab - 138205
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_d3dx11_43_x86.cab - 109445
+7/4/2012 9:22:10 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_d3dx9_43_x64.cab - 937246
+7/4/2012 9:21:49 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_d3dx9_43_x86.cab - 768036
+7/4/2012 9:21:38 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_XACT_x64.cab - 124596
+7/4/2012 9:22:08 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_XACT_x86.cab - 93686
+7/4/2012 9:22:09 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_XAudio_x64.cab - 277338
+7/4/2012 9:21:39 AM - SteamCommon\Endless Space\Components\DirectX\Jun2010_XAudio_x86.cab - 278060
+7/4/2012 9:22:12 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_d3dx10_37_x64.cab - 844884
+7/4/2012 9:21:39 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_d3dx10_37_x86.cab - 818260
+7/4/2012 9:22:09 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_d3dx9_37_x64.cab - 1769862
+7/4/2012 9:21:54 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_d3dx9_37_x86.cab - 1443282
+7/4/2012 9:21:54 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_X3DAudio_x64.cab - 55058
+7/4/2012 9:22:12 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_X3DAudio_x86.cab - 21867
+7/4/2012 9:22:11 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_XACT_x64.cab - 122336
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_XACT_x86.cab - 93734
+7/4/2012 9:22:14 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_XAudio_x64.cab - 251194
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\Mar2008_XAudio_x86.cab - 226250
+7/4/2012 9:21:54 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_d3dx10_41_x64.cab - 1067160
+7/4/2012 9:21:56 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_d3dx10_41_x86.cab - 1040745
+7/4/2012 9:21:57 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_d3dx9_41_x64.cab - 1973702
+7/4/2012 9:22:02 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_d3dx9_41_x86.cab - 1612446
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_X3DAudio_x64.cab - 54600
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_X3DAudio_x86.cab - 21298
+7/4/2012 9:21:51 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_XACT_x64.cab - 121506
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_XACT_x86.cab - 92740
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_XAudio_x64.cab - 275044
+7/4/2012 9:21:57 AM - SteamCommon\Endless Space\Components\DirectX\Mar2009_XAudio_x86.cab - 273018
+7/4/2012 9:21:52 AM - SteamCommon\Endless Space\Components\DirectX\Nov2007_d3dx10_36_x64.cab - 864600
+7/4/2012 9:22:13 AM - SteamCommon\Endless Space\Components\DirectX\Nov2007_d3dx10_36_x86.cab - 803884
+7/4/2012 9:22:18 AM - SteamCommon\Endless Space\Components\DirectX\Nov2007_d3dx9_36_x64.cab - 1802058
+7/4/2012 9:22:25 AM - SteamCommon\Endless Space\Components\DirectX\Nov2007_d3dx9_36_x86.cab - 1709360
+7/4/2012 9:21:40 AM - SteamCommon\Endless Space\Components\DirectX\NOV2007_X3DAudio_x64.cab - 46144
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\NOV2007_X3DAudio_x86.cab - 18496
+7/4/2012 9:21:52 AM - SteamCommon\Endless Space\Components\DirectX\NOV2007_XACT_x64.cab - 196762
+7/4/2012 9:22:14 AM - SteamCommon\Endless Space\Components\DirectX\NOV2007_XACT_x86.cab - 148264
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_d3dx10_40_x64.cab - 994154
+7/4/2012 9:22:07 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_d3dx10_40_x86.cab - 965421
+7/4/2012 9:21:47 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_d3dx9_40_x64.cab - 1906878
+7/4/2012 9:21:54 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_d3dx9_40_x86.cab - 1550796
+7/4/2012 9:22:14 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_X3DAudio_x64.cab - 54522
+7/4/2012 9:21:59 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_X3DAudio_x86.cab - 21851
+7/4/2012 9:21:52 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_XACT_x64.cab - 121794
+7/4/2012 9:21:54 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_XACT_x86.cab - 92684
+7/4/2012 9:22:08 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_XAudio_x64.cab - 273960
+7/4/2012 9:21:43 AM - SteamCommon\Endless Space\Components\DirectX\Nov2008_XAudio_x86.cab - 272611
+7/4/2012 9:22:14 AM - SteamCommon\Endless Space\Components\DirectX\Oct2005_xinput_x64.cab - 86037
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\Components\DirectX\Oct2005_xinput_x86.cab - 45359
+7/4/2012 9:22:15 AM - SteamCommon\Endless Space\Components\DirectX\OCT2006_d3dx9_31_x64.cab - 1412902
+7/4/2012 9:22:26 AM - SteamCommon\Endless Space\Components\DirectX\OCT2006_d3dx9_31_x86.cab - 1127217
+7/4/2012 9:21:46 AM - SteamCommon\Endless Space\Components\DirectX\OCT2006_XACT_x64.cab - 182361
+7/4/2012 9:22:09 AM - SteamCommon\Endless Space\Components\DirectX\OCT2006_XACT_x86.cab - 138017
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level0 - 4644
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level1 - 977492
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level10 - 87600
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level11 - 171920
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level12 - 288968
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level13 - 171376
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level14 - 243184
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level15 - 234216
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level16 - 17904
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level2 - 126336
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level3 - 37304
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level4 - 59856
+7/12/2012 5:46:34 PM - SteamCommon\Endless Space\EndlessSpace_Data\level5 - 48800
+7/12/2012 5:46:34 PM - SteamCommon\Endless Space\EndlessSpace_Data\level6 - 42432
+7/12/2012 5:46:34 PM - SteamCommon\Endless Space\EndlessSpace_Data\level7 - 63296
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level8 - 458588
+7/12/2012 5:46:33 PM - SteamCommon\Endless Space\EndlessSpace_Data\level9 - 93836
+7/12/2012 5:46:36 PM - SteamCommon\Endless Space\EndlessSpace_Data\mainData - 1362052
+7/12/2012 5:46:54 PM - SteamCommon\Endless Space\EndlessSpace_Data\resources.assets - 1348413008
+7/12/2012 5:46:53 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets0.assets - 5362496
+7/12/2012 5:46:40 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets1.assets - 4136
+7/12/2012 5:46:40 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets10.assets - 5336
+7/12/2012 5:46:40 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets11.assets - 4904
+7/12/2012 5:46:40 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets12.assets - 6232
+7/12/2012 5:46:40 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets13.assets - 5096
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets14.assets - 5144
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets15.assets - 5528
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets16.assets - 9880
+7/12/2012 5:46:40 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets17.assets - 2251176
+7/12/2012 5:46:57 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets2.assets - 209399184
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets3.assets - 32800
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets4.assets - 53704
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets5.assets - 17828
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets6.assets - 5680
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets7.assets - 5536
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets8.assets - 5544
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\EndlessSpace_Data\sharedassets9.assets - 5192
+7/12/2012 5:46:34 PM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\Assembly-CSharp-firstpass.dll - 428544
+7/12/2012 5:46:37 PM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\Assembly-CSharp.dll - 2442240
+7/12/2012 5:46:36 PM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\Assembly-UnityScript-firstpass.dll - 27136
+7/12/2012 5:46:37 PM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\Assembly-UnityScript.dll - 3584
+7/4/2012 9:22:00 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\Boo.Lang.dll - 125440
+7/4/2012 9:22:20 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\ICSharpCode.SharpZipLib.dll - 131584
+7/4/2012 9:21:47 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\Mono.Posix.dll - 184320
+7/4/2012 9:21:48 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\Mono.Security.dll - 294400
+7/4/2012 9:22:29 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\mscorlib.dll - 2589184
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\System.Configuration.dll - 124928
+7/4/2012 9:21:54 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\System.Core.dll - 299520
+7/4/2012 9:22:30 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\System.dll - 1678336
+7/4/2012 9:22:22 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\System.Drawing.dll - 448512
+7/4/2012 9:22:11 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\System.Security.dll - 135168
+7/4/2012 9:22:21 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\System.Xml.dll - 1270272
+7/4/2012 9:22:22 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\UnityEngine.dll - 472064
+7/4/2012 9:22:23 AM - SteamCommon\Endless Space\EndlessSpace_Data\Managed\UnityScript.Lang.dll - 13824
+7/4/2012 9:22:25 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\mono.dll - 2086912
+7/4/2012 9:21:55 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\browscap.ini - 311984
+7/4/2012 9:22:23 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\config - 1691
+7/4/2012 9:21:44 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx - 58196
+7/4/2012 9:21:48 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\1.0\machine.config - 17259
+7/4/2012 9:21:55 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx - 60453
+7/4/2012 9:21:48 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\2.0\machine.config - 27626
+7/4/2012 9:22:21 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\2.0\settings.map - 2618
+7/4/2012 9:21:48 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\2.0\web.config - 11686
+7/4/2012 9:21:54 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\2.0\Browsers\Compat.browser - 1605
+7/4/2012 9:22:23 AM - SteamCommon\Endless Space\EndlessSpace_Data\Mono\etc\mono\mconfig\config.xml - 25817
+7/4/2012 9:22:30 AM - SteamCommon\Endless Space\EndlessSpace_Data\Plugins\Amplitude.Steam.Interop.dll - 40448
+7/4/2012 9:22:20 AM - SteamCommon\Endless Space\EndlessSpace_Data\Plugins\ICSharpCode.SharpZipLib.dll - 131584
+7/4/2012 9:25:44 AM - SteamCommon\Endless Space\EndlessSpace_Data\Resources\unity default resources - 3970517
+7/4/2012 9:25:23 AM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\AMPLITUDE Studios.mp4 - 3362502
+7/4/2012 9:25:24 AM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Iceberg_Interactive_Intro_Animation_Dark.mp4 - 8810484
+7/4/2012 1:26:42 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Amoeba\Amoeba_Intro.mp4 - 6833094
+7/4/2012 1:24:32 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Amoeba\Amoeba_Subtitles_english.xml - 1522
+7/4/2012 1:26:14 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Amoeba\Amoeba_Subtitles_french.xml - 1576
+7/4/2012 1:25:37 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Amoeba\Amoeba_Subtitles_german.xml - 1524
+7/4/2012 1:26:51 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Hissho\Hissho_Intro.mp4 - 5460704
+7/4/2012 1:26:25 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Hissho\Hissho_Subtitles_english.xml - 1473
+7/4/2012 1:25:37 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Hissho\Hissho_Subtitles_french.xml - 1553
+7/4/2012 1:25:56 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Hissho\Hissho_Subtitles_german.xml - 1572
+7/4/2012 1:26:54 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Horatio\Horatio_Intro.mp4 - 6610197
+7/4/2012 1:25:57 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Horatio\Horatio_Subtitles_english.xml - 1561
+7/4/2012 1:26:15 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Horatio\Horatio_Subtitles_french.xml - 1631
+7/4/2012 1:26:15 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Horatio\Horatio_Subtitles_german.xml - 1614
+7/4/2012 1:26:42 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Resistance\Resistance_Intro.mp4 - 6530495
+7/4/2012 1:26:54 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Resistance\Resistance_Subtitles_english.xml - 1641
+7/4/2012 1:26:42 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Resistance\Resistance_Subtitles_french.xml - 1806
+7/4/2012 1:26:32 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Resistance\Resistance_Subtitles_german.xml - 1743
+7/4/2012 1:26:15 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Sophon\Sophon_Intro.mp4 - 6678386
+7/4/2012 1:26:01 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Sophon\Sophon_Subtitles_english.xml - 1482
+7/4/2012 1:26:16 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Sophon\Sophon_Subtitles_french.xml - 1540
+7/4/2012 1:26:54 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Sophon\Sophon_Subtitles_german.xml - 1464
+7/4/2012 1:26:58 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Sower\Sower_Intro.mp4 - 6501612
+7/4/2012 1:24:34 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Sower\Sower_Subtitles_english.xml - 1531
+7/4/2012 1:26:32 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Sower\Sower_Subtitles_french.xml - 1612
+7/4/2012 1:26:03 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Sower\Sower_Subtitles_german.xml - 1579
+7/4/2012 1:26:47 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Swarm\Swarm_Intro.mp4 - 6602499
+7/4/2012 1:26:15 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Swarm\Swarm_Subtitles_english.xml - 1288
+7/4/2012 1:25:58 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Swarm\Swarm_Subtitles_french.xml - 1355
+7/4/2012 1:26:03 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Swarm\Swarm_Subtitles_german.xml - 1385
+7/4/2012 1:26:39 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Terran\Terran_Intro.mp4 - 6494554
+7/4/2012 1:26:48 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Terran\Terran_Subtitles_english.xml - 1472
+7/4/2012 1:24:34 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Terran\Terran_Subtitles_french.xml - 1570
+7/4/2012 1:26:05 PM - SteamCommon\Endless Space\EndlessSpace_Data\StreamingAssets\Movies\Terran\Terran_Subtitles_german.xml - 1563
+7/4/2012 9:25:02 AM - SteamCommon\Endless Space\Public\Registry.xml - 439
+7/4/2012 9:23:50 AM - SteamCommon\Endless Space\Public\AI\AIParametersBuilding.xml - 30562
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\Public\AI\AIParametersHero.xml - 12068
+7/4/2012 9:25:25 AM - SteamCommon\Endless Space\Public\AI\AIParametersHeroAbility.xml - 15674
+7/4/2012 1:24:34 PM - SteamCommon\Endless Space\Public\AI\AIParametersTechnology.xml - 56329
+7/4/2012 1:25:56 PM - SteamCommon\Endless Space\Public\Audio\StarEmpire_FMOD_Project_01.fev - 253396
+7/4/2012 1:27:21 PM - SteamCommon\Endless Space\Public\Audio\StarEmpire_FMOD_Project_Music_01.fsb - 157077568
+7/4/2012 1:27:25 PM - SteamCommon\Endless Space\Public\Audio\StarEmpire_FMOD_Project_SFX_01.fsb - 28912288
+7/4/2012 9:24:04 AM - SteamCommon\Endless Space\Public\Cursors\Default.cur - 26558
+7/4/2012 9:24:04 AM - SteamCommon\Endless Space\Public\Cursors\EndlessSpace_Cursor_01.cur - 26558
+7/4/2012 9:24:04 AM - SteamCommon\Endless Space\Public\Cursors\EndlessSpace_Cursor_02.cur - 26558
+7/4/2012 9:25:08 AM - SteamCommon\Endless Space\Public\Cursors\EndlessSpace_Cursor_03.cur - 26558
+7/4/2012 9:24:49 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Galaxy-Square-2.xml - 15451
+7/4/2012 9:24:49 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Galaxy-Square-4.xml - 15503
+7/4/2012 9:25:45 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Galaxy-Square-4moreplanets.xml - 15969
+7/4/2012 9:24:49 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Galaxy-Square2.xml - 15503
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\Public\GalaxyGenerator\Galaxy.xml - 3
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\Public\GalaxyGenerator\GalaxyConfiguration.xml - 1883
+7/4/2012 9:31:54 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\GalaxyGenerationDebugLog.txt - 0
+7/4/2012 1:26:31 PM - SteamCommon\Endless Space\Public\GalaxyGenerator\GalaxyGeneratorPlugin.dll - 102400
+7/4/2012 9:25:33 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Density\GalaxyDisk4_Density.png - 4279
+7/4/2012 9:24:04 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Density\GalaxyDisk_Density.png - 4140
+7/4/2012 9:24:48 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Density\GalaxyOvoid_Density.png - 4080
+7/4/2012 9:23:12 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Density\GalaxySpiral2_Density.png - 4657
+7/4/2012 9:24:48 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Density\GalaxySpiral4_Density.png - 4747
+7/4/2012 9:25:40 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Density\GalaxySpiral8_Density.png - 4424
+7/4/2012 9:25:08 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Density\GalaxyTwinElliptical_Density.png - 4425
+7/4/2012 9:25:09 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Regions\GalaxyDisk4_Regions.png - 4648
+7/4/2012 9:24:48 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Regions\GalaxyDisk_Regions.png - 4582
+7/4/2012 9:25:40 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Regions\GalaxyOvoid_Regions.png - 4190
+7/4/2012 9:24:04 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Regions\GalaxySpiral2_Regions.png - 5209
+7/4/2012 9:25:42 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Regions\GalaxySpiral4_Regions.png - 4295
+7/4/2012 9:25:42 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Regions\GalaxySpiral8_Regions.png - 4583
+7/4/2012 9:24:04 AM - SteamCommon\Endless Space\Public\GalaxyGenerator\Regions\GalaxyTwinElliptical_Regions.png - 4544
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\Public\Localization\english\Localization_Locales.xml - 750427
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\Public\Localization\french\Localization_Locales.xml - 801908
+7/12/2012 5:46:41 PM - SteamCommon\Endless Space\Public\Localization\german\Localization_Locales.xml - 831944
+7/4/2012 1:27:17 PM - SteamCommon\Endless Space\Public\Movies\Amoeba_Intro.wmv - 22041068
+7/4/2012 1:27:29 PM - SteamCommon\Endless Space\Public\Movies\AMPLITUDE Studios.WMV - 4074387
+7/4/2012 1:27:16 PM - SteamCommon\Endless Space\Public\Movies\Hissho_Intro.wmv - 34741565
+7/4/2012 1:27:32 PM - SteamCommon\Endless Space\Public\Movies\Horatio_Intro.wmv - 26401571
+7/4/2012 1:27:36 PM - SteamCommon\Endless Space\Public\Movies\Iceberg_Interactive_Intro_Animation_Dark.wmv - 7157538
+7/4/2012 1:27:40 PM - SteamCommon\Endless Space\Public\Movies\Resistance_Intro.wmv - 26361571
+7/4/2012 1:27:50 PM - SteamCommon\Endless Space\Public\Movies\Sophon_Intro.wmv - 38051571
+7/4/2012 1:27:54 PM - SteamCommon\Endless Space\Public\Movies\Sower_Intro.wmv - 33761571
+7/4/2012 1:27:57 PM - SteamCommon\Endless Space\Public\Movies\Swarm_Intro.wmv - 36571571
+7/4/2012 1:27:46 PM - SteamCommon\Endless Space\Public\Movies\Terran_Intro.wmv - 29451571
+7/4/2012 1:27:48 PM - SteamCommon\Endless Space\Soundtrack\01-The Endless.mp3 - 5138560
+7/4/2012 1:27:46 PM - SteamCommon\Endless Space\Soundtrack\02-The Dust.mp3 - 6600832
+7/4/2012 1:27:56 PM - SteamCommon\Endless Space\Soundtrack\03-Terraforming.mp3 - 6733952
+7/4/2012 1:27:49 PM - SteamCommon\Endless Space\Soundtrack\04-Beneath the strings.mp3 - 6121600
+7/4/2012 1:27:52 PM - SteamCommon\Endless Space\Soundtrack\05-Io Bells.mp3 - 5388416
+7/4/2012 1:27:42 PM - SteamCommon\Endless Space\Soundtrack\06-TransX.mp3 - 5677184
+7/4/2012 1:27:52 PM - SteamCommon\Endless Space\Soundtrack\07-Negentropy.mp3 - 6293632
+7/4/2012 1:27:54 PM - SteamCommon\Endless Space\Soundtrack\08-Flawless Theory.mp3 - 7387264
+7/4/2012 1:27:54 PM - SteamCommon\Endless Space\Soundtrack\09-The Endless Choir Version.mp3 - 5138560
+7/4/2012 1:27:52 PM - SteamCommon\Endless Space\Soundtrack\10-B.Matter.mp3 - 5036160
+7/4/2012 1:27:52 PM - SteamCommon\Endless Space\Soundtrack\11-The Academy.mp3 - 5871744
+7/4/2012 1:27:52 PM - SteamCommon\Endless Space\Soundtrack\12-Stellar Pioneer.mp3 - 4843648
+7/4/2012 1:27:47 PM - SteamCommon\Endless Space\Soundtrack\13-Xotic Particles.mp3 - 3594368
+7/4/2012 1:27:55 PM - SteamCommon\Endless Space\Soundtrack\14-Astral Compass.mp3 - 4137088
+7/4/2012 1:27:56 PM - SteamCommon\Endless Space\Soundtrack\15-Falling Night Stars.mp3 - 6813824
+7/4/2012 1:27:56 PM - SteamCommon\Endless Space\Soundtrack\16-Gravity Well.mp3 - 5570688
+7/4/2012 1:27:38 PM - SteamCommon\Endless Space\Soundtrack\17-Factions.mp3 - 1742976
+7/4/2012 1:27:56 PM - SteamCommon\Endless Space\Soundtrack\18-The Battlescene.mp3 - 3180672
+7/4/2012 1:27:53 PM - SteamCommon\Endless Space\Soundtrack\19-The Endless Gary's Version.mp3 - 5138560
+7/4/2012 1:27:52 PM - SteamCommon\Endless Space\Soundtrack\Endless Space OST Cover.jpg - 135734
+7/4/2012 1:27:23 PM - SteamCommon\Endless Space\Soundtrack\Thumbs.db - 269312
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 208140
+Value: InstallLocation
+Data: SteamCommon\Endless Space
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

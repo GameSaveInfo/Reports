@@ -1,3 +1,97 @@
+GoG version
+
+Game Name: Gemini Rue
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\GOG.com\Gemini Rue
+
+Save Path: 
+SavedGames\Gemini Rue
+
+
+Save Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+7/12/2012 7:50:03 PM - SavedGames\Gemini Rue\agssave.001 - 824509
+7/12/2012 7:49:27 PM - SavedGames\Gemini Rue\agssave.999 - 593860
+
+Install Folder Dump: 
+
+Drive Information: 
+Drive Name: G:\
+Drive Root: G:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+4/25/2012 8:26:04 PM - Drive\GOG.com\Gemini Rue\acsetup.cfg - 322
+12/15/2011 9:50:34 AM - Drive\GOG.com\Gemini Rue\audio.vox - 65882884
+12/15/2011 9:50:34 AM - Drive\GOG.com\Gemini Rue\Gemini Rue.exe - 61986506
+7/11/2012 11:15:14 AM - Drive\GOG.com\Gemini Rue\gfw_high.ico - 114232
+7/11/2012 11:31:18 AM - Drive\GOG.com\Gemini Rue\goggame.dll - 230400
+11/28/2008 10:32:10 PM - Drive\GOG.com\Gemini Rue\innosetup_license.txt - 1471
+12/15/2011 9:50:34 AM - Drive\GOG.com\Gemini Rue\speech.vox - 152149420
+4/20/2010 12:37:04 PM - Drive\GOG.com\Gemini Rue\Support.ico - 62895
+7/12/2012 5:51:35 PM - Drive\GOG.com\Gemini Rue\unins000.dat - 56417
+7/12/2012 5:51:09 PM - Drive\GOG.com\Gemini Rue\unins000.exe - 2142547
+7/12/2012 5:51:35 PM - Drive\GOG.com\Gemini Rue\unins000.ini - 80
+12/15/2011 9:50:34 AM - Drive\GOG.com\Gemini Rue\winsetup.exe - 69659
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{1394B35D-D2DA-4A7A-B48D-D721C16641D8}
+Value: ConfigApplicationPath
+Data: Drive\GOG.com\Gemini Rue
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{1394B35D-D2DA-4A7A-B48D-D721C16641D8}
+Value: ConfigGDFBinaryPath
+Data: 7/11/2012 11:31:18 AM - Drive\GOG.com\Gemini Rue\goggame.dll - 230400
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGEMINIRUE
+Value: EXE
+Data: 12/15/2011 9:50:34 AM - Drive\GOG.com\Gemini Rue\Gemini Rue.exe - 61986506
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGEMINIRUE
+Value: PATH
+Data: Drive\GOG.com\Gemini Rue
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGEMINIRUE
+Value: LAUNCHCOMMAND
+Data: 12/15/2011 9:50:34 AM - Drive\GOG.com\Gemini Rue\Gemini Rue.exe - 61986506
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGPACKGEMINIRUE
+Value: PACKPATH
+Data: Drive\GOG.com\Gemini Rue
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Gemini Rue_is1
+Value: Inno Setup: App Path
+Data: Drive\GOG.com\Gemini Rue
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Gemini Rue_is1
+Value: InstallLocation
+Data: Drive\GOG.com\Gemini Rue
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+7/12/2012 5:51:35 PM - StartMenu\Programs\GOG.com\Gemini Rue\Gemini Rue.lnk - 747
+12/15/2011 9:50:34 AM - Drive\GOG.com\Gemini Rue\Gemini Rue.exe - 61986506
+7/12/2012 5:51:32 PM - StartMenu\Programs\GOG.com\Gemini Rue\Setup.lnk - 671
+12/15/2011 9:50:34 AM - Drive\GOG.com\Gemini Rue\winsetup.exe - 69659
+7/12/2012 5:51:32 PM - StartMenu\Programs\GOG.com\Gemini Rue\Uninstall Gemini Rue.lnk - 625
+7/12/2012 5:51:09 PM - Drive\GOG.com\Gemini Rue\unins000.exe - 2142547
+
+Steam version
+
 Comments:
   <game name="GeminiRue" platform="Steam">
     <title>Gemini Rue</title>

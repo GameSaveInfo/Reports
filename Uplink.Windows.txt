@@ -1,3 +1,77 @@
+GoG version:
+
+Game Name: Uplink
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\GOG.com\Uplink
+
+Save Path: 
+Drive\GOG.com\Uplink\users
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{892BD4B4-273D-4B34-971C-293F58CF50CC}
+Value: ConfigApplicationPath
+Data: Drive\GOG.com\Uplink
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{892BD4B4-273D-4B34-971C-293F58CF50CC}
+Value: ConfigGDFBinaryPath
+Data: 7/11/2012 11:33:14 AM - Drive\GOG.com\Uplink\goggame.dll - 248832
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-936450520-4170396899-2773277859-1001\{4D013C26-3CCC-478C-9B8C-A18C13ACFA8F}
+Value: ConfigApplicationPath
+Data: Drive\GOG.com\Uplink
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-936450520-4170396899-2773277859-1001\{4D013C26-3CCC-478C-9B8C-A18C13ACFA8F}
+Value: AppExePath
+Data: 9/28/2011 2:31:58 PM - Drive\GOG.com\Uplink\uplink.exe - 2038272
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGPACKUPLINK
+Value: PACKPATH
+Data: Drive\GOG.com\Uplink
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGUPLINK
+Value: EXE
+Data: 9/28/2011 2:31:58 PM - Drive\GOG.com\Uplink\Uplink.exe - 2038272
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGUPLINK
+Value: PATH
+Data: Drive\GOG.com\Uplink
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGUPLINK
+Value: LAUNCHCOMMAND
+Data: 9/28/2011 2:31:58 PM - Drive\GOG.com\Uplink\Uplink.exe - 2038272
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGUPLINK
+Value: SAVEGAMEFOLDER
+Data: Drive\GOG.com\Uplink
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Uplink
+Value: UninstallString
+Data: 7/12/2012 5:50:03 PM - Drive\GOG.com\Uplink\unins000.exe - 2142547
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Uplink_is1
+Value: Inno Setup: App Path
+Data: Drive\GOG.com\Uplink
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Uplink_is1
+Value: InstallLocation
+Data: Drive\GOG.com\Uplink
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+7/12/2012 5:50:18 PM - StartMenu\Programs\GOG.com\Uplink\Uninstall Uplink.lnk - 611
+7/12/2012 5:50:03 PM - Drive\GOG.com\Uplink\unins000.exe - 2142547
+7/12/2012 5:50:18 PM - StartMenu\Programs\GOG.com\Uplink\Uplink.lnk - 703
+9/28/2011 2:31:58 PM - Drive\GOG.com\Uplink\uplink.exe - 2038272
+7/12/2012 5:50:18 PM - StartMenu\Programs\GOG.com\Uplink\Documents\Readme.lnk - 641
+9/22/2011 10:44:34 AM - Drive\GOG.com\Uplink\readme.txt - 11620
+
+Steam version:
+
+
 Game Name: Uplink
 Operating System:
 Microsoft Windows NT 6.1.7601 Service Pack 1
