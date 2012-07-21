@@ -1,0 +1,529 @@
+Game Name: Ubisoft Game Launcher
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Ubisoft\Ubisoft Game Launcher
+
+Save Path: 
+LocalAppData\Ubisoft Game Launcher
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{888F1505-C2B3-4FDE-835D-36353EBD4754}
+Value: InstallLocation
+Data: ProgramFilesX86\Ubisoft\Ubisoft Game Launcher
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{888F1505-C2B3-4FDE-835D-36353EBD4754}
+Value: DisplayIcon
+Data: 1/25/2010 2:30:36 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\icon1.ico - 4286
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Ubisoft\Launcher
+Value: InstallDir
+Data: ProgramFilesX86\Ubisoft\Ubisoft Game Launcher
+Current User Registry Entries: 
+
+Key:HKEY_CURRENT_USER\Software\MozillaPlugins\ubisoft.com/uplaypc
+Value: Path
+Data: 7/21/2012 5:03:27 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\npuplaypc.dll - 1145696
+
+Key:HKEY_CURRENT_USER\Software\Classes\TypeLib\{E652CE9D-1463-5095-89C1-B2EF3F92F92F}\1.0\0\win32
+Value: 
+Data: 7/21/2012 5:03:27 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\npuplaypc.dll - 1145696
+
+Key:HKEY_CURRENT_USER\Software\Classes\TypeLib\{E652CE9D-1463-5095-89C1-B2EF3F92F92F}\1.0\HELPDIR
+Value: 
+Data: ProgramFilesX86\Ubisoft\Ubisoft Game Launcher
+
+Key:HKEY_CURRENT_USER\Software\Classes\Wow6432Node\CLSID\{1c492e6a-2803-5ed7-83e1-1b1d4d41eb39}\InprocServer32
+Value: 
+Data: 7/21/2012 5:03:27 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\npuplaypc.dll - 1145696
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+7/21/2012 5:08:00 PM - LocalAppData\Ubisoft Game Launcher\settings.yml - 444
+7/21/2012 5:03:48 PM - LocalAppData\Ubisoft Game Launcher\users.dat - 179
+
+Install Folder Dump: 
+7/21/2012 5:03:05 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\chrome.pak - 2437566
+7/21/2012 5:03:21 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\dbghelp.dll - 860000
+7/21/2012 5:03:37 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\debug.log - 0
+1/25/2010 2:30:34 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\EULA.rtf - 33976
+7/21/2012 5:03:38 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\firstrun2_0 - 0
+1/25/2010 2:30:36 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\icon1.ico - 4286
+7/21/2012 5:03:23 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\icudt.dll - 9954656
+7/21/2012 5:12:52 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\Installed_files.txt - 102467
+7/21/2012 5:02:33 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\launcher_log.txt - 68081
+7/21/2012 5:03:26 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\libcef.dll - 20328800
+7/21/2012 5:03:26 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\libeay32.dll - 1206112
+7/21/2012 5:02:35 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\libeay32.dll_old - 1122304
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\licenses.txt - 1267
+7/21/2012 5:02:35 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\Microsoft.VC90.CRT.manifest - 524
+7/21/2012 5:02:35 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\msvcm90.dll - 224768
+7/21/2012 5:02:36 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\msvcp90.dll - 568832
+7/21/2012 5:02:36 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\msvcr90.dll - 655872
+7/21/2012 5:03:27 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\npuplaypc.dll - 1145696
+7/21/2012 5:03:28 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\npuplaypchub.dll - 1520992
+7/21/2012 5:01:59 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\orbitdll_game_log.txt - 0
+7/21/2012 5:01:59 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\orbitdll_launcher_log.txt - 0
+7/21/2012 5:03:29 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\overlay.dll - 1955680
+7/21/2012 5:02:37 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\phonon4.dll - 266752
+7/21/2012 5:02:38 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\QtCore4.dll - 2293760
+7/21/2012 5:02:41 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\QtGui4.dll - 8223744
+7/21/2012 5:02:42 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\QtNetwork4.dll - 975360
+7/21/2012 5:02:45 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\QtWebKit4.dll - 10837504
+7/21/2012 5:03:29 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\ssleay32.dll - 308576
+7/21/2012 5:02:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\ssleay32.dll_old - 274432
+7/21/2012 5:03:30 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\ubiorbitapi_r2.dll - 1609056
+7/21/2012 5:03:30 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\ubiorbitapi_r2_loader.dll - 329056
+7/21/2012 5:03:30 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\UbisoftGameLauncher.exe - 267104
+7/21/2012 5:03:01 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\UbisoftGameLauncher.exe_old - 7537504
+7/21/2012 5:03:31 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\ui.pak - 1679993
+7/21/2012 5:03:32 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\Uplay.exe - 15932256
+7/21/2012 5:03:33 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\uplay_r1.dll - 2074464
+7/21/2012 5:03:34 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\version.txt - 6
+7/21/2012 5:08:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\cache\http1\file_8a4ff3bc4a040d532532955ba36a07ac.png - 231
+7/21/2012 5:08:03 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\cache\ownership\f293a1b0-1a0d-463c-be06-8b80728f3bd8 - 35
+7/21/2012 5:08:52 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\cache\recently_played\f293a1b0-1a0d-463c-be06-8b80728f3bd8 - 10
+7/21/2012 5:12:54 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\cache\statistics\data - 0
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\12\version.txt - 4
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\12\pages\common\cover.png - 26374
+7/21/2012 5:03:05 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\13\config\product_config.yml - 1775
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\2\version.txt - 4
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\2\pages\common\cover.png - 46631
+7/21/2012 5:03:05 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\26\config\product_config.yml - 1806
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\3\version.txt - 6
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\3\pages\common\cover.png - 47613
+7/21/2012 5:03:05 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\30\config\product_config.yml - 1357
+7/21/2012 5:03:06 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\33\config\product_config.yml - 1297
+7/21/2012 5:03:00 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\version.txt - 6
+1/27/2010 6:35:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\version.txt.1342908153_7616_0.old - 4
+7/21/2012 5:03:00 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\assassins_network2.jpg - 28546
+7/21/2012 5:02:36 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\background.jpg - 247830
+7/21/2012 5:02:35 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\background_login.jpg - 109386
+7/21/2012 5:02:35 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\background_register.jpg - 72516
+7/21/2012 5:04:00 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\bg.jpg - 114286
+7/21/2012 5:02:35 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\game2web.jpg - 46495
+7/21/2012 5:02:35 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\logo.png - 44824
+7/21/2012 5:04:00 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\product_config.yml - 1744
+7/21/2012 5:02:34 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\splash.jpg - 70627
+7/21/2012 5:04:00 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\thumb.jpg - 21119
+7/21/2012 5:04:00 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\config\version.txt - 4
+7/21/2012 5:02:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\assassin_osi.ini - 60
+7/21/2012 5:02:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\binkw32.dll - 193024
+7/21/2012 5:02:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\checksums.md5 - 533
+7/21/2012 5:02:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\d3d8thk.dll - 8192
+7/21/2012 5:02:23 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\d3d9.dll - 1689088
+7/21/2012 5:02:23 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\D3DX9_42.dll - 1892184
+7/21/2012 5:02:24 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\DataOrbit2.forge - 2228224
+7/21/2012 5:02:24 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\dinput8.dll - 181760
+7/21/2012 5:02:24 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\osi.args - 50
+7/21/2012 5:02:32 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\osi.exe - 19423232
+7/21/2012 5:02:33 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\setupapi.dll - 983552
+7/21/2012 5:02:33 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\winmm.dll - 176128
+7/21/2012 5:02:33 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\6\xinput1_3.dll - 81768
+7/21/2012 5:02:10 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\assassin_osi.ini - 60
+7/21/2012 5:02:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\binkw32.dll - 193024
+7/21/2012 5:02:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\checksums.md5 - 533
+7/21/2012 5:02:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\d3d8thk.dll - 8192
+7/21/2012 5:02:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\d3d9.dll - 1689088
+7/21/2012 5:02:12 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\D3DX9_42.dll - 1892184
+7/21/2012 5:02:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\DataOrbit2.forge - 2228224
+7/21/2012 5:02:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\dinput8.dll - 181760
+7/21/2012 5:02:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\osi.args - 50
+7/21/2012 5:02:21 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\osi.exe - 19427328
+7/21/2012 5:02:21 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\setupapi.dll - 983552
+7/21/2012 5:02:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\winmm.dll - 176128
+7/21/2012 5:02:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\osis\7\xinput1_3.dll - 81768
+1/27/2010 6:35:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\4\pages\common\cover.png - 40221
+7/21/2012 5:03:06 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\40\config\achievements - 118839
+7/21/2012 5:03:06 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\40\config\achievements.dat - 380
+7/21/2012 5:03:06 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\40\config\product_config.yml - 1905
+7/21/2012 5:03:06 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\44\config\product_config.yml - 2015
+7/21/2012 5:03:06 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\44\config\thumb.jpg - 50799
+7/21/2012 5:03:06 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\53\config\product_config.yml - 1867
+7/21/2012 5:03:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\57\config\product_config.yml - 1157
+7/21/2012 5:03:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\59\config\achievements - 118839
+7/21/2012 5:03:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\59\config\achievements.dat - 380
+7/21/2012 5:03:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\59\config\product_config.yml - 1223
+7/21/2012 5:03:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\60\config\product_config.yml - 1137
+7/21/2012 5:03:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\60\config\thumb.jpg - 50799
+7/21/2012 5:03:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\64\config\product_config.yml - 718
+7/21/2012 5:03:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\71\config\product_config.yml - 1053
+1/27/2010 6:35:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\8\version.txt - 4
+1/27/2010 6:35:22 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\8\pages\common\cover.png - 56018
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\apply.but - 179
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\check_checked.but - 57
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\check_normal.but - 61
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\close.but - 91
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\minimize.but - 103
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\ok.but - 127
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\radio_checked.but - 109
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\radio_normal.but - 107
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\settings.but - 105
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\submit.but - 117
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\apply\apply-out.png - 1334
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\apply\apply-over.png - 1312
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\checkbox\checkbox-checked-focused.png - 1023
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\checkbox\checkbox-checked.png - 1203
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\checkbox\checkbox-unchecked-focused.png - 450
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\checkbox\checkbox-unchecked.png - 512
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\close\close-over.png - 403
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\close\close.png - 426
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\minimize\minimize-over.png - 326
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\minimize\minimize.png - 319
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\ok\ok-flat.png - 1551
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\ok\ok-over-flat.png - 1512
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\radio\radio_checked.png - 880
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\radio\radio_checked_over.png - 839
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\radio\radio_normal.png - 509
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\radio\radio_normal_over.png - 477
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\settings\settings-over.png - 583
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\settings\settings.png - 579
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\submit\signup-full-flat.png - 1657
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\submit\signup-full-focused-flat.png - 1584
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\submit\signup-full-focused-over-flat.png - 1548
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\submit\signup-full-over-flat.png - 1636
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\submit\submit-out.png - 1393
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\buttons\submit\submit-over.png - 1378
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\countries\countries.txt - 3736
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-out-left.png - 204
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-out-mid.png - 154
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-out-right.png - 197
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-over-left.png - 240
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-over-mid.png - 166
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-over-right.png - 238
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-scroll-down.png - 2949
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-scroll-drag.png - 3031
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-scroll-track.png - 2845
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-scroll-up.png - 2989
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-selected-left.png - 216
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-selected-mid.png - 161
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list-item-selected-right.png - 215
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list_item_scroll_down.but - 54
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\list_item_scroll_up.but - 52
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-center-out-flat.png - 192
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-center-out.png - 204
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-center-over-flat.png - 185
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-center-over.png - 196
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-left-out-flat.png - 298
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-left-out.png - 441
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-left-over-flat.png - 287
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-left-over.png - 432
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-right-out-flat.png - 3070
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-right-out.png - 3220
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-right-over-flat.png - 368
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\dropdown\select-right-over.png - 493
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\bottom-center.png - 182
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\bottom-left.png - 737
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\bottom-right.png - 709
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\close-out.png - 400
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\close-over.png - 376
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\example.png - 56853
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\middle-center.png - 118
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\middle-left.png - 195
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\middle-right.png - 190
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\top-center.png - 220
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\top-left.png - 853
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\errormessage\top-right.png - 1119
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\left.png - 201
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\midempty.png - 170
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\midfull.png - 167
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\progressbar-empty-flat.png - 704
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\progressbar-mini-center-empty.png - 166
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\progressbar-mini-center-full.png - 173
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\progressbar-mini-left.png - 211
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\progressbar-mini-right.png - 178
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loadingbar\right.png - 192
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\cs-CZ_loc.txt - 13699
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\da-DK_loc.txt - 13223
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\de-DE_loc.txt - 14214
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\en-US_loc.txt - 12999
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\es-ES_loc.txt - 13224
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\fi-FI_loc.txt - 13441
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\fr-FR_loc.txt - 13713
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\it-IT_loc.txt - 13248
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\ko-KO_loc.txt - 14102
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\nb-NO_loc.txt - 13395
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\nl-NL_loc.txt - 13505
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\pl-PL_loc.txt - 13690
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\ru-RU_loc.txt - 19266
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\sv-SE_loc.txt - 13329
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\zh-CN_loc.txt - 12124
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\loc\zh-TW_loc.txt - 12256
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\notification\notification-center.png - 211
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\notification\notification-left.png - 709
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\notification\notification-right.png - 752
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\notification\notification-thing-top.png - 566
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\notification\notification-thing.png - 679
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\background-temp.png - 1417
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\bg-black.png - 10173
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\bg-infotext.png - 6488
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\bg-minclose.png - 240
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\bg-small-buttons.png - 444
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\blackbackground.png - 1171
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-big-bg.png - 524
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-big-out.png - 1907
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-big-over.png - 3279
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-big.but - 97
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-close-out.png - 513
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-close-over.png - 500
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-logout-over.png - 1398
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-logout.png - 1520
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-minimize-out.png - 328
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-minimize-over.png - 326
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-short-out.png - 166
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-short-over.png - 869
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\but-short.but - 101
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\checkbox-checked-out.png - 744
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\checkbox-checked-over.png - 750
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\checkbox-checked.but - 115
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\checkbox-unchecked-out.png - 287
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\checkbox-unchecked-over.png - 286
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\checkbox-unchecked.but - 119
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\close.but - 101
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\content-divider.png - 35299
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\cover.png - 3895
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\disabled-smallbutton.but - 59
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\logo-ubisoft.png - 2815
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\logout.but - 101
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\minimize-close-background.png - 2988
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\minimize-close-background2.png - 463
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\minimize.but - 107
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\reflection-divider.png - 1419
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\small-background.png - 9327
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\small-window-background.png - 1279
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\smallbutton-disabled.png - 1438
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\smallbutton-out.png - 1477
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\smallbutton-over.png - 2326
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\smallbutton.but - 107
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\tiny-background.png - 3505
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\common\user-icon.png - 546
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\bg-white.png - 12106
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\but-validate-username-available.png - 766
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\but-validate-username-out.png - 453
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\but-validate-username-over.png - 448
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\input-email.png - 488
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\input-passwords.png - 597
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\input-username.png - 787
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\validate_username.but - 139
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\createaccount\validate_username_available.but - 77
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\entercdkey\input-cd-key.png - 796
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\login\bg-white.png - 11981
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\login\but-login-out.png - 6666
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\login\but-login-over.png - 6395
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\login\forgot-password.but - 102
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\login\forgot-password.png - 2831
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\login\input-password-bg.png - 656
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\login\input-username-bg.png - 672
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\login\login.but - 99
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\proxysettings\background.png - 7887
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\proxysettings\button-bg.png - 417
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\proxysettings\example.png - 31131
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\proxysettings\input-adress-off.png - 449
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\proxysettings\input-adress.png - 466
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\proxysettings\input-port-off.png - 392
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\proxysettings\input-port.png - 405
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\settings\settings-background.png - 3820
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\settings\toggle.but - 147
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\settings\toggledown.png - 503
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\settings\toggleidle.png - 404
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\settings\toggleover.png - 545
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_01.png - 2545
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_02.png - 2840
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_03.png - 2996
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_04.png - 3206
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_05.png - 3365
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_06.png - 3534
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_07.png - 3556
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_08.png - 3418
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_09.png - 3525
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_10.png - 3515
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_11.png - 3366
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_12.png - 3224
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_13.png - 2988
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_14.png - 2821
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_15.png - 2573
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\startup\progress_16.png - 1871
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\button-close-flat.png - 722
+1/25/2010 2:30:44 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\button-close-over-flat.png - 744
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\close.but - 123
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\header.png - 3236
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\submit1.but - 129
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\submit2.but - 129
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\submit3.but - 129
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\suggestion-button-1-over.png - 695
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\suggestion-button-1.png - 601
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\suggestion-button-2-over.png - 807
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\suggestion-button-2.png - 866
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\suggestion-button-3-over.png - 1513
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\suggestions\suggestion-button-3.png - 1523
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\tos\background.png - 7643
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\tos\europe-check-bg.png - 2290
+2/5/2010 10:20:20 AM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\tos\france-check-bg.png - 3098
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\pages\tos\non-europe-check-bg.png - 2737
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\scroll\tos-scrollbar-drag-out.png - 252
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\scroll\tos-scrollbar-drag-over.png - 250
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\scroll\tos-scrollbar-track-bottom.png - 183
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\scroll\tos-scrollbar-track-middle.png - 162
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\scroll\tos-scrollbar-track-top.png - 210
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-body-center.png - 240
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-body-left.png - 638
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-body-right.png - 668
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-button-center.png - 236
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-button-left.png - 880
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-button-right.png - 839
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-foot-center.png - 225
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-foot-left.png - 859
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-foot-right.png - 830
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-head-center.png - 243
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-head-left.png - 1374
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-head-right.png - 1542
+1/25/2010 2:30:46 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\default\suggester\usrsg-horzontal-bar.png - 249
+7/21/2012 5:03:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\cs-CZ_about.html - 975
+7/21/2012 5:03:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\cs-CZ_loc.txt - 56241
+7/21/2012 5:03:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\da-DK_about.html - 931
+7/21/2012 5:03:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\da-DK_loc.txt - 54488
+7/21/2012 5:03:09 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\de-DE_about.html - 1069
+7/21/2012 5:03:09 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\de-DE_loc.txt - 58322
+7/21/2012 5:03:09 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\en-US_about.html - 939
+7/21/2012 5:03:09 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\en-US_loc.txt - 53502
+7/21/2012 5:03:09 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\en-US_release_notes.txt - 1851
+7/21/2012 5:03:09 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\es-ES_about.html - 1061
+7/21/2012 5:03:09 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\es-ES_loc.txt - 56566
+7/21/2012 5:03:09 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\fi-FI_about.html - 931
+7/21/2012 5:03:10 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\fi-FI_loc.txt - 54449
+7/21/2012 5:03:10 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\fr-FR_about.html - 1061
+7/21/2012 5:03:10 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\fr-FR_loc.txt - 57030
+7/21/2012 5:03:10 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\hu-HU_about.html - 1019
+7/21/2012 5:03:10 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\hu-HU_loc.txt - 56353
+7/21/2012 5:03:10 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\it-IT_about.html - 1053
+7/21/2012 5:03:10 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\it-IT_loc.txt - 55056
+7/21/2012 5:03:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\ja-JP_about.html - 1205
+7/21/2012 5:03:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\ja-JP_loc.txt - 62995
+7/21/2012 5:03:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\ko-KO_about.html - 1019
+7/21/2012 5:03:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\ko-KO_loc.txt - 58486
+7/21/2012 5:03:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\nb-NO_about.html - 912
+7/21/2012 5:03:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\nb-NO_loc.txt - 55237
+7/21/2012 5:03:11 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\nl-NL_about.html - 904
+7/21/2012 5:03:12 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\nl-NL_loc.txt - 55349
+7/21/2012 5:03:12 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\pl-PL_about.html - 941
+7/21/2012 5:03:12 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\pl-PL_loc.txt - 55832
+7/21/2012 5:03:12 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\pt-BR_about.html - 1009
+7/21/2012 5:03:12 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\pt-BR_loc.txt - 55669
+7/21/2012 5:03:12 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\pt-PT_about.html - 996
+7/21/2012 5:03:12 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\pt-PT_loc.txt - 55766
+7/21/2012 5:03:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\ru-RU_about.html - 1602
+7/21/2012 5:03:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\ru-RU_loc.txt - 72084
+7/21/2012 5:03:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\sv-SE_about.html - 920
+7/21/2012 5:03:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\sv-SE_loc.txt - 54629
+7/21/2012 5:03:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\zh-CN_about.html - 836
+7/21/2012 5:03:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\zh-CN_loc.txt - 51775
+7/21/2012 5:03:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\zh-TW_about.html - 836
+7/21/2012 5:03:13 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\loc\zh-TW_loc.txt - 51952
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\de-DE_flag.png - 545
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\en-GB_flag.png - 599
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\en-US_flag.png - 609
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\es-ES_flag.png - 469
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\fr-FR_flag.png - 545
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\header.png - 194
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\it-IT_flag.png - 420
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\logo.png - 5488
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\netfaq.html - 21988
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\padding.png - 167
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\netfaq\ru-RU_flag.png - 618
+7/21/2012 5:03:14 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_back.bmp - 2912
+7/21/2012 5:03:14 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_back_disabled.bmp - 2912
+7/21/2012 5:03:14 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_back_hover.bmp - 2912
+7/21/2012 5:03:14 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_close.bmp - 2912
+7/21/2012 5:03:14 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_close_disabled.bmp - 2912
+7/21/2012 5:03:14 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_close_hover.bmp - 2912
+7/21/2012 5:03:14 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_forward.bmp - 2912
+7/21/2012 5:03:14 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_forward_disabled.bmp - 2912
+7/21/2012 5:03:15 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_forward_hover.bmp - 2912
+7/21/2012 5:03:15 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_frame_bottom.bmp - 76
+7/21/2012 5:03:15 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_frame_bottom_left_corner.bmp - 136
+7/21/2012 5:03:15 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_frame_bottom_right_corner.bmp - 136
+7/21/2012 5:03:15 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_frame_left.bmp - 72
+7/21/2012 5:03:15 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_frame_right.bmp - 72
+7/21/2012 5:03:15 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_frame_top.bmp - 680
+7/21/2012 5:03:16 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_frame_top_left_corner.bmp - 680
+7/21/2012 5:03:16 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_frame_top_right_corner.bmp - 680
+7/21/2012 5:03:16 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_home.bmp - 2912
+7/21/2012 5:03:16 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_home_disabled.bmp - 2912
+7/21/2012 5:03:16 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_home_hover.bmp - 2912
+7/21/2012 5:03:16 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_refresh.bmp - 2912
+7/21/2012 5:03:16 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_refresh_disabled.bmp - 2912
+7/21/2012 5:03:16 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\browser_refresh_hover.bmp - 2912
+7/21/2012 5:02:51 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\buy_reward.wav - 283424
+7/21/2012 5:02:52 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\cd_key.wav - 701080
+7/21/2012 5:02:08 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\country_list.txt - 7889
+7/21/2012 5:03:17 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\default_avatar_128.png - 4044
+7/21/2012 5:03:17 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\default_avatar_256.jpg - 6684
+7/21/2012 5:03:17 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\default_avatar_256.png - 8139
+7/21/2012 5:03:17 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\default_avatar_64.png - 2400
+7/21/2012 5:03:17 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_bottom.bmp - 96
+7/21/2012 5:03:17 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_bottom_left_corner.bmp - 136
+7/21/2012 5:03:17 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_bottom_right_corner.bmp - 136
+7/21/2012 5:03:17 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_close.bmp - 1280
+7/21/2012 5:03:18 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_close_hover.bmp - 1280
+7/21/2012 5:03:18 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_close_pressed.bmp - 1280
+7/21/2012 5:03:18 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_maximize.bmp - 1280
+7/21/2012 5:03:18 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_maximize_hover.bmp - 1280
+7/21/2012 5:03:18 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_maximize_pressed.bmp - 1280
+7/21/2012 5:03:18 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_minimize.bmp - 1280
+7/21/2012 5:03:18 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_minimize_hover.bmp - 1280
+7/21/2012 5:03:19 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_minimize_pressed.bmp - 1280
+7/21/2012 5:03:19 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_side.bmp - 72
+7/21/2012 5:03:19 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_top.bmp - 328
+7/21/2012 5:03:19 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_top_left_corner.bmp - 6176
+7/21/2012 5:03:19 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_top_right_corner.bmp - 600
+7/21/2012 5:03:19 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_window.bmp - 1280
+7/21/2012 5:03:19 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_window_hover.bmp - 1280
+7/21/2012 5:03:19 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\frame_window_pressed.bmp - 1280
+7/21/2012 5:03:20 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\free_game_configs_schema.yml - 917
+7/21/2012 5:02:52 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\generic_click.wav - 78292
+7/21/2012 5:02:52 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\generic_error.wav - 97212
+7/21/2012 5:03:20 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\LICENSES.txt - 179602
+7/21/2012 5:02:53 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\overlay_close.wav - 79452
+7/21/2012 5:03:20 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\product_config_schema_1_0.yml - 2561
+7/21/2012 5:03:20 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\product_config_schema_1_5.yml - 5115
+7/21/2012 5:03:20 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\product_config_schema_1_7.yml - 5696
+7/21/2012 5:03:20 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\product_config_schema_2_0.yml - 5846
+7/21/2012 5:03:20 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\product_config_schema_2_0_offline.yml - 3379
+7/21/2012 5:02:53 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\registration_complete.wav - 543764
+7/21/2012 5:02:53 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\rewards_select_product.wav - 117572
+7/21/2012 5:03:21 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\data\resources\rich_presence_schema.yml - 2286
+7/21/2012 5:02:50 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qgif4.dll - 26624
+7/21/2012 5:02:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qgif4.dll_old - 26624
+7/21/2012 5:02:50 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qico4.dll - 28672
+7/21/2012 5:02:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qico4.dll_old - 28672
+7/21/2012 5:02:50 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qjpeg4.dll - 196608
+7/21/2012 5:02:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qjpeg4.dll_old - 196096
+7/21/2012 5:02:51 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qmng4.dll - 220672
+7/21/2012 5:02:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qmng4.dll_old - 220672
+7/21/2012 5:02:51 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qtiff4.dll - 284672
+7/21/2012 5:02:07 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\imageformats\qtiff4.dll_old - 284672
+7/21/2012 5:03:27 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\locales\en-US.pak - 2798
+7/21/2012 5:07:26 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\logs\launcher_log.txt - 106298
+7/21/2012 5:07:52 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\logs\network_info.txt - 11410
+7/21/2012 5:03:37 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\logs\npapi_log.txt - 0
+7/21/2012 5:08:52 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\logs\overlay_log.txt - 3834
+7/21/2012 5:04:31 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\savegames\f293a1b0-1a0d-463c-be06-8b80728f3bd8\4\1.save - 2126
+7/21/2012 5:04:31 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\savegames\f293a1b0-1a0d-463c-be06-8b80728f3bd8\4\1.save.metadata - 9
+7/21/2012 5:08:39 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\savegames\f293a1b0-1a0d-463c-be06-8b80728f3bd8\4\2.save - 36934
+7/21/2012 5:08:53 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\savegames\f293a1b0-1a0d-463c-be06-8b80728f3bd8\4\2.save.extendedmeta - 36
+7/21/2012 5:08:53 PM - ProgramFilesX86\Ubisoft\Ubisoft Game Launcher\savegames\f293a1b0-1a0d-463c-be06-8b80728f3bd8\4\2.save.metadata - 9
+
+UAC Enabled
+
+
+VirtualStore Folders: 
