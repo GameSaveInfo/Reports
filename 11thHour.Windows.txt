@@ -1,0 +1,206 @@
+Game Name: The 11th Hour
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+Drive\GOG.com\The 11th Hour
+
+Folder Dump:
+
+Drive Information:
+Drive Name: G:\
+Drive Root: G:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\11H.ICO - 766
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\ADLIB.MDI - 14986
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\ADLIBG.MDI - 16377
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\ADRV688.DIG - 11278
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\AILDRVR.LST - 17948
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\BACK.RAW - 25687
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\COVER.RAW - 921600
+2/21/2012 9:58:56 AM - Drive\GOG.com\The 11th Hour\DDRAW EULA.txt - 770
+12/26/2011 6:54:18 PM - Drive\GOG.com\The 11th Hour\ddraw.dll - 178176
+9/27/2011 6:41:30 PM - Drive\GOG.com\The 11th Hour\ddraw.ini - 1024
+2/1/2012 2:08:32 PM - Drive\GOG.com\The 11th Hour\DIG.INI - 206
+2/10/2012 10:22:14 AM - Drive\GOG.com\The 11th Hour\DISK.1 - 220
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\ESFM.MDI - 15896
+3/7/2012 11:50:44 AM - Drive\GOG.com\The 11th Hour\gfw_high.ico - 146196
+3/8/2012 3:22:50 PM - Drive\GOG.com\The 11th Hour\goggame.dll - 287232
+7/28/2012 8:02:26 AM - Drive\GOG.com\The 11th Hour\groovie2.ini - 223
+2/21/2012 9:10:42 AM - Drive\GOG.com\The 11th Hour\hifi-cnc-ddraw-7c0f9a4.zip - 50504
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\ICONS.PH - 203676
+11/28/2008 9:32:10 PM - Drive\GOG.com\The 11th Hour\innosetup_license.txt - 1471
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\JAMMER.DIG - 3219
+2/23/2012 1:24:20 PM - Drive\GOG.com\The 11th Hour\launcher.exe - 858112
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\LOAD.RAW - 226717
+3/7/2012 11:38:42 AM - Drive\GOG.com\The 11th Hour\manual.pdf - 6701899
+2/1/2012 2:08:26 PM - Drive\GOG.com\The 11th Hour\MDI.INI - 203
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\MPU401.MDI - 1927
+6/10/1997 10:05:34 AM - Drive\GOG.com\The 11th Hour\mss32.dll - 159744
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\MT32MPU.MDI - 6980
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\NULL.MDI - 1609
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\OPL3.MDI - 16387
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\PAS.MDI - 15425
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\PASPLUS.MDI - 16458
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\PROAUDIO.DIG - 2127
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\RAP10.DIG - 2849
+7/28/2012 8:10:15 AM - Drive\GOG.com\The 11th Hour\s11h.1 - 1024
+7/28/2012 8:10:26 AM - Drive\GOG.com\The 11th Hour\s11h.3 - 1024
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SAMPLE.AD - 3622
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SAMPLE.MT - 65026
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SAMPLE.OPL - 3622
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SB16.DIG - 2836
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SBAWE32.MDI - 32694
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SBLASTER.DIG - 3125
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SBLASTER.MDI - 15118
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SBPRO.DIG - 2763
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SBPRO1.MDI - 15471
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SBPRO2.MDI - 16541
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SCRATCH1.ROL - 46856
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SNDSCAPE.DIG - 4171
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SNDSCAPE.MDI - 2971
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\SNDSYS.DIG - 3332
+4/20/2010 11:37:04 AM - Drive\GOG.com\The 11th Hour\Support.ico - 62895
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\TBYTE11H - 0
+7/28/2012 8:09:59 AM - Drive\GOG.com\The 11th Hour\tempmidi.xmi - 14784
+7/28/2012 8:10:38 AM - Drive\GOG.com\The 11th Hour\tmpscrn.dat - 614400
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\TRAIL.RAW - 61979
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\ULTRA.DIG - 9478
+2/1/2012 2:08:20 PM - Drive\GOG.com\The 11th Hour\ULTRA.MDI - 49672
+7/28/2012 7:39:43 AM - Drive\GOG.com\The 11th Hour\unins000.dat - 61933
+7/28/2012 7:38:43 AM - Drive\GOG.com\The 11th Hour\unins000.exe - 2142547
+7/28/2012 7:39:43 AM - Drive\GOG.com\The 11th Hour\unins000.ini - 68
+2/1/2012 2:08:34 PM - Drive\GOG.com\The 11th Hour\UNIVBE.DRV - 10405
+2/10/2012 1:33:58 PM - Drive\GOG.com\The 11th Hour\v32win.exe - 304640
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\AL.GRV - 6121
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\BC.GRV - 1735
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\BS.GRV - 2484
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\CD.GRV - 4088
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\CR.GRV - 3707
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\DIR.RL - 166432
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\FS.GRV - 1358
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\GJD.GJD - 716
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\HS.GRV - 4180
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\ITSAWRAP.GRV - 517
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\KM.GRV - 2184
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\KP.GRV - 1637
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\MAKINGOF.GRV - 994
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\MH.GRV - 5191
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\NC.GRV - 1208
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\NK.GRV - 2540
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\PT.GRV - 13532
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\RR.GRV - 3155
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\SCRIPT.GRV - 62447
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\SM.GRV - 1594
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\SW.GRV - 2998
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\TB.GRV - 841
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\TRAILER.GRV - 6
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\TX.GRV - 3034
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\GROOVIE\WL.GRV - 3251
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\ATPUZ.GJD - 39065474
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\BAPUZ.GJD - 2854016
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\BDPUZ.GJD - 6197983
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\BIG_OL.ROL - 11646976
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\CHPUZ.GJD - 357442
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\COMMON1.GJD - 47724403
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\COMMON2.GJD - 32407429
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\COMMON3.GJD - 9557829
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\COMMON4.GJD - 24754158
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\COMROOMS.GJD - 20985339
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\CREDITS.GJD - 1582254
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DOPUZ.GJD - 3235795
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DRPUZ.GJD - 15913398
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD1A.GJD - 78832457
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD1B.GJD - 96548148
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD1C.GJD - 52380402
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD2A.GJD - 62805753
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD2B.GJD - 82939421
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD3A.GJD - 62042099
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD3B.GJD - 85174866
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD3C.GJD - 51166895
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD4.GJD - 72297254
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD5A.GJD - 63819750
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD5B.GJD - 57058166
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\DVMOD5C.GJD - 54605691
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\FHPUZ.GJD - 7570927
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\FINAL_HR.ROL - 26360598
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\FRONT_OF.ROL - 2271274
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\GAPUZ.GJD - 1455874
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\HEY_COND.ROL - 3917472
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\HTPUZ.GJD - 964833
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\INTROCOM.GJD - 6875805
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\INTROD1.GJD - 6437077
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\JHPUZ.GJD - 22021848
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\KIPUZ.GJD - 4809766
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\KXPUZ.GJD - 23647913
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\LAPUZ.GJD - 17496880
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\LIPUZ.GJD - 10337648
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\MBPUZ.GJD - 1158041
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\MRDEATH.ROL - 6181746
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\MUPUZ.GJD - 10879786
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\NAV2.GJD - 28355090
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\NAV3.GJD - 62783170
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\NUPUZ.GJD - 9867877
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\OMOD1.GJD - 8987466
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\OMOD2.GJD - 13807726
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\OMOD3.GJD - 18631094
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\OMOD4.GJD - 34414155
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\OMOD5.GJD - 11226290
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\PGPUZ.GJD - 995458
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\RTPUZ.GJD - 14433730
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\THEGAME.ROL - 1599906
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\TH_MUSIC.GJD - 401798
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\ZCLAN.GJD - 20454932
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\ZFATROLS.GJD - 61686042
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\ZMAKD1.GJD - 63551523
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\ZMAKD2A.GJD - 104125523
+11/11/1995 12:11:10 PM - Drive\GOG.com\The 11th Hour\MEDIA\ZMAKD2B.GJD - 72088094
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{B59AE31D-9CB7-47C6-91BF-35F8D6DDB3E3}
+Value: ConfigApplicationPath
+Data: Drive\GOG.com\The 11th Hour
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{B59AE31D-9CB7-47C6-91BF-35F8D6DDB3E3}
+Value: ConfigGDFBinaryPath
+Data: 3/8/2012 3:22:50 PM - Drive\GOG.com\The 11th Hour\goggame.dll - 287232
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOG11H
+Value: EXE
+Data: 2/23/2012 1:24:20 PM - Drive\GOG.com\The 11th Hour\launcher.exe - 858112
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOG11H
+Value: PATH
+Data: Drive\GOG.com\The 11th Hour
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOG11H
+Value: LAUNCHCOMMAND
+Data: 2/23/2012 1:24:20 PM - Drive\GOG.com\The 11th Hour\launcher.exe - 858112
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOG11H
+Value: SAVEGAMEFOLDER
+Data: Drive\GOG.com\The 11th Hour
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\The 11th Hour_is1
+Value: Inno Setup: App Path
+Data: Drive\GOG.com\The 11th Hour
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\The 11th Hour_is1
+Value: InstallLocation
+Data: Drive\GOG.com\The 11th Hour
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+7/28/2012 7:39:43 AM - StartMenu\Programs\GOG.com\The  11th Hour\The 11th Hour.lnk - 762
+2/23/2012 1:24:20 PM - Drive\GOG.com\The 11th Hour\launcher.exe - 858112
+7/28/2012 7:39:43 AM - StartMenu\Programs\GOG.com\The  11th Hour\Uninstall 11th Hour.lnk - 634
+7/28/2012 7:38:43 AM - Drive\GOG.com\The 11th Hour\unins000.exe - 2142547
+7/28/2012 7:39:41 AM - StartMenu\Programs\GOG.com\The  11th Hour\Documents\Manual.lnk - 678
+3/7/2012 11:38:42 AM - Drive\GOG.com\The 11th Hour\manual.pdf - 6701899

@@ -1,0 +1,26 @@
+Game Name: Quantum Conundrum
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\200010
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+7/29/2012 10:51:48 AM - SteamUserData\200010\remotecache.vdf - 265
+7/29/2012 10:51:41 AM - SteamUserData\200010\remote\profile.bin - 1650
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

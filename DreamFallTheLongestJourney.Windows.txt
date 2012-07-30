@@ -1,3 +1,117 @@
+GoG.Com info:
+
+Game Name: Dreamfall GOG
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+ProgramFilesX86\GOG.com
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+UAC Enabled
+
+
+VirtualStore Folders:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+7/28/2012 8:30:24 AM - VirtualStore\Program Files (x86)\GOG.com\Dreamfall\prefs.dat - 3276
+7/28/2012 8:30:34 AM - VirtualStore\Program Files (x86)\GOG.com\Dreamfall\saves\checkpoint.sav - 281744
+7/28/2012 8:30:37 AM - VirtualStore\Program Files (x86)\GOG.com\Dreamfall\saves\dreamfall_01.sav - 281822
+7/28/2012 8:30:44 AM - VirtualStore\Program Files (x86)\GOG.com\Dreamfall\saves\dreamfall_02.sav - 281832
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{958A3E2D-D3B0-45BE-BA6E-FDC5AABE47CA}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\GOG.com\Dreamfall
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{958A3E2D-D3B0-45BE-BA6E-FDC5AABE47CA}
+Value: ConfigGDFBinaryPath
+Data: 5/21/2012 12:53:40 PM - ProgramFilesX86\GOG.com\Dreamfall\goggame.dll - 247808
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-936450520-4170396899-2773277859-1001\{150DAD07-73A9-4C68-9902-A02681ACCCA9}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\GOG.com\Dreamfall
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-936450520-4170396899-2773277859-1001\{150DAD07-73A9-4C68-9902-A02681ACCCA9}
+Value: AppExePath
+Data: 8/17/2007 2:03:56 PM - ProgramFilesX86\GOG.com\Dreamfall\dreamfall.exe - 4059136
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGDREAMFALL
+Value: EXE
+Data: 8/17/2007 2:03:56 PM - ProgramFilesX86\GOG.com\Dreamfall\dreamfall.exe - 4059136
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGDREAMFALL
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Dreamfall
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGDREAMFALL
+Value: LAUNCHCOMMAND
+Data: 8/17/2007 2:03:56 PM - ProgramFilesX86\GOG.com\Dreamfall\dreamfall.exe - 4059136
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGDREAMFALL
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Dreamfall
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Dreamfall - The Longest Journey_is1
+Value: Inno Setup: App Path
+Data: ProgramFilesX86\GOG.com\Dreamfall
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Dreamfall - The Longest Journey_is1
+Value: InstallLocation
+Data: ProgramFilesX86\GOG.com\Dreamfall
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{456A5815-604D-4D72-94DF-346D2B978A59}_is1
+Value: Inno Setup: App Path
+Data: ProgramFilesX86\GOG.com
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{456A5815-604D-4D72-94DF-346D2B978A59}_is1
+Value: InstallLocation
+Data: ProgramFilesX86\GOG.com
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{456A5815-604D-4D72-94DF-346D2B978A59}_is1
+Value: DisplayIcon
+Data: 7/18/2012 4:52:26 PM - ProgramFilesX86\GOG.com\GOG.com Downloader.exe - 424768
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{D751B34C-058F-42EF-BE95-14EBB0D2C585}
+Value: UninstallString
+Data: 7/28/2012 8:27:46 AM - ProgramFilesX86\GOG.com\Dreamfall\unins000.exe - 2142547
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{D751B34C-058F-42EF-BE95-14EBB0D2C585}
+Value: InstallLocation
+Data: ProgramFilesX86\GOG.com\Dreamfall
+Current User Registry Entries:
+
+Key:HKEY_CURRENT_USER\Software\GOG.com
+Value: ProgramPath
+Data: ProgramFilesX86\GOG.com
+
+Key:HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+Value: GOG.com Downloader
+Data: 7/18/2012 4:52:26 PM - ProgramFilesX86\GOG.com\GOG.com Downloader.exe - 424768
+
+Detected Start Menu Shortcuts:
+7/19/2012 10:21:42 PM - StartMenu\Programs\GOG.com\GOG.com Downloader.lnk - 1066
+7/18/2012 4:52:26 PM - ProgramFilesX86\GOG.com\GOG.com Downloader.exe - 424768
+7/28/2012 8:29:35 AM - StartMenu\Programs\GOG.com\Dreamfall - The Longest Journey\Dreamfall - The Longest Journey.lnk - 2063
+8/17/2007 2:03:56 PM - ProgramFilesX86\GOG.com\Dreamfall\dreamfall.exe - 4059136
+7/28/2012 8:29:35 AM - StartMenu\Programs\GOG.com\Dreamfall - The Longest Journey\Uninstall Dreamfall - The Longest Journey.lnk - 1078
+7/28/2012 8:27:46 AM - ProgramFilesX86\GOG.com\Dreamfall\unins000.exe - 2142547
+7/28/2012 8:29:34 AM - StartMenu\Programs\GOG.com\Dreamfall - The Longest Journey\Documents\Manual.lnk - 1156
+4/10/2006 3:22:28 PM - ProgramFilesX86\GOG.com\Dreamfall\manual.pdf - 1858746
+
 Game Name: Dreamfall: The Longest Journey (GamersGate)
 
 Operating System: 
