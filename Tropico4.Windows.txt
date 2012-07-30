@@ -1,0 +1,311 @@
+Game Name: Tropico 4
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\Steam\steamapps\common\tropico 4
+
+Save Path:
+AppData\Tropico 4
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 57690
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\tropico 4
+Current User Registry Entries:
+
+Key:HKEY_CURRENT_USER\Software\Haemimont Games
+Value: LastRun
+Data: 12/05/2012 13:43:48 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Tropico4.exe - 5245440
+
+Key:HKEY_CURRENT_USER\Software\Haemimont Games
+Value: LastRunPath
+Data: ProgramFilesX86\Steam\steamapps\common\tropico 4
+
+Key:HKEY_CURRENT_USER\Software\Haemimont Games\Tropico 4
+Value: Path
+Data: ProgramFilesX86\Steam\steamapps\common\tropico 4
+
+Detected Start Menu Shortcuts:
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+14/05/2012 19:53:28 - AppData\Tropico 4\DeveloperStorage.lua - 451
+13/05/2012 16:22:02 - AppData\Tropico 4\MT_Intro.bik - 69170780
+13/05/2012 16:22:02 - AppData\Tropico 4\MT_Outro.bik - 39783416
+14/05/2012 18:35:32 - AppData\Tropico 4\users.lua - 109
+12/05/2012 15:29:50 - AppData\Tropico 4\logs\20120512-15.23.08-4f6b00e7.log - 4806
+13/05/2012 02:29:04 - AppData\Tropico 4\logs\20120513-02.03.16-4f6b00e7.log - 5319
+13/05/2012 16:08:07 - AppData\Tropico 4\logs\20120513-12.09.17-4f6b00e7.log - 16994
+13/05/2012 17:52:32 - AppData\Tropico 4\logs\20120513-16.21.56-4f6b00e7.log - 13447
+13/05/2012 22:56:32 - AppData\Tropico 4\logs\20120513-22.22.14-4f6b00e7.log - 26500
+14/05/2012 19:53:28 - AppData\Tropico 4\logs\20120514-18.35.30-4f6b00e7.log - 11484
+14/05/2012 19:53:22 - AppData\Tropico 4\users\user1\image.jpg - 51732
+14/05/2012 19:53:25 - AppData\Tropico 4\users\user1\save.lua - 2302
+13/05/2012 17:36:51 - AppData\Tropico 4\users\user1\ExSaves\autosave.sav - 4643146
+13/05/2012 22:56:23 - AppData\Tropico 4\users\user1\ExSaves\New Savegame 1.sav - 4063770
+14/05/2012 19:09:32 - AppData\Tropico 4\users\user1\ExSaves\New Savegame 2.sav - 4494186
+13/05/2012 17:52:21 - AppData\Tropico 4\users\user1\ExSaves\New Savegame.sav - 4708327
+14/05/2012 19:09:26 - AppData\Tropico 4\users\user1\ExSaves\screenshot.jpg - 49856
+
+Install Folder Dump:
+12/05/2012 14:24:03 - ProgramFilesX86\Steam\steamapps\common\tropico 4\AppData.dll - 327496
+12/05/2012 13:50:15 - ProgramFilesX86\Steam\steamapps\common\tropico 4\binkw32.dll - 176968
+12/05/2012 14:00:10 - ProgramFilesX86\Steam\steamapps\common\tropico 4\dotnetfx3.exe - 52770576
+12/05/2012 14:39:18 - ProgramFilesX86\Steam\steamapps\common\tropico 4\dotnetfx35.exe - 206692864
+12/05/2012 13:48:03 - ProgramFilesX86\Steam\steamapps\common\tropico 4\fmodex.dll - 804680
+12/05/2012 13:56:20 - ProgramFilesX86\Steam\steamapps\common\tropico 4\granny2.dll - 658248
+12/05/2012 14:09:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\InstallScript.vdf - 1367
+12/05/2012 13:57:20 - ProgramFilesX86\Steam\steamapps\common\tropico 4\KalypsoLauncher.dll - 174920
+12/05/2012 14:18:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\steam_api.dll - 124744
+12/05/2012 13:43:48 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Tropico4.exe - 5245440
+12/05/2012 14:14:43 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2005_d3dx9_25_x64.cab - 1347346
+12/05/2012 13:45:32 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2005_d3dx9_25_x86.cab - 1078954
+12/05/2012 13:58:34 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2006_d3dx9_30_x64.cab - 1397830
+12/05/2012 14:26:57 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2006_d3dx9_30_x86.cab - 1115221
+12/05/2012 13:50:31 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2006_MDX1_x86.cab - 916422
+12/05/2012 14:22:51 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2006_MDX1_x86_Archive.cab - 4162622
+12/05/2012 13:49:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2006_XACT_x64.cab - 179125
+12/05/2012 13:42:51 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2006_XACT_x86.cab - 133095
+12/05/2012 14:29:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2006_xinput_x64.cab - 87093
+12/05/2012 13:57:10 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Apr2006_xinput_x86.cab - 46002
+12/05/2012 14:18:25 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\APR2007_d3dx10_33_x64.cab - 698612
+12/05/2012 13:59:36 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\APR2007_d3dx10_33_x86.cab - 695857
+12/05/2012 14:07:51 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\APR2007_d3dx9_33_x64.cab - 1607358
+12/05/2012 14:13:37 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\APR2007_d3dx9_33_x86.cab - 1606039
+12/05/2012 13:58:12 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\APR2007_XACT_x64.cab - 195758
+12/05/2012 13:48:54 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\APR2007_XACT_x86.cab - 151225
+12/05/2012 14:23:40 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\APR2007_xinput_x64.cab - 96817
+12/05/2012 14:28:59 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\APR2007_xinput_x86.cab - 53302
+12/05/2012 13:44:21 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2005_d3dx9_27_x64.cab - 1350534
+12/05/2012 13:44:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2005_d3dx9_27_x86.cab - 1077644
+12/05/2012 14:18:35 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2006_XACT_x64.cab - 182895
+12/05/2012 14:26:47 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2006_XACT_x86.cab - 137227
+12/05/2012 13:49:54 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2006_xinput_x64.cab - 87134
+12/05/2012 13:55:23 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2006_xinput_x86.cab - 46050
+12/05/2012 13:56:47 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2007_d3dx10_35_x64.cab - 852278
+12/05/2012 14:15:10 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2007_d3dx10_35_x86.cab - 796859
+12/05/2012 14:14:20 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2007_d3dx9_35_x64.cab - 1800152
+12/05/2012 14:26:37 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2007_d3dx9_35_x86.cab - 1708144
+12/05/2012 13:57:40 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2007_XACT_x64.cab - 198088
+12/05/2012 14:18:30 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\AUG2007_XACT_x86.cab - 153004
+12/05/2012 13:42:34 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2008_d3dx10_39_x64.cab - 867604
+12/05/2012 13:43:23 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2008_d3dx10_39_x86.cab - 849159
+12/05/2012 14:28:56 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2008_d3dx9_39_x64.cab - 1794076
+12/05/2012 13:43:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2008_d3dx9_39_x86.cab - 1464664
+12/05/2012 13:42:58 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2008_XACT_x64.cab - 121824
+12/05/2012 13:48:14 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2008_XACT_x86.cab - 93004
+12/05/2012 14:29:40 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2008_XAudio_x64.cab - 271360
+12/05/2012 14:29:10 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Aug2008_XAudio_x86.cab - 269842
+12/05/2012 13:42:50 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\BDANT.cab - 1155483
+12/05/2012 14:15:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\BDAXP.cab - 975148
+12/05/2012 14:08:45 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Dec2005_d3dx9_28_x64.cab - 1357976
+12/05/2012 14:26:16 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Dec2005_d3dx9_28_x86.cab - 1079456
+12/05/2012 14:28:49 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\DEC2006_d3dx10_00_x64.cab - 212799
+12/05/2012 13:42:33 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\DEC2006_d3dx10_00_x86.cab - 191720
+12/05/2012 13:55:49 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\DEC2006_d3dx9_32_x64.cab - 1571154
+12/05/2012 14:18:50 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\DEC2006_d3dx9_32_x86.cab - 1574376
+12/05/2012 14:08:48 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\DEC2006_XACT_x64.cab - 192475
+12/05/2012 13:47:45 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\DEC2006_XACT_x86.cab - 145591
+12/05/2012 13:43:09 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\DSETUP.dll - 94024
+12/05/2012 14:14:57 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\dsetup32.dll - 1691464
+12/05/2012 13:52:33 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\dxdllreg_x86.cab - 44444
+12/05/2012 14:11:07 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\dxnt.cab - 13264160
+12/05/2012 14:22:15 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\DXSETUP.exe - 525128
+12/05/2012 13:46:18 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\dxupdate.cab - 95296
+12/05/2012 13:58:04 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Feb2005_d3dx9_24_x64.cab - 1247499
+12/05/2012 13:45:02 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Feb2005_d3dx9_24_x86.cab - 1013217
+12/05/2012 14:27:09 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Feb2006_d3dx9_29_x64.cab - 1362788
+12/05/2012 14:13:43 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Feb2006_d3dx9_29_x86.cab - 1084712
+12/05/2012 13:59:53 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Feb2006_XACT_x64.cab - 178351
+12/05/2012 14:09:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Feb2006_XACT_x86.cab - 132409
+12/05/2012 13:42:24 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\FEB2007_XACT_x64.cab - 194675
+12/05/2012 14:15:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\FEB2007_XACT_x86.cab - 147975
+12/05/2012 13:52:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Jun2005_d3dx9_26_x64.cab - 1335994
+12/05/2012 14:23:55 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Jun2005_d3dx9_26_x86.cab - 1064917
+12/05/2012 14:28:52 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2006_XACT_x64.cab - 180777
+12/05/2012 14:13:22 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2006_XACT_x86.cab - 133663
+12/05/2012 14:13:12 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2007_d3dx10_34_x64.cab - 699036
+12/05/2012 14:28:24 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2007_d3dx10_34_x86.cab - 698472
+12/05/2012 14:13:57 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2007_d3dx9_34_x64.cab - 1607766
+12/05/2012 14:22:34 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2007_d3dx9_34_x86.cab - 1607286
+12/05/2012 13:50:05 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2007_XACT_x64.cab - 197122
+12/05/2012 13:55:57 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2007_XACT_x86.cab - 152909
+12/05/2012 13:44:13 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_d3dx10_38_x64.cab - 867828
+12/05/2012 14:19:35 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_d3dx10_38_x86.cab - 849919
+12/05/2012 14:08:19 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_d3dx9_38_x64.cab - 1792600
+12/05/2012 14:08:04 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_d3dx9_38_x86.cab - 1463878
+12/05/2012 14:23:07 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_X3DAudio_x64.cab - 55154
+12/05/2012 13:42:24 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_X3DAudio_x86.cab - 21897
+12/05/2012 14:13:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_XACT_x64.cab - 121046
+12/05/2012 13:57:29 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_XACT_x86.cab - 93120
+12/05/2012 13:43:45 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_XAudio_x64.cab - 269620
+12/05/2012 14:26:06 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\JUN2008_XAudio_x86.cab - 269016
+12/05/2012 13:58:11 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_d3dx10_37_x64.cab - 844884
+12/05/2012 14:26:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_d3dx10_37_x86.cab - 818252
+12/05/2012 13:51:44 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_d3dx9_37_x64.cab - 1769854
+12/05/2012 13:42:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_d3dx9_37_x86.cab - 1443282
+12/05/2012 13:57:52 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_X3DAudio_x64.cab - 55058
+12/05/2012 13:43:37 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_X3DAudio_x86.cab - 21867
+12/05/2012 14:23:10 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_XACT_x64.cab - 122328
+12/05/2012 14:29:08 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_XACT_x86.cab - 93726
+12/05/2012 14:07:56 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_XAudio_x64.cab - 251194
+12/05/2012 13:42:28 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2008_XAudio_x86.cab - 226242
+12/05/2012 13:43:37 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_d3dx10_41_x64.cab - 1067160
+12/05/2012 13:42:43 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_d3dx10_41_x86.cab - 1040745
+12/05/2012 14:12:12 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_d3dx9_41_x64.cab - 1973694
+12/05/2012 13:42:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_d3dx9_41_x86.cab - 1612446
+12/05/2012 13:42:50 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_X3DAudio_x64.cab - 54592
+12/05/2012 13:43:02 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_X3DAudio_x86.cab - 21298
+12/05/2012 13:43:09 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_XACT_x64.cab - 121498
+12/05/2012 14:22:08 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_XACT_x86.cab - 92732
+12/05/2012 14:14:27 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_XAudio_x64.cab - 275036
+12/05/2012 13:59:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Mar2009_XAudio_x86.cab - 273010
+12/05/2012 14:23:49 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2007_d3dx10_36_x64.cab - 864592
+12/05/2012 13:44:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2007_d3dx10_36_x86.cab - 803884
+12/05/2012 13:59:05 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2007_d3dx9_36_x64.cab - 1802050
+12/05/2012 13:43:22 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2007_d3dx9_36_x86.cab - 1709352
+12/05/2012 14:22:20 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\NOV2007_X3DAudio_x64.cab - 46144
+12/05/2012 14:26:22 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\NOV2007_X3DAudio_x86.cab - 18488
+12/05/2012 13:57:36 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\NOV2007_XACT_x64.cab - 196754
+12/05/2012 14:26:43 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\NOV2007_XACT_x86.cab - 148264
+12/05/2012 14:19:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_d3dx10_40_x64.cab - 994146
+12/05/2012 14:07:22 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_d3dx10_40_x86.cab - 965413
+12/05/2012 14:14:07 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_d3dx9_40_x64.cab - 1906870
+12/05/2012 13:48:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_d3dx9_40_x86.cab - 1550796
+12/05/2012 14:18:05 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_X3DAudio_x64.cab - 55110
+12/05/2012 14:27:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_X3DAudio_x86.cab - 21836
+12/05/2012 14:22:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_XACT_x64.cab - 121746
+12/05/2012 14:28:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_XACT_x86.cab - 92688
+12/05/2012 13:42:55 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_XAudio_x64.cab - 273990
+12/05/2012 14:29:05 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Nov2008_XAudio_x86.cab - 273203
+12/05/2012 13:45:11 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Oct2005_xinput_x64.cab - 86029
+12/05/2012 14:19:21 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\Oct2005_xinput_x86.cab - 45359
+12/05/2012 14:12:08 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\OCT2006_d3dx9_31_x64.cab - 1412894
+12/05/2012 13:44:47 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\OCT2006_d3dx9_31_x86.cab - 1127209
+12/05/2012 14:23:04 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\OCT2006_XACT_x64.cab - 182361
+12/05/2012 14:27:13 - ProgramFilesX86\Steam\steamapps\common\tropico 4\DirectXRedist\OCT2006_XACT_x86.cab - 138017
+13/05/2012 16:19:54 - ProgramFilesX86\Steam\steamapps\common\tropico 4\dlc\Expansion.hpk - 676724234
+12/05/2012 14:09:21 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\DevAge.Core.dll - 96072
+12/05/2012 14:14:03 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\DevAge.Windows.Forms.dll - 169800
+12/05/2012 14:07:26 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\Hedgehog.exe - 238592
+12/05/2012 13:57:00 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\log4net.dll - 270336
+12/05/2012 14:22:05 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\lua51.dll - 440320
+12/05/2012 14:24:00 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\SourceGrid.dll - 593920
+12/05/2012 14:11:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Appearance.png - 1738
+12/05/2012 14:14:51 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\bittorrent.png - 1600
+12/05/2012 14:21:52 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\collection.png - 1888
+12/05/2012 14:29:14 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\copy.png - 1910
+12/05/2012 13:43:48 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\cut.png - 1799
+12/05/2012 13:44:24 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\delete.png - 1847
+12/05/2012 13:43:43 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\documents.png - 1752
+12/05/2012 13:44:41 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Down.png - 1673
+12/05/2012 13:42:24 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\duplicate.png - 1841
+12/05/2012 13:57:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Home.png - 1852
+12/05/2012 14:11:51 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\new.png - 1540
+12/05/2012 13:50:00 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Next.png - 1707
+12/05/2012 14:27:11 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\override.png - 1698
+12/05/2012 14:29:03 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Paste.png - 1886
+12/05/2012 14:25:48 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\play.png - 1484
+12/05/2012 14:27:15 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Prev.png - 1706
+12/05/2012 14:11:55 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\preview.png - 1567
+12/05/2012 14:07:48 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Properties.png - 1865
+12/05/2012 13:44:28 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\revert.png - 1706
+12/05/2012 14:29:22 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\save.png - 1654
+12/05/2012 13:42:55 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\scope.png - 1618
+12/05/2012 14:29:47 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\set.png - 1733
+12/05/2012 14:12:13 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\speedfan.png - 1991
+12/05/2012 13:55:13 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Stop.png - 1450
+12/05/2012 14:11:51 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\trillian.png - 1719
+12/05/2012 14:21:57 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\Tune.png - 1778
+12/05/2012 13:43:02 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\up.png - 1632
+12/05/2012 14:28:56 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\usb.png - 1737
+12/05/2012 14:07:32 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\view.png - 1747
+12/05/2012 14:18:08 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Hedgehog\ButtonLib\write.png - 1511
+12/05/2012 13:42:23 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Local\English.hpk - 383824
+12/05/2012 14:16:41 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Local\voice\English.hpk - 170241805
+12/05/2012 13:49:08 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\esrb.bik - 555808
+12/05/2012 14:01:58 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\Haemimont.bik - 10810840
+12/05/2012 14:40:03 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\Intro.bik - 122907056
+12/05/2012 14:13:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\kalypso.bik - 4986628
+12/05/2012 13:57:07 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\lose.bik - 47672540
+12/05/2012 14:25:43 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\main.bik - 59797620
+12/05/2012 14:35:05 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\Progress.bik - 116053828
+12/05/2012 14:51:10 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\Trial.bik - 107800788
+12/05/2012 14:15:11 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\Victory.bik - 103726808
+12/05/2012 14:07:09 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Movies\win.bik - 103741024
+12/05/2012 14:14:47 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\billboard.hpk - 4207719
+12/05/2012 14:28:43 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\binassets.hpk - 40570240
+12/05/2012 14:11:41 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\entities.dat - 4705411
+12/05/2012 14:18:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\fallback.hpk - 25184686
+12/05/2012 14:18:14 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\prefabs.hpk - 3308824
+12/05/2012 14:17:50 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\ShaderCache.hpk - 26555374
+12/05/2012 13:47:38 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\sndlen.dat - 343665
+12/05/2012 13:55:06 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\boot\Assets.hpk - 5021181
+12/05/2012 14:06:55 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\boot\Music.hpk - 112238405
+12/05/2012 14:13:34 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\boot\palettes.hpk - 17823
+12/05/2012 14:21:50 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\boot\Sounds.hpk - 169686129
+12/05/2012 14:35:54 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\boot\UI.hpk - 60843413
+12/05/2012 14:19:04 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\boot\UI2.hpk - 174203
+12/05/2012 13:52:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\boot\persist\Game.hpk - 4732918
+12/05/2012 13:42:48 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\boot\persist\Shaders.hpk - 373602
+12/05/2012 14:23:53 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Cliffs.hpk - 219582326
+12/05/2012 14:57:12 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Decors.hpk - 293349079
+12/05/2012 14:08:00 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Grass.hpk - 32662
+12/05/2012 14:08:32 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Helpers.hpk - 3308
+12/05/2012 13:49:42 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Roads.hpk - 21051779
+12/05/2012 14:15:26 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Rocks.hpk - 116241979
+12/05/2012 13:47:30 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Sky.hpk - 11966030
+12/05/2012 15:14:12 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Structures.hpk - 1229865370
+12/05/2012 14:22:11 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Terrains.hpk - 51702563
+12/05/2012 14:28:16 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Units.hpk - 42032934
+12/05/2012 14:13:28 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Vegetation.hpk - 37717343
+12/05/2012 14:11:27 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\dirs\Vehicles.hpk - 115173229
+12/05/2012 14:19:49 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\8c.hpk - 1810088
+12/05/2012 14:30:06 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Alianza.hpk - 1810088
+12/05/2012 14:11:35 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\DLC-SaltoAngel.hpk - 1188112
+12/05/2012 13:52:23 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\dlcElDorado.hpk - 1648902
+12/05/2012 14:29:35 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\dlcExodus.hpk - 1760828
+12/05/2012 14:23:01 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\DoroDoro.hpk - 1186714
+12/05/2012 14:22:44 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\DoroDoro2.hpk - 1149768
+12/05/2012 13:51:02 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\first.hpk - 1378553
+12/05/2012 13:57:28 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\ForoForo.hpk - 1123176
+12/05/2012 14:22:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\ForoForo2.hpk - 1169159
+12/05/2012 14:29:04 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Fossil.hpk - 1296597
+12/05/2012 14:08:58 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Fossil2.hpk - 1296595
+12/05/2012 14:11:46 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\HoroHoro.hpk - 1387344
+12/05/2012 14:07:07 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\HoroHoro2.hpk - 1390143
+12/05/2012 14:09:14 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\last.hpk - 1336555
+12/05/2012 13:50:07 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\RandomMap.hpk - 40505
+12/05/2012 14:19:16 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\RedCanyon.hpk - 901233
+12/05/2012 13:43:38 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\RedCanyon2.hpk - 901449
+12/05/2012 13:49:53 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\second.hpk - 1750979
+12/05/2012 13:53:17 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\second2.hpk - 1427659
+12/05/2012 13:46:39 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\specJurassic.hpk - 1086253
+12/05/2012 14:28:39 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\specMalva.hpk - 1641298
+12/05/2012 14:07:33 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\specNirvana.hpk - 1335783
+12/05/2012 14:13:52 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\third.hpk - 1339982
+12/05/2012 14:23:35 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\third2.hpk - 1581883
+12/05/2012 13:43:13 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Tutorial1.hpk - 1521715
+12/05/2012 13:46:06 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Tutorial2.hpk - 1520466
+12/05/2012 13:42:50 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Tutorial3.hpk - 1236653
+12/05/2012 14:07:44 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Tutorial4.hpk - 1232720
+12/05/2012 14:23:19 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Uone.hpk - 1145308
+12/05/2012 14:08:28 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\maps\Utwo.hpk - 1145373
+12/05/2012 13:59:23 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\persist\memAssets.hpk - 717080
+12/05/2012 14:29:12 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\Preload\mapTextureData.hpk - 169
+12/05/2012 14:07:19 - ProgramFilesX86\Steam\steamapps\common\tropico 4\Packs\Preload\materials.hpk - 1417057
+12/05/2012 13:42:24 - ProgramFilesX86\Steam\steamapps\common\tropico 4\reslists\precache.lst - 656
+12/05/2012 13:42:19 - ProgramFilesX86\Steam\steamapps\common\tropico 4\reslists\preload.lst - 656
+
+UAC Enabled
+
+
+VirtualStore Folders:

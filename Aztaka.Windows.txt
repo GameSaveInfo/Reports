@@ -1,0 +1,138 @@
+Game Name: Aztaka
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\Steam\steamapps\common\aztaka
+
+Save Path:
+LocalAppData\Aztaka\Profiles
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 37100
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\aztaka
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+
+Install Folder Dump:
+5/23/2012 11:27:02 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Animation.vxn - 7256035
+5/23/2012 11:26:40 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Animex.vxn - 13437
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Aztaka.cfg - 894
+5/23/2012 11:30:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Aztaka.cpk - 361858359
+5/23/2012 11:26:37 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Aztaka.exe - 1099776
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Credits.txt - 2523
+5/23/2012 11:26:32 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\fmodex.dll - 394240
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\fmod_event.dll - 290816
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\installscript.vdf - 240
+5/23/2012 11:26:40 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Languages.xml - 415606
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Microsoft.VC90.CRT.manifest - 1857
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\msvcm90.dll - 225280
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\msvcp90.dll - 572928
+5/23/2012 11:26:45 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\msvcr90.dll - 655872
+5/23/2012 11:26:36 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Setup.exe - 673792
+5/23/2012 11:33:00 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Textures.vxn - 836731309
+5/23/2012 11:26:39 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Audio\AztakaMusic.fev - 18865
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Audio\AztakaMusic.fev.seq - 4
+5/23/2012 11:26:43 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Audio\aztakaSounds.fev - 144614
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Audio\aztakaSounds.fev.seq - 4
+5/23/2012 11:28:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Audio\aztakaSounds_bank00.fsb - 102488672
+5/23/2012 11:26:43 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Audio\aztakaSounds_bank00.fsb.seq - 4
+5/23/2012 11:30:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Audio\TestTwoEmotions_bank00.fsb - 152444192
+5/23/2012 11:26:46 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Audio\TestTwoEmotions_bank00.fsb.seq - 4
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\DSETUP.dll - 89944
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\dsetup32.dll - 1801048
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\dxdllreg_x86.cab - 42410
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\DXSETUP.exe - 537432
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\dxupdate.cab - 94011
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_D3DCompiler_43_x64.cab - 944460
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_D3DCompiler_43_x86.cab - 931471
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_d3dcsx_43_x64.cab - 752783
+5/23/2012 11:26:32 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_d3dcsx_43_x86.cab - 762188
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_d3dx10_43_x64.cab - 235955
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_d3dx10_43_x86.cab - 197283
+5/23/2012 11:26:47 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_d3dx11_43_x64.cab - 138205
+5/23/2012 11:26:43 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_d3dx11_43_x86.cab - 109445
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_d3dx9_43_x64.cab - 937246
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_d3dx9_43_x86.cab - 768036
+5/23/2012 11:26:38 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_XACT_x64.cab - 124596
+5/23/2012 11:26:46 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_XACT_x86.cab - 93686
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_XAudio_x64.cab - 277338
+5/23/2012 11:26:47 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\DirectX\Jun2010_XAudio_x86.cab - 278060
+5/23/2012 11:26:44 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\Actor.Act - 4798430
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L1.mdf - 490208
+5/23/2012 11:26:36 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L10-2.mdf - 69293
+5/23/2012 11:26:36 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L10.mdf - 1097864
+5/23/2012 11:26:32 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L11.mdf - 664543
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L12.mdf - 346622
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L13-2.mdf - 195726
+5/23/2012 11:26:44 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L13-3.mdf - 246908
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L13.mdf - 538125
+5/23/2012 11:26:32 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L14-2.mdf - 84870
+5/23/2012 11:26:44 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L14-3.mdf - 87232
+5/23/2012 11:26:45 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L14.mdf - 165133
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L15.mdf - 269665
+5/23/2012 11:26:40 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16-2.mdf - 330776
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16-3.mdf - 217827
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16-4.mdf - 224618
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16-5.mdf - 348907
+5/23/2012 11:26:47 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16-6.mdf - 181072
+5/23/2012 11:26:40 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16-7.mdf - 215445
+5/23/2012 11:26:46 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16-8.mdf - 79155
+5/23/2012 11:26:40 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16-9.mdf - 192033
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L16.mdf - 182982
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L18-2.mdf - 837678
+5/23/2012 11:26:45 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L18.mdf - 62633
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L19-2.mdf - 92670
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L19-3.mdf - 378004
+5/23/2012 11:26:36 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L19-4.mdf - 95997
+5/23/2012 11:26:39 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L19-5.mdf - 226302
+5/23/2012 11:26:36 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L19-6.mdf - 113976
+5/23/2012 11:26:38 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L19-7.mdf - 512060
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L19.mdf - 536811
+5/23/2012 11:26:36 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L2.mdf - 1178978
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L20-3.mdf - 600123
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L20.mdf - 921038
+5/23/2012 11:26:45 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L21.mdf - 227002
+5/23/2012 11:26:35 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L22.mdf - 704474
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L23.mdf - 108412
+5/23/2012 11:26:39 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L3-2.mdf - 77990
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L3.mdf - 712752
+5/23/2012 11:26:38 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L4.mdf - 774496
+5/23/2012 11:26:38 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L5.mdf - 747884
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L6-2.mdf - 83339
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L6.mdf - 743566
+5/23/2012 11:26:44 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L7-2.mdf - 159058
+5/23/2012 11:26:39 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L7-3.mdf - 201077
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L7-4.mdf - 291616
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L7.mdf - 311013
+5/23/2012 11:26:44 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L8-2.mdf - 104351
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L8-3.mdf - 138788
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L8-4.mdf - 105555
+5/23/2012 11:26:43 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L8.mdf - 72728
+5/23/2012 11:26:39 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L9-2.mdf - 483888
+5/23/2012 11:26:45 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L9-3.mdf - 188454
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\L9.mdf - 276970
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Maps\WorldMap.mdf - 12363
+5/23/2012 11:26:38 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Particles\Aztaka.mpf - 924490
+5/23/2012 11:26:36 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Profiles\Ending.czt - 3092
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Profiles\Ending2.czt - 3088
+5/23/2012 11:26:33 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Profiles\Intro.czt - 5332
+5/23/2012 11:26:34 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Profiles\Levels.azt - 11908
+5/23/2012 11:26:43 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Profiles\NewPlayer.sts - 4231
+5/23/2012 11:26:41 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\Profiles\Quests.azt - 48764
+5/23/2012 11:26:42 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\reslists\precache.lst - 656
+5/23/2012 11:26:39 PM - ProgramFilesX86\Steam\steamapps\common\aztaka\reslists\preload.lst - 656
+
+UAC Disabled or not present

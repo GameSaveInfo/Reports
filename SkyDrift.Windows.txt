@@ -1,0 +1,187 @@
+Game Name: SkyDrift
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+Drive\=Games\SkyDrift
+
+Save Path:
+Drive\=Games\SkyDrift\hadderakk_swarm
+
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+30/11/2011 16:17:10 - AppData\Microsoft\Windows\Start Menu\Programs\SkyDrift\SkyDrift.lnk - 657
+22/11/2011 09:37:12 - Drive\=Games\SkyDrift\SkyDrift.exe - 6003200
+30/11/2011 16:17:10 - AppData\Microsoft\Windows\Start Menu\Programs\SkyDrift\Uninstall.lnk - 644
+22/01/2011 18:51:10 - Drive\=Games\SkyDrift\TDU1k.exe - 45080
+
+Root Drive Information:
+Drive Name: D:\
+Drive Root: D:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+30/11/2011 16:21:26 - Drive\=Games\SkyDrift\hadderakk_swarm\SkyDrift.cfg - 3755
+30/11/2011 16:17:22 - Drive\=Games\SkyDrift\hadderakk_swarm\vuid - 4
+
+Install Folder Dump:
+22/11/2011 10:35:58 - Drive\=Games\SkyDrift\app.id - 5
+22/11/2011 09:35:20 - Drive\=Games\SkyDrift\cudart32_30_9.dll - 290408
+22/11/2011 09:36:24 - Drive\=Games\SkyDrift\dxwebsetup.exe - 292184
+22/11/2011 09:35:44 - Drive\=Games\SkyDrift\fmodex.dll - 806912
+22/11/2011 09:35:38 - Drive\=Games\SkyDrift\PhysXCooking.dll - 381280
+22/11/2011 09:36:30 - Drive\=Games\SkyDrift\PhysXCore.dll - 3516768
+22/11/2011 09:36:50 - Drive\=Games\SkyDrift\PhysXDevice.dll - 65536
+22/11/2011 09:35:40 - Drive\=Games\SkyDrift\PhysXLoader.dll - 64352
+30/11/2011 16:17:22 - Drive\=Games\SkyDrift\playername.txt - 9
+22/11/2011 09:37:12 - Drive\=Games\SkyDrift\SkyDrift.exe - 6003200
+07/12/2007 00:00:00 - Drive\=Games\SkyDrift\spray_api.dll - 24064
+22/01/2011 18:51:10 - Drive\=Games\SkyDrift\TDU1k.exe - 45080
+22/11/2011 09:35:22 - Drive\=Games\SkyDrift\vcredist_x86.exe - 5073240
+22/11/2011 09:38:16 - Drive\=Games\SkyDrift\exports\alaska_pc.exp - 68302346
+22/11/2011 09:36:06 - Drive\=Games\SkyDrift\exports\alaska_preload_pc.exp - 32922
+22/11/2011 09:36:00 - Drive\=Games\SkyDrift\exports\alltime_pc.exp - 258757
+22/11/2011 09:35:00 - Drive\=Games\SkyDrift\exports\atm_alaska_aurora_pc.exp - 1474018
+22/11/2011 09:36:10 - Drive\=Games\SkyDrift\exports\atm_alaska_clouded_pc.exp - 1729977
+22/11/2011 09:35:10 - Drive\=Games\SkyDrift\exports\atm_alaska_dusk_pc.exp - 1278994
+22/11/2011 09:36:04 - Drive\=Games\SkyDrift\exports\atm_alaska_pc.exp - 1539132
+22/11/2011 09:36:12 - Drive\=Games\SkyDrift\exports\atm_canyon_afterstorm_pc.exp - 2098020
+22/11/2011 09:37:30 - Drive\=Games\SkyDrift\exports\atm_canyon_pc.exp - 1976775
+22/11/2011 09:35:40 - Drive\=Games\SkyDrift\exports\atm_hawaii_clouded_pc.exp - 1557487
+22/11/2011 09:36:20 - Drive\=Games\SkyDrift\exports\atm_hawaii_mist_pc.exp - 1514742
+22/11/2011 09:35:12 - Drive\=Games\SkyDrift\exports\atm_hawaii_night_pc.exp - 1642545
+22/11/2011 09:35:58 - Drive\=Games\SkyDrift\exports\atm_hawaii_pc.exp - 1773118
+22/11/2011 09:36:50 - Drive\=Games\SkyDrift\exports\atm_hawaii_stormy_pc.exp - 2052807
+22/11/2011 09:35:22 - Drive\=Games\SkyDrift\exports\atm_hawaii_sunset_pc.exp - 2203576
+22/11/2011 09:37:56 - Drive\=Games\SkyDrift\exports\canyon_pc.exp - 73439676
+22/11/2011 09:35:36 - Drive\=Games\SkyDrift\exports\canyon_preload_pc.exp - 24387
+22/11/2011 09:37:46 - Drive\=Games\SkyDrift\exports\common_pc.exp - 43903232
+22/11/2011 09:34:56 - Drive\=Games\SkyDrift\exports\dlc2_gladiatorpack_pc.exp - 218
+22/11/2011 09:35:40 - Drive\=Games\SkyDrift\exports\engine_pc.exp - 166413
+22/11/2011 09:37:44 - Drive\=Games\SkyDrift\exports\hawaii_pc.exp - 54934859
+22/11/2011 09:35:38 - Drive\=Games\SkyDrift\exports\hawaii_preload_pc.exp - 41843
+22/11/2011 09:35:14 - Drive\=Games\SkyDrift\exports\include_pc.exp - 5202
+22/11/2011 09:36:36 - Drive\=Games\SkyDrift\exports\music_deathmatch_pc.exp - 18
+22/11/2011 09:36:32 - Drive\=Games\SkyDrift\exports\music_powerrace_pc.exp - 275
+22/11/2011 09:35:08 - Drive\=Games\SkyDrift\exports\music_speedrace_pc.exp - 254
+22/11/2011 09:36:24 - Drive\=Games\SkyDrift\exports\music_survivor_n_powerrace_pc.exp - 183
+22/11/2011 09:36:28 - Drive\=Games\SkyDrift\exports\music_team_deathmatch_pc.exp - 18
+22/11/2011 09:35:48 - Drive\=Games\SkyDrift\exports\sf_alltime_pc.exp - 2793786
+22/11/2011 09:36:46 - Drive\=Games\SkyDrift\exports\sf_frontend_0_pc.exp - 6845821
+22/11/2011 09:35:26 - Drive\=Games\SkyDrift\exports\sf_frontend_1_pc.exp - 5878517
+22/11/2011 09:35:06 - Drive\=Games\SkyDrift\exports\sf_frontend_2_pc.exp - 3676915
+22/11/2011 09:35:14 - Drive\=Games\SkyDrift\exports\sf_ingameonly_pc.exp - 2256343
+22/11/2011 09:36:44 - Drive\=Games\SkyDrift\exports\sf_logo_pc.exp - 10494137
+22/11/2011 09:36:06 - Drive\=Games\SkyDrift\exports\sf_upsell_pc.exp - 8194720
+22/11/2011 09:36:10 - Drive\=Games\SkyDrift\exports\skins_condor_classic_pc.exp - 1596528
+22/11/2011 09:34:58 - Drive\=Games\SkyDrift\exports\skins_condor_military_pc.exp - 1512257
+22/11/2011 09:35:10 - Drive\=Games\SkyDrift\exports\skins_condor_racer_pc.exp - 1612525
+22/11/2011 09:37:12 - Drive\=Games\SkyDrift\exports\skins_condor_rocker_pc.exp - 1518668
+22/11/2011 09:36:16 - Drive\=Games\SkyDrift\exports\skins_cormoran_classic_pc.exp - 1516998
+22/11/2011 09:35:44 - Drive\=Games\SkyDrift\exports\skins_cormoran_military_pc.exp - 1409695
+22/11/2011 09:35:06 - Drive\=Games\SkyDrift\exports\skins_cormoran_racer_pc.exp - 1568693
+22/11/2011 09:36:50 - Drive\=Games\SkyDrift\exports\skins_cormoran_rocker_pc.exp - 1419196
+22/11/2011 09:35:54 - Drive\=Games\SkyDrift\exports\skins_dlc1_classic_pc.exp - 1386520
+22/11/2011 09:36:50 - Drive\=Games\SkyDrift\exports\skins_dlc1_military_pc.exp - 1358931
+22/11/2011 09:35:40 - Drive\=Games\SkyDrift\exports\skins_dlc1_racer_pc.exp - 1330948
+22/11/2011 09:37:24 - Drive\=Games\SkyDrift\exports\skins_dlc1_rocker_pc.exp - 1286285
+22/11/2011 09:35:18 - Drive\=Games\SkyDrift\exports\skins_dlc2_classic_pc.exp - 1494034
+22/11/2011 09:35:06 - Drive\=Games\SkyDrift\exports\skins_dlc2_military_pc.exp - 1487767
+22/11/2011 09:35:40 - Drive\=Games\SkyDrift\exports\skins_dlc2_racer_pc.exp - 1437276
+22/11/2011 09:36:36 - Drive\=Games\SkyDrift\exports\skins_dlc2_rocker_pc.exp - 1453601
+22/11/2011 09:35:36 - Drive\=Games\SkyDrift\exports\skins_dlc3_classic_pc.exp - 1202368
+22/11/2011 09:35:48 - Drive\=Games\SkyDrift\exports\skins_dlc3_military_pc.exp - 1157792
+22/11/2011 09:36:16 - Drive\=Games\SkyDrift\exports\skins_dlc3_racer_pc.exp - 1140969
+22/11/2011 09:37:20 - Drive\=Games\SkyDrift\exports\skins_dlc3_rocker_pc.exp - 1125824
+22/11/2011 09:35:44 - Drive\=Games\SkyDrift\exports\skins_drifter_classic_pc.exp - 1379443
+22/11/2011 09:35:48 - Drive\=Games\SkyDrift\exports\skins_drifter_military_pc.exp - 1212080
+22/11/2011 09:36:54 - Drive\=Games\SkyDrift\exports\skins_drifter_racer_pc.exp - 1260734
+22/11/2011 09:37:16 - Drive\=Games\SkyDrift\exports\skins_drifter_rocker_pc.exp - 1279602
+22/11/2011 09:35:14 - Drive\=Games\SkyDrift\exports\skins_orca_classic_pc.exp - 1541295
+22/11/2011 09:35:32 - Drive\=Games\SkyDrift\exports\skins_orca_military_pc.exp - 1609769
+22/11/2011 09:36:50 - Drive\=Games\SkyDrift\exports\skins_orca_racer_pc.exp - 1603236
+22/11/2011 09:35:12 - Drive\=Games\SkyDrift\exports\skins_orca_rocker_pc.exp - 1550024
+22/11/2011 09:35:08 - Drive\=Games\SkyDrift\exports\skins_pursuit_classic_pc.exp - 1411800
+22/11/2011 09:35:00 - Drive\=Games\SkyDrift\exports\skins_pursuit_military_pc.exp - 1509617
+22/11/2011 09:36:16 - Drive\=Games\SkyDrift\exports\skins_pursuit_racer_pc.exp - 1486247
+22/11/2011 09:35:02 - Drive\=Games\SkyDrift\exports\skins_pursuit_rocker_pc.exp - 1345333
+22/11/2011 09:35:30 - Drive\=Games\SkyDrift\exports\skins_speedster_classic_pc.exp - 1494492
+22/11/2011 09:36:20 - Drive\=Games\SkyDrift\exports\skins_speedster_military_pc.exp - 1430576
+22/11/2011 09:35:38 - Drive\=Games\SkyDrift\exports\skins_speedster_racer_pc.exp - 1554811
+22/11/2011 09:35:44 - Drive\=Games\SkyDrift\exports\skins_speedster_rocker_pc.exp - 1373451
+22/11/2011 09:35:36 - Drive\=Games\SkyDrift\exports\skins_stallion_classic_pc.exp - 1379747
+22/11/2011 09:35:34 - Drive\=Games\SkyDrift\exports\skins_stallion_military_pc.exp - 1365669
+22/11/2011 09:36:14 - Drive\=Games\SkyDrift\exports\skins_stallion_racer_pc.exp - 1463654
+22/11/2011 09:35:56 - Drive\=Games\SkyDrift\exports\skins_stallion_rocker_pc.exp - 1265466
+22/11/2011 09:37:22 - Drive\=Games\SkyDrift\exports\skins_warrior_classic_pc.exp - 1295100
+22/11/2011 09:36:44 - Drive\=Games\SkyDrift\exports\skins_warrior_military_pc.exp - 1346368
+22/11/2011 09:35:06 - Drive\=Games\SkyDrift\exports\skins_warrior_racer_pc.exp - 1337989
+22/11/2011 09:36:26 - Drive\=Games\SkyDrift\exports\skins_warrior_rocker_pc.exp - 1336712
+22/11/2011 09:37:18 - Drive\=Games\SkyDrift\exports\splash_screen_pc.exp - 126718
+22/11/2011 09:35:12 - Drive\=Games\SkyDrift\exports\stub.exp - 26520
+30/11/2011 16:21:26 - Drive\=Games\SkyDrift\hadderakk_swarm\SkyDrift.cfg - 3755
+30/11/2011 16:17:22 - Drive\=Games\SkyDrift\hadderakk_swarm\vuid - 4
+22/11/2011 09:35:02 - Drive\=Games\SkyDrift\music\nostreaming\loop\loadingmusic_loop_pc.mp3 - 2791968
+22/11/2011 09:36:10 - Drive\=Games\SkyDrift\music\nostreaming\noloop\logo_music_pc.mp3 - 391837
+22/11/2011 09:36:22 - Drive\=Games\SkyDrift\music\nostreaming\noloop\music_test_pc.mp3 - 56425
+22/11/2011 09:35:02 - Drive\=Games\SkyDrift\music\streaming\interface\credits_congrat_pc.mp3 - 774270
+22/11/2011 09:35:30 - Drive\=Games\SkyDrift\music\streaming\interface\credits_pc.mp3 - 6914090
+22/11/2011 09:37:16 - Drive\=Games\SkyDrift\music\streaming\interface\evaluation_screen_pc.mp3 - 2365649
+22/11/2011 09:35:44 - Drive\=Games\SkyDrift\music\streaming\interface\lobby_screen_pc.mp3 - 2331168
+22/11/2011 09:36:20 - Drive\=Games\SkyDrift\music\streaming\interface\race_win01_pc.mp3 - 2365649
+22/11/2011 09:35:10 - Drive\=Games\SkyDrift\music\streaming\interface\skydrift_menu_new_pc.mp3 - 3016621
+22/11/2011 09:37:08 - Drive\=Games\SkyDrift\music\streaming\interface\splash_screen_music_pc.mp3 - 3864033
+22/11/2011 09:37:12 - Drive\=Games\SkyDrift\music\streaming\noloop\challenge_basic_track_pc.mp3 - 5843070
+22/11/2011 09:35:32 - Drive\=Games\SkyDrift\music\streaming\noloop\deathmatch01_pc.mp3 - 3199478
+22/11/2011 09:36:12 - Drive\=Games\SkyDrift\music\streaming\noloop\deathmatch02_pc.mp3 - 4976849
+22/11/2011 09:37:20 - Drive\=Games\SkyDrift\music\streaming\noloop\deathmatch03_pc.mp3 - 2558956
+22/11/2011 09:35:56 - Drive\=Games\SkyDrift\music\streaming\noloop\deathmatch04_pc.mp3 - 3692670
+22/11/2011 09:36:28 - Drive\=Games\SkyDrift\music\streaming\noloop\powerrace_end01_pc.mp3 - 249731
+22/11/2011 09:36:12 - Drive\=Games\SkyDrift\music\streaming\noloop\powerrace_end02_pc.mp3 - 239282
+22/11/2011 09:35:26 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track01_pc.mp3 - 3983152
+22/11/2011 09:37:28 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track02_pc.mp3 - 4481568
+22/11/2011 09:36:36 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track03_pc.mp3 - 3910009
+22/11/2011 09:36:26 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track04_pc.mp3 - 4735478
+22/11/2011 09:35:06 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track05_pc.mp3 - 4097045
+22/11/2011 09:35:24 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track06_pc.mp3 - 3517127
+22/11/2011 09:36:04 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track07_pc.mp3 - 6934988
+22/11/2011 09:37:08 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track08_pc.mp3 - 4158694
+22/11/2011 09:35:42 - Drive\=Games\SkyDrift\music\streaming\noloop\race_track09_pc.mp3 - 5791870
+22/11/2011 09:35:50 - Drive\=Games\SkyDrift\music\streaming\noloop\race_win01_pc.mp3 - 1438825
+22/11/2011 09:36:58 - Drive\=Games\SkyDrift\music\streaming\sr\speedrace_01_pc.mp3 - 1730352
+22/11/2011 09:35:36 - Drive\=Games\SkyDrift\music\streaming\sr\speedrace_02_pc.mp3 - 4371854
+22/11/2011 09:36:42 - Drive\=Games\SkyDrift\music\streaming\sr\speedrace_03_pc.mp3 - 2519249
+22/11/2011 09:36:48 - Drive\=Games\SkyDrift\music\streaming\sr\speedrace_04_pc.mp3 - 2453421
+22/11/2011 09:35:12 - Drive\=Games\SkyDrift\music\streaming\sr\speedrace_05_pc.mp3 - 2727184
+22/11/2011 09:36:52 - Drive\=Games\SkyDrift\music\streaming\sr\speedrace_end01_pc.mp3 - 243462
+22/11/2011 09:35:14 - Drive\=Games\SkyDrift\music\streaming\sr\speedrace_end02_pc.mp3 - 243462
+22/11/2011 09:34:56 - Drive\=Games\SkyDrift\music\streaming\sr\speedrace_end03_pc.mp3 - 237192
+22/11/2011 09:35:02 - Drive\=Games\SkyDrift\voiceover\tower_ch_ctrl_pc_de.fsb - 384544
+22/11/2011 09:34:56 - Drive\=Games\SkyDrift\voiceover\tower_ch_ctrl_pc_en.fsb - 266880
+22/11/2011 09:36:34 - Drive\=Games\SkyDrift\voiceover\tower_ch_ctrl_pc_fr.fsb - 279968
+22/11/2011 09:36:30 - Drive\=Games\SkyDrift\voiceover\tower_ch_ctrl_pc_it.fsb - 269216
+22/11/2011 09:36:32 - Drive\=Games\SkyDrift\voiceover\tower_ch_ctrl_pc_sp.fsb - 276768
+22/11/2011 09:34:56 - Drive\=Games\SkyDrift\voiceover\tower_gn_ctrl_pc_de.fsb - 531104
+22/11/2011 09:35:22 - Drive\=Games\SkyDrift\voiceover\tower_gn_ctrl_pc_en.fsb - 361216
+22/11/2011 09:35:58 - Drive\=Games\SkyDrift\voiceover\tower_gn_ctrl_pc_fr.fsb - 393664
+22/11/2011 09:36:52 - Drive\=Games\SkyDrift\voiceover\tower_gn_ctrl_pc_it.fsb - 351296
+22/11/2011 09:35:04 - Drive\=Games\SkyDrift\voiceover\tower_gn_ctrl_pc_sp.fsb - 365376
+22/11/2011 09:35:12 - Drive\=Games\SkyDrift\voiceover\tower_rc_ctrl_pc_de.fsb - 523232
+22/11/2011 09:36:00 - Drive\=Games\SkyDrift\voiceover\tower_rc_ctrl_pc_en.fsb - 378944
+22/11/2011 09:36:28 - Drive\=Games\SkyDrift\voiceover\tower_rc_ctrl_pc_fr.fsb - 374848
+22/11/2011 09:35:46 - Drive\=Games\SkyDrift\voiceover\tower_rc_ctrl_pc_it.fsb - 367680
+22/11/2011 09:36:50 - Drive\=Games\SkyDrift\voiceover\tower_rc_ctrl_pc_sp.fsb - 373408
+22/11/2011 09:36:06 - Drive\=Games\SkyDrift\voiceover\tower_tu_ctrl_pc_de.fsb - 3467008
+22/11/2011 09:37:22 - Drive\=Games\SkyDrift\voiceover\tower_tu_ctrl_pc_en.fsb - 2904480
+22/11/2011 09:36:58 - Drive\=Games\SkyDrift\voiceover\tower_tu_ctrl_pc_fr.fsb - 3021216
+22/11/2011 09:36:46 - Drive\=Games\SkyDrift\voiceover\tower_tu_ctrl_pc_it.fsb - 2887456
+22/11/2011 09:35:02 - Drive\=Games\SkyDrift\voiceover\tower_tu_ctrl_pc_sp.fsb - 2844672
+
+UAC Enabled
+
+
+VirtualStore Folders:

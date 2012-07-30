@@ -1,0 +1,109 @@
+Game Name: VVVVVV
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\Steam\steamapps\common\vvvvvv
+
+Save Path:
+UserDocuments\VVVVVV\Saves
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 70300
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\vvvvvv
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+5/24/2012 5:18:45 AM - UserDocuments\VVVVVV\Saves\unlock.vvv - 920
+
+Install Folder Dump:
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\libogg-0.dll - 16896
+5/23/2012 11:22:58 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\libpng12-0.dll - 132096
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\libvorbis-0.dll - 157184
+5/23/2012 11:22:55 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\libvorbisfile-3.dll - 30208
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\mikmod.dll - 246272
+5/23/2012 11:23:01 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\readme.txt - 684
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\SDL.dll - 324096
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\SDL_image.dll - 43520
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\SDL_mixer.dll - 143872
+5/24/2012 5:15:01 AM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\stdout.txt - 1449
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\VVVVVV.exe - 6986240
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\zlib1.dll - 74752
+5/23/2012 11:23:35 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\vvvvvvmusic.vvv - 57761373
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\covered.png - 195
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\elephant.png - 4829
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\ending.png - 14550
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\entcolours.png - 11147
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\flipgamecomplete.png - 538
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\fliplevelcomplete.png - 531
+5/23/2012 11:22:58 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\flipsprites.png - 21819
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\font.png - 1958
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\fontmask.png - 3277
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\gamecomplete.png - 517
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\levelcomplete.png - 536
+5/23/2012 11:22:58 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\minimap.png - 5376
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\site.png - 373
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\site2.png - 342
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\site3.png - 331
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\site4.png - 445
+5/23/2012 11:23:01 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\sprites.png - 25854
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\teleporter.png - 8012
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\Thumbs.db - 67072
+5/23/2012 11:22:55 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\tiles.png - 30213
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\tiles2.png - 24234
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\graphics\tiles3.png - 14013
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\icons\16.png - 2894
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\icons\32.png - 367
+5/23/2012 11:22:55 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\icons\32_2.png - 2916
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\4kvvvv.vvvvvv - 314562
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\a_new_dimension.vvvvvv - 1594713
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\linewrap.vvvvvv - 388972
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\pyramid.vvvvvv - 344433
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\roadtrip.vvvvvv - 372745
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\the_dual_challenge.vvvvvv - 267244
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\variationventure.vvvvvv - 209590
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\varietyshow.vvvvvv - 205610
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\vertiginousviridian.vvvvvv - 479763
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\levels\vvvvvvgoldenspiral.vvvvvv - 369254
+5/23/2012 11:22:55 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\blip.wav - 7506
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\blip2.wav - 48512
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\coin.wav - 26644
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\combine.wav - 155926
+5/23/2012 11:22:55 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\countdown.wav - 10824
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crash.wav - 54830
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crashing.wav - 39986
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crew1.wav - 9808
+5/23/2012 11:22:58 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crew2.wav - 9808
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crew3.wav - 9808
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crew4.wav - 9808
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crew5.wav - 9808
+5/23/2012 11:22:58 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crew6.wav - 9808
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\crumble.wav - 6040
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\gamesaved.wav - 37550
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\go.wav - 84278
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\hurt.wav - 56346
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\jump.wav - 8306
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\jump2.wav - 8306
+5/23/2012 11:22:55 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\newrecord.wav - 50422
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\preteleport.wav - 33956
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\rescue.wav - 768704
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\save.wav - 19846
+5/23/2012 11:22:56 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\souleyeminijingle.wav - 546944
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\teleport.wav - 133164
+5/23/2012 11:22:59 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\terminal.wav - 8020
+5/23/2012 11:23:02 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\trinket.wav - 46970
+5/23/2012 11:22:57 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\trophy.wav - 38216
+5/23/2012 11:23:00 PM - ProgramFilesX86\Steam\steamapps\common\vvvvvv\data\sounds\vanish.wav - 14840
+
+UAC Disabled or not present

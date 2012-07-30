@@ -1,0 +1,239 @@
+Game Name: Serious Sam Double D
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\Steam\steamapps\common\serioussamdoubled
+
+Save Path:
+LocalAppData\SSDD
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Installer\Products\0AA7CFB2C445A3E47869763FEB56B59E\SourceList\Net
+Value: 4
+Data: ProgramFilesX86\Steam\steamapps\common\serioussamdoubled
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 111600
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\serioussamdoubled
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+5/18/2012 7:31:59 PM - LocalAppData\SSDD\chalDat.mbg - 166
+5/18/2012 7:21:41 PM - LocalAppData\SSDD\myGameAutoSave0.mbg - 60426
+5/18/2012 7:30:29 PM - LocalAppData\SSDD\myGameAutoSave1.mbg - 43422
+5/18/2012 7:35:43 PM - LocalAppData\SSDD\myGameAutoSave2.mbg - 45465
+5/18/2012 7:40:54 PM - LocalAppData\SSDD\myGameAutoSave3.mbg - 54763
+5/18/2012 7:32:38 PM - LocalAppData\SSDD\myGameQuickSave1.mbg - 43942
+5/18/2012 7:31:40 PM - LocalAppData\SSDD\myGameQuickSave10.mbg - 43941
+5/18/2012 7:33:46 PM - LocalAppData\SSDD\myGameQuickSave2.mbg - 45032
+5/18/2012 7:34:43 PM - LocalAppData\SSDD\myGameQuickSave3.mbg - 45123
+5/18/2012 7:34:51 PM - LocalAppData\SSDD\myGameQuickSave4.mbg - 45234
+5/18/2012 7:36:29 PM - LocalAppData\SSDD\myGameQuickSave5.mbg - 46713
+5/18/2012 7:37:24 PM - LocalAppData\SSDD\myGameQuickSave6.mbg - 46848
+5/18/2012 7:38:08 PM - LocalAppData\SSDD\myGameQuickSave7.mbg - 47182
+5/18/2012 7:39:03 PM - LocalAppData\SSDD\myGameQuickSave8.mbg - 47763
+5/18/2012 7:41:24 PM - LocalAppData\SSDD\myGameQuickSave9.mbg - 54963
+5/18/2012 7:41:24 PM - LocalAppData\SSDD\myGameSave.mbg - 3952
+5/18/2012 7:41:24 PM - LocalAppData\SSDD\myPersist.mbg - 896
+5/18/2012 7:37:13 PM - LocalAppData\SSDD\secDat.mbg - 1024
+
+Install Folder Dump:
+5/18/2012 5:52:20 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\dotNetFx40_Full_setup.exe - 889416
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\DrawNodeLib.dll - 20480
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\DrawNodeLib.pdb - 44544
+5/18/2012 5:52:21 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\EHelp.dll - 42496
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\EHelp.pdb - 122368
+5/18/2012 5:52:36 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\GameClasses.dll - 1244672
+5/18/2012 5:52:36 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\GameClasses.pdb - 3708416
+5/18/2012 5:52:33 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Low.dll - 187392
+5/18/2012 5:52:41 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Low.pdb - 599552
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SSDD_InstallScript.vdf - 475
+5/18/2012 5:52:19 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SSGame.application - 1880
+5/18/2012 5:52:46 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SSGame.exe - 45568
+5/18/2012 5:52:45 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SSGame.exe.manifest - 76267
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SSGame.pdb - 54784
+5/18/2012 5:52:30 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\steamclient.dll - 6125352
+5/18/2012 5:52:39 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SteamLink.dll - 49152
+5/18/2012 5:52:44 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SteamLink.exp - 16175
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SteamLink.lib - 27662
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\SteamLink.pdb - 1158144
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\steam_api.dll - 118368
+5/18/2012 5:52:39 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\xnafx40_redist.msi - 7054336
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\AnimBigFile.xnb - 4077602
+5/18/2012 5:52:34 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\DrawNodeBigFile.xnb - 594379
+5/18/2012 5:52:33 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\GameplayBigFile.xnb - 21642
+5/18/2012 5:52:25 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\subtitles.xnb - 5803
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\white_rect1.xnb - 191
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\white_rect16.xnb - 1211
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\audio\Kitty.xgs - 567
+5/18/2012 5:52:24 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\audio\Sound Bank.xsb - 18900
+5/18/2012 5:54:19 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\audio\Wave Bank.xwb - 111464732
+5/18/2012 5:52:16 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\A1.xnb - 23704
+5/18/2012 5:52:33 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\A8.xnb - 23704
+5/18/2012 5:52:45 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\K1.xnb - 72856
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\M1.xnb - 72856
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\N1.xnb - 72856
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\R1.xnb - 138392
+5/18/2012 5:52:25 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\S1.xnb - 138392
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\T12.xnb - 23704
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\T14.xnb - 40088
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\data\X1.xnb - 72856
+5/18/2012 5:52:25 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\CAPTEST.xnb - 13079
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\challengE1.xnb - 16577
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\challenge10.xnb - 35101
+5/18/2012 5:52:44 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\challenge11.xnb - 67543
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\CHALLENGE12.xnb - 44643
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\challengE2.xnb - 23813
+5/18/2012 5:52:34 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\challengE3.xnb - 47666
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\CHALLENGE4.xnb - 19634
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\CHALLENGE5.xnb - 22205
+5/18/2012 5:52:19 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\CHALLENGE6.xnb - 38192
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\CHALLENGE7.xnb - 62594
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\CHALLENGE8.xnb - 29002
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\CHALLENGE9.xnb - 46299
+5/18/2012 5:52:24 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\DESERT.xnb - 17738
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\desertCLOSE.xnb - 22146
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\desertCROWD.xnb - 19366
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\EGYPTBOSS.xnb - 48641
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\FINALBOSS.xnb - 63210
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\FRONT.xnb - 283
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\hamsterboss.xnb - 60013
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\IN_GAME.xnb - 200
+5/18/2012 5:52:34 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\JUMPTEST.xnb - 4544
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\KAMIKAZETEST.xnb - 13331
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\level1.xnb - 195686
+5/18/2012 5:52:45 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL10.xnb - 128561
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\level11.xnb - 93403
+5/18/2012 5:52:36 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\level12.xnb - 113337
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\level13.xnb - 131906
+5/18/2012 5:52:45 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL14.xnb - 146462
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\level1OG.xnb - 27021
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL2.xnb - 149497
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL2MORE.xnb - 126903
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL3.xnb - 145923
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL4.xnb - 188816
+5/18/2012 5:52:33 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL5.xnb - 161029
+5/18/2012 5:52:15 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL6.xnb - 101338
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL7.xnb - 138860
+5/18/2012 5:52:16 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL8.xnb - 144204
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\LEVEL9.xnb - 185213
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\objtest.xnb - 2532
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\PAXDEMO.xnb - 75335
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\PIT.xnb - 17161
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\SAVETEST.xnb - 1853
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\SHEMECHBOSS.xnb - 28655
+5/18/2012 5:52:34 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\test.xnb - 11955
+5/18/2012 5:52:41 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\levels\TESTSIMPLE.xnb - 1667
+5/18/2012 5:52:34 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\shaders\BloomCombine.xnb - 2544
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\shaders\BloomExtract.xnb - 1476
+5/18/2012 5:52:23 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\shaders\Dizzy.xnb - 660
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\shaders\GaussianBlur.xnb - 3300
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\shaders\MotionBlur.xnb - 468
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\shaders\TexturesAndColors.xnb - 27896
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\shaders\twoPassShader.xnb - 1744
+5/18/2012 5:52:39 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\fxdecals_holder.xnb - 160187
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\fxsparks_holder.xnb - 160187
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\grid64.xnb - 16571
+5/18/2012 5:52:21 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\effects\bugcarpet_group.xnb - 357947
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\effects\bullet_case.xnb - 1211
+5/18/2012 5:52:45 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\effects\chunks.xnb - 65723
+5/18/2012 5:52:44 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\effects\DamageScreenEdge.xnb - 2560187
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\effects\effectsbig.xnb - 4000187
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\effects\effectsbigmore.xnb - 4000187
+5/18/2012 5:52:27 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\effects\FxGroup.xnb - 2560187
+5/18/2012 5:52:23 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\effects\basic\colorSquare.xnb - 16571
+5/18/2012 5:52:46 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\desert_background.xnb - 16777403
+5/18/2012 5:52:33 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\desert_backgroundLast.xnb - 16777403
+5/18/2012 5:52:48 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\desert_backgroundMore.xnb - 16777403
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\desert_indoors_back.xnb - 3686587
+5/18/2012 5:52:23 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\dino_back.xnb - 5734587
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\hamster_tube.xnb - 2713787
+5/18/2012 5:52:41 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\Jurassic_background.xnb - 16777403
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\jurassic_more.xnb - 16777403
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\pompeii_background1_Ash.xnb - 10990363
+5/18/2012 5:52:15 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\pompeii_background2_Ash.xnb - 9511099
+5/18/2012 5:52:26 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\pompeii_background_part1.xnb - 10990363
+5/18/2012 5:52:15 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\pompeii_background_part2.xnb - 9511099
+5/18/2012 5:52:24 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\secrets_extra.xnb - 4194491
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\volcano_background1.xnb - 16777403
+5/18/2012 5:52:41 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\Environment\volcano_more.xnb - 4194491
+5/18/2012 5:52:34 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\ground\walk_dirt.xnb - 819387
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\hero\beaconCrystal.xnb - 4194491
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\hero\mbg_pie_pickup.xnb - 297787
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\hero\pickups.xnb - 4194491
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\hero\samParts.xnb - 4194491
+5/18/2012 5:52:34 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\hero\samPartsmore.xnb - 8388795
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\blackrect64.xnb - 16571
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\black_rect512.xnb - 1048763
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\ButtonIcons.xnb - 800187
+5/18/2012 5:52:15 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\ControllerPic.xnb - 636187
+5/18/2012 5:52:44 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\damageScreenEdge.xnb - 921787
+5/18/2012 5:52:41 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\DeadMenu.xnb - 3840187
+5/18/2012 5:52:44 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\FrontMenuBack.xnb - 4194491
+5/18/2012 5:52:35 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\FullScreenBorder.xnb - 5243067
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\gunselector.xnb - 11707
+5/18/2012 5:52:47 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\gunstackmenuBack.xnb - 10485947
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\gunstackmenuConnecter.xnb - 25787
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\gunstackmenu_column.xnb - 164747
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD.xnb - 4194491
+5/18/2012 5:52:23 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_ammobar_back.xnb - 4795
+5/18/2012 5:52:44 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_ammobar_back_small.xnb - 1723
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_ammobar_front.xnb - 4795
+5/18/2012 5:52:34 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_ammobox_menu.xnb - 9787
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_bosshealth_back.xnb - 119227
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_bosshealth_bar.xnb - 24187
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_challenge_arrow.xnb - 14587
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_challenge_skull.xnb - 14587
+5/18/2012 5:52:40 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_challenge_timer.xnb - 14587
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_gunbox_menu.xnb - 33979
+5/18/2012 5:52:35 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_gunicons_gold.xnb - 640187
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_gunicons_small.xnb - 230587
+5/18/2012 5:52:26 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_gunicons_small_all.xnb - 460987
+5/18/2012 5:52:33 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_gunicons_small_gold.xnb - 230587
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_infinity.xnb - 7387
+5/18/2012 5:52:39 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_player_ammo_bar.xnb - 17787
+5/18/2012 5:52:27 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_player_health_bar.xnb - 17787
+5/18/2012 5:52:39 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_sprite_bars.xnb - 98811
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_sprite_numbers.xnb - 98811
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_treasure.xnb - 25787
+5/18/2012 5:52:12 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\HUD_wordbox.xnb - 88987
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\ingame_logo.xnb - 704187
+5/18/2012 5:52:43 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\mbg_logo_loading.xnb - 795067
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\menu_wordbox.xnb - 44587
+5/18/2012 5:52:35 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\PauseMenu.xnb - 3840187
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\quickselect_stackbox.xnb - 144187
+5/18/2012 5:52:45 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\SteamAchievements.xnb - 803003
+5/18/2012 5:52:36 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\SteamAchievements_off.xnb - 803003
+5/18/2012 5:52:35 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\menus\talkingHeads.xnb - 1048763
+5/18/2012 5:52:45 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\biomech_more.xnb - 16777403
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\caterpillar.xnb - 4194491
+5/18/2012 5:52:47 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\dinos.xnb - 16777403
+5/18/2012 5:52:28 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\finalboss.xnb - 16777403
+5/18/2012 5:52:14 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\general.xnb - 4194491
+5/18/2012 5:52:31 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\giantflea.xnb - 2588859
+5/18/2012 5:52:42 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\GorillaBoss.xnb - 6553787
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\gorillaboss_sawblades.xnb - 1097019
+5/18/2012 5:52:36 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\hamster_boss.xnb - 14844091
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\kleerskel_side.xnb - 450187
+5/18/2012 5:52:27 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\monster_more.xnb - 16777403
+5/18/2012 5:52:13 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\spawnerEnemies.xnb - 1280187
+5/18/2012 5:52:37 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\Content\textures\monsters\spiderBig.xnb - 4194491
+5/18/2012 5:52:24 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\de\GameClasses.resources.dll - 71680
+5/18/2012 5:52:23 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\es\GameClasses.resources.dll - 70656
+5/18/2012 5:52:19 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\fr\GameClasses.resources.dll - 73216
+5/18/2012 5:52:35 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\it\GameClasses.resources.dll - 72192
+5/18/2012 5:52:36 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\reslists\precache.lst - 656
+5/18/2012 5:52:38 AM - ProgramFilesX86\Steam\steamapps\common\serioussamdoubled\reslists\preload.lst - 656
+
+UAC Disabled or not present
