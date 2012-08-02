@@ -1,0 +1,142 @@
+Comments:
+  <game name="Trine2" platform="Steam">
+    <title>Trine 2</title>
+    <location_path environment_variable="steamuserdata" path="35720" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+  
+  
+Game Name: Trine 2
+Operating System: 
+Microsoft Windows NT 6.1.7600.0
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\trine 2
+
+Save Path: 
+ProgramFilesX86\Steam\userdata\22744720\35720
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 35720
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\trine 2
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Apr 15 10:16:13 AM - ProgramFilesX86\Steam\userdata\22744720\35720\remotecache.vdf - 505
+Jan 21 4:25:20 PM - ProgramFilesX86\Steam\userdata\22744720\35720\remote\options - 10
+Apr 15 10:15:55 AM - ProgramFilesX86\Steam\userdata\22744720\35720\remote\slot1 - 95175
+
+Install Folder Dump: 
+Mar 29 5:07:01 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\atiags.dll - 2599920
+Mar 29 5:06:58 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\atiags64.dll - 3588592
+Mar 29 5:07:14 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\binkw32.dll - 224256
+Mar 29 5:06:56 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\binkw64.dll - 309760
+Mar 29 5:07:58 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\cudart32_30_9.dll - 290408
+Mar 29 5:06:45 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\cudart64_30_9.dll - 405608
+Mar 29 5:06:49 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\cv100.dll - 958464
+Mar 29 5:08:36 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\cv100_64.dll - 1322496
+Mar 29 5:07:43 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\cvaux100.dll - 708608
+Mar 29 5:07:52 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\cvaux100_64.dll - 1070592
+Mar 29 5:07:19 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\cxcore100.dll - 1150976
+Mar 29 5:07:07 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\cxcore100_64.dll - 1623040
+Mar 29 6:14:40 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data1.fbq - 1440505211
+Mar 29 5:07:28 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\installscript.vdf - 480
+Mar 29 5:07:44 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\lua.dll - 357888
+Mar 29 5:07:51 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\lua_x64.dll - 400896
+Mar 29 5:12:27 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\patch1.fbq - 59675938
+Mar 29 5:08:29 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\patch2.fbq - 16773326
+Mar 29 5:07:32 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\PhysXCooking.dll - 383840
+Mar 29 5:06:53 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\PhysXCooking64.dll - 465248
+Mar 29 5:07:49 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\PhysXCore.dll - 3567456
+Mar 29 5:08:58 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\PhysXCore64.dll - 4434272
+Mar 29 5:07:39 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\PhysXDevice.dll - 65536
+Mar 29 5:08:03 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\PhysXDevice64.dll - 68096
+Mar 29 5:08:33 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\PhysXLoader.dll - 64352
+Mar 29 5:06:45 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\PhysXLoader64.dll - 66912
+Mar 29 5:08:08 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\readme_changelog.txt - 18002
+Mar 29 5:06:52 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\steam_api.dll - 124296
+Mar 29 5:08:15 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\steam_api64.dll - 147552
+Mar 29 5:07:44 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\steam_appid.txt - 5
+Mar 29 5:09:16 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\trine2_32bit.exe - 16311808
+Mar 29 5:08:34 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\trine2_launcher.exe - 2193408
+Mar 29 5:07:28 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\config\readme_info.txt - 96
+Mar 29 5:07:29 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\gui\font\argos.ttf - 35924
+Mar 29 5:07:22 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\gui\font\argos_dev_null.ttf - 35924
+Mar 29 5:07:26 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\image\launcher_bg.png - 472820
+Mar 29 5:07:58 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\image\launcher_bg.png.fbr - 232
+Mar 29 5:07:29 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\image\launcher_cancel.png - 605
+Mar 29 5:07:07 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\image\launcher_cancel.png.fbr - 236
+Mar 29 5:07:35 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\image\launcher_launch.png - 232
+Mar 29 5:08:05 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\image\launcher_launch.png.fbr - 236
+Mar 29 5:07:49 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\launcher_base_locales.fbll - 351
+Mar 29 5:07:36 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\cs\trine2_launcher.mo - 1847
+Mar 29 5:08:14 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\cs\trine2_launcher.po - 1757
+Mar 29 5:07:09 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\de\trine2_launcher.mo - 1882
+Mar 29 5:06:43 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\de\trine2_launcher.po - 1792
+Mar 29 5:07:36 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\es\trine2_launcher.mo - 1803
+Mar 29 5:07:24 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\es\trine2_launcher.po - 1713
+Mar 29 5:07:14 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\fi\trine2_launcher.mo - 1844
+Mar 29 5:06:45 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\fi\trine2_launcher.po - 1754
+Mar 29 5:07:12 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\fr\trine2_launcher.mo - 1875
+Mar 29 5:06:49 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\fr\trine2_launcher.po - 1785
+Mar 29 5:07:47 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\hu\trine2_launcher.mo - 1259
+Mar 29 5:07:30 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\hu\trine2_launcher.po - 1191
+Mar 29 5:06:49 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\it\trine2_launcher.mo - 1845
+Mar 29 5:07:28 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\it\trine2_launcher.po - 1755
+Mar 29 5:08:08 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\pl\trine2_launcher.mo - 1873
+Mar 29 5:07:51 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\pl\trine2_launcher.po - 1783
+Mar 29 5:07:04 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\pt_br\trine2_launcher.mo - 1840
+Mar 29 5:08:21 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\pt_br\trine2_launcher.po - 1750
+Mar 29 5:07:18 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\ro\trine2_launcher.mo - 1856
+Mar 29 5:06:45 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\ro\trine2_launcher.po - 1766
+Mar 29 5:06:42 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\ru\trine2_launcher.mo - 2233
+Mar 29 5:08:02 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\ru\trine2_launcher.po - 2143
+Mar 29 5:08:31 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\tr\trine2_launcher.mo - 1864
+Mar 29 5:07:26 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\launcher\locale\tr\trine2_launcher.po - 1774
+Mar 29 5:06:43 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\application_trine2.ver - 67
+Mar 29 5:07:18 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.00.ver - 6
+Mar 29 5:07:19 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.06.ver - 6
+Mar 29 5:07:01 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.07.ver - 12
+Mar 29 5:07:13 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.08.ver - 18
+Mar 29 5:07:51 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.09.ver - 24
+Mar 29 5:06:52 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.10.ver - 30
+Mar 29 5:07:07 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.11.ver - 36
+Mar 29 5:06:52 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.12.ver - 42
+Mar 29 5:07:54 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.13.ver - 48
+Mar 29 5:07:19 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\compatibility_1.14.ver - 54
+Mar 29 5:07:22 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\current_version.ver - 5
+Mar 29 5:07:22 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.00.ver - 85
+Mar 29 5:07:58 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.06.ver - 85
+Mar 29 5:07:24 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.07.ver - 85
+Mar 29 5:08:36 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.08.ver - 85
+Mar 29 5:07:44 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.09.ver - 85
+Mar 29 5:07:18 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.10.ver - 85
+Mar 29 5:07:56 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.11.ver - 85
+Mar 29 5:07:14 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.12.ver - 85
+Mar 29 5:07:19 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.13.ver - 85
+Mar 29 5:06:49 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\data\version\version_1.14.ver - 85
+Apr 15 9:45:08 AM - ProgramFilesX86\Steam\steamapps\common\trine 2\log\trine2.log - 106
+Mar 29 5:08:33 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\APR2007_xinput_x64.cab - 96817
+Mar 29 5:07:36 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\APR2007_xinput_x86.cab - 53302
+Mar 29 5:08:29 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\DSETUP.dll - 95576
+Mar 29 5:07:22 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\dsetup32.dll - 1566040
+Mar 29 5:07:47 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\dxdllreg_x86.cab - 44624
+Mar 29 5:07:24 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\DXSETUP.exe - 517976
+Mar 29 5:08:02 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\dxupdate.cab - 97152
+Mar 29 5:07:09 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\JUN2008_d3dx9_38_x64.cab - 1792608
+Mar 29 5:08:24 PM - ProgramFilesX86\Steam\steamapps\common\trine 2\_DirectX_Trine2\JUN2008_d3dx9_38_x86.cab - 1463878
+
+UAC Disabled or not present
+

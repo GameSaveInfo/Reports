@@ -1,0 +1,125 @@
+Comments:
+  <game name="YsOrigin" platform="Steam">
+    <title>Ys Origin</title>
+    <location_path environment_variable="steamuserdata" path="207350" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Ys Origin
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\ys origin
+
+Save Path: 
+ProgramFilesX86\Steam\userdata\********\207350
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 207350
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\ys origin
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sun 15 Jul 8:29:10 AM - ProgramFilesX86\Steam\userdata\********\207350\remotecache.vdf - 1265
+Sun 15 Jul 8:09:33 AM - ProgramFilesX86\Steam\userdata\********\207350\remote\config.ini - 41
+Sun 15 Jul 8:28:37 AM - ProgramFilesX86\Steam\userdata\********\207350\remote\record.ta2 - 192
+Sun 15 Jul 8:28:37 AM - ProgramFilesX86\Steam\userdata\********\207350\remote\record.tp - 5248
+Sun 15 Jul 8:28:21 AM - ProgramFilesX86\Steam\userdata\********\207350\remote\yso_00.bin - 8136
+Sun 15 Jul 8:28:37 AM - ProgramFilesX86\Steam\userdata\********\207350\remote\yso_win.ini - 2194
+
+Install Folder Dump: 
+Sat 14 Jul 12:05:37 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\common.ini - 178
+Fri 13 Jul 10:20:59 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\config.exe - 9216
+Fri 13 Jul 10:20:09 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\installscript.vdf - 905
+Fri 13 Jul 10:25:41 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\steam_api.dll - 120616
+Fri 13 Jul 10:17:06 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\yso_win.exe - 3021312
+Fri 13 Jul 10:17:20 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\BDANT.cab - 1155491
+Fri 13 Jul 10:26:45 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\BDAXP.cab - 975148
+Fri 13 Jul 10:21:03 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\DSETUP.dll - 89944
+Fri 13 Jul 10:18:59 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\dsetup32.dll - 1801048
+Fri 13 Jul 10:24:23 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\dxdllreg_x86.cab - 42410
+Fri 13 Jul 10:26:11 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\dxnt.cab - 13264168
+Fri 13 Jul 10:21:47 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\DXSETUP.exe - 537432
+Fri 13 Jul 10:26:53 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\dxupdate.cab - 94011
+Fri 13 Jul 10:20:57 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\Jun2010_d3dx9_43_x64.cab - 937246
+Fri 13 Jul 10:19:22 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\dxredist\Jun2010_d3dx9_43_x86.cab - 768036
+Sat 14 Jul 1:38:51 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\data.na - 1347749646
+Fri 13 Jul 10:26:28 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\data.ni - 776596
+Fri 13 Jul 10:28:05 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\data.nu - 317900
+Fri 13 Jul 10:16:49 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\data.nya - 1024
+Sat 14 Jul 12:15:22 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\data_us.na - 100368044
+Fri 13 Jul 10:30:12 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\data_us.ni - 116165
+Fri 13 Jul 10:20:35 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\data_us.nu - 49620
+Sat 14 Jul 12:18:13 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_ed01.dat - 104357892
+Sat 14 Jul 12:19:04 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_ed02.dat - 131454980
+Sat 14 Jul 12:11:33 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_ins01.dat - 18690052
+Sat 14 Jul 12:11:38 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_ins02.dat - 48064516
+Fri 13 Jul 10:29:49 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_ins03.dat - 43245572
+Fri 13 Jul 10:23:11 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_ins04.dat - 8175372
+Sun 15 Jul 8:10:49 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_ins04.fot - 1409
+Sat 14 Jul 12:10:00 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_logo.avi - 41129988
+Sat 14 Jul 12:09:24 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_op.avi - 62572548
+Sat 14 Jul 12:18:37 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\yso_pro.avi - 110649348
+Fri 13 Jul 10:29:54 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\bgmdef.txt - 699
+Sat 14 Jul 12:08:04 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_001.ogg - 4683042
+Fri 13 Jul 10:19:49 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_002.ogg - 4408225
+Fri 13 Jul 10:17:42 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_003.ogg - 3659397
+Fri 13 Jul 10:20:39 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_004.ogg - 5918962
+Fri 13 Jul 10:20:08 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_005.ogg - 6201157
+Fri 13 Jul 10:17:13 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_006.ogg - 2969504
+Fri 13 Jul 10:17:35 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_007.ogg - 3141177
+Fri 13 Jul 10:18:21 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_008.ogg - 3339131
+Sat 14 Jul 12:06:46 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_009.ogg - 3294426
+Fri 13 Jul 10:21:36 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_010.ogg - 2511381
+Fri 13 Jul 10:18:36 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_011.ogg - 3677430
+Fri 13 Jul 10:17:29 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_012.ogg - 2711148
+Fri 13 Jul 10:20:52 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_013.ogg - 2617423
+Fri 13 Jul 10:25:33 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_014.ogg - 3812543
+Sat 14 Jul 12:06:40 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_015.ogg - 3358998
+Fri 13 Jul 10:22:42 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_016.ogg - 3547581
+Fri 13 Jul 10:23:48 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_017.ogg - 3159623
+Sat 14 Jul 12:07:46 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_018.ogg - 7885018
+Fri 13 Jul 10:23:44 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_019.ogg - 5171928
+Fri 13 Jul 10:20:02 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_020.ogg - 1903301
+Fri 13 Jul 10:22:39 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_021.ogg - 5158174
+Fri 13 Jul 10:17:01 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_022.ogg - 2066305
+Fri 13 Jul 10:21:39 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_023.ogg - 2704311
+Sat 14 Jul 12:07:45 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_024.ogg - 3849564
+Fri 13 Jul 10:21:01 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_025.ogg - 3058732
+Fri 13 Jul 10:18:29 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_026.ogg - 4383776
+Sat 14 Jul 12:05:37 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_027.ogg - 357589
+Sat 14 Jul 12:07:55 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_028.ogg - 486259
+Fri 13 Jul 10:30:04 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_029.ogg - 368621
+Fri 13 Jul 10:27:59 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_030.ogg - 4985780
+Fri 13 Jul 10:19:00 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_031.ogg - 4720827
+Fri 13 Jul 10:20:49 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_032.ogg - 3403866
+Fri 13 Jul 10:20:24 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_033.ogg - 5131967
+Fri 13 Jul 10:18:58 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_034.ogg - 6179869
+Sat 14 Jul 12:06:00 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_035.ogg - 1544606
+Fri 13 Jul 10:18:25 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_036.ogg - 3462794
+Sat 14 Jul 12:05:41 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_037.ogg - 904617
+Fri 13 Jul 10:17:14 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_038.ogg - 2355641
+Fri 13 Jul 10:18:21 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_039.ogg - 2227954
+Fri 13 Jul 10:19:45 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\music\YSO_040.ogg - 3403909
+Fri 13 Jul 10:16:41 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\programs\copyrights.txt - 2076
+Fri 13 Jul 10:16:53 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\programs\ogg.dll - 53248
+Sat 14 Jul 12:06:51 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\programs\vorbis.dll - 1204224
+Sat 14 Jul 12:05:48 AM - ProgramFilesX86\Steam\steamapps\common\ys origin\release\programs\vorbisfile.dll - 81920
+Fri 13 Jul 10:24:16 PM - ProgramFilesX86\Steam\steamapps\common\ys origin\vsredist\vcredist_x86.exe - 1821192
+
+UAC Disabled or not present
+

@@ -1,0 +1,46 @@
+Comments:
+  <game name="MetalDead" platform="Windows">
+    <title>Metal Dead</title>
+    <location_path environment_variable="savedgames" path="Metal Dead" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Metal Dead
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\Games\MetalDead
+
+Save Path: 
+SavedGames\Metal Dead
+
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Fri 22 Jun 7:20:32 PM - SavedGames\Metal Dead\agssave.001 - 525582
+Fri 22 Jun 7:24:40 PM - SavedGames\Metal Dead\agssave.002 - 525611
+Fri 22 Jun 7:15:06 PM - SavedGames\Metal Dead\agssave.999 - 317609
+
+Install Folder Dump: 
+Mon 26 Dec 11:58:26 PM - Drive\Games\MetalDead\acsetup.cfg - 303
+Tue 27 Dec 12:00:56 AM - Drive\Games\MetalDead\audio.vox - 30604251
+Tue 28 Sep 1:16:44 AM - Drive\Games\MetalDead\icon.ico - 41662
+Tue 27 Dec 12:00:46 AM - Drive\Games\MetalDead\MetalDead.exe - 1501335400
+Fri 22 Jun 7:52:59 PM - Drive\Games\MetalDead\Uninstall.exe - 196259
+Tue 27 Dec 12:00:46 AM - Drive\Games\MetalDead\winsetup.exe - 94234
+
+UAC Disabled or not present
+

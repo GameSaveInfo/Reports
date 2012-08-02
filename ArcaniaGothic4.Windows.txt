@@ -1,0 +1,325 @@
+Comments:
+	<game name="ArcaniaGothic4" platform="Windows">
+		<title>ArcaniA: Gothic 4</title>
+		<location_path environment_variable="userdocuments" path="ArcaniA - Gothic 4" />
+		<save />
+		<contributer>Arc Angel</contributer>
+	</game>
+
+	
+Game Name: ArcaniA - Gothic 4
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\arcania gothic 4
+
+Save Path: 
+UserDocuments\ArcaniA - Gothic 4
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Installer\Products\3e43b73803c7c394f8a6b2f0402e19c2\SourceList\Net
+Value: 3
+Data: ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 39690
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\arcania gothic 4
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Fri 11 May 4:52:47 PM - UserDocuments\ArcaniA - Gothic 4\0000.sav - 1900650
+Fri 11 May 4:51:37 PM - UserDocuments\ArcaniA - Gothic 4\autosave00.sav - 1900616
+Fri 11 May 4:50:25 PM - UserDocuments\ArcaniA - Gothic 4\gameplaysettings.xml - 833
+Fri 11 May 4:50:25 PM - UserDocuments\ArcaniA - Gothic 4\gamesoundsettings.xml - 504
+Fri 11 May 4:50:25 PM - UserDocuments\ArcaniA - Gothic 4\input.xml - 12389
+Fri 11 May 4:50:25 PM - UserDocuments\ArcaniA - Gothic 4\inputsettings.xml - 715
+Fri 11 May 4:50:25 PM - UserDocuments\ArcaniA - Gothic 4\videosettings.xml - 2589
+
+Install Folder Dump: 
+Fri 11 May 1:56:30 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\39690_install.vdf - 1159
+Fri 11 May 12:41:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\aliasdiffanhl3.bin - 884
+Fri 11 May 1:31:18 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Arcania.exe - 26684928
+Fri 11 May 1:14:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\const_ovr.bin - 22596
+Fri 11 May 1:56:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\coord_abstr5.hal - 16643
+Fri 11 May 1:52:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\cyc_nan.bik - 11772
+Fri 11 May 1:55:18 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\dest_fix2.bin - 7423
+Fri 11 May 12:38:17 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\DFA.dll - 6235624
+Fri 11 May 12:39:07 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\DFA_left.bmp - 139724
+Fri 11 May 12:38:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\DFA_top.bmp - 96776
+Fri 11 May 1:56:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\dfe - 300460
+Fri 11 May 12:42:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\dialog.bmp - 336056
+Fri 11 May 1:13:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\dith_l3.bin - 9417
+Fri 11 May 1:24:19 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\engined2.bin - 14905
+Fri 11 May 1:43:30 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\f10.kea - 11649
+Fri 11 May 1:43:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\GameServices.dll - 1894744
+Fri 11 May 12:38:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\GameServices.ini - 43876
+Fri 11 May 12:37:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\gfx_hwdl1.dat - 13090
+Fri 11 May 1:50:56 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\jay_mix.bin - 25009
+Fri 11 May 1:51:24 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\krn_snd.bin - 14368
+Fri 11 May 1:53:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Lang.efigs - 0
+Fri 11 May 1:31:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\lang.ini - 153046
+Fri 11 May 1:14:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Layer06.Arch01 - 18955
+Fri 11 May 1:56:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\lght_jmp_mod.hal - 25369
+Fri 11 May 12:43:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\logo-paul.bmp - 58856
+Fri 11 May 1:55:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\NxCharacter.dll - 118784
+Fri 11 May 12:37:59 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\NxCooking.dll - 421888
+Fri 11 May 12:44:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\patpon.pat - 22272
+Fri 11 May 1:52:20 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\paul.dll - 279880
+Fri 11 May 1:23:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\PhysXLoader.dll - 65536
+Fri 11 May 1:56:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\rldata.dll - 1085440
+Fri 11 May 1:44:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\srh50.bin - 30604
+Fri 11 May 12:38:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\starter.bin - 24894
+Fri 11 May 1:26:49 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\story_opl.dia - 4884
+Fri 11 May 1:57:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\tbb.dll - 184320
+Fri 11 May 1:21:47 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\vBase90.dll - 1123328
+Fri 11 May 12:39:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Vision90.dll - 1267200
+Fri 11 May 1:21:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\vorbis_sub.sub - 21992
+Fri 11 May 12:37:55 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\w1n_000.nfs - 1961
+Fri 11 May 1:55:55 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\wrk_sdl.bin - 929
+Fri 11 May 1:50:11 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\basedata.pak - 43397120
+Fri 11 May 2:03:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\data0.pak - 222860480
+Fri 11 May 12:42:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\datablocks.pak - 14651392
+Fri 11 May 3:57:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\datablocks0.pak - 1877430272
+Fri 11 May 3:03:37 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\datablocks1.pak - 1631326208
+Fri 11 May 2:39:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\music.pak - 1111650304
+Fri 11 May 2:19:25 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\speech0.pak - 697024512
+Fri 11 May 1:00:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\xpatch_data_efgis.pak - 39288832
+Fri 11 May 1:31:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\configuration\locale.xml - 85
+Fri 11 May 12:37:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\configuration\ProcessManager.xml - 7284
+Fri 11 May 1:23:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\interface\Cursor.cur - 4286
+Fri 11 May 12:40:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\interface\interface.bin - 993524
+Fri 11 May 12:43:07 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\interface\RichTextTokens.xml - 4698
+Fri 11 May 2:00:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\texts\g4_fmv_subs.de.bin - 6393
+Fri 11 May 12:37:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\texts\g4_fmv_subs.de.xml - 6500
+Fri 11 May 12:41:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\texts\g4_inputs.de.bin - 131976
+Fri 11 May 1:56:24 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\texts\g4_inputs.de.xml - 158289
+Fri 11 May 1:21:35 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\texts\g4_menues.de.bin - 131976
+Fri 11 May 12:54:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\texts\g4_menues.de.xml - 158289
+Fri 11 May 12:37:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\texts\g4_tooltips.de.bin - 131978
+Fri 11 May 1:25:55 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\texts\g4_tooltips.de.xml - 158291
+Fri 11 May 1:45:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_AhnBael.wmv - 143625
+Fri 11 May 12:39:47 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Bloodfly.wmv - 653261
+Fri 11 May 12:39:33 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Boar.wmv - 2396351
+Fri 11 May 12:42:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_CoastCrawler.wmv - 2002885
+Fri 11 May 12:38:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Demon.wmv - 4095873
+Fri 11 May 1:44:11 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_DemonLord.wmv - 3741673
+Fri 11 May 1:24:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_FieldCrawler.wmv - 780661
+Fri 11 May 2:04:04 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_FieldRaider.wmv - 3200035
+Fri 11 May 12:45:09 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_FireGolem.wmv - 1244055
+Fri 11 May 1:26:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_FireLizard.wmv - 1486261
+Fri 11 May 12:38:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_FireSkeleton.wmv - 724673
+Fri 11 May 1:55:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_FrostCrystal.wmv - 1617867
+Fri 11 May 1:51:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Goblin.wmv - 2196223
+Fri 11 May 1:54:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_GoblinBoss.wmv - 1428921
+Fri 11 May 12:52:57 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_GoblinShaman.wmv - 1265109
+Fri 11 May 1:44:46 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_GreenLizard.wmv - 972461
+Fri 11 May 1:53:47 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_HighOrc.wmv - 615473
+Fri 11 May 1:52:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_IceGolem.wmv - 1160055
+Fri 11 May 1:14:41 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_IceSkeleton.wmv - 755473
+Fri 11 May 1:53:04 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Lizard.wmv - 702261
+Fri 11 May 1:54:22 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_LowOrc.wmv - 658861
+Fri 11 May 1:43:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_LowOrcShaman.wmv - 798903
+Fri 11 May 12:54:38 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Lurker.wmv - 1375667
+Fri 11 May 12:44:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_MinecrawlerWarrior.wmv - 2036473
+Fri 11 May 1:53:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_MinecrawlerWorker.wmv - 1353261
+Fri 11 May 1:51:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Molerat.wmv - 1332285
+Fri 11 May 1:53:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_RootParasite.wmv - 208037
+Fri 11 May 12:38:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Scavenger.wmv - 3277137
+Fri 11 May 1:54:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_ShadowBeast.wmv - 184267
+Fri 11 May 12:38:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Skeleton.wmv - 721873
+Fri 11 May 12:54:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Snapper.wmv - 955673
+Fri 11 May 12:39:33 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_StoneGolem.wmv - 602855
+Fri 11 May 1:50:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Swampshark.wmv - 1515691
+Fri 11 May 1:55:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Troll.wmv - 962655
+Fri 11 May 12:42:19 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_UndeadPaladin.wmv - 968273
+Fri 11 May 12:53:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Wolf.wmv - 462873
+Fri 11 May 1:56:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\B_Zombie.wmv - 425049
+Fri 11 May 12:41:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\JWD_Logo.wmv - 1844254
+Fri 11 May 1:52:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\Nvidia.wmv - 3029465
+Fri 11 May 1:17:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\SB_Logo.wmv - 6965706
+Fri 11 May 1:22:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\Thumbs.db - 69120
+Fri 11 May 1:21:30 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\fmv1.wmv - 101371056
+Fri 11 May 1:43:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\fmv2.wmv - 82256126
+Fri 11 May 1:59:46 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\fmv3.wmv - 28449248
+Fri 11 May 1:12:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\fmv4.wmv - 87902020
+Fri 11 May 1:03:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\fmv5.wmv - 66018230
+Fri 11 May 2:05:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\fmv6.wmv - 50726346
+Fri 11 May 1:56:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\intro.wmv - 111357512
+Fri 11 May 2:24:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\outro.wmv - 115895478
+Fri 11 May 1:55:57 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data\Video\dummy\Thumbs.db - 7168
+Fri 11 May 2:25:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data_test_lvl69\data_test_lvl69.pak - 281911296
+Fri 11 May 12:52:39 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data_test_lvl69\xpatch_lvl_efgis.pak - 37769216
+Fri 11 May 1:21:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data_test_lvl69\texts\g4_actor_tooltip.de.bin - 1810
+Fri 11 May 1:53:20 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data_test_lvl69\texts\g4_dialogs.de.bin - 967782
+Fri 11 May 12:53:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data_test_lvl69\texts\g4_entities.de.bin - 573721
+Fri 11 May 12:53:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Data_test_lvl69\texts\g4_quests.de.bin - 258955
+Fri 11 May 1:44:38 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Docs\Arcania_PC_Man_DE.pdf - 983258
+Fri 11 May 12:43:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Docs\Arcania_PC_Man_EN.pdf - 967253
+Fri 11 May 1:25:26 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Docs\Arcania_PC_Man_FR.pdf - 991596
+Fri 11 May 1:54:07 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Docs\Arcania_PC_Man_IT.pdf - 955664
+Fri 11 May 1:50:40 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Docs\Arcania_PC_Man_Sp.pdf - 951981
+Fri 11 May 12:39:39 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Docs\Liesmich.txt - 2459
+Fri 11 May 12:38:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\Docs\Readme.txt - 2514
+Fri 11 May 12:49:49 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\PhysX_9.10.0223_SystemSoftware.exe - 34299744
+Fri 11 May 1:44:55 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\vcredis1.cab - 253450
+Fri 11 May 12:42:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\vcredist.msi - 2736640
+Fri 11 May 12:38:59 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2005_d3dx9_25_x64.cab - 1347354
+Fri 11 May 1:24:14 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2005_d3dx9_25_x86.cab - 1078962
+Fri 11 May 12:40:14 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2006_d3dx9_30_x64.cab - 1397830
+Fri 11 May 12:50:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2006_d3dx9_30_x86.cab - 1115221
+Fri 11 May 1:25:49 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2006_MDX1_x86.cab - 916430
+Fri 11 May 12:38:07 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2006_MDX1_x86_Archive.cab - 4162630
+Fri 11 May 12:55:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2006_XACT_x64.cab - 179133
+Fri 11 May 1:26:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2006_XACT_x86.cab - 133103
+Fri 11 May 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2006_xinput_x64.cab - 87101
+Fri 11 May 1:26:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Apr2006_xinput_x86.cab - 46010
+Fri 11 May 12:42:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\APR2007_d3dx10_33_x64.cab - 698612
+Fri 11 May 1:57:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\APR2007_d3dx10_33_x86.cab - 695865
+Fri 11 May 1:24:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\APR2007_d3dx9_33_x64.cab - 1607358
+Fri 11 May 1:18:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\APR2007_d3dx9_33_x86.cab - 1606039
+Fri 11 May 1:59:49 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\APR2007_XACT_x64.cab - 195766
+Fri 11 May 1:43:11 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\APR2007_XACT_x86.cab - 151225
+Fri 11 May 12:38:56 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\APR2007_xinput_x64.cab - 96817
+Fri 11 May 12:42:40 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\APR2007_xinput_x86.cab - 53302
+Fri 11 May 2:05:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2005_d3dx9_27_x64.cab - 1350542
+Fri 11 May 1:51:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2005_d3dx9_27_x86.cab - 1077644
+Fri 11 May 12:42:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2006_XACT_x64.cab - 182903
+Fri 11 May 12:39:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2006_XACT_x86.cab - 137235
+Fri 11 May 1:52:04 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2006_xinput_x64.cab - 87142
+Fri 11 May 12:37:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2006_xinput_x86.cab - 46058
+Fri 11 May 12:53:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2007_d3dx10_35_x64.cab - 852286
+Fri 11 May 1:13:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2007_d3dx10_35_x86.cab - 796867
+Fri 11 May 12:39:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2007_d3dx9_35_x64.cab - 1800160
+Fri 11 May 12:43:19 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2007_d3dx9_35_x86.cab - 1708152
+Fri 11 May 12:38:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2007_XACT_x64.cab - 198096
+Fri 11 May 12:41:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\AUG2007_XACT_x86.cab - 153012
+Fri 11 May 2:04:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2008_d3dx10_39_x64.cab - 867612
+Fri 11 May 1:55:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2008_d3dx10_39_x86.cab - 849167
+Fri 11 May 1:23:30 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2008_d3dx9_39_x64.cab - 1794084
+Fri 11 May 1:22:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2008_d3dx9_39_x86.cab - 1464672
+Fri 11 May 12:41:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2008_XACT_x64.cab - 121772
+Fri 11 May 1:52:07 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2008_XACT_x86.cab - 92996
+Fri 11 May 12:40:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2008_XAudio_x64.cab - 271412
+Fri 11 May 1:26:07 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2008_XAudio_x86.cab - 271038
+Fri 11 May 12:42:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_D3DCompiler_42_x64.cab - 919044
+Fri 11 May 12:38:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_D3DCompiler_42_x86.cab - 900598
+Fri 11 May 2:00:19 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_d3dcsx_42_x64.cab - 3112111
+Fri 11 May 12:41:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_d3dcsx_42_x86.cab - 3319740
+Fri 11 May 12:43:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_d3dx10_42_x64.cab - 232635
+Fri 11 May 1:56:11 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_d3dx10_42_x86.cab - 192131
+Fri 11 May 1:59:56 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_d3dx11_42_x64.cab - 136301
+Fri 11 May 1:55:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_d3dx11_42_x86.cab - 105044
+Fri 11 May 1:55:46 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_d3dx9_42_x64.cab - 930116
+Fri 11 May 1:01:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_d3dx9_42_x86.cab - 728456
+Fri 11 May 1:52:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_XACT_x64.cab - 122408
+Fri 11 May 1:43:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_XACT_x86.cab - 93106
+Fri 11 May 1:50:19 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_XAudio_x64.cab - 273264
+Fri 11 May 1:54:39 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Aug2009_XAudio_x86.cab - 272642
+Fri 11 May 12:39:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\BDANT.cab - 1155491
+Fri 11 May 1:24:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\BDAXP.cab - 975148
+Fri 11 May 1:22:30 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Dec2005_d3dx9_28_x64.cab - 1357976
+Fri 11 May 12:38:46 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Dec2005_d3dx9_28_x86.cab - 1079456
+Fri 11 May 12:39:59 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\DEC2006_d3dx10_00_x64.cab - 212807
+Fri 11 May 1:23:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\DEC2006_d3dx10_00_x86.cab - 191720
+Fri 11 May 1:53:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\DEC2006_d3dx9_32_x64.cab - 1571154
+Fri 11 May 1:50:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\DEC2006_d3dx9_32_x86.cab - 1574376
+Fri 11 May 1:25:14 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\DEC2006_XACT_x64.cab - 192475
+Fri 11 May 1:56:55 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\DEC2006_XACT_x86.cab - 145599
+Fri 11 May 1:44:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\DSETUP.dll - 94040
+Fri 11 May 12:40:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\dsetup32.dll - 1691480
+Fri 11 May 1:59:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\dxdllreg_x86.cab - 44448
+Fri 11 May 12:41:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\dxnt.cab - 13264168
+Fri 11 May 1:44:59 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\DXSETUP.exe - 525656
+Fri 11 May 12:40:37 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\dxupdate.cab - 95820
+Fri 11 May 1:23:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2005_d3dx9_24_x64.cab - 1247499
+Fri 11 May 12:55:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2005_d3dx9_24_x86.cab - 1013225
+Fri 11 May 12:43:46 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2006_d3dx9_29_x64.cab - 1362796
+Fri 11 May 1:26:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2006_d3dx9_29_x86.cab - 1084720
+Fri 11 May 1:22:14 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2006_XACT_x64.cab - 178359
+Fri 11 May 1:55:40 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2006_XACT_x86.cab - 132409
+Fri 11 May 12:38:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\FEB2007_XACT_x64.cab - 194675
+Fri 11 May 12:38:35 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\FEB2007_XACT_x86.cab - 147983
+Fri 11 May 12:39:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2010_X3DAudio_x64.cab - 54678
+Fri 11 May 1:31:39 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2010_X3DAudio_x86.cab - 20713
+Fri 11 May 12:38:10 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2010_XACT_x64.cab - 122446
+Fri 11 May 1:56:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2010_XACT_x86.cab - 93180
+Fri 11 May 1:56:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2010_XAudio_x64.cab - 276960
+Fri 11 May 1:43:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Feb2010_XAudio_x86.cab - 277191
+Fri 11 May 1:45:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Jun2005_d3dx9_26_x64.cab - 1336002
+Fri 11 May 12:55:30 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Jun2005_d3dx9_26_x86.cab - 1064925
+Fri 11 May 1:23:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2006_XACT_x64.cab - 180785
+Fri 11 May 1:25:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2006_XACT_x86.cab - 133671
+Fri 11 May 1:54:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2007_d3dx10_34_x64.cab - 699044
+Fri 11 May 1:57:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2007_d3dx10_34_x86.cab - 698472
+Fri 11 May 1:45:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2007_d3dx9_34_x64.cab - 1607774
+Fri 11 May 12:40:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2007_d3dx9_34_x86.cab - 1607286
+Fri 11 May 12:41:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2007_XACT_x64.cab - 197122
+Fri 11 May 12:54:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2007_XACT_x86.cab - 152909
+Fri 11 May 12:41:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_d3dx10_38_x64.cab - 867828
+Fri 11 May 12:42:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_d3dx10_38_x86.cab - 849919
+Fri 11 May 12:41:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_d3dx9_38_x64.cab - 1792608
+Fri 11 May 12:40:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_d3dx9_38_x86.cab - 1463878
+Fri 11 May 1:55:37 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_X3DAudio_x64.cab - 55154
+Fri 11 May 1:54:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_X3DAudio_x86.cab - 21905
+Fri 11 May 12:37:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_XACT_x64.cab - 121054
+Fri 11 May 1:24:37 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_XACT_x86.cab - 93128
+Fri 11 May 1:55:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_XAudio_x64.cab - 269628
+Fri 11 May 12:38:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\JUN2008_XAudio_x86.cab - 269024
+Fri 11 May 1:31:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_d3dx10_37_x64.cab - 844884
+Fri 11 May 1:22:09 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_d3dx10_37_x86.cab - 818260
+Fri 11 May 12:44:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_d3dx9_37_x64.cab - 1769862
+Fri 11 May 12:38:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_d3dx9_37_x86.cab - 1443282
+Fri 11 May 12:38:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_X3DAudio_x64.cab - 55058
+Fri 11 May 12:40:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_X3DAudio_x86.cab - 21867
+Fri 11 May 12:38:25 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_XACT_x64.cab - 122336
+Fri 11 May 12:50:09 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_XACT_x86.cab - 93734
+Fri 11 May 1:55:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_XAudio_x64.cab - 251194
+Fri 11 May 1:54:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2008_XAudio_x86.cab - 226250
+Fri 11 May 1:25:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_d3dx10_41_x64.cab - 1067160
+Fri 11 May 1:25:37 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_d3dx10_41_x86.cab - 1040745
+Fri 11 May 1:52:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_d3dx9_41_x64.cab - 1973702
+Fri 11 May 12:55:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_d3dx9_41_x86.cab - 1612446
+Fri 11 May 12:54:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_X3DAudio_x64.cab - 54600
+Fri 11 May 1:54:57 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_X3DAudio_x86.cab - 21298
+Fri 11 May 1:52:57 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_XACT_x64.cab - 121506
+Fri 11 May 1:54:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_XACT_x86.cab - 92740
+Fri 11 May 1:50:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_XAudio_x64.cab - 275044
+Fri 11 May 12:39:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Mar2009_XAudio_x86.cab - 273018
+Fri 11 May 1:56:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2007_d3dx10_36_x64.cab - 864600
+Fri 11 May 12:38:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2007_d3dx10_36_x86.cab - 803884
+Fri 11 May 1:44:26 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2007_d3dx9_36_x64.cab - 1802058
+Fri 11 May 1:56:40 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2007_d3dx9_36_x86.cab - 1709360
+Fri 11 May 12:39:18 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\NOV2007_X3DAudio_x64.cab - 46144
+Fri 11 May 1:53:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\NOV2007_X3DAudio_x86.cab - 18496
+Fri 11 May 1:54:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\NOV2007_XACT_x64.cab - 196762
+Fri 11 May 1:13:38 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\NOV2007_XACT_x86.cab - 148264
+Fri 11 May 12:53:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_d3dx10_40_x64.cab - 994154
+Fri 11 May 1:51:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_d3dx10_40_x86.cab - 965421
+Fri 11 May 12:40:09 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_d3dx9_40_x64.cab - 1906878
+Fri 11 May 1:56:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_d3dx9_40_x86.cab - 1550796
+Fri 11 May 1:52:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_X3DAudio_x64.cab - 54522
+Fri 11 May 1:57:38 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_X3DAudio_x86.cab - 21851
+Fri 11 May 1:56:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_XACT_x64.cab - 121794
+Fri 11 May 12:38:33 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_XACT_x86.cab - 92684
+Fri 11 May 12:40:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_XAudio_x64.cab - 273960
+Fri 11 May 1:53:24 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Nov2008_XAudio_x86.cab - 272611
+Fri 11 May 12:41:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Oct2005_xinput_x64.cab - 86037
+Fri 11 May 12:41:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\Oct2005_xinput_x86.cab - 45359
+Fri 11 May 1:53:59 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\OCT2006_d3dx9_31_x64.cab - 1412902
+Fri 11 May 12:39:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\OCT2006_d3dx9_31_x86.cab - 1127217
+Fri 11 May 1:55:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\OCT2006_XACT_x64.cab - 182361
+Fri 11 May 1:26:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania gothic 4\redist\DirectX\OCT2006_XACT_x86.cab - 138017
+
+UAC Disabled or not present
+

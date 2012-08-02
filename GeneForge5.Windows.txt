@@ -1,0 +1,1368 @@
+Comments:
+  <game name="GeneForge5" platform="Windows">
+    <title>Geneforge 5</title>
+    <location_path environment_variable="userdocuments" path="Spiderweb Software\Geneforge 5 Saved Games" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Geneforge 5
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\GOG.com\Geneforge\Geneforge 5
+
+Save Path: 
+UserDocuments\Spiderweb Software\Geneforge 5 Saved Games
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{1F42DE6C-9DF5-4F5D-8386-785031FBB28B}
+Value: ConfigGDFBinaryPath
+Data: Wed 27 Jun 3:13:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\goggame.dll - 232960
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE5
+Value: EXE
+Data: Thu 19 Apr 1:42:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5.exe - 2563072
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE5
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 5
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE5
+Value: LAUNCHCOMMAND
+Data: Thu 19 Apr 1:42:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5.exe - 2563072
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE5
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 5
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 5\Geneforge 5.lnk - 2259
+Thu 19 Apr 1:42:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5.exe - 2563072
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 5\Documents\Manual.lnk - 1380
+Wed 27 Jun 10:01:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Manual.pdf - 735240
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sat 30 Jun 6:08:18 PM - UserDocuments\Spiderweb Software\Geneforge 5 Saved Games\Geneforge5Settings.dat - 366
+Tue 03 Jul 11:25:57 PM - UserDocuments\Spiderweb Software\Geneforge 5 Saved Games\Geneforge5SettingsAM.dat - 366
+
+Install Folder Dump: 
+Wed 27 Jun 10:01:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Manual.pdf - 735240
+Thu 19 Apr 1:42:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5.exe - 2563072
+Wed 27 Jun 10:20:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\gfw_high.ico - 114242
+Wed 27 Jun 3:13:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\goggame.dll - 232960
+Tue 20 Apr 12:37:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Support.ico - 62895
+Mon 29 Dec 2:14:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\aGF5ScenData.dat - 4273776
+Tue 21 Oct 5:23:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND0.ogg - 4680
+Tue 21 Oct 5:23:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND1.ogg - 5214
+Tue 21 Oct 5:23:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND10.ogg - 3668
+Fri 24 Oct 12:16:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND100.ogg - 11157
+Fri 24 Oct 3:52:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND101.ogg - 10459
+Fri 24 Oct 3:56:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND102.ogg - 8321
+Fri 24 Oct 3:57:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND103.ogg - 16956
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND104.ogg - 8428
+Fri 24 Oct 3:59:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND105.ogg - 6232
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND106.ogg - 7469
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND107.ogg - 8522
+Fri 24 Oct 3:59:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND108.ogg - 10353
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND109.ogg - 6989
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND11.ogg - 5661
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND110.ogg - 7170
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND111.ogg - 6982
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND112.ogg - 7722
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND113.ogg - 6149
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND114.ogg - 7993
+Fri 24 Oct 1:15:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND115.ogg - 9676
+Mon 27 Oct 5:01:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND116.ogg - 6495
+Fri 24 Oct 4:01:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND117.ogg - 10414
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND118.ogg - 7452
+Fri 24 Oct 1:18:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND119.ogg - 8304
+Fri 24 Oct 3:39:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND12.ogg - 7973
+Tue 21 Oct 5:23:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND120.ogg - 9980
+Fri 24 Oct 4:02:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND121.ogg - 10752
+Fri 24 Oct 3:34:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND122.ogg - 7346
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND123.ogg - 9655
+Mon 27 Oct 5:30:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND124.ogg - 18133
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND125.ogg - 6420
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND126.ogg - 6019
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND127.ogg - 7531
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND128.ogg - 7611
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND129.ogg - 5754
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND13.ogg - 3962
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND130.ogg - 8927
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND131.ogg - 9554
+Fri 24 Oct 12:09:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND132.ogg - 8696
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND133.ogg - 4560
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND134.ogg - 7869
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND135.ogg - 8052
+Fri 24 Oct 12:15:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND136.ogg - 10599
+Mon 27 Oct 5:35:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND137.ogg - 9306
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND138.ogg - 8819
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND139.ogg - 5661
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND14.ogg - 4649
+Fri 24 Oct 4:06:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND140.ogg - 8214
+Tue 21 Oct 5:23:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND141.ogg - 5601
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND142.ogg - 11180
+Fri 24 Oct 3:38:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND143.ogg - 8403
+Fri 24 Oct 1:18:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND144.ogg - 10214
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND145.ogg - 9953
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND146.ogg - 7982
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND147.ogg - 8962
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND148.ogg - 7180
+Fri 24 Oct 4:08:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND149.ogg - 9351
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND15.ogg - 4199
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND150.ogg - 7292
+Fri 24 Oct 4:10:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND151.ogg - 3803
+Fri 24 Oct 4:10:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND152.ogg - 5940
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND153.ogg - 8722
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND154.ogg - 5271
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND155.ogg - 6606
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND156.ogg - 6537
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND157.ogg - 7995
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND158.ogg - 5992
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND159.ogg - 4131
+Mon 27 Oct 5:23:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND16.ogg - 4549
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND160.ogg - 10156
+Tue 21 Oct 5:23:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND161.ogg - 21094
+Thu 30 Oct 11:52:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND162.ogg - 479384
+Fri 24 Oct 12:12:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND163.ogg - 9852
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND164.ogg - 6700
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND165.ogg - 6364
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND166.ogg - 5145
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND167.ogg - 5128
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND168.ogg - 6404
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND169.ogg - 5917
+Fri 24 Oct 3:49:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND17.ogg - 7524
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND170.ogg - 7350
+Fri 24 Oct 4:21:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND171.ogg - 6607
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND172.ogg - 4560
+Mon 27 Oct 5:41:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND173.ogg - 7041
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd174.ogg - 8746
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND175.ogg - 10456
+Fri 24 Oct 4:22:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd176.ogg - 11836
+Tue 21 Oct 5:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd177.ogg - 7520
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd178.ogg - 9777
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd179.ogg - 8393
+Fri 24 Oct 3:34:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND18.ogg - 7745
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd180.ogg - 7762
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd181.ogg - 8437
+Fri 24 Oct 4:25:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd182.ogg - 10784
+Fri 24 Oct 4:28:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND183.ogg - 9580
+Fri 24 Oct 4:24:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd184.ogg - 9886
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd185.ogg - 8627
+Fri 24 Oct 4:30:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd186.ogg - 10905
+Fri 24 Oct 4:30:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd187.ogg - 9468
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd188.ogg - 4856
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd189.ogg - 4751
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd190.ogg - 6725
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\Snd191.ogg - 7309
+Mon 27 Oct 5:19:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND192.ogg - 6284
+Tue 21 Oct 2:59:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND193.ogg - 5300
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND194.ogg - 4642
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND195.ogg - 4328
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND196.ogg - 6139
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND197.ogg - 5886
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND198.ogg - 5406
+Tue 21 Oct 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND199.ogg - 5913
+Tue 21 Oct 5:23:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND2.ogg - 6640
+Tue 21 Oct 5:23:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND200.ogg - 5731
+Tue 21 Oct 5:23:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND201.ogg - 6940
+Fri 24 Oct 5:19:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND202.ogg - 7594
+Fri 24 Oct 3:33:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND203.ogg - 12572
+Tue 21 Oct 5:23:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND204.ogg - 5715
+Mon 27 Oct 4:19:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND205.ogg - 465586
+Tue 21 Oct 5:23:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND206.ogg - 7307
+Mon 27 Oct 4:07:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND207.ogg - 97818
+Mon 27 Oct 4:05:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND208.ogg - 102094
+Mon 27 Oct 4:06:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND209.ogg - 96065
+Mon 03 Nov 11:36:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND210.ogg - 399515
+Mon 03 Nov 11:38:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND211.ogg - 250095
+Mon 03 Nov 11:31:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND212.ogg - 348356
+Tue 21 Oct 5:23:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND213.ogg - 6238
+Fri 24 Oct 4:48:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND214.ogg - 8775
+Tue 21 Oct 5:23:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND215.ogg - 5893
+Mon 03 Nov 11:28:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND216.ogg - 359535
+Mon 27 Oct 4:10:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND217.ogg - 199065
+Mon 27 Oct 4:08:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND218.ogg - 182817
+Mon 03 Nov 11:32:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND219.ogg - 288297
+Mon 03 Nov 11:33:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND220.ogg - 271134
+Mon 27 Oct 4:08:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND221.ogg - 123748
+Mon 27 Oct 4:08:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND222.ogg - 111741
+Mon 27 Oct 5:51:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND223.ogg - 169404
+Mon 27 Oct 5:53:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND224.ogg - 119663
+Fri 24 Oct 1:32:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND225.ogg - 9205
+Fri 24 Oct 1:10:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND226.ogg - 8202
+Fri 24 Oct 1:33:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND227.ogg - 6485
+Fri 24 Oct 1:19:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND228.ogg - 9310
+Fri 24 Oct 4:54:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND229.ogg - 18699
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND230.ogg - 7380
+Mon 03 Nov 11:26:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND231.ogg - 213505
+Mon 03 Nov 11:25:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND232.ogg - 293286
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND233.ogg - 5967
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND234.ogg - 6120
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND235.ogg - 5760
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND236.ogg - 5390
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND237.ogg - 6022
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND238.ogg - 10344
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND239.ogg - 6382
+Tue 21 Oct 5:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND240.ogg - 9145
+Tue 21 Oct 5:23:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND241.ogg - 8631
+Tue 21 Oct 5:23:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND242.ogg - 9469
+Tue 21 Oct 5:23:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND243.ogg - 7307
+Fri 24 Oct 12:53:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND244.ogg - 7016
+Fri 24 Oct 3:38:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND245.ogg - 8147
+Mon 27 Oct 5:38:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND246.ogg - 10358
+Mon 27 Oct 5:56:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND247.ogg - 99647
+Tue 21 Oct 5:23:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND3.ogg - 9545
+Fri 24 Oct 3:40:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND4.ogg - 5081
+Tue 21 Oct 5:23:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND5.ogg - 3988
+Fri 24 Oct 3:41:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND6.ogg - 6577
+Fri 24 Oct 3:40:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND7.ogg - 7510
+Mon 27 Oct 5:27:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND8.ogg - 4781
+Fri 24 Oct 3:40:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Geneforge 5 Sounds\SND9.ogg - 8110
+Tue 28 Oct 1:01:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1000.tga - 784391
+Wed 15 Nov 2:26:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1010.bmp - 4808
+Wed 15 Nov 2:26:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1011.bmp - 12592
+Wed 15 Nov 2:26:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1012.bmp - 4820
+Wed 15 Nov 2:27:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1013.bmp - 4808
+Wed 15 Nov 2:27:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1014.bmp - 4808
+Wed 15 Nov 2:27:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1015.bmp - 5140
+Wed 15 Nov 2:27:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1020.bmp - 10972
+Wed 15 Nov 2:28:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1021.bmp - 22676
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1110.png - 22262
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1111.png - 35494
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1112.png - 32901
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1113.png - 21052
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1114.png - 23201
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1120.png - 13872
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1121.png - 22622
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1122.png - 21822
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1123.png - 12243
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1124.png - 13014
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1130.png - 22174
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1131.png - 47278
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1132.png - 46473
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1133.png - 29743
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1134.png - 29442
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1140.png - 27662
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1141.png - 34487
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1142.png - 34372
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1143.png - 19506
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1144.png - 21760
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1150.png - 13988
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1151.png - 23966
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1152.png - 26409
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1153.png - 15080
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1154.png - 15959
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1160.png - 16383
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1161.png - 36515
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1162.png - 33686
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1163.png - 17069
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1164.png - 22174
+Thu 26 Feb 6:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1170.png - 13372
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1171.png - 26687
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1172.png - 16291
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1173.png - 14143
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1174.png - 14022
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1180.png - 20641
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1181.png - 14158
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1182.png - 37103
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1183.png - 24203
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1184.png - 25462
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1190.png - 18247
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1191.png - 30533
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1192.png - 29050
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1193.png - 20847
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1194.png - 19734
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1195.png - 19286
+Tue 28 Oct 1:04:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1200.bmp - 273224
+Tue 28 Oct 1:05:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1210.bmp - 273224
+Tue 28 Oct 1:05:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1220.bmp - 273224
+Tue 28 Oct 1:05:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1230.bmp - 273224
+Tue 28 Oct 1:06:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1240.bmp - 273224
+Wed 14 May 4:33:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1250.bmp - 230200
+Wed 16 Apr 5:13:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1260.bmp - 102806
+Tue 28 Oct 1:07:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1261.bmp - 102808
+Tue 28 Oct 1:07:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1262.bmp - 102808
+Tue 28 Oct 1:07:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1263.bmp - 57656
+Tue 28 Oct 1:07:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1264.bmp - 102808
+Tue 28 Oct 1:07:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1265.bmp - 102808
+Tue 28 Oct 1:08:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1266.bmp - 102808
+Wed 15 Nov 3:09:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1267.bmp - 23924
+Tue 28 Oct 1:09:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1270.bmp - 35580
+Tue 28 Oct 1:08:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1271.bmp - 47172
+Tue 28 Oct 1:08:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1272.bmp - 47172
+Tue 28 Oct 1:08:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1273.bmp - 47172
+Tue 28 Oct 1:08:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1274.bmp - 35580
+Tue 28 Oct 1:08:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1275.bmp - 35580
+Wed 15 Nov 4:34:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1280.bmp - 27984
+Tue 28 Oct 1:10:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1281.bmp - 27984
+Wed 15 Nov 4:35:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1282.bmp - 27984
+Wed 15 Nov 4:35:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1283.bmp - 27984
+Tue 28 Oct 1:09:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1284.bmp - 27984
+Tue 28 Oct 1:09:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1285.bmp - 27984
+Tue 28 Oct 1:09:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1286.bmp - 27984
+Tue 28 Oct 1:09:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1287.bmp - 22740
+Wed 15 Nov 4:36:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1288.bmp - 27984
+Tue 28 Oct 1:09:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1289.bmp - 27984
+Tue 28 Oct 1:09:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1290.bmp - 58032
+Tue 28 Oct 1:10:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1291.bmp - 57956
+Tue 28 Oct 1:11:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1292.bmp - 46732
+Wed 15 Nov 4:43:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1300.bmp - 6804
+Wed 15 Nov 4:44:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1301.bmp - 4032
+Wed 15 Nov 4:44:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1302.bmp - 4208
+Wed 15 Nov 4:44:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1303.bmp - 3240
+Wed 15 Nov 4:44:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1304.bmp - 4212
+Wed 15 Nov 4:45:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1305.bmp - 3072
+Wed 15 Nov 4:48:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1306.bmp - 3060
+Wed 15 Nov 4:48:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1307.bmp - 3240
+Wed 15 Nov 4:48:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1308.bmp - 4212
+Wed 15 Nov 4:49:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1309.bmp - 3224
+Wed 15 Nov 4:49:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1310.bmp - 22920
+Fri 15 Apr 10:28:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1311.bmp - 10904
+Wed 15 Nov 4:50:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1312.bmp - 10900
+Wed 15 Nov 4:50:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1313.bmp - 22920
+Wed 15 Nov 4:50:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1314.bmp - 15728
+Wed 15 Nov 4:54:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1315.bmp - 13248
+Wed 15 Nov 4:55:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1316.bmp - 20576
+Wed 15 Nov 4:55:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1320.bmp - 51848
+Wed 15 Nov 4:55:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1321.bmp - 26296
+Wed 15 Nov 4:56:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1322.bmp - 26616
+Wed 15 Nov 4:56:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1323.bmp - 26576
+Wed 15 Nov 4:56:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1324.bmp - 26616
+Tue 28 Oct 1:11:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1330.bmp - 185912
+Wed 15 Nov 5:00:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1340.bmp - 7520
+Wed 15 Nov 4:49:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1344.bmp - 10908
+Wed 15 Nov 5:01:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1350.bmp - 34952
+Tue 28 Oct 1:12:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1351.bmp - 34952
+Wed 15 Nov 5:02:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1352.bmp - 34952
+Wed 15 Nov 5:02:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1353.bmp - 39820
+Tue 28 Oct 1:12:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1354.bmp - 34776
+Tue 28 Oct 1:13:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1355.bmp - 39824
+Tue 28 Oct 1:12:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1356.bmp - 39824
+Wed 15 Nov 5:04:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1357.bmp - 4948
+Wed 15 Nov 5:04:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1358.bmp - 34952
+Wed 15 Nov 5:05:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1359.bmp - 44464
+Tue 28 Oct 1:02:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1360.tga - 818899
+Tue 28 Oct 1:12:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1370.bmp - 168104
+Tue 28 Oct 1:01:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1380.tga - 773452
+Tue 28 Oct 1:13:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1390.bmp - 201392
+Thu 16 Nov 11:13:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1400.bmp - 4792
+Thu 16 Nov 11:13:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1401.bmp - 10364
+Thu 16 Nov 11:13:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1402.bmp - 4924
+Thu 16 Nov 11:13:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1403.bmp - 5220
+Fri 01 Feb 1:50:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1404.bmp - 5152
+Thu 16 Nov 11:14:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1405.bmp - 5172
+Thu 16 Nov 11:14:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1406.bmp - 5016
+Thu 16 Nov 11:14:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1407.bmp - 5192
+Thu 16 Nov 11:14:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1408.bmp - 4792
+Thu 16 Nov 11:15:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1409.bmp - 4288
+Thu 16 Nov 11:15:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1410.bmp - 16280
+Thu 16 Nov 11:18:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1411.bmp - 16280
+Thu 16 Nov 11:18:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1412.bmp - 16280
+Thu 16 Nov 11:18:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1413.bmp - 10480
+Mon 18 Apr 5:08:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1414.bmp - 9632
+Thu 16 Nov 11:19:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1415.bmp - 10500
+Tue 28 Oct 1:01:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1420.tga - 824332
+Tue 28 Oct 1:14:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1430.bmp - 168104
+Tue 28 Oct 1:14:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1440.bmp - 273224
+Tue 28 Oct 1:14:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1450.bmp - 49332
+Tue 28 Oct 1:14:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1451.bmp - 49336
+Tue 28 Oct 1:14:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1452.bmp - 25208
+Thu 16 Nov 11:39:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1460.bmp - 27984
+Thu 16 Nov 11:40:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1461.bmp - 27984
+Thu 16 Nov 11:40:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1462.bmp - 25248
+Thu 07 Dec 5:12:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1463.bmp - 27984
+Thu 16 Nov 11:41:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1464.bmp - 25248
+Thu 16 Nov 11:41:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1465.bmp - 27984
+Tue 28 Oct 1:15:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1466.bmp - 27984
+Tue 28 Oct 1:15:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1467.bmp - 27984
+Tue 28 Oct 1:15:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1468.bmp - 25036
+Tue 28 Oct 1:15:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1469.bmp - 25248
+Thu 16 Nov 11:45:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1470.bmp - 46512
+Thu 16 Nov 11:46:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1471.bmp - 42544
+Thu 16 Nov 11:46:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1472.bmp - 42544
+Thu 16 Nov 11:46:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1473.bmp - 34296
+Thu 16 Nov 11:47:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1474.bmp - 34776
+Thu 16 Nov 11:47:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1475.bmp - 46508
+Tue 28 Oct 1:15:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1476.bmp - 46520
+Thu 16 Nov 11:50:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1480.bmp - 48080
+Thu 16 Nov 11:50:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1481.bmp - 32664
+Thu 16 Nov 11:51:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1482.bmp - 32664
+Thu 16 Nov 11:51:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1483.bmp - 32664
+Thu 16 Nov 11:51:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1484.bmp - 48072
+Tue 28 Oct 1:17:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1485.bmp - 48080
+Tue 28 Oct 1:17:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1486.bmp - 48080
+Tue 28 Oct 1:17:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1487.bmp - 48080
+Tue 28 Oct 1:17:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1490.bmp - 93172
+Tue 28 Oct 1:17:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1500.bmp - 220864
+Tue 28 Oct 1:17:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1510.bmp - 220864
+Tue 28 Oct 1:17:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1520.bmp - 273224
+Tue 28 Oct 1:01:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1530.tga - 799461
+Tue 28 Oct 1:17:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1540.bmp - 168104
+Tue 28 Oct 1:01:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1550.tga - 809951
+Tue 28 Oct 1:16:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1560.bmp - 168104
+Thu 16 Nov 1:45:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1570.bmp - 41924
+Thu 16 Nov 1:46:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1571.bmp - 41152
+Thu 16 Nov 1:46:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1572.bmp - 41256
+Thu 16 Nov 1:46:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1573.bmp - 41388
+Thu 16 Nov 1:46:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1574.bmp - 42088
+Thu 16 Nov 2:08:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1580.bmp - 7232
+Thu 16 Nov 2:08:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1581.bmp - 9764
+Thu 16 Nov 2:08:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1582.bmp - 7204
+Thu 16 Nov 2:08:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1583.bmp - 6360
+Thu 16 Nov 2:09:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1584.bmp - 7308
+Thu 16 Nov 2:09:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1585.bmp - 7652
+Thu 16 Nov 2:09:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1586.bmp - 8160
+Thu 16 Nov 2:09:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1587.bmp - 9000
+Thu 16 Nov 2:10:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1588.bmp - 9524
+Thu 16 Nov 2:10:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1589.bmp - 7488
+Wed 06 Dec 4:22:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1590.bmp - 36832
+Thu 16 Nov 2:23:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1600.bmp - 25020
+Thu 16 Nov 2:23:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1601.bmp - 10592
+Tue 28 Oct 1:19:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1602.bmp - 10024
+Thu 16 Nov 2:24:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1603.bmp - 6088
+Thu 16 Nov 2:24:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1604.bmp - 6092
+Thu 16 Nov 2:24:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1605.bmp - 6828
+Thu 16 Nov 2:24:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1606.bmp - 6088
+Thu 16 Nov 2:25:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1607.bmp - 6092
+Thu 16 Nov 2:25:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1608.bmp - 7020
+Thu 16 Nov 2:26:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1610.bmp - 10024
+Thu 16 Nov 2:27:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1611.bmp - 7100
+Thu 16 Nov 2:27:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1612.bmp - 6868
+Thu 16 Nov 2:27:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1613.bmp - 7100
+Thu 16 Nov 2:27:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1614.bmp - 6124
+Thu 16 Nov 2:27:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1615.bmp - 27568
+Thu 16 Nov 2:28:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1616.bmp - 16288
+Tue 28 Oct 1:18:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1620.bmp - 273224
+Tue 28 Oct 1:18:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1630.bmp - 273224
+Tue 28 Oct 1:18:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1640.bmp - 273224
+Tue 28 Oct 1:19:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1650.bmp - 273224
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1670.png - 9492
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1671.png - 5090
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1672.png - 10338
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1673.png - 7593
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1674.png - 8023
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1680.png - 7371
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1681.png - 32561
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1682.png - 31839
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1683.png - 19305
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1684.png - 17089
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1690.png - 6977
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1691.png - 27339
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1692.png - 30078
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1693.png - 17515
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1694.png - 16872
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1700.png - 7977
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1701.png - 3158
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1702.png - 13089
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1703.png - 5802
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1704.png - 8260
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1710.png - 5996
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1711.png - 4741
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1712.png - 8246
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1713.png - 11072
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1714.png - 8193
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1720.png - 25956
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1721.png - 35321
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1722.png - 35483
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1723.png - 20107
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1724.png - 21489
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1730.png - 36661
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1731.png - 61355
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1732.png - 64426
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1733.png - 33725
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1734.png - 35906
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1740.png - 4138
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1741.png - 1874
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1742.png - 3466
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1743.png - 3135
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1744.png - 2706
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1750.png - 21585
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1751.png - 43842
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1752.png - 43533
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1753.png - 24895
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1754.png - 26328
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1760.png - 6653
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1761.png - 29939
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1762.png - 22496
+Thu 26 Feb 6:10:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1763.png - 11343
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1764.png - 14921
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1770.png - 19630
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1771.png - 30502
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1772.png - 27257
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1773.png - 18220
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1774.png - 18968
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1780.png - 20957
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1781.png - 35519
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1782.png - 35595
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1783.png - 20058
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1784.png - 21696
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1790.png - 18957
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1791.png - 32543
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1792.png - 33396
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1793.png - 23036
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1794.png - 21407
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1800.png - 5135
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1801.png - 12132
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1802.png - 8863
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1803.png - 8871
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1804.png - 7533
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1810.png - 8291
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1811.png - 29022
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1812.png - 25187
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1813.png - 15571
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1814.png - 14022
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1820.png - 7672
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1821.png - 27757
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1822.png - 23868
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1823.png - 15549
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1824.png - 14122
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1830.png - 8583
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1831.png - 30404
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1832.png - 28763
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1833.png - 18122
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1834.png - 15033
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1840.png - 7305
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1841.png - 23800
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1842.png - 22155
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1843.png - 13747
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1844.png - 12168
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1850.png - 40764
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1851.png - 69194
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1852.png - 74579
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1853.png - 43916
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1854.png - 39712
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1860.png - 19222
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1861.png - 35193
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1862.png - 37412
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1863.png - 23608
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1864.png - 25232
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1870.png - 16554
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1871.png - 74910
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1872.png - 63840
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1873.png - 45441
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1874.png - 41157
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1880.png - 10894
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1881.png - 50504
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1882.png - 35934
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1883.png - 30643
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1884.png - 25046
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1890.png - 3198
+Thu 26 Feb 6:10:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1891.png - 2272
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1892.png - 3233
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1893.png - 3863
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1894.png - 2880
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1900.png - 1328
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1901.png - 1717
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1902.png - 2486
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1903.png - 3146
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1904.png - 2271
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1910.png - 3033
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1911.png - 2720
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1912.png - 5256
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1913.png - 6035
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1914.png - 3825
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1920.png - 9962
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1921.png - 5398
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1922.png - 10389
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1923.png - 11886
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1924.png - 8443
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1930.png - 13065
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1931.png - 18724
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1932.png - 20250
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1933.png - 12013
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1934.png - 12920
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1940.png - 18950
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1941.png - 32128
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1942.png - 32258
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1943.png - 20600
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1944.png - 21653
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1950.png - 40199
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1951.png - 69253
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1952.png - 65544
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1953.png - 37762
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1954.png - 41141
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1960.png - 33874
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1961.png - 51288
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1962.png - 53630
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1963.png - 38718
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1964.png - 33048
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1970.png - 37104
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1971.png - 31044
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1972.png - 31783
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1973.png - 31783
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1974.png - 20645
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1980.png - 23169
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1981.png - 33078
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1982.png - 29199
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1983.png - 19450
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1984.png - 18626
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1990.png - 31898
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1991.png - 49395
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1992.png - 46502
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1993.png - 32119
+Thu 26 Feb 6:10:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics A\G1994.png - 30611
+Thu 26 Feb 6:10:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2000.png - 10274
+Thu 26 Feb 6:10:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2001.png - 56270
+Thu 26 Feb 6:10:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2002.png - 53789
+Thu 26 Feb 6:10:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2003.png - 35149
+Thu 26 Feb 6:10:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2004.png - 29479
+Thu 26 Feb 6:10:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2005.png - 48513
+Thu 26 Feb 6:10:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2010.png - 10309
+Thu 26 Feb 6:10:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2011.png - 59804
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2012.png - 64474
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2013.png - 38587
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2014.png - 32225
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2015.png - 51832
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2020.png - 10394
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2021.png - 60421
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2022.png - 58834
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2023.png - 37671
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2024.png - 36767
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2025.png - 55571
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2100.png - 10449
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2101.png - 56508
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2102.png - 54034
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2103.png - 32566
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2104.png - 37315
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2105.png - 53964
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2110.png - 10818
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2111.png - 60846
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2112.png - 64892
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2113.png - 34951
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2114.png - 36455
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2115.png - 58742
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2120.png - 11041
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2121.png - 60254
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2122.png - 58913
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2123.png - 31891
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2124.png - 37465
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2125.png - 58702
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2200.png - 8474
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2201.png - 49052
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2202.png - 43570
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2203.png - 27256
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2204.png - 25385
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2205.png - 39261
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2210.png - 8731
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2211.png - 54701
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2212.png - 53515
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2213.png - 32038
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2214.png - 29486
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2215.png - 43646
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2220.png - 8689
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2221.png - 51678
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2222.png - 45551
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2223.png - 29219
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2224.png - 29553
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2225.png - 46114
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2300.png - 9996
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2301.png - 59558
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2302.png - 59704
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2303.png - 33947
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2304.png - 35701
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2305.png - 55384
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2310.png - 9962
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2311.png - 56585
+Thu 26 Feb 6:10:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2312.png - 57655
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2313.png - 32998
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2314.png - 35097
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2315.png - 58137
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2320.png - 10455
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2321.png - 60059
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2322.png - 59296
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2323.png - 33950
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2324.png - 37180
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2325.png - 54166
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2350.png - 8335
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2351.png - 43051
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2352.png - 45373
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2353.png - 24949
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2354.png - 26786
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2355.png - 43445
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2360.png - 8309
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2361.png - 44185
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2362.png - 45114
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2363.png - 25334
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2364.png - 28265
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2365.png - 45722
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2370.png - 8980
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2371.png - 46397
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2372.png - 46265
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2373.png - 27079
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2374.png - 31331
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2375.png - 46650
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2400.png - 9984
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2401.png - 57052
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2402.png - 50286
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2403.png - 31129
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2404.png - 32224
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2405.png - 51533
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2410.png - 10033
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2411.png - 55605
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2412.png - 50061
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2413.png - 33927
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2414.png - 33687
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2415.png - 52522
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2420.png - 10500
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2421.png - 58762
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2422.png - 52318
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2423.png - 34024
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2424.png - 34764
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2425.png - 56312
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2450.png - 9818
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2451.png - 57944
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2452.png - 56718
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2453.png - 31422
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2454.png - 33956
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2455.png - 53575
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2460.png - 10346
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2461.png - 62121
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2462.png - 63832
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2463.png - 35156
+Thu 26 Feb 6:10:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2464.png - 38197
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2465.png - 55284
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2470.png - 10306
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2471.png - 60749
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2472.png - 57280
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2473.png - 36074
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2474.png - 38667
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2475.png - 58332
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2500.png - 8222
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2501.png - 45304
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2502.png - 44810
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2503.png - 27140
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2504.png - 26134
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2505.png - 39395
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2510.png - 8238
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2511.png - 48405
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2512.png - 50026
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2513.png - 30268
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2514.png - 28706
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2515.png - 47461
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2520.png - 8944
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2521.png - 50733
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2522.png - 51779
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2523.png - 30714
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2524.png - 29693
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2525.png - 48074
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2550.png - 11471
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2551.png - 63988
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2552.png - 64185
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2553.png - 39973
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2554.png - 40007
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2555.png - 66767
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2560.png - 11766
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2561.png - 64122
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2562.png - 65104
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2563.png - 41514
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2564.png - 41414
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2565.png - 69040
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2570.png - 12039
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2571.png - 68404
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2572.png - 66438
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2573.png - 41278
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2574.png - 41489
+Thu 26 Feb 6:10:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G2575.png - 69347
+Tue 28 Oct 1:24:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3000.bmp - 215008
+Tue 28 Oct 1:23:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3010.bmp - 215008
+Tue 28 Oct 1:23:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3020.bmp - 215008
+Tue 28 Oct 1:22:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3030.bmp - 215008
+Tue 28 Oct 1:22:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3040.bmp - 215008
+Tue 28 Oct 1:23:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3050.bmp - 215008
+Tue 28 Oct 1:22:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3090.bmp - 44464
+Tue 28 Oct 1:22:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3091.bmp - 44464
+Tue 28 Oct 1:24:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3092.bmp - 44464
+Tue 28 Oct 1:24:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3093.bmp - 44464
+Tue 28 Oct 1:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3094.bmp - 44464
+Tue 28 Oct 1:23:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3095.bmp - 44464
+Tue 28 Oct 1:23:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3096.bmp - 44464
+Tue 28 Oct 1:23:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3097.bmp - 44464
+Tue 28 Oct 1:22:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3098.bmp - 44464
+Tue 28 Oct 1:23:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3099.bmp - 44464
+Tue 28 Oct 1:24:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3400.bmp - 936
+Fri 17 Nov 1:25:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3410.bmp - 2856
+Fri 17 Nov 1:25:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3411.bmp - 2964
+Tue 28 Oct 1:23:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3420.bmp - 11884
+Tue 28 Oct 1:22:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3421.bmp - 2388
+Tue 28 Oct 1:22:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3422.bmp - 11884
+Tue 28 Oct 1:22:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3423.bmp - 2560
+Tue 28 Oct 1:23:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3424.bmp - 11884
+Tue 28 Oct 1:22:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics B\G3425.bmp - 2560
+Tue 28 Oct 12:34:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G1.bmp - 15472
+Wed 05 Nov 2:10:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G132.bmp - 242816
+Fri 31 Oct 4:30:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G133.bmp - 708632
+Wed 15 Nov 12:28:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G134.bmp - 64976
+Thu 21 Feb 2:53:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G135.tga - 899888
+Wed 15 Nov 12:29:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G136.bmp - 11280
+Thu 26 Feb 6:08:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G137.png - 57392
+Fri 01 Feb 1:50:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G138.bmp - 9480
+Tue 28 Oct 12:56:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G140.tga - 371120
+Tue 28 Oct 12:56:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G141.tga - 149272
+Tue 28 Oct 12:56:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G143.tga - 808168
+Wed 22 Oct 4:30:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G145.jpg - 256578
+Thu 26 Feb 6:08:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G146.png - 36798
+Tue 28 Oct 2:51:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G150.bmp - 12768
+Tue 28 Oct 2:51:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G151.bmp - 12768
+Tue 28 Oct 2:52:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G152.bmp - 12768
+Tue 28 Oct 2:52:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G153.bmp - 12768
+Wed 15 Nov 1:31:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G154.bmp - 15472
+Tue 28 Oct 4:09:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G155.bmp - 12768
+Tue 28 Oct 4:09:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G156.bmp - 12768
+Tue 28 Oct 12:37:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G158.bmp - 98316
+Tue 28 Oct 4:30:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G159.bmp - 12768
+Tue 28 Oct 2:48:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G160.bmp - 12768
+Tue 28 Oct 4:31:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G164.bmp - 12768
+Wed 29 Oct 11:53:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G165.bmp - 28436
+Thu 30 Oct 2:04:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G166.bmp - 54276
+Thu 30 Oct 2:08:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G167.bmp - 45616
+Thu 30 Oct 2:23:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G168.bmp - 40136
+Thu 30 Oct 2:24:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G169.bmp - 22036
+Wed 08 Oct 10:54:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G170.jpg - 91107
+Wed 08 Oct 10:58:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G171.jpg - 102991
+Wed 08 Oct 10:59:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G172.jpg - 146520
+Wed 08 Oct 11:00:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G173.jpg - 169486
+Wed 08 Oct 11:00:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G174.jpg - 77280
+Wed 29 Oct 11:44:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G179.bmp - 22036
+Fri 16 Jan 9:31:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G185.bmp - 29636
+Thu 30 Oct 2:16:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G188.bmp - 43256
+Thu 30 Oct 1:51:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G194.bmp - 47844
+Thu 30 Oct 4:42:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G198.bmp - 79376
+Thu 30 Oct 4:29:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G199.jpg - 250026
+Wed 29 Oct 5:19:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G203.bmp - 83128
+Fri 06 Mar 2:26:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G205.png - 58888
+Fri 06 Mar 2:25:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G206.png - 60849
+Fri 06 Mar 2:24:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G207.png - 68737
+Fri 06 Mar 2:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G208.png - 68387
+Fri 06 Mar 2:27:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G209.png - 56562
+Fri 06 Mar 2:26:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G210.png - 71255
+Fri 06 Mar 2:25:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G211.png - 70114
+Fri 06 Mar 2:25:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G212.png - 51484
+Fri 06 Mar 2:26:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G213.png - 58532
+Thu 30 Oct 1:53:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G219.bmp - 83204
+Thu 30 Oct 5:20:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G220.bmp - 136076
+Mon 10 Nov 1:41:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G225.bmp - 641076
+Mon 10 Nov 1:39:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G226.bmp - 641076
+Wed 05 Nov 2:19:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G227.bmp - 641076
+Mon 20 Oct 2:15:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G231.jpg - 280060
+Mon 13 Oct 5:42:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G232.jpg - 251168
+Tue 28 Oct 12:57:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G250 orig.tga - 22268
+Sat 07 Mar 12:13:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G250.png - 102052
+Tue 28 Oct 12:58:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G251.tga - 30948
+Tue 28 Oct 12:57:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G252.tga - 39714
+Tue 28 Oct 12:57:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G253.tga - 48444
+Tue 28 Oct 12:58:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G254.tga - 77787
+Tue 28 Oct 12:38:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G260.bmp - 168116
+Tue 28 Oct 12:58:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G261.tga - 43199
+Tue 28 Oct 12:59:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G262.tga - 40147
+Thu 26 Feb 6:08:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G300.png - 78353
+Tue 28 Oct 12:58:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G301.tga - 122609
+Tue 28 Oct 12:59:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G302.tga - 27736
+Tue 28 Oct 1:09:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G305.bmp - 78656
+Wed 08 Oct 11:04:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G400.jpg - 87942
+Wed 08 Oct 11:05:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G401.jpg - 74735
+Wed 08 Oct 1:16:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G402.jpg - 48642
+Wed 08 Oct 1:16:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G403.jpg - 89771
+Thu 30 Oct 12:52:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G404.jpg - 81681
+Wed 05 Nov 2:05:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G405.jpg - 71178
+Wed 08 Oct 1:13:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G406.jpg - 69406
+Wed 08 Oct 11:06:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G407.jpg - 73990
+Wed 08 Oct 1:15:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G408.jpg - 57811
+Wed 08 Oct 1:12:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G409.jpg - 79876
+Wed 08 Oct 1:12:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G410.jpg - 71770
+Wed 08 Oct 1:11:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G411.jpg - 48996
+Wed 08 Oct 11:06:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G412.jpg - 28401
+Tue 28 Oct 12:23:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G413.jpg - 98481
+Wed 15 Oct 10:51:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G414.jpg - 104278
+Tue 28 Oct 12:24:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G415.jpg - 76500
+Wed 08 Oct 1:11:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G416.jpg - 70151
+Fri 10 Oct 4:01:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Graphics Core\G417.jpg - 125572
+Tue 08 Jul 11:56:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\acidstand.txt - 2087
+Wed 30 Aug 4:41:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\alarm.txt - 1545
+Fri 12 Nov 12:40:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\boat.txt - 838
+Mon 04 Jun 5:42:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\box.txt - 317
+Tue 17 Jun 2:46:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\canister.txt - 1122
+Mon 13 Oct 3:29:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\chainmine.txt - 3783
+Thu 31 May 9:04:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\cntrldoor.txt - 975
+Tue 24 Feb 1:47:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\door.txt - 2588
+Mon 27 Oct 5:38:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\doorlever.txt - 5048
+Fri 03 Nov 10:46:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\egg.txt - 1185
+Tue 07 Aug 7:45:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\energycr.txt - 555
+Fri 10 Oct 2:12:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\energypool.txt - 980
+Mon 13 Oct 3:28:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\fieldpylon.txt - 3139
+Mon 27 Oct 5:38:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\flaglever.txt - 1186
+Fri 17 Oct 12:06:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\floortrap.txt - 4372
+Wed 10 Sep 2:57:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\gf5floorster.txt - 91172
+Wed 05 Nov 1:54:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\gf5itemschars.txt - 145161
+Mon 03 Nov 4:52:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\gf5objsmisc.txt - 91361
+Fri 11 Jun 12:58:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\glowcryst.txt - 780
+Mon 21 Apr 2:39:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\goodpylon.txt - 3153
+Tue 24 Jun 12:49:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\harmpool.txt - 1449
+Tue 07 Aug 7:44:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\healcryst.txt - 534
+Fri 10 Oct 2:12:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\healpool.txt - 1370
+Wed 04 Oct 9:20:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\leavezone.txt - 2440
+Fri 10 Mar 4:00:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\lightstand.txt - 779
+Wed 06 Sep 3:11:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\lockbox.txt - 3520
+Fri 22 Sep 12:43:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mine.txt - 1474
+Fri 25 Apr 12:28:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\minetrig.txt - 2404
+Sat 27 Sep 12:01:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobabil.txt - 3850
+Mon 08 Sep 4:40:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobae.txt - 6469
+Mon 03 Jan 3:08:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobalarm.txt - 1380
+Thu 27 Mar 4:19:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobbasic.txt - 1512
+Fri 31 Oct 11:07:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobbeam.txt - 6414
+Thu 23 Sep 1:19:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobboss1.txt - 1867
+Sun 13 Aug 1:43:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobbosstwin.txt - 1609
+Fri 08 Sep 4:38:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobcaller.txt - 2492
+Tue 25 Mar 12:39:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobfickle.txt - 1452
+Tue 04 Feb 11:31:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobflee.txt - 1598
+Fri 23 May 4:17:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobfleeonce.txt - 2404
+Wed 27 Sep 12:32:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobflock.txt - 2116
+Wed 19 Apr 9:47:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobforcetk.txt - 1911
+Mon 09 Jun 4:47:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobfrozen.txt - 2276
+Mon 20 Aug 10:43:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobgphunt.txt - 1551
+Wed 06 Sep 4:30:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobgroup.txt - 1999
+Wed 04 Oct 9:19:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobgroupgd.txt - 3860
+Thu 22 May 11:07:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobguard.txt - 2864
+Wed 30 Jul 2:44:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobhealer.txt - 2283
+Fri 01 Aug 1:03:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobhunter.txt - 1775
+Fri 04 Apr 1:52:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobleadpc.txt - 1577
+Mon 31 Jan 4:38:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobnavpt.txt - 1976
+Mon 17 Feb 4:33:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobnull.txt - 613
+Thu 10 Mar 3:35:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobpackhunt.txt - 2666
+Fri 21 Sep 8:35:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobpair.txt - 1698
+Mon 15 Nov 4:03:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobpathhunt.txt - 1490
+Sat 21 Jun 12:31:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobpatrol.txt - 1889
+Tue 07 Nov 12:48:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobpylon.txt - 2273
+Tue 16 May 4:48:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobreturn.txt - 1702
+Wed 06 Aug 2:27:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobservmind.txt - 1102
+Fri 13 Oct 11:34:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobshaper.txt - 3330
+Fri 14 Mar 12:20:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobshiftgd.txt - 2042
+Fri 08 Aug 2:48:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobspawner.txt - 1661
+Wed 06 Aug 2:27:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobspinecore.txt - 3927
+Mon 01 May 5:09:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobsplitter.txt - 2199
+Tue 16 Sep 5:38:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobturret.txt - 1893
+Fri 21 Mar 4:47:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobtwopts.txt - 2160
+Wed 22 Jan 5:55:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\mobwimpygp.txt - 1687
+Wed 03 Oct 5:47:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\nullobj.txt - 243
+Tue 04 Dec 7:05:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\offspiral.txt - 2332
+Tue 13 May 10:39:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\ornk.txt - 1933
+Wed 24 Sep 2:25:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\pacifier.txt - 1448
+Tue 05 Aug 1:58:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\powrspiral.txt - 3463
+Fri 16 May 4:21:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\searfloor.txt - 1090
+Mon 14 Apr 4:34:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\sparkleobj.txt - 1205
+Mon 07 Aug 11:47:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\sporebox.txt - 1946
+Wed 20 Sep 3:17:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\sporemine.txt - 880
+Thu 06 Jul 12:18:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\stairs.txt - 763
+Wed 13 Aug 2:15:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\swingdoor.txt - 6458
+Tue 18 Sep 7:37:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\talkobj.txt - 426
+Thu 30 Jan 3:06:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\thornb.txt - 844
+Wed 06 Sep 3:12:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\trapbox.txt - 2858
+Mon 27 Oct 5:38:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\walllever.txt - 874
+Thu 30 Aug 9:38:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\warncryst.txt - 466
+Mon 11 Aug 3:28:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0artila.txt - 1790
+Tue 15 Jul 4:42:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0bug.txt - 2137
+Fri 19 Dec 2:08:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0mehken.txt - 4033
+Tue 24 Feb 1:47:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0pacific.txt - 8781
+Wed 08 Oct 11:55:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0pacificdlg.txt - 51834
+Fri 21 Mar 5:42:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0servile.txt - 1827
+Mon 21 Jul 1:00:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0thrasher.txt - 2003
+Fri 28 Mar 8:29:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0vat.txt - 356
+Wed 13 Aug 2:40:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z0vlish.txt - 1838
+Mon 28 Apr 4:48:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z10guard.txt - 2451
+Mon 28 Apr 5:22:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z10koski.txt - 2290
+Thu 14 Aug 11:50:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z10nmerard.txt - 1598
+Wed 05 Nov 1:47:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z10nmerarddlg.txt - 19320
+Mon 28 Apr 4:07:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z10refugee.txt - 1548
+Mon 28 Apr 5:27:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z10rogue.txt - 1899
+Thu 01 May 5:07:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z11denna.txt - 1779
+Thu 01 May 9:19:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z11schick.txt - 2371
+Fri 10 Oct 2:14:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z11Tmera.txt - 6412
+Wed 29 Oct 10:17:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z11Tmeradlg.txt - 61188
+Mon 24 Nov 2:17:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z12astoria.txt - 3523
+Mon 20 Oct 1:39:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z12astpyl.txt - 3226
+Wed 07 May 8:51:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z12baston.txt - 1522
+Tue 06 May 11:49:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z12guard.txt - 2068
+Tue 06 May 11:55:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z12quothe.txt - 3744
+Wed 24 Sep 5:00:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z12Tharia.txt - 6879
+Tue 30 Dec 2:35:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z12Thariadlg.txt - 106652
+Tue 06 May 11:48:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z12zapper.txt - 1499
+Fri 10 Oct 2:01:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z13neswamp.txt - 2295
+Tue 23 Sep 10:45:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z13neswampdlg.txt - 8075
+Fri 05 Sep 4:26:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z13unbound.txt - 2259
+Fri 09 May 11:31:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z14merafiel.txt - 2447
+Tue 23 Sep 10:49:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z14merafieldlg.txt - 11379
+Wed 30 Jul 2:01:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z14refugee.txt - 1567
+Thu 08 May 11:04:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z14roamer.txt - 2003
+Sun 17 Aug 10:55:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z15drayk.txt - 2869
+Fri 10 Oct 2:01:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z15helft.txt - 2080
+Wed 01 Oct 11:04:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z15helftdlg.txt - 13468
+Wed 01 Oct 4:04:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z16herne.txt - 3422
+Mon 12 May 4:14:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z16infestrd.txt - 2698
+Wed 08 Oct 11:56:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z16infestrddlg.txt - 16182
+Tue 13 May 10:46:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z17gdserv.txt - 2633
+Fri 31 Oct 10:48:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z17kaz.txt - 3115
+Tue 30 Dec 2:36:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z17kazdlg.txt - 25368
+Thu 15 May 11:13:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z18assass.txt - 2774
+Wed 30 Jul 2:07:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z18emogene.txt - 1886
+Thu 15 May 4:40:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z18guard.txt - 2507
+Sun 17 Aug 10:46:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z18murkwood.txt - 1740
+Thu 25 Sep 10:10:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z18murkwooddlg.txt - 19824
+Wed 30 Jul 2:00:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z19crenshaw.txt - 1414
+Fri 05 Sep 4:28:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z19nwswamp.txt - 3058
+Tue 23 Sep 10:54:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z19nwswampdlg.txt - 11524
+Wed 20 Aug 4:43:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z1Tminah.txt - 7273
+Fri 10 Oct 2:03:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z1Tminahdlg.txt - 58950
+Mon 07 Apr 2:11:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z1twixx.txt - 1406
+Mon 19 May 5:39:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z20belownod.txt - 2691
+Thu 02 Oct 11:30:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z20belownoddlg.txt - 18049
+Mon 19 May 3:14:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z20serv.txt - 1905
+Mon 19 May 2:31:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z20warrior.txt - 2014
+Thu 21 Aug 11:07:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z21guard.txt - 2382
+Tue 20 May 9:16:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z21nodpass.txt - 4069
+Thu 25 Sep 10:12:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z21nodpassdlg.txt - 19075
+Thu 22 May 8:54:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z22dominic.txt - 3088
+Thu 22 May 9:03:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z22greta.txt - 3555
+Fri 31 Oct 10:52:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z22penta.txt - 3807
+Tue 28 Oct 10:00:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z22pentadlg.txt - 35091
+Sun 03 Aug 3:33:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z23smerard.txt - 3056
+Mon 27 Oct 2:02:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z23smerarddlg.txt - 12866
+Mon 25 Aug 11:45:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z23watson.txt - 3687
+Mon 11 Aug 2:49:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z24guard.txt - 1955
+Wed 03 Sep 2:53:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z24ncitpass.txt - 2504
+Tue 30 Dec 2:36:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z24ncitpassdlg.txt - 17490
+Fri 01 Aug 4:26:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z25drakon.txt - 4475
+Thu 29 May 10:48:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z25gorash.txt - 1596
+Wed 09 Jul 2:38:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z25gorashdlg.txt - 11069
+Thu 21 Aug 11:28:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z26alarm.txt - 2514
+Thu 16 Oct 12:05:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z26beta.txt - 2889
+Wed 24 Sep 3:13:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z26drayk.txt - 2296
+Thu 09 Oct 12:11:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z26guard.txt - 2910
+Thu 16 Oct 12:09:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z26shade.txt - 2960
+Fri 30 May 11:38:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z26wshadrd.txt - 1863
+Wed 24 Sep 2:49:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z26wshadrddlg.txt - 10911
+Mon 02 Jun 11:04:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z27eshadrd.txt - 1521
+Wed 24 Sep 2:59:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z27eshadrddlg.txt - 9408
+Fri 05 Sep 4:55:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z28guard.txt - 3680
+Thu 04 Sep 11:53:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z28mdshadrd.txt - 4655
+Wed 15 Oct 12:07:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z28mdshadrddlg.txt - 9717
+Fri 25 Apr 5:23:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29brwoods.txt - 1064
+Thu 20 Mar 5:14:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29brwoodsdlg.txt - 6188
+Thu 05 Jun 2:44:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29bug.txt - 1642
+Thu 16 Oct 3:00:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29drakon.txt - 3925
+Thu 16 Oct 2:59:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29guard.txt - 2223
+Thu 16 Oct 3:01:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29pris.txt - 2689
+Thu 05 Jun 11:15:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29seclab.txt - 1688
+Wed 08 Oct 12:19:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29seclabdlg.txt - 31176
+Mon 25 Aug 11:45:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z29servile.txt - 3727
+Wed 16 Jul 10:16:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z2cauldron.txt - 599
+Tue 14 Oct 6:01:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z2guard.txt - 3190
+Thu 10 Apr 4:37:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z2hallmob.txt - 3092
+Mon 27 Oct 3:37:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z2rawal.txt - 3181
+Mon 24 Nov 2:13:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z2Tisenwood.txt - 8707
+Wed 29 Oct 1:23:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z2Tisenwooddlg.txt - 97885
+Fri 06 Jun 5:03:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z30ornk.txt - 1187
+Thu 21 Aug 11:43:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z30westoka.txt - 3724
+Tue 23 Sep 10:59:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z30westokadlg.txt - 8577
+Mon 09 Jun 10:01:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z31alpha1.txt - 1429
+Mon 09 Jun 8:51:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z31alpha2.txt - 2181
+Mon 09 Jun 10:09:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z31servile.txt - 1837
+Fri 01 Aug 4:30:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z31swokavan.txt - 2293
+Thu 25 Sep 10:16:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z31swokavandlg.txt - 13149
+Wed 30 Jul 2:22:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z31walker.txt - 1902
+Wed 03 Sep 2:39:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z32oakseacv.txt - 8284
+Tue 23 Sep 11:01:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z32oakseacvdlg.txt - 11342
+Mon 11 Aug 2:57:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z32shade.txt - 3409
+Wed 20 Aug 3:14:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z32shaper.txt - 3439
+Mon 27 Oct 2:42:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z33okabarr.txt - 2359
+Wed 08 Oct 12:19:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z33okabarrdlg.txt - 16757
+Wed 20 Aug 3:15:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z33ornk.txt - 1716
+Thu 12 Jun 11:08:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z33preya.txt - 1763
+Thu 12 Jun 11:03:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z33unbound.txt - 2544
+Mon 16 Jun 11:33:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z34eloise.txt - 2638
+Thu 16 Oct 3:49:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z34litalia.txt - 3143
+Wed 24 Sep 4:57:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z34Ttrakov.txt - 4821
+Tue 30 Dec 2:40:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z34Ttrakovdlg.txt - 91669
+Fri 10 Oct 2:02:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z35kratoa.txt - 3336
+Wed 29 Oct 9:45:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z35kratoadlg.txt - 43198
+Mon 28 Jul 11:45:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z35makar.txt - 3361
+Wed 20 Aug 3:04:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z35somini.txt - 1654
+Wed 20 Aug 11:06:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z36bound.txt - 2869
+Sat 21 Jun 12:53:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z36golem1.txt - 2442
+Wed 20 Aug 3:34:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z36golem2.txt - 2543
+Mon 23 Jun 5:50:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z36makar.txt - 3363
+Mon 20 Oct 1:35:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z36power.txt - 1945
+Mon 20 Oct 1:32:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z36stonewor.txt - 3407
+Fri 31 Oct 11:21:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z36stonewordlg.txt - 34328
+Thu 10 Jul 12:16:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z37gazer.txt - 4307
+Wed 25 Jun 12:42:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z37human.txt - 2355
+Fri 22 Aug 4:49:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z37lermanp.txt - 3753
+Fri 10 Oct 1:19:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z37lermanpdlg.txt - 17816
+Mon 23 Jun 4:39:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z38giselle.txt - 1354
+Mon 25 Aug 5:26:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z38nplains.txt - 3571
+Thu 25 Sep 10:24:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z38nplainsdlg.txt - 18297
+Mon 23 Jun 11:43:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z38shade.txt - 2374
+Mon 23 Jun 3:43:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z38soldier.txt - 1840
+Thu 26 Jun 3:37:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z39addison.txt - 1709
+Thu 26 Jun 11:08:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z39hatraru.txt - 2089
+Thu 25 Sep 10:27:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z39hatrarudlg.txt - 16528
+Mon 25 Aug 11:45:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z39reinart.txt - 3503
+Mon 25 Aug 11:45:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z39trahan.txt - 3619
+Mon 11 Aug 3:32:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z3promen.txt - 5307
+Tue 23 Dec 12:16:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z3promendlg.txt - 23114
+Mon 25 Aug 5:40:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z40perfarm.txt - 3207
+Wed 08 Oct 11:56:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z40perfarmdlg.txt - 18269
+Fri 27 Jun 10:52:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z40roswald.txt - 3577
+Tue 01 Jul 12:52:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z41guard.txt - 2147
+Wed 24 Sep 4:57:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z41Tperikal.txt - 6984
+Wed 29 Oct 11:28:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z41Tperikaldlg.txt - 68778
+Wed 15 Oct 12:10:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z42alarm.txt - 2171
+Tue 30 Dec 2:34:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z42alwan.txt - 5048
+Thu 03 Jul 11:42:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z42guard.txt - 2283
+Mon 20 Oct 1:49:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z42pylon.txt - 2872
+Sun 27 Jul 4:51:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z42steward.txt - 2077
+Wed 24 Sep 4:58:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z42Tstormh.txt - 6840
+Tue 30 Dec 2:37:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z42Tstormhdlg.txt - 104356
+Wed 27 Aug 4:22:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z43balme.txt - 2506
+Mon 25 Aug 5:28:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z43essren.txt - 2658
+Mon 14 Jul 3:50:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z43infcross.txt - 1532
+Thu 25 Sep 10:30:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z43infcrossdlg.txt - 14291
+Mon 25 Aug 5:25:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z43pod.txt - 2626
+Tue 15 Jul 4:41:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z44beta.txt - 1715
+Wed 16 Jul 2:25:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z44milburn.txt - 2025
+Fri 10 Oct 1:59:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z44westpass.txt - 1709
+Thu 30 Oct 4:57:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z44westpassdlg.txt - 15529
+Tue 02 Sep 5:25:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z45ftdefi.txt - 4441
+Tue 30 Dec 2:41:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z45ftdefidlg.txt - 27730
+Mon 25 Aug 9:24:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z45patrol.txt - 1983
+Mon 21 Jul 3:57:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z46abanfarm.txt - 1442
+Sat 04 Oct 12:46:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z46abanfarmdlg.txt - 12316
+Mon 25 Aug 9:20:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z47alpha.txt - 1736
+Tue 22 Jul 5:23:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z47mntncd.txt - 2020
+Tue 23 Sep 11:03:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z47mntncddlg.txt - 10677
+Tue 22 Jul 12:33:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z47spiral.txt - 1117
+Mon 25 Aug 11:37:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z48ftvenge.txt - 2470
+Mon 13 Oct 3:52:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z48ftvengedlg.txt - 23842
+Fri 25 Jul 3:09:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z49bandit.txt - 2183
+Fri 25 Jul 4:22:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z49bandit2.txt - 2006
+Sat 03 Jan 1:59:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z49servile.txt - 2995
+Thu 28 Aug 12:20:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z49thistle.txt - 3299
+Thu 25 Sep 10:37:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z49thistledlg.txt - 13584
+Fri 18 Jul 1:46:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z4testhall.txt - 2909
+Wed 08 Oct 10:04:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z4testhalldlg.txt - 27502
+Tue 22 Apr 5:07:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z4thahd.txt - 1946
+Wed 03 Sep 5:04:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z50remotewo.txt - 2921
+Tue 23 Sep 11:04:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z50remotewodlg.txt - 8890
+Fri 01 Aug 4:51:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z51drakon.txt - 2122
+Mon 13 Oct 4:10:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z51rockfall.txt - 3777
+Thu 25 Sep 10:59:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z51rockfalldlg.txt - 19660
+Fri 10 Oct 2:02:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z52coreb.txt - 5955
+Tue 30 Dec 2:39:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z52corebdlg.txt - 35825
+Thu 31 Jul 2:08:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z52gamma.txt - 2439
+Fri 01 Aug 1:09:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z52helper.txt - 1644
+Fri 01 Aug 11:16:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z52hunter.txt - 2064
+Wed 06 Aug 2:28:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z52mind.txt - 2831
+Fri 05 Sep 4:56:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z52synth.txt - 4048
+Mon 25 Aug 11:51:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z53drakon.txt - 2241
+Fri 01 Aug 4:59:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z53patrol.txt - 2258
+Mon 25 Aug 11:49:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z53westwast.txt - 1919
+Tue 23 Sep 11:05:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z53westwastdlg.txt - 10565
+Mon 04 Aug 4:10:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z54mineguy.txt - 2218
+Fri 05 Sep 4:01:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z54nwwaste.txt - 1910
+Wed 01 Oct 5:45:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z54nwwastedlg.txt - 16686
+Thu 25 Sep 11:54:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z54patrol.txt - 2908
+Mon 25 Aug 11:45:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z54servile.txt - 6217
+Tue 05 Aug 10:14:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55boomer.txt - 3115
+Tue 05 Aug 12:58:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55ghostie.txt - 1696
+Mon 27 Oct 4:25:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55shade1.txt - 4144
+Mon 27 Oct 4:29:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55shade2.txt - 4662
+Tue 05 Aug 9:42:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55spiral.txt - 1709
+Tue 05 Aug 5:24:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55tholoss.txt - 3427
+Fri 05 Sep 4:03:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55travald.txt - 983
+Mon 13 Oct 3:34:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55trcrypt.txt - 3275
+Mon 03 Nov 7:56:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z55trcryptdlg.txt - 27096
+Wed 24 Sep 1:33:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z56servile.txt - 2214
+Wed 24 Sep 3:42:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z56swwaste.txt - 2364
+Wed 24 Sep 3:46:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z56swwastedlg.txt - 12242
+Wed 24 Sep 2:42:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z57boss.txt - 6386
+Fri 08 Aug 11:42:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z57drayk.txt - 1834
+Fri 08 Aug 11:25:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z57golem.txt - 3179
+Fri 08 Aug 1:46:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z57patrol.txt - 1624
+Tue 30 Dec 2:13:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z57secrout.txt - 3847
+Thu 23 Oct 11:42:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z57secroutdlg.txt - 23392
+Fri 22 Aug 10:19:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z58assault.txt - 2508
+Tue 12 Aug 3:29:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z58drayk.txt - 1755
+Fri 10 Oct 1:01:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z58outgaza.txt - 3697
+Thu 25 Sep 11:06:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z58outgazadlg.txt - 23914
+Thu 13 Nov 4:18:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z58patrol.txt - 2932
+Thu 16 Oct 1:41:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z58servile.txt - 2288
+Tue 12 Aug 9:58:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z58spiral.txt - 1594
+Thu 14 Aug 9:14:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z59bonepeak.txt - 1598
+Sun 05 Oct 11:54:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z59bonepeakdlg.txt - 14235
+Thu 14 Aug 9:07:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z59footracer.txt - 4608
+Tue 26 Aug 11:01:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z59thug.txt - 1963
+Fri 18 Apr 4:24:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z5clawbug.txt - 2119
+Sun 27 Jul 4:19:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z5kahl.txt - 1548
+Tue 02 Sep 5:25:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z5presence.txt - 3134
+Fri 18 Apr 4:53:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z5soldier.txt - 3201
+Tue 24 Feb 1:47:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z5westfoun.txt - 7631
+Thu 02 Oct 11:30:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z5westfoundlg.txt - 23705
+Sat 27 Sep 1:35:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60ambush.txt - 3972
+Fri 22 Aug 10:10:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60assault.txt - 2155
+Tue 07 Oct 12:06:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60attacker.txt - 1900
+Tue 19 Aug 11:55:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60ghald.txt - 5442
+Tue 19 Aug 11:37:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60patrol.txt - 1799
+Tue 19 Aug 5:20:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60plo.txt - 1876
+Wed 27 Aug 1:41:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60pylon.txt - 2507
+Tue 28 Oct 4:25:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60Tgazak.txt - 11761
+Tue 20 Jan 11:25:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z60Tgazakdlg.txt - 113648
+Wed 15 Oct 12:26:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61bolt.txt - 2280
+Fri 12 Dec 12:56:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61bosses.txt - 5719
+Fri 03 Oct 4:17:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61drakon.txt - 3370
+Fri 10 Oct 1:02:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61greta.txt - 4781
+Mon 13 Oct 3:43:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61innergaz.txt - 2964
+Mon 13 Oct 4:07:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61innergazdlg.txt - 29907
+Wed 15 Oct 12:26:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61kysh.txt - 2071
+Fri 03 Oct 4:16:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61loyalcr.txt - 1493
+Fri 17 Oct 10:03:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61pylon.txt - 996
+Fri 03 Oct 3:55:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61roguecr.txt - 1536
+Wed 15 Oct 12:21:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z61shaper.txt - 5034
+Thu 21 Aug 4:39:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z62assault.txt - 1940
+Thu 21 Aug 11:04:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z62guard.txt - 1765
+Wed 27 Aug 5:04:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z62gusta.txt - 2514
+Mon 15 Sep 4:38:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z62orchard.txt - 2262
+Tue 20 Jan 1:14:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z62orcharddlg.txt - 21684
+Thu 21 Aug 3:44:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z62phyrnia.txt - 1599
+Fri 22 Aug 5:50:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z63attack.txt - 2327
+Sun 21 Sep 12:02:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z63borun.txt - 1844
+Fri 22 Aug 5:40:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z63dbridge.txt - 1701
+Thu 09 Oct 12:12:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z63dbridgedlg.txt - 15708
+Fri 22 Aug 5:38:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z63guard.txt - 2269
+Tue 02 Sep 5:26:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z63taypet.txt - 2271
+Wed 01 Oct 1:07:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z64denna.txt - 3206
+Thu 28 Aug 6:11:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z64leena.txt - 1901
+Wed 15 Oct 12:03:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z64taygen.txt - 5617
+Wed 15 Oct 12:12:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z64Toasis.txt - 8114
+Tue 30 Dec 2:38:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z64Toasisdlg.txt - 116578
+Mon 01 Sep 10:20:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z65desi.txt - 1513
+Mon 01 Sep 5:09:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z65renata.txt - 2069
+Tue 02 Sep 1:35:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z65sudabey.txt - 3448
+Mon 01 Sep 5:20:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z65swarm.txt - 1935
+Tue 02 Sep 1:35:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z65westalph.txt - 1750
+Wed 08 Oct 11:57:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z65westalphdlg.txt - 12599
+Tue 02 Sep 9:59:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z66fields.txt - 1597
+Wed 08 Oct 11:15:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z66fieldsdlg.txt - 16660
+Tue 02 Sep 4:46:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z66levi.txt - 2267
+Tue 09 Sep 10:43:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z66unbound.txt - 2589
+Fri 05 Sep 3:45:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z67lethpass.txt - 1889
+Tue 30 Dec 2:42:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z67lethpassdlg.txt - 14388
+Mon 27 Oct 2:06:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z67turret.txt - 2078
+Thu 04 Sep 4:22:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z68assault.txt - 2195
+Thu 04 Sep 4:59:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z68creation.txt - 2882
+Sun 21 Sep 12:08:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z68loyalist.txt - 2672
+Sun 21 Sep 12:09:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z68servile.txt - 3029
+Wed 24 Sep 3:31:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z68wwastes.txt - 3376
+Wed 08 Oct 11:58:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z68wwastesdlg.txt - 24756
+Mon 13 Oct 2:11:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z69benkeep.txt - 2555
+Wed 08 Oct 11:25:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z69benkeepdlg.txt - 13479
+Thu 09 Oct 12:09:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z69bennhold.txt - 5676
+Tue 30 Sep 12:19:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z69mine.txt - 3755
+Mon 08 Sep 11:13:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z69server.txt - 1959
+Fri 18 Jul 2:21:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z6coreeast.txt - 3266
+Tue 23 Dec 12:18:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z6coreeastdlg.txt - 19256
+Wed 06 Aug 2:28:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z6presence.txt - 3355
+Mon 27 Oct 4:30:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z6trap.txt - 3096
+Sat 27 Sep 2:08:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z70derashor.txt - 3685
+Thu 30 Oct 12:47:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z70derashordlg.txt - 23045
+Tue 09 Sep 11:04:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z70golem.txt - 2884
+Tue 09 Sep 10:48:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z70unbound.txt - 2677
+Thu 11 Sep 3:59:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z71habas.txt - 1756
+Thu 11 Sep 5:18:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z71lostvaul.txt - 1834
+Mon 20 Oct 1:14:20 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z71lostvauldlg.txt - 20624
+Thu 11 Sep 11:17:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z71patrol.txt - 1778
+Thu 11 Sep 3:40:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z71pylon.txt - 1553
+Fri 17 Oct 12:07:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z71shade.txt - 3100
+Thu 11 Sep 11:09:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z71vabas.txt - 2759
+Thu 11 Sep 2:04:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z71vat.txt - 885
+Fri 12 Sep 9:31:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z72campeast.txt - 2133
+Thu 30 Oct 12:47:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z72campeastdlg.txt - 19442
+Sun 21 Sep 12:04:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z72genta.txt - 1662
+Fri 12 Sep 9:33:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z72unbound.txt - 2950
+Wed 17 Sep 1:43:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z73guard.txt - 1773
+Tue 07 Oct 5:29:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z73lum.txt - 1592
+Wed 17 Sep 1:49:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z73platano.txt - 2370
+Wed 17 Sep 2:00:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z73pool.txt - 756
+Wed 24 Sep 3:32:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z73purishop.txt - 3499
+Thu 30 Oct 11:51:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z73purishopdlg.txt - 37270
+Wed 24 Sep 3:34:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z73servile.txt - 2253
+Sat 27 Sep 2:15:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z74pacroad.txt - 4563
+Wed 08 Oct 12:20:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z74pacroaddlg.txt - 16146
+Thu 18 Sep 11:32:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z75spirentr.txt - 3028
+Wed 08 Oct 11:58:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z75spirentrdlg.txt - 11337
+Wed 15 Oct 12:12:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z76golem.txt - 4244
+Fri 19 Sep 3:57:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z76servile.txt - 1909
+Sat 27 Sep 2:45:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z76spircell.txt - 2114
+Wed 08 Oct 11:42:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z76spircelldlg.txt - 28484
+Tue 23 Sep 5:24:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77assistant.txt - 3015
+Wed 15 Oct 10:58:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77attacker.txt - 1749
+Tue 30 Sep 12:19:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77caluma.txt - 4155
+Tue 23 Sep 5:22:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77control.txt - 362
+Mon 13 Oct 4:11:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77guard.txt - 4693
+Wed 15 Oct 11:01:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77kayspire.txt - 4567
+Tue 13 Jan 2:02:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77kayspiredlg.txt - 45203
+Tue 23 Sep 10:50:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77servile.txt - 2045
+Mon 27 Oct 3:37:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z77taygen.txt - 4092
+Wed 15 Oct 12:16:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z78citeast.txt - 6859
+Tue 30 Dec 2:38:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z78citeastdlg.txt - 45124
+Sat 27 Sep 12:02:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z78drakon.txt - 2964
+Fri 26 Sep 3:30:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z78hunter.txt - 1769
+Wed 15 Oct 12:04:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z78kiley.txt - 1874
+Sat 04 Oct 12:51:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z78rebelcr.txt - 2330
+Fri 10 Oct 2:10:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z78servile.txt - 2672
+Tue 14 Oct 12:23:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79citdome.txt - 5782
+Mon 24 Nov 1:45:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79citdomedlg.txt - 24412
+Mon 03 Nov 8:03:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79cntrl.txt - 443
+Wed 22 Oct 12:23:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79council.txt - 6898
+Tue 30 Sep 11:01:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79drakon.txt - 3583
+Wed 22 Oct 12:21:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79loyalcr.txt - 1803
+Tue 30 Sep 10:31:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79rebelcr.txt - 1863
+Mon 27 Oct 3:36:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79rot.txt - 3059
+Wed 22 Oct 12:22:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z79shaper.txt - 3327
+Fri 25 Jul 4:42:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z7core.txt - 4145
+Wed 08 Oct 10:06:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z7coredlg.txt - 30837
+Fri 25 Jul 4:40:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z7presence.txt - 3590
+Wed 06 Aug 2:29:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z7pylon.txt - 1407
+Fri 17 Oct 2:24:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z80drakon.txt - 3153
+Mon 06 Oct 5:33:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z80dvault.txt - 3531
+Fri 10 Oct 2:47:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z80dvaultdlg.txt - 10248
+Fri 31 Oct 11:27:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z80shade.txt - 3396
+Fri 17 Oct 2:22:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z80turret.txt - 3307
+Fri 17 Oct 2:33:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z81gazer.txt - 3910
+Fri 17 Oct 2:32:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z81rot.txt - 3913
+Fri 10 Oct 1:18:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z81samisle.txt - 2453
+Fri 10 Oct 1:20:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z81samisledlg.txt - 11955
+Tue 21 Oct 11:58:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z81sammann.txt - 6578
+Thu 24 Apr 5:37:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z8golem.txt - 1262
+Fri 18 Jul 3:08:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z8guard.txt - 2626
+Fri 25 Apr 12:22:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z8reposit.txt - 1567
+Wed 08 Oct 10:07:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z8repositdlg.txt - 25031
+Fri 25 Apr 5:54:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z9antonia.txt - 1418
+Fri 25 Apr 5:48:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z9sara.txt - 1568
+Fri 25 Apr 5:49:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z9whitpass.txt - 2627
+Wed 29 Oct 12:54:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\z9whitpassdlg.txt - 26669
+Fri 25 Apr 4:46:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\zonetemp.txt - 1064
+Thu 20 Mar 5:14:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Files\Scripts\zonetempdlg.txt - 6188
+
+UAC Disabled or not present
+

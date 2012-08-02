@@ -1,0 +1,108 @@
+Comments:
+  <game name="Commandos2" platform="Steam">
+    <title>Commandos 2: Men of Courage</title>
+    <location_path environment_variable="steamcommon" path="Commandos 2 Men of Courage\OUTPUT" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Commandos 2: Men of Courage
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage
+
+Save Path: 
+ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-2903464402-2387730440-2190293281-1000\{87DD4739-1E10-4D7C-B906-58B6C74FEFFA}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-2903464402-2387730440-2190293281-1000\{87DD4739-1E10-4D7C-B906-58B6C74FEFFA}
+Value: AppExePath
+Data: Sun 22 Jul 3:41:38 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\comm2.exe - 1816576
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 6830
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Pyro\Comm2\1.0
+Value: DirCd
+Data: ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Pyro\Comm2\1.0
+Value: DirIns
+Data: ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sun 29 Jul 1:54:34 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT\COMM2.CFG - 1800
+Sun 22 Jul 4:05:05 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT\dummy.txt - 1
+Sun 29 Jul 1:54:25 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT\P0001000.SAV - 236238
+Sun 29 Jul 1:54:27 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT\PERFILES.DAT - 794
+
+Install Folder Dump: 
+Sun 22 Jul 3:41:38 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\comm2.exe - 1816576
+Sun 22 Jul 3:49:23 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA.PCK - 620705792
+Sun 22 Jul 3:53:07 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA2.PCK - 336777216
+Sun 22 Jul 3:51:41 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\installscript.vdf - 347
+Sun 22 Jul 3:51:41 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\Readme.rtf - 49772
+Sun 22 Jul 3:41:41 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\TestApp.exe - 1816576
+Sun 22 Jul 3:53:41 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\BU\BU.Y64 - 49383194
+Sun 22 Jul 3:54:47 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\CZ\CZ.Y64 - 83309984
+Sun 22 Jul 3:54:47 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\ECL\ECLEX.Y64 - 24160
+Sun 22 Jul 3:55:24 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\HL\Hl.Y64 - 52991492
+Sun 22 Jul 3:56:08 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\IS\Is.Y64 - 61608720
+Sun 22 Jul 3:57:20 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\KW\KW.Y64 - 60134318
+Sun 22 Jul 3:59:38 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\PA\PA.Y64 - 131210704
+Sun 22 Jul 3:59:40 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\PA\PAM01.Y64 - 4450036
+Sun 22 Jul 4:01:02 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\PT\PT.Y64 - 74690320
+Sun 22 Jul 4:01:35 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\RY\RY.Y64 - 37224174
+Sun 22 Jul 4:02:38 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\SB\SB.Y64 - 80819980
+Sun 22 Jul 4:02:54 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\SB\SBC00.Y64 - 36841034
+Sun 22 Jul 4:03:33 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\SB\SB_N.Y64 - 41794444
+Sun 22 Jul 4:04:19 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\SH\SH.Y64 - 86511700
+Sun 22 Jul 4:04:21 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\TK\TK.Y64 - 14563840
+Sun 22 Jul 4:04:25 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\TU01\TU01.Y64 - 4414000
+Sun 22 Jul 4:04:38 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\TU02\TU02.y64 - 7803142
+Sun 22 Jul 4:04:46 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\TU03\TU03.y64 - 9963232
+Sun 22 Jul 4:05:00 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\TU04\TU04.y64 - 13748472
+Sun 22 Jul 4:05:06 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\MISIONES\TU05\TU05.Y64 - 3501028
+Sun 22 Jul 4:05:10 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATAEI.pop - 11355648
+Sun 22 Jul 4:05:24 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALE00.pop - 33885342
+Sun 22 Jul 4:05:40 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALE01.pop - 36980226
+Sun 22 Jul 4:06:13 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKA.pop - 52281466
+Sun 22 Jul 4:06:24 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKB.pop - 14468318
+Sun 22 Jul 4:06:28 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKH.pop - 9937634
+Sun 22 Jul 4:06:37 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKL.pop - 14548066
+Sun 22 Jul 4:06:45 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKLL.pop - 22701266
+Sun 22 Jul 4:06:52 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKN.pop - 12932818
+Sun 22 Jul 4:06:59 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKS.pop - 10807718
+Sun 22 Jul 4:07:04 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKT.pop - 14254354
+Sun 22 Jul 4:07:15 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKU.pop - 22577494
+Sun 22 Jul 4:07:18 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKW.pop - 9691636
+Sun 22 Jul 4:07:27 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKY.pop - 14641326
+Sun 22 Jul 4:07:40 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATALKZ.pop - 10458118
+Sun 22 Jul 4:07:40 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\DATARO.pop - 11967558
+Sun 22 Jul 4:07:44 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\DATA\WOFIP\tst.arlc - 4210228
+Sun 29 Jul 1:54:34 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT\COMM2.CFG - 1800
+Sun 22 Jul 4:05:05 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT\dummy.txt - 1
+Sun 29 Jul 1:54:25 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT\P0001000.SAV - 236238
+Sun 29 Jul 1:54:27 PM - ProgramFilesX86\Steam\steamapps\common\Commandos 2 Men of Courage\OUTPUT\PERFILES.DAT - 794
+
+UAC Disabled or not present
+

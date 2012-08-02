@@ -1,0 +1,285 @@
+Comments:
+	<game name="ArcaniaFallofSetarrif" platform="Windows">
+		<title>ArcaniA: Fall of Setarrif</title>
+		<location_path environment_variable="userdocuments" path="ArcaniA - AddOn" />
+		<save />
+		<contributer>Arc Angel</contributer>
+	</game>
+
+
+Game Name: ArcaniA - Fall of Setarrif
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif
+
+Save Path: 
+UserDocuments\ArcaniA - AddOn
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Installer\Products\3e43b73803c7c394f8a6b2f0402e19c2\SourceList\Net
+Value: 4
+Data: ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\JoWooD\ArcaniA Addon
+Value: InstallPath
+Data: ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 65610
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Fri 11 May 5:06:09 PM - UserDocuments\ArcaniA - AddOn\0000.sav - 422747
+Fri 11 May 5:04:48 PM - UserDocuments\ArcaniA - AddOn\Autosave00.sav - 422628
+Fri 11 May 4:59:54 PM - UserDocuments\ArcaniA - AddOn\GameplaySettings.xml - 833
+Fri 11 May 4:59:54 PM - UserDocuments\ArcaniA - AddOn\GameSoundSettings.xml - 504
+Fri 11 May 4:59:54 PM - UserDocuments\ArcaniA - AddOn\Input.xml - 12440
+Fri 11 May 4:59:54 PM - UserDocuments\ArcaniA - AddOn\InputSettings.xml - 715
+Fri 11 May 4:59:54 PM - UserDocuments\ArcaniA - AddOn\VideoSettings.xml - 2589
+
+Install Folder Dump: 
+Fri 11 May 12:57:10 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\65610_install.vdf - 1155
+Fri 11 May 12:52:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\Arcania Addon.exe - 15632896
+Fri 11 May 12:53:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\Lang.efigs - 0
+Fri 11 May 12:39:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\NxCharacter.dll - 118784
+Fri 11 May 12:42:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\NxCooking.dll - 421888
+Fri 11 May 12:58:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\PhysXLoader.dll - 65536
+Fri 11 May 12:43:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\Readme.txt - 2045
+Fri 11 May 12:43:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\tbb.dll - 184320
+Fri 11 May 1:00:19 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\vBase90.dll - 1123328
+Fri 11 May 12:41:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\Vision90.dll - 1267200
+Fri 11 May 1:15:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\basedata.pak - 43397120
+Fri 11 May 1:24:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\data0.pak - 200077312
+Fri 11 May 3:56:18 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\datablocks_pc.pak - 1620905984
+Fri 11 May 1:54:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\music.pak - 486350848
+Fri 11 May 3:21:35 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\speech.pak - 1877028864
+Fri 11 May 12:53:17 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\configuration\credits.xml - 43576
+Fri 11 May 12:39:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\configuration\EditorProcessManager.xml - 778
+Fri 11 May 12:49:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\configuration\extras.xml - 4453
+Fri 11 May 12:42:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\configuration\GameplaySettings.xml - 832
+Fri 11 May 12:44:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\configuration\GameSoundSettings.xml - 503
+Fri 11 May 12:39:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\configuration\locale.xml - 87
+Fri 11 May 12:45:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\configuration\ProcessManager.xml - 7258
+Fri 11 May 12:39:07 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\configuration\Startup.xml - 66
+Fri 11 May 12:42:57 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\interface\Cursor.cur - 4286
+Fri 11 May 12:39:49 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\interface\interface.bin - 1003460
+Fri 11 May 12:48:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\interface\interface.bin.ppc - 563580
+Fri 11 May 12:46:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\interface\RichTextTokens.xml - 4698
+Fri 11 May 12:39:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\texts\g4_fmv_subs.en.bin - 3459
+Fri 11 May 12:51:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_01.dds - 460928
+Fri 11 May 12:47:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_02.dds - 460928
+Fri 11 May 12:53:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_03.dds - 460928
+Fri 11 May 12:39:33 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_04.dds - 460928
+Fri 11 May 12:39:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_05.dds - 460928
+Fri 11 May 12:45:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_mood_01.dds - 460928
+Fri 11 May 12:41:06 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_mood_02.dds - 460928
+Fri 11 May 12:48:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_mood_03.dds - 460928
+Fri 11 May 12:43:57 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_mood_04.dds - 460928
+Fri 11 May 12:39:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\textures\interface\extras\extra_addon_mood_05.dds - 460928
+Fri 11 May 12:41:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_CoastCrawler.wmv - 2002885
+Fri 11 May 12:44:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_Demon.wmv - 4095873
+Fri 11 May 12:39:38 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\b_demonic_animals.wmv - 941673
+Fri 11 May 12:53:49 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\b_demonic_humans.wmv - 916473
+Fri 11 May 12:50:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\b_demonic_plant.wmv - 223449
+Fri 11 May 12:49:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_DemonLord.wmv - 3741673
+Fri 11 May 12:45:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_FireGolem.wmv - 1244055
+Fri 11 May 12:52:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_FireSkeleton.wmv - 724673
+Fri 11 May 12:40:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_Goblin.wmv - 2196223
+Fri 11 May 12:54:35 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_GoblinBoss.wmv - 1428921
+Fri 11 May 12:55:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_GoblinShaman.wmv - 1265109
+Fri 11 May 1:03:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\b_harpy.wmv - 724655
+Fri 11 May 12:46:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_HighOrc.wmv - 615473
+Fri 11 May 12:54:22 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_IceGolem.wmv - 1160055
+Fri 11 May 12:59:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_IceSkeleton.wmv - 755473
+Fri 11 May 12:56:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\b_panther.wmv - 195479
+Fri 11 May 12:47:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_Skeleton.wmv - 721873
+Fri 11 May 12:57:25 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_StoneGolem.wmv - 602855
+Fri 11 May 1:02:26 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_Troll.wmv - 962655
+Fri 11 May 12:53:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_UndeadPaladin.wmv - 968273
+Fri 11 May 12:46:37 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\B_Zombie.wmv - 425049
+Fri 11 May 12:46:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\JWD_Logo.wmv - 1844254
+Fri 11 May 12:58:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\Nvidia.wmv - 3029465
+Fri 11 May 12:59:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\SB_Logo.wmv - 6965706
+Fri 11 May 1:07:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\dummy\intro.wmv - 62677902
+Fri 11 May 12:55:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data\video\dummy\outro.wmv - 59068654
+Fri 11 May 1:33:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\data_test_lvl69\data_test_lvl69.pak - 256352256
+Fri 11 May 1:01:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\Microsoft_VC80_CRT_x86.msm - 631808
+Fri 11 May 12:47:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\msvcp80.dll - 548864
+Fri 11 May 12:46:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\msvcr80.dll - 626688
+Fri 11 May 12:56:06 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\policy_8_0_Microsoft_VC80_CRT_x86.msm - 82944
+Fri 11 May 12:41:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\vcredis1.cab - 253450
+Fri 11 May 12:54:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\vcredist.msi - 2736640
+Fri 11 May 12:55:59 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2005_d3dx9_25_x64.cab - 1347354
+Fri 11 May 12:43:06 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2005_d3dx9_25_x86.cab - 1078962
+Fri 11 May 12:44:19 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2006_d3dx9_30_x64.cab - 1397830
+Fri 11 May 12:46:30 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2006_d3dx9_30_x86.cab - 1115221
+Fri 11 May 12:39:20 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2006_MDX1_x86.cab - 916430
+Fri 11 May 12:44:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2006_MDX1_x86_Archive.cab - 4162630
+Fri 11 May 12:57:17 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2006_XACT_x64.cab - 179133
+Fri 11 May 12:47:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2006_XACT_x86.cab - 133103
+Fri 11 May 12:49:25 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2006_xinput_x64.cab - 87101
+Fri 11 May 12:54:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Apr2006_xinput_x86.cab - 46010
+Fri 11 May 12:45:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\APR2007_d3dx10_33_x64.cab - 698612
+Fri 11 May 12:39:46 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\APR2007_d3dx10_33_x86.cab - 695865
+Fri 11 May 12:41:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\APR2007_d3dx9_33_x64.cab - 1607358
+Fri 11 May 12:43:49 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\APR2007_d3dx9_33_x86.cab - 1606039
+Fri 11 May 12:39:19 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\APR2007_XACT_x64.cab - 195766
+Fri 11 May 12:47:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\APR2007_XACT_x86.cab - 151225
+Fri 11 May 12:45:24 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\APR2007_xinput_x64.cab - 96817
+Fri 11 May 12:48:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\APR2007_xinput_x86.cab - 53302
+Fri 11 May 12:58:24 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2005_d3dx9_27_x64.cab - 1350542
+Fri 11 May 12:46:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2005_d3dx9_27_x86.cab - 1077644
+Fri 11 May 12:46:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2006_XACT_x64.cab - 182903
+Fri 11 May 12:47:15 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2006_XACT_x86.cab - 137235
+Fri 11 May 12:45:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2006_xinput_x64.cab - 87142
+Fri 11 May 12:54:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2006_xinput_x86.cab - 46058
+Fri 11 May 12:45:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2007_d3dx10_35_x64.cab - 852286
+Fri 11 May 12:51:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2007_d3dx10_35_x86.cab - 796867
+Fri 11 May 1:01:06 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2007_d3dx9_35_x64.cab - 1800160
+Fri 11 May 12:55:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2007_d3dx9_35_x86.cab - 1708152
+Fri 11 May 12:41:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2007_XACT_x64.cab - 198096
+Fri 11 May 12:40:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\AUG2007_XACT_x86.cab - 153012
+Fri 11 May 12:40:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2008_d3dx10_39_x64.cab - 867612
+Fri 11 May 12:49:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2008_d3dx10_39_x86.cab - 849167
+Fri 11 May 12:42:25 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2008_d3dx9_39_x64.cab - 1794084
+Fri 11 May 12:46:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2008_d3dx9_39_x86.cab - 1464672
+Fri 11 May 12:51:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2008_XACT_x64.cab - 121772
+Fri 11 May 12:39:09 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2008_XACT_x86.cab - 92996
+Fri 11 May 12:46:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2008_XAudio_x64.cab - 271412
+Fri 11 May 12:52:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2008_XAudio_x86.cab - 271038
+Fri 11 May 12:49:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_D3DCompiler_42_x64.cab - 919044
+Fri 11 May 12:52:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_D3DCompiler_42_x86.cab - 900598
+Fri 11 May 12:44:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_d3dcsx_42_x64.cab - 3112111
+Fri 11 May 12:48:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_d3dcsx_42_x86.cab - 3319740
+Fri 11 May 12:49:40 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_d3dx10_42_x64.cab - 232635
+Fri 11 May 12:48:04 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_d3dx10_42_x86.cab - 192131
+Fri 11 May 12:54:09 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_d3dx11_42_x64.cab - 136301
+Fri 11 May 12:53:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_d3dx11_42_x86.cab - 105044
+Fri 11 May 12:40:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_d3dx9_42_x64.cab - 930116
+Fri 11 May 12:44:35 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_d3dx9_42_x86.cab - 728456
+Fri 11 May 12:40:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_XACT_x64.cab - 122408
+Fri 11 May 12:55:49 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_XACT_x86.cab - 93106
+Fri 11 May 12:43:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_XAudio_x64.cab - 273264
+Fri 11 May 12:40:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Aug2009_XAudio_x86.cab - 272642
+Fri 11 May 12:56:26 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Dec2005_d3dx9_28_x64.cab - 1357976
+Fri 11 May 12:39:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Dec2005_d3dx9_28_x86.cab - 1079456
+Fri 11 May 12:46:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\DEC2006_d3dx10_00_x64.cab - 212807
+Fri 11 May 12:47:28 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\DEC2006_d3dx10_00_x86.cab - 191720
+Fri 11 May 12:41:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\DEC2006_d3dx9_32_x64.cab - 1571154
+Fri 11 May 12:45:22 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\DEC2006_d3dx9_32_x86.cab - 1574376
+Fri 11 May 12:39:55 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\DEC2006_XACT_x64.cab - 192475
+Fri 11 May 12:43:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\DEC2006_XACT_x86.cab - 145599
+Fri 11 May 12:39:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\DSETUP.dll - 89944
+Fri 11 May 12:39:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\dsetup32.dll - 1801048
+Fri 11 May 12:49:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\dxdllreg_x86.cab - 42410
+Fri 11 May 12:49:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\DXSETUP.exe - 537432
+Fri 11 May 12:42:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\dxupdate.cab - 94011
+Fri 11 May 12:56:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2005_d3dx9_24_x64.cab - 1247499
+Fri 11 May 12:42:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2005_d3dx9_24_x86.cab - 1013225
+Fri 11 May 12:52:14 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2006_d3dx9_29_x64.cab - 1362796
+Fri 11 May 12:44:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2006_d3dx9_29_x86.cab - 1084720
+Fri 11 May 12:40:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2006_XACT_x64.cab - 178359
+Fri 11 May 12:48:18 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2006_XACT_x86.cab - 132409
+Fri 11 May 12:43:14 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\FEB2007_XACT_x64.cab - 194675
+Fri 11 May 12:45:17 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\FEB2007_XACT_x86.cab - 147983
+Fri 11 May 12:47:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2010_X3DAudio_x64.cab - 54678
+Fri 11 May 12:52:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2010_X3DAudio_x86.cab - 20713
+Fri 11 May 12:47:43 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2010_XACT_x64.cab - 122446
+Fri 11 May 12:44:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2010_XACT_x86.cab - 93180
+Fri 11 May 12:47:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2010_XAudio_x64.cab - 276960
+Fri 11 May 12:57:04 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Feb2010_XAudio_x86.cab - 277191
+Fri 11 May 12:54:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2005_d3dx9_26_x64.cab - 1336002
+Fri 11 May 12:55:06 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2005_d3dx9_26_x86.cab - 1064925
+Fri 11 May 1:03:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2006_XACT_x64.cab - 180785
+Fri 11 May 12:40:14 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2006_XACT_x86.cab - 133671
+Fri 11 May 12:50:25 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2007_d3dx10_34_x64.cab - 699044
+Fri 11 May 12:49:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2007_d3dx10_34_x86.cab - 698472
+Fri 11 May 12:40:23 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2007_d3dx9_34_x64.cab - 1607774
+Fri 11 May 12:42:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2007_d3dx9_34_x86.cab - 1607286
+Fri 11 May 12:49:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2007_XACT_x64.cab - 197122
+Fri 11 May 12:59:11 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2007_XACT_x86.cab - 152909
+Fri 11 May 12:55:26 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_d3dx10_38_x64.cab - 867828
+Fri 11 May 12:51:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_d3dx10_38_x86.cab - 849919
+Fri 11 May 12:46:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_d3dx9_38_x64.cab - 1792608
+Fri 11 May 12:54:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_d3dx9_38_x86.cab - 1463878
+Fri 11 May 12:42:38 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_X3DAudio_x64.cab - 55154
+Fri 11 May 12:40:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_X3DAudio_x86.cab - 21905
+Fri 11 May 12:39:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_XACT_x64.cab - 121054
+Fri 11 May 12:54:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_XACT_x86.cab - 93128
+Fri 11 May 12:42:17 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_XAudio_x64.cab - 269628
+Fri 11 May 12:49:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\JUN2008_XAudio_x86.cab - 269024
+Fri 11 May 12:46:54 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_D3DCompiler_43_x64.cab - 944460
+Fri 11 May 12:45:22 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_D3DCompiler_43_x86.cab - 931471
+Fri 11 May 12:52:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_d3dcsx_43_x64.cab - 752783
+Fri 11 May 12:49:06 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_d3dcsx_43_x86.cab - 762188
+Fri 11 May 12:57:12 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_d3dx10_43_x64.cab - 235955
+Fri 11 May 12:39:50 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_d3dx10_43_x86.cab - 197283
+Fri 11 May 12:40:06 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_d3dx11_43_x64.cab - 138205
+Fri 11 May 12:41:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_d3dx11_43_x86.cab - 109445
+Fri 11 May 12:53:13 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_d3dx9_43_x64.cab - 937246
+Fri 11 May 12:40:02 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_d3dx9_43_x86.cab - 768036
+Fri 11 May 12:59:24 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_XACT_x64.cab - 124596
+Fri 11 May 12:51:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_XACT_x86.cab - 93686
+Fri 11 May 12:53:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_XAudio_x64.cab - 277338
+Fri 11 May 12:54:46 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Jun2010_XAudio_x86.cab - 278060
+Fri 11 May 12:47:16 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_d3dx10_37_x64.cab - 844884
+Fri 11 May 12:49:25 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_d3dx10_37_x86.cab - 818260
+Fri 11 May 12:51:09 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_d3dx9_37_x64.cab - 1769862
+Fri 11 May 1:05:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_d3dx9_37_x86.cab - 1443282
+Fri 11 May 12:56:57 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_X3DAudio_x64.cab - 55058
+Fri 11 May 12:54:42 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_X3DAudio_x86.cab - 21867
+Fri 11 May 12:42:33 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_XACT_x64.cab - 122336
+Fri 11 May 12:42:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_XACT_x86.cab - 93734
+Fri 11 May 12:46:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_XAudio_x64.cab - 251194
+Fri 11 May 12:42:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2008_XAudio_x86.cab - 226250
+Fri 11 May 12:44:27 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_d3dx10_41_x64.cab - 1067160
+Fri 11 May 12:43:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_d3dx10_41_x86.cab - 1040745
+Fri 11 May 12:42:31 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_d3dx9_41_x64.cab - 1973702
+Fri 11 May 12:50:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_d3dx9_41_x86.cab - 1612446
+Fri 11 May 1:05:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_X3DAudio_x64.cab - 54600
+Fri 11 May 12:39:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_X3DAudio_x86.cab - 21298
+Fri 11 May 12:50:08 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_XACT_x64.cab - 121506
+Fri 11 May 12:55:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_XACT_x86.cab - 92740
+Fri 11 May 12:40:21 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_XAudio_x64.cab - 275044
+Fri 11 May 12:53:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Mar2009_XAudio_x86.cab - 273018
+Fri 11 May 12:48:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2007_d3dx10_36_x64.cab - 864600
+Fri 11 May 12:45:36 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2007_d3dx10_36_x86.cab - 803884
+Fri 11 May 12:39:24 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2007_d3dx9_36_x64.cab - 1802058
+Fri 11 May 12:40:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2007_d3dx9_36_x86.cab - 1709360
+Fri 11 May 12:42:09 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\NOV2007_X3DAudio_x64.cab - 46144
+Fri 11 May 12:39:48 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\NOV2007_X3DAudio_x86.cab - 18496
+Fri 11 May 12:45:51 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\NOV2007_XACT_x64.cab - 196762
+Fri 11 May 12:45:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\NOV2007_XACT_x86.cab - 148264
+Fri 11 May 1:01:34 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_d3dx10_40_x64.cab - 994154
+Fri 11 May 12:50:44 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_d3dx10_40_x86.cab - 965421
+Fri 11 May 12:52:24 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_d3dx9_40_x64.cab - 1906878
+Fri 11 May 12:56:55 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_d3dx9_40_x86.cab - 1550796
+Fri 11 May 12:46:52 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_X3DAudio_x64.cab - 54522
+Fri 11 May 12:46:39 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_X3DAudio_x86.cab - 21851
+Fri 11 May 12:52:58 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_XACT_x64.cab - 121794
+Fri 11 May 12:57:29 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_XACT_x86.cab - 92684
+Fri 11 May 1:03:32 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_XAudio_x64.cab - 273960
+Fri 11 May 12:55:04 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Nov2008_XAudio_x86.cab - 272611
+Fri 11 May 12:41:33 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Oct2005_xinput_x64.cab - 86037
+Fri 11 May 12:53:01 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\Oct2005_xinput_x86.cab - 45359
+Fri 11 May 12:40:45 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\OCT2006_d3dx9_31_x64.cab - 1412902
+Fri 11 May 12:54:05 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\OCT2006_d3dx9_31_x86.cab - 1127217
+Fri 11 May 12:56:00 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\OCT2006_XACT_x64.cab - 182361
+Fri 11 May 12:40:53 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\DirectX\OCT2006_XACT_x86.cab - 138017
+Fri 11 May 1:05:03 PM - ProgramFilesX86\Steam\steamapps\common\arcania fall of setarrif\redist\PhysX\PhysX_9.10.0513_SystemSoftware.exe - 34013024
+
+UAC Disabled or not present
+

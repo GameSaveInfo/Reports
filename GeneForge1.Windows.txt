@@ -1,0 +1,785 @@
+Comments:
+  <game name="GeneForge1" platform="Windows">
+    <title>Geneforge</title>
+    <location_path environment_variable="userdocuments" path="Spiderweb Software\Geneforge Saved Games" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Geneforge
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\GOG.com\Geneforge\Geneforge
+
+Save Path: 
+UserDocuments\Spiderweb Software\Geneforge Saved Games
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{1F42DE6C-9DF5-4F5D-8386-785031FBB28B}
+Value: ConfigGDFBinaryPath
+Data: Wed 27 Jun 3:13:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\goggame.dll - 232960
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{7BE26C5A-75E2-4374-A2E0-B4E512539A45}
+Value: ConfigGDFBinaryPath
+Data: Wed 27 Jun 3:13:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 3\goggame.dll - 256512
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{7FFEF36D-A07D-4EF2-9435-E2CFE7BB87ED}
+Value: ConfigGDFBinaryPath
+Data: Wed 27 Jun 3:13:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 4\goggame.dll - 229888
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{A5A8200C-DED2-4892-B91D-55C324BB2075}
+Value: ConfigGDFBinaryPath
+Data: Wed 27 Jun 3:13:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 2\goggame.dll - 269824
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{FC4B6C5A-C287-48B1-83ED-140481348F0C}
+Value: ConfigGDFBinaryPath
+Data: Wed 27 Jun 3:13:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\goggame.dll - 226816
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE1
+Value: EXE
+Data: Mon 16 Apr 3:29:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Geneforge.exe - 5716480
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE1
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE1
+Value: LAUNCHCOMMAND
+Data: Mon 16 Apr 3:29:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Geneforge.exe - 5716480
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE1
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE2
+Value: EXE
+Data: Mon 16 Apr 3:38:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 2\Geneforge 2.exe - 7356416
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE2
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE2
+Value: LAUNCHCOMMAND
+Data: Mon 16 Apr 3:38:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 2\Geneforge 2.exe - 7356416
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE2
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE3
+Value: EXE
+Data: Thu 19 Apr 1:21:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 3\Geneforge 3.exe - 7744512
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE3
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 3
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE3
+Value: LAUNCHCOMMAND
+Data: Thu 19 Apr 1:21:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 3\Geneforge 3.exe - 7744512
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE3
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 3
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE4
+Value: EXE
+Data: Thu 19 Apr 1:32:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 4\Geneforge 4.exe - 7341056
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE4
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 4
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE4
+Value: LAUNCHCOMMAND
+Data: Thu 19 Apr 1:32:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 4\Geneforge 4.exe - 7341056
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE4
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 4
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE5
+Value: EXE
+Data: Thu 19 Apr 1:42:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5.exe - 2563072
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE5
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 5
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE5
+Value: LAUNCHCOMMAND
+Data: Thu 19 Apr 1:42:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5.exe - 2563072
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGGENEFORGE5
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Geneforge\Geneforge 5
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge\Geneforge.lnk - 2231
+Mon 16 Apr 3:29:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Geneforge.exe - 5716480
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge\Documents\Manual.lnk - 1356
+Wed 20 Jun 11:36:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Geneforge Manual.pdf - 334392
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 2\Geneforge 2.lnk - 2259
+Mon 16 Apr 3:38:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 2\Geneforge 2.exe - 7356416
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 2\Documents\Manual.lnk - 1380
+Wed 27 Jun 10:01:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 2\Geneforge 2 Manual.pdf - 222121
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 3\Geneforge 3.lnk - 2259
+Thu 19 Apr 1:21:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 3\Geneforge 3.exe - 7744512
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 3\Documents\Manual.lnk - 1380
+Wed 20 Jun 11:36:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 3\Geneforge 3 Manual.pdf - 262596
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 4\Geneforge 4.lnk - 2259
+Thu 19 Apr 1:32:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 4\Geneforge 4.exe - 7341056
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 4\Documents\Manual.lnk - 1380
+Wed 20 Jun 11:37:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 4\Geneforge 4 Manual.pdf - 731096
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 5\Geneforge 5.lnk - 2259
+Thu 19 Apr 1:42:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5.exe - 2563072
+Tue 03 Jul 10:56:08 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Geneforge\Geneforge 5\Documents\Manual.lnk - 1380
+Wed 27 Jun 10:01:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge 5\Geneforge 5 Manual.pdf - 735240
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Tue 03 Jul 11:05:21 PM - UserDocuments\Spiderweb Software\Geneforge Saved Games\GFPrefs.dat - 46
+Tue 03 Jul 11:15:35 PM - UserDocuments\Spiderweb Software\Geneforge Saved Games\Save0\data - 2006780
+Tue 03 Jul 11:15:35 PM - UserDocuments\Spiderweb Software\Geneforge Saved Games\Save0\header - 29940
+Tue 03 Jul 11:15:35 PM - UserDocuments\Spiderweb Software\Geneforge Saved Games\Save0\items - 1638400
+
+Install Folder Dump: 
+Wed 20 Jun 11:36:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Geneforge Manual.pdf - 334392
+Mon 16 Apr 3:29:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Geneforge.exe - 5716480
+Wed 27 Jun 10:12:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\gfw_high.ico - 107226
+Wed 27 Jun 3:13:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\goggame.dll - 226816
+Tue 20 Apr 12:37:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Support.ico - 62895
+Fri 28 Dec 7:10:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1000.BMP - 34950
+Fri 28 Dec 7:10:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1001.BMP - 34950
+Fri 28 Dec 7:11:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1002.BMP - 34950
+Fri 28 Dec 7:12:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1003.BMP - 20566
+Fri 28 Dec 7:18:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1010.BMP - 5218
+Fri 28 Dec 7:19:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1011.BMP - 13114
+Fri 28 Dec 7:19:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1012.BMP - 5218
+Fri 28 Dec 7:19:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1013.BMP - 5218
+Fri 28 Dec 7:20:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1014.BMP - 5218
+Fri 28 Dec 7:20:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1015.BMP - 5218
+Fri 28 Dec 7:21:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1020.BMP - 11946
+Fri 28 Dec 7:21:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1110.BMP - 92410
+Fri 28 Dec 7:22:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1111.BMP - 181278
+Fri 28 Dec 7:22:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1112.BMP - 145578
+Fri 28 Dec 7:22:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1113.BMP - 109878
+Fri 28 Dec 7:23:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1114.BMP - 91178
+Fri 28 Dec 7:23:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1120.BMP - 91278
+Fri 28 Dec 7:24:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1121.BMP - 170818
+Fri 28 Dec 7:24:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1122.BMP - 170818
+Fri 28 Dec 7:24:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1123.BMP - 86638
+Fri 28 Dec 7:25:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1124.BMP - 86638
+Fri 28 Dec 7:25:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1130.BMP - 116818
+Fri 28 Dec 7:26:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1131.BMP - 239506
+Fri 28 Dec 7:27:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1132.BMP - 215878
+Fri 28 Dec 7:27:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1133.BMP - 121366
+Fri 28 Dec 7:27:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1134.BMP - 121366
+Fri 28 Dec 7:28:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1140.BMP - 92410
+Fri 28 Dec 7:28:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1141.BMP - 181278
+Fri 28 Dec 7:28:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1142.BMP - 145578
+Fri 28 Dec 7:30:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1143.BMP - 109878
+Fri 28 Dec 7:30:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1144.BMP - 109878
+Fri 28 Dec 7:31:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1160.BMP - 107278
+Fri 28 Dec 7:31:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1161.BMP - 210178
+Fri 28 Dec 7:32:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1162.BMP - 210178
+Fri 28 Dec 7:33:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1163.BMP - 106478
+Fri 28 Dec 7:33:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1164.BMP - 126878
+Fri 28 Dec 7:33:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1170.BMP - 91278
+Fri 28 Dec 7:34:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1171.BMP - 170818
+Fri 28 Dec 7:34:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1172.BMP - 103198
+Fri 28 Dec 7:34:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1173.BMP - 103198
+Fri 28 Dec 7:35:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1174.BMP - 103198
+Fri 28 Dec 7:35:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1180.BMP - 123278
+Fri 28 Dec 7:36:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1181.BMP - 150558
+Fri 28 Dec 7:36:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1182.BMP - 249538
+Fri 28 Dec 7:36:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1183.BMP - 150558
+Fri 28 Dec 7:37:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1184.BMP - 150558
+Fri 28 Dec 7:37:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1190.BMP - 91278
+Fri 28 Dec 7:38:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1191.BMP - 170818
+Fri 28 Dec 7:38:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1192.BMP - 103198
+Fri 28 Dec 7:39:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1193.BMP - 103198
+Fri 28 Dec 7:39:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1194.BMP - 103198
+Fri 28 Dec 7:40:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1195.BMP - 119758
+Fri 28 Dec 7:41:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1200.BMP - 55974
+Fri 28 Dec 7:41:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1201.BMP - 55974
+Fri 28 Dec 7:42:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1202.BMP - 55974
+Fri 28 Dec 7:42:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1210.BMP - 55974
+Fri 28 Dec 7:42:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1211.BMP - 55974
+Fri 28 Dec 7:43:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1212.BMP - 55974
+Fri 28 Dec 7:47:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1220.BMP - 55974
+Fri 28 Dec 7:47:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1221.BMP - 55974
+Fri 28 Dec 7:47:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1222.BMP - 55974
+Fri 28 Dec 7:48:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1230.BMP - 55974
+Fri 28 Dec 7:48:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1231.BMP - 55974
+Fri 28 Dec 7:48:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1232.BMP - 55974
+Fri 28 Dec 7:48:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1240.BMP - 55974
+Fri 28 Dec 7:49:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1241.BMP - 55974
+Fri 28 Dec 7:50:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1242.BMP - 55974
+Fri 28 Dec 7:51:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1250.BMP - 34950
+Fri 28 Dec 7:51:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1251.BMP - 34950
+Fri 28 Dec 7:51:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1252.BMP - 34950
+Fri 28 Dec 7:52:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1260.BMP - 23926
+Fri 28 Dec 7:52:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1261.BMP - 23926
+Fri 28 Dec 8:05:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1262.BMP - 23926
+Fri 28 Dec 7:53:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1270.BMP - 35578
+Fri 28 Dec 7:53:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1271.BMP - 35578
+Fri 28 Dec 7:53:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1280.BMP - 27982
+Fri 28 Dec 8:01:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1281.BMP - 27982
+Fri 28 Dec 8:01:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1282.BMP - 27982
+Fri 28 Dec 8:08:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1283.BMP - 27982
+Fri 28 Dec 8:09:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1284.BMP - 27982
+Fri 28 Dec 8:02:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1285.BMP - 27982
+Fri 28 Dec 8:02:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1286.BMP - 27982
+Fri 28 Dec 8:03:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1287.BMP - 27982
+Fri 28 Dec 8:10:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1288.BMP - 17266
+Fri 28 Dec 8:03:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1290.BMP - 59838
+Fri 28 Dec 8:04:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1300.BMP - 6802
+Fri 28 Dec 8:13:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1301.BMP - 3238
+Fri 28 Dec 8:13:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1302.BMP - 2698
+Fri 28 Dec 8:17:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1303.BMP - 3238
+Fri 28 Dec 8:17:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1304.BMP - 4210
+Fri 28 Dec 8:17:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1305.BMP - 3238
+Fri 28 Dec 8:17:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1306.BMP - 3670
+Fri 28 Dec 8:17:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1307.BMP - 3238
+Fri 28 Dec 8:17:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1308.BMP - 4210
+Mon 31 Dec 6:42:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G131.BMP - 481078
+Fri 28 Dec 8:16:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1310.BMP - 22918
+Fri 28 Dec 8:18:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1311.BMP - 10906
+Fri 28 Dec 8:18:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1312.BMP - 10906
+Fri 28 Dec 8:28:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1313.BMP - 22918
+Fri 28 Dec 8:28:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1314.BMP - 15742
+Fri 28 Dec 8:28:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1315.BMP - 13246
+Mon 31 Dec 6:42:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G132.BMP - 145782
+Fri 28 Dec 8:27:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1320.BMP - 51846
+Fri 28 Dec 8:28:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1321.BMP - 26614
+Fri 28 Dec 8:29:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1322.BMP - 26614
+Fri 28 Dec 8:29:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1323.BMP - 26614
+Fri 28 Dec 8:29:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1324.BMP - 26614
+Mon 31 Dec 6:43:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G133.BMP - 106694
+Fri 28 Dec 8:30:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1330.BMP - 23426
+Fri 28 Dec 8:36:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1331.BMP - 18986
+Fri 28 Dec 8:37:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1332.BMP - 5666
+Fri 28 Dec 8:37:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1333.BMP - 16766
+Fri 28 Dec 8:37:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1334.BMP - 14546
+Fri 28 Dec 8:37:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1340.BMP - 2950
+Thu 07 Feb 8:10:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1350.BMP - 34950
+Fri 28 Dec 8:37:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1351.BMP - 34950
+Fri 28 Dec 8:38:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1352.BMP - 34950
+Fri 28 Dec 8:38:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1353.BMP - 39822
+Fri 28 Dec 8:39:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1354.BMP - 34950
+Fri 28 Dec 8:39:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1355.BMP - 20566
+Fri 28 Dec 8:39:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1356.BMP - 39822
+Thu 07 Feb 3:24:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1357.BMP - 31270
+Thu 07 Feb 3:24:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1358.BMP - 20566
+Fri 28 Dec 8:40:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1359.BMP - 10822
+Mon 31 Dec 6:45:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G136.BMP - 7198
+Fri 28 Dec 8:41:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1360.BMP - 34950
+Fri 28 Dec 8:41:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1361.BMP - 34950
+Fri 28 Dec 8:41:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1362.BMP - 34950
+Fri 28 Dec 8:42:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1370.BMP - 34950
+Fri 28 Dec 8:42:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1371.BMP - 34950
+Fri 28 Dec 8:42:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1372.BMP - 34950
+Fri 28 Dec 8:43:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1373.BMP - 20566
+Fri 28 Dec 8:43:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1380.BMP - 34950
+Fri 28 Dec 8:43:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1381.BMP - 34950
+Fri 28 Dec 8:44:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1382.BMP - 34950
+Fri 28 Dec 8:44:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1383.BMP - 20566
+Fri 28 Dec 8:44:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1390.BMP - 34950
+Fri 28 Dec 8:45:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1391.BMP - 34950
+Fri 28 Dec 8:45:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1392.BMP - 34950
+Mon 31 Dec 6:45:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G140.BMP - 104438
+Fri 28 Dec 8:51:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1400.BMP - 5218
+Fri 28 Dec 8:51:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1401.BMP - 11290
+Fri 28 Dec 8:51:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1402.BMP - 5218
+Fri 28 Dec 8:51:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1403.BMP - 5218
+Fri 28 Dec 8:51:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1404.BMP - 5218
+Fri 28 Dec 8:51:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1405.BMP - 5218
+Fri 28 Dec 8:52:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1406.BMP - 5218
+Fri 28 Dec 8:52:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1407.BMP - 5218
+Fri 28 Dec 8:52:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1408.BMP - 5218
+Fri 28 Dec 8:52:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1409.BMP - 5218
+Mon 31 Dec 6:46:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G141.BMP - 41526
+Fri 28 Dec 8:52:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1410.BMP - 16278
+Fri 28 Dec 8:52:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1411.BMP - 16278
+Fri 28 Dec 8:52:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1412.BMP - 16278
+Fri 28 Dec 8:53:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1420.BMP - 34950
+Fri 28 Dec 8:53:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1421.BMP - 34950
+Fri 28 Dec 8:53:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1422.BMP - 34950
+Mon 31 Dec 6:47:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G143.BMP - 166026
+Fri 28 Dec 8:53:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1430.BMP - 34950
+Fri 28 Dec 8:54:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1431.BMP - 34950
+Fri 28 Dec 8:54:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1432.BMP - 34950
+Fri 28 Dec 8:54:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1433.BMP - 20566
+Mon 31 Dec 6:47:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G144.BMP - 136982
+Mon 31 Dec 6:47:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G145.BMP - 481078
+Mon 31 Dec 6:48:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G150.BMP - 8502
+Fri 28 Dec 8:56:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1500.BMP - 15118
+Fri 28 Dec 8:56:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1501.BMP - 15118
+Fri 28 Dec 8:56:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1502.BMP - 15118
+Fri 28 Dec 8:57:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1503.BMP - 15118
+Fri 28 Dec 8:57:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1504.BMP - 15118
+Fri 28 Dec 8:57:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1505.BMP - 15118
+Fri 28 Dec 8:57:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1506.BMP - 15118
+Fri 28 Dec 8:57:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1507.BMP - 15118
+Wed 16 Jan 6:10:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1508.BMP - 15118
+Mon 31 Dec 6:50:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G151.BMP - 8502
+Mon 31 Dec 6:49:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G152.BMP - 7154
+Mon 31 Dec 6:49:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G153.BMP - 7154
+Mon 31 Dec 6:49:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G154.BMP - 16486
+Mon 31 Dec 6:51:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G155.BMP - 6782
+Mon 31 Dec 6:51:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G156.BMP - 9526
+Mon 31 Dec 6:51:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G157.BMP - 55958
+Wed 09 Jan 2:09:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G158.BMP - 108834
+Mon 31 Dec 6:52:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G159.BMP - 6118
+Mon 31 Dec 6:52:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G160.BMP - 9778
+Fri 28 Dec 9:01:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1600.BMP - 6322
+Fri 28 Dec 9:01:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1601.BMP - 6046
+Fri 28 Dec 9:01:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1602.BMP - 6046
+Fri 28 Dec 9:02:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1603.BMP - 6046
+Fri 28 Dec 9:02:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1604.BMP - 6046
+Fri 28 Dec 9:02:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1605.BMP - 6046
+Fri 28 Dec 9:02:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1606.BMP - 6046
+Fri 28 Dec 9:02:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1607.BMP - 6046
+Fri 28 Dec 9:02:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1608.BMP - 6046
+Mon 31 Dec 6:53:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G161.BMP - 22582
+Fri 28 Dec 9:02:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1610.BMP - 6046
+Fri 28 Dec 9:02:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1611.BMP - 6046
+Fri 28 Dec 9:03:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1612.BMP - 6046
+Fri 28 Dec 9:03:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1613.BMP - 6046
+Mon 31 Dec 6:53:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G163.BMP - 37578
+Mon 31 Dec 6:53:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G164.BMP - 6710
+Mon 31 Dec 6:54:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G165.BMP - 14798
+Mon 31 Dec 6:54:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G166.BMP - 26386
+Mon 31 Dec 6:54:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G167.BMP - 42474
+Mon 31 Dec 6:54:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G168.BMP - 21302
+Mon 31 Dec 6:54:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G169.BMP - 11718
+Thu 10 Jan 6:37:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G170.BMP - 304678
+Fri 28 Dec 9:06:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1700.BMP - 19302
+Fri 28 Dec 9:06:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1701.BMP - 7334
+Fri 28 Dec 9:06:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1702.BMP - 31270
+Fri 28 Dec 9:07:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1703.BMP - 19302
+Fri 28 Dec 9:07:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1704.BMP - 19302
+Thu 10 Jan 6:37:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G171.BMP - 304678
+Fri 28 Dec 9:07:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1710.BMP - 40390
+Fri 28 Dec 9:07:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1711.BMP - 20734
+Fri 28 Dec 9:08:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1712.BMP - 97174
+Fri 28 Dec 9:08:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1713.BMP - 58954
+Fri 28 Dec 9:08:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1714.BMP - 58954
+Thu 10 Jan 6:37:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G172.BMP - 304678
+Fri 28 Dec 9:09:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1720.BMP - 47806
+Fri 28 Dec 9:09:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1721.BMP - 257778
+Fri 28 Dec 9:10:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1722.BMP - 257778
+Fri 28 Dec 9:10:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1723.BMP - 155778
+Fri 28 Dec 9:10:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1724.BMP - 155778
+Thu 10 Jan 6:37:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G173.BMP - 304678
+Fri 28 Dec 9:11:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1730.BMP - 188318
+Fri 28 Dec 9:11:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1731.BMP - 398266
+Fri 28 Dec 9:11:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1732.BMP - 398266
+Fri 28 Dec 9:12:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1733.BMP - 239910
+Fri 28 Dec 9:12:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1734.BMP - 239910
+Thu 10 Jan 6:38:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G174.BMP - 304678
+Fri 28 Dec 9:13:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1740.BMP - 4678
+Fri 28 Dec 9:14:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1741.BMP - 2878
+Fri 28 Dec 9:14:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1742.BMP - 6298
+Fri 28 Dec 9:14:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1743.BMP - 6298
+Fri 28 Dec 9:14:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1744.BMP - 4678
+Wed 06 Feb 7:27:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G175.BMP - 304678
+Fri 28 Dec 9:14:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1750.BMP - 180754
+Fri 28 Dec 9:14:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1751.BMP - 373858
+Fri 28 Dec 9:15:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1752.BMP - 373858
+Fri 28 Dec 9:15:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1753.BMP - 225618
+Fri 28 Dec 9:15:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1754.BMP - 225618
+Thu 10 Jan 6:36:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G176.BMP - 304678
+Fri 28 Dec 9:15:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1760.BMP - 86218
+Fri 28 Dec 9:16:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1761.BMP - 211090
+Fri 28 Dec 9:16:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1762.BMP - 211090
+Fri 28 Dec 9:16:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1763.BMP - 127842
+Fri 28 Dec 9:16:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1764.BMP - 127842
+Thu 10 Jan 6:37:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G177.BMP - 304678
+Fri 28 Dec 9:17:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1770.BMP - 49214
+Fri 28 Dec 9:17:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1771.BMP - 196882
+Fri 28 Dec 9:17:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1772.BMP - 196882
+Fri 28 Dec 9:17:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1773.BMP - 119266
+Fri 28 Dec 9:18:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1774.BMP - 119266
+Thu 10 Jan 6:37:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G178.BMP - 304678
+Fri 28 Dec 9:18:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1780.BMP - 54846
+Fri 28 Dec 9:18:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1781.BMP - 336398
+Fri 28 Dec 9:19:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1782.BMP - 336398
+Fri 28 Dec 9:19:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1783.BMP - 203078
+Fri 28 Dec 9:20:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1784.BMP - 203078
+Mon 31 Dec 6:57:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G179.BMP - 304678
+Fri 28 Dec 9:20:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1790.BMP - 112854
+Fri 28 Dec 9:25:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1791.BMP - 218014
+Fri 28 Dec 9:26:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1792.BMP - 218014
+Fri 28 Dec 9:26:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1793.BMP - 131554
+Fri 28 Dec 9:26:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G1794.BMP - 131554
+Mon 31 Dec 6:58:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G185.BMP - 11718
+Mon 31 Dec 6:58:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G186.BMP - 11718
+Mon 31 Dec 6:58:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G187.BMP - 11718
+Mon 31 Dec 6:58:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G188.BMP - 18102
+Mon 31 Dec 7:00:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G198.BMP - 124278
+Mon 31 Dec 7:01:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G199.BMP - 481078
+Mon 31 Dec 7:01:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G200.BMP - 29722
+Fri 28 Dec 9:27:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2000.BMP - 54846
+Fri 28 Dec 9:27:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2001.BMP - 225298
+Fri 28 Dec 9:27:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2002.BMP - 225298
+Fri 28 Dec 9:28:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2003.BMP - 136418
+Fri 28 Dec 9:28:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2004.BMP - 136418
+Fri 28 Dec 9:28:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2005.BMP - 225298
+Fri 28 Dec 9:28:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2010.BMP - 54846
+Fri 28 Dec 9:29:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2011.BMP - 336398
+Fri 28 Dec 9:29:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2012.BMP - 336398
+Fri 28 Dec 9:29:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2013.BMP - 203078
+Fri 28 Dec 9:30:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2014.BMP - 203078
+Fri 28 Dec 9:30:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2015.BMP - 336398
+Fri 28 Dec 9:31:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2020.BMP - 35418
+Fri 28 Dec 9:31:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2021.BMP - 336398
+Fri 28 Dec 9:31:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2022.BMP - 336398
+Fri 28 Dec 9:31:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2023.BMP - 203078
+Fri 28 Dec 9:32:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2024.BMP - 203078
+Fri 28 Dec 9:32:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2025.BMP - 336398
+Mon 31 Dec 7:01:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G203.BMP - 29722
+Mon 31 Dec 7:02:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G206.BMP - 29722
+Fri 28 Dec 9:32:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2100.BMP - 102418
+Fri 28 Dec 9:32:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2101.BMP - 203986
+Fri 28 Dec 9:32:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2102.BMP - 203986
+Fri 28 Dec 9:33:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2103.BMP - 123554
+Fri 28 Dec 9:33:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2104.BMP - 123554
+Fri 28 Dec 9:33:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2105.BMP - 203986
+Fri 28 Dec 9:34:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2110.BMP - 32154
+Fri 28 Dec 9:34:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2111.BMP - 304526
+Fri 28 Dec 9:34:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2112.BMP - 304526
+Fri 28 Dec 9:34:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2113.BMP - 183878
+Fri 28 Dec 9:35:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2114.BMP - 183878
+Fri 28 Dec 9:35:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2115.BMP - 304526
+Fri 28 Dec 9:38:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2120.BMP - 50622
+Fri 28 Dec 9:39:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2121.BMP - 304526
+Fri 28 Dec 9:39:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2122.BMP - 304526
+Fri 28 Dec 9:39:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2123.BMP - 183878
+Fri 28 Dec 9:39:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2124.BMP - 183878
+Fri 28 Dec 9:40:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2125.BMP - 304526
+Fri 28 Dec 9:41:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2200.BMP - 52030
+Fri 28 Dec 9:41:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2201.BMP - 211090
+Fri 28 Dec 9:41:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2202.BMP - 211090
+Fri 28 Dec 9:42:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2203.BMP - 127842
+Fri 28 Dec 9:42:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2204.BMP - 127842
+Fri 28 Dec 9:42:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2205.BMP - 211090
+Fri 28 Dec 9:45:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2210.BMP - 33242
+Fri 28 Dec 9:45:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2211.BMP - 315150
+Fri 28 Dec 9:45:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2212.BMP - 315150
+Fri 28 Dec 9:46:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2213.BMP - 190278
+Fri 28 Dec 9:46:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2214.BMP - 190278
+Fri 28 Dec 9:46:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2215.BMP - 315150
+Fri 28 Dec 9:46:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2220.BMP - 33242
+Fri 28 Dec 9:47:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2221.BMP - 315150
+Fri 28 Dec 9:47:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2222.BMP - 315150
+Fri 28 Dec 9:47:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2223.BMP - 190278
+Fri 28 Dec 9:47:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2224.BMP - 190278
+Fri 28 Dec 9:48:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G2225.BMP - 315150
+Fri 28 Dec 9:32:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\G300.BMP - 102418
+Mon 06 Oct 10:25:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\GFPrefs.dat - 46
+Wed 06 Mar 8:03:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\GFScenData.dat - 2990252
+Tue 06 Nov 6:39:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\71ghost.txt - 1465
+Tue 18 Dec 7:40:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\abanvale.txt - 4000
+Thu 28 Feb 9:00:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\abanvaledlg.txt - 17909
+Mon 19 Nov 8:16:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\alarm.txt - 1433
+Tue 04 Dec 8:10:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\banditwoods.txt - 1145
+Tue 18 Dec 7:41:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\banditwoodsdlg.txt - 8521
+Mon 19 Nov 9:50:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\basicnpc.txt - 1290
+Mon 04 Jun 5:42:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\box.txt - 317
+Mon 19 Nov 8:49:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\boxmine.txt - 1830
+Mon 19 Nov 8:50:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\boxmine2.txt - 1985
+Mon 19 Nov 9:51:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\callmonst.txt - 2354
+Thu 17 Jan 8:56:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\canister.txt - 934
+Mon 19 Nov 8:50:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\chainmine.txt - 1935
+Thu 31 May 9:04:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\cntrldoor.txt - 975
+Wed 19 Dec 8:47:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\cragvalley.txt - 1373
+Tue 04 Dec 7:04:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\cragvalleydlg.txt - 10829
+Thu 17 Jan 8:57:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\dockcan.txt - 720
+Mon 12 Nov 6:56:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\docks.txt - 3750
+Tue 18 Dec 7:42:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\docksdlg.txt - 6790
+Mon 30 Jul 8:39:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\door.txt - 1826
+Tue 04 Dec 7:05:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\doorlever.txt - 5223
+Mon 22 Oct 5:45:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\ellhrah.txt - 1902
+Thu 28 Feb 9:01:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\ellhrahdlg.txt - 38431
+Tue 07 Aug 7:45:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\energycr.txt - 555
+Thu 29 Nov 7:34:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\energypool.txt - 974
+Fri 24 Aug 9:52:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\flaglever.txt - 1106
+Fri 13 Jul 10:15:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\fleemonst.txt - 1598
+Wed 19 Sep 8:10:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\flocknpc.txt - 1427
+Tue 12 Mar 7:03:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\gforscen.txt - 143141
+Mon 20 Aug 10:43:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\ghunter.txt - 1551
+Fri 16 Nov 9:14:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\glowcryst.txt - 736
+Mon 27 Aug 6:23:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\groupguard.txt - 3205
+Mon 22 Oct 9:03:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\groupnpc.txt - 1659
+Tue 24 Jul 9:06:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\guard.txt - 1920
+Mon 19 Nov 8:51:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\harmpool.txt - 854
+Tue 07 Aug 7:44:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\healcryst.txt - 534
+Wed 31 Oct 8:03:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\healnpc.txt - 2035
+Thu 29 Nov 7:33:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\healpool.txt - 1370
+Tue 14 Aug 3:31:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\hunter.txt - 1593
+Fri 16 Nov 9:14:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\lightstand.txt - 735
+Tue 04 Dec 7:09:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\lockbox.txt - 3879
+Tue 07 Aug 8:27:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\mine.txt - 1076
+Fri 12 Oct 10:50:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\navptnpc.txt - 1865
+Wed 03 Oct 5:47:26 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\nullobj.txt - 243
+Tue 04 Dec 7:05:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\offspiral.txt - 2332
+Fri 03 Aug 2:13:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\ornk.txt - 1881
+Tue 18 Sep 7:40:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\packhunter.txt - 2050
+Fri 21 Sep 8:35:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\pairnpc.txt - 1698
+Tue 09 Oct 9:46:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\patrolnpc.txt - 752
+Wed 12 Sep 10:13:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\powermonst.txt - 1638
+Tue 04 Dec 7:05:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\powrspiral.txt - 3791
+Mon 19 Nov 8:30:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\pylon.txt - 1982
+Tue 30 Oct 1:40:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\radiant.txt - 2573
+Thu 04 Oct 9:17:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\returnnpc.txt - 1368
+Wed 19 Sep 9:18:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\ruinedschl.txt - 917
+Tue 04 Dec 7:11:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\ruinedschldlg.txt - 16375
+Mon 26 Nov 7:17:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\searfloor.txt - 1084
+Fri 30 Nov 9:05:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\spawner.txt - 2200
+Mon 19 Nov 8:29:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\sporebox.txt - 1271
+Tue 31 Jul 11:15:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\sporemine.txt - 669
+Thu 27 Sep 11:31:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\talknpc.txt - 1525
+Tue 18 Sep 7:37:36 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\talkobj.txt - 426
+Fri 22 Jun 11:10:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\timo.txt - 1073
+Fri 28 Sep 9:16:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\trapbox.txt - 2751
+Mon 09 Jul 4:20:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\treasguard.txt - 2999
+Wed 22 Aug 12:04:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\trigmine.txt - 506
+Tue 23 Oct 10:30:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\turret.txt - 1779
+Tue 21 Aug 8:28:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\twopts.txt - 1608
+Tue 13 Nov 2:16:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\vakkiri.txt - 2434
+Thu 28 Feb 8:59:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\vakkiridlg.txt - 67525
+Thu 30 Aug 9:38:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\warncryst.txt - 466
+Thu 05 Jul 8:08:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\watchhill.txt - 981
+Tue 04 Dec 7:14:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\watchhilldlg.txt - 8174
+Mon 19 Nov 5:24:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z10roamer.txt - 1543
+Wed 11 Jul 9:29:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z10sleet.txt - 1141
+Fri 16 Nov 9:18:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z10thornb.txt - 834
+Tue 18 Sep 8:00:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z10thorny.txt - 794
+Wed 19 Dec 8:41:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z10thornydlg.txt - 4641
+Mon 12 Nov 9:43:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z11plains.txt - 1820
+Tue 04 Dec 7:16:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z11plainsdlg.txt - 8170
+Thu 12 Jul 9:58:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z11servile.txt - 2215
+Fri 13 Jul 10:04:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z12pwoods.txt - 986
+Thu 14 Feb 8:13:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z12pwoodsdlg.txt - 4099
+Mon 22 Oct 6:32:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z13pentil.txt - 1333
+Wed 13 Mar 6:51:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z13pentildlg.txt - 76335
+Mon 23 Jul 10:42:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z13rydell.txt - 1247
+Tue 05 Mar 9:20:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z14guard.txt - 1807
+Fri 30 Nov 7:45:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z14peast.txt - 2943
+Tue 04 Dec 7:19:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z14peastdlg.txt - 14589
+Tue 13 Nov 9:26:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z15thwoods.txt - 2020
+Tue 05 Mar 9:24:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z15thwoodsdlg.txt - 7683
+Wed 06 Feb 7:10:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z16sarco.txt - 1351
+Fri 27 Jul 8:59:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z16tombs.txt - 596
+Tue 04 Dec 7:21:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z16tombsdlg.txt - 4750
+Thu 02 Aug 4:25:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z17northb.txt - 1227
+Mon 18 Feb 8:10:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z17northbdlg.txt - 12342
+Tue 31 Jul 2:27:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z17outsider.txt - 1342
+Wed 01 Aug 8:54:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z18outsider.txt - 1337
+Wed 01 Aug 9:39:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z18southb.txt - 1123
+Thu 07 Mar 8:02:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z18southbdlg.txt - 5365
+Thu 02 Aug 4:25:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z19cells.txt - 685
+Tue 05 Mar 9:26:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z19cellsdlg.txt - 14535
+Wed 14 Nov 4:27:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z20clois.txt - 1816
+Tue 30 Oct 6:57:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z20marshes.txt - 1177
+Tue 05 Mar 9:26:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z20marshesdlg.txt - 17746
+Thu 01 Nov 5:25:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z21circle.txt - 2898
+Fri 30 Nov 7:43:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z21circledlg.txt - 4104
+Wed 14 Nov 4:51:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z22crystal.txt - 725
+Tue 11 Sep 11:03:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z22crystaldlg.txt - 2479
+Wed 24 Oct 9:46:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z22monst.txt - 1295
+Wed 08 Aug 3:29:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z23guard.txt - 1777
+Wed 08 Aug 10:21:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z23monst.txt - 945
+Thu 09 Aug 8:12:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z23outpost.txt - 873
+Fri 30 Nov 5:02:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z23outpostdlg.txt - 11473
+Mon 24 Sep 6:16:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z24guard.txt - 1767
+Mon 01 Oct 7:21:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z24kazruin.txt - 1143
+Tue 05 Mar 9:28:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z24kazruindlg.txt - 9286
+Thu 09 Aug 2:47:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z24leader.txt - 2055
+Thu 09 Aug 10:07:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z24rosen.txt - 1050
+Fri 10 Aug 10:24:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z25amena.txt - 1260
+Fri 10 Aug 8:18:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z25guard.txt - 1471
+Tue 21 Aug 9:44:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z25kplains.txt - 888
+Wed 19 Dec 8:55:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z25kplainsdlg.txt - 16836
+Thu 14 Feb 8:06:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z26kazg.txt - 2674
+Tue 05 Mar 9:31:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z26kazgdlg.txt - 56670
+Thu 16 Aug 8:06:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z27greet.txt - 1080
+Tue 09 Oct 6:26:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z27servile.txt - 838
+Mon 03 Dec 7:42:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z27serviledlg.txt - 14477
+Thu 16 Aug 10:27:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z28greet.txt - 1431
+Mon 24 Sep 9:14:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z28tribal.txt - 974
+Tue 18 Dec 7:56:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z28tribaldlg.txt - 6984
+Thu 16 Aug 8:19:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z28tribe.txt - 1201
+Mon 20 Aug 5:18:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z29greet.txt - 1614
+Tue 13 Nov 6:25:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z29icyt.txt - 2134
+Mon 03 Dec 4:10:10 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z29icytdlg.txt - 11279
+Tue 18 Dec 7:56:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z30ekazg.txt - 1157
+Fri 30 Nov 7:50:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z30ekazgdlg.txt - 17207
+Mon 24 Sep 9:44:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z30greet.txt - 1389
+Wed 03 Oct 6:01:54 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z30temple.txt - 1618
+Tue 21 Aug 2:22:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z30vat.txt - 564
+Tue 18 Dec 7:57:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z31holdtwo.txt - 1186
+Fri 30 Nov 7:50:30 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z31holdtwodlg.txt - 7178
+Thu 23 Aug 2:10:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z32refugee.txt - 870
+Tue 05 Mar 9:32:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z32refugeedlg.txt - 30013
+Mon 01 Oct 7:09:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z33docruin.txt - 1362
+Wed 21 Nov 9:32:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z33docruindlg.txt - 4635
+Fri 30 Nov 7:43:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z34edock.txt - 1327
+Wed 21 Nov 9:32:50 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z34edockdlg.txt - 4527
+Mon 24 Sep 10:00:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z35woodval.txt - 721
+Thu 14 Feb 7:57:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z35woodvaldlg.txt - 26464
+Wed 07 Nov 5:15:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z36river.txt - 1992
+Tue 27 Nov 5:02:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z36riverdlg.txt - 6629
+Mon 10 Sep 11:02:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z37emines.txt - 1154
+Tue 18 Dec 7:58:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z37eminesdlg.txt - 5617
+Mon 10 Sep 11:02:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z38minec.txt - 727
+Fri 30 Nov 5:01:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z38minecdlg.txt - 12531
+Mon 01 Oct 7:03:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z39alphas.txt - 2370
+Fri 08 Mar 9:41:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z39northm.txt - 1140
+Tue 18 Dec 7:59:14 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z39northmdlg.txt - 9235
+Mon 09 Jul 4:21:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z3bandit.txt - 1527
+Mon 24 Sep 10:13:54 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z3leader.txt - 1601
+Tue 02 Oct 8:11:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z40wmines.txt - 947
+Tue 18 Dec 7:59:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z40wminesdlg.txt - 5826
+Thu 08 Nov 2:31:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z41arena.txt - 1242
+Fri 30 Nov 4:55:42 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z41arenadlg.txt - 10022
+Fri 07 Sep 11:12:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z41prav.txt - 1391
+Tue 11 Sep 10:10:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z42gbridge.txt - 1963
+Tue 18 Dec 7:59:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z42gbridgedlg.txt - 9558
+Tue 11 Sep 5:13:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z43patlead.txt - 1242
+Tue 11 Sep 5:13:32 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z43patrol.txt - 1066
+Tue 11 Sep 5:14:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z43patrold.txt - 1683
+Tue 18 Dec 8:00:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z43patrolddlg.txt - 10903
+Wed 12 Sep 9:53:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z44patrol.txt - 957
+Mon 01 Oct 7:05:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z44windrd.txt - 1908
+Wed 02 Jan 7:38:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z44windrddlg.txt - 15411
+Thu 13 Sep 7:03:28 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z45corata.txt - 1172
+Wed 02 Jan 7:51:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z45pylon.txt - 2439
+Tue 05 Mar 9:25:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z45swork.txt - 3520
+Tue 18 Dec 8:01:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z45sworkdlg.txt - 19038
+Fri 14 Sep 10:16:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z46patrol.txt - 1040
+Mon 03 Dec 7:56:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z46seallab.txt - 1496
+Fri 30 Nov 7:47:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z46seallabdlg.txt - 7866
+Mon 17 Sep 9:39:52 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z47icewall.txt - 879
+Tue 05 Mar 9:24:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z47icewalldlg.txt - 2495
+Mon 17 Sep 10:13:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z47spawn.txt - 1085
+Thu 20 Sep 11:28:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z48croads.txt - 1218
+Tue 05 Mar 9:27:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z48croadsdlg.txt - 12880
+Tue 09 Oct 4:53:02 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z48gavrila.txt - 1934
+Fri 21 Sep 11:07:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z49raider.txt - 960
+Fri 21 Sep 9:51:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z49shade.txt - 348
+Tue 18 Dec 8:02:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z49wwork.txt - 1734
+Tue 18 Dec 8:05:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z49wworkdlg.txt - 14023
+Tue 25 Sep 10:16:16 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z50darian.txt - 983
+Wed 14 Nov 7:04:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z50pvale.txt - 864
+Wed 06 Feb 7:30:40 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z50pvaledlg.txt - 20435
+Tue 25 Sep 10:18:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z50syros.txt - 952
+Wed 26 Sep 5:24:12 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z51pbridge.txt - 1196
+Wed 21 Nov 9:45:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z51pbridgedlg.txt - 9836
+Thu 08 Nov 2:42:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z52freepl.txt - 2624
+Tue 18 Dec 8:06:48 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z52freepldlg.txt - 8659
+Thu 27 Sep 11:48:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z52zygan.txt - 1212
+Wed 31 Oct 8:05:46 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z53gyahki.txt - 1943
+Mon 01 Oct 8:33:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z53pstat.txt - 2343
+Mon 18 Feb 8:07:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z53pstatdlg.txt - 9938
+Mon 31 Dec 11:23:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z54thehill.txt - 1155
+Tue 18 Dec 8:08:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z54thehilldlg.txt - 992
+Tue 02 Oct 4:52:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z55fwee.txt - 1369
+Mon 22 Oct 7:02:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z55kantre.txt - 1372
+Tue 18 Dec 8:09:12 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z55kantredlg.txt - 12606
+Wed 03 Oct 10:23:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z56pcore.txt - 1234
+Tue 18 Dec 8:10:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z56pcoredlg.txt - 5626
+Thu 04 Oct 10:34:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z57fgate.txt - 1454
+Fri 30 Nov 7:43:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z57fgatedlg.txt - 10991
+Thu 04 Oct 9:08:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z57patrol.txt - 937
+Tue 06 Nov 6:43:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z58stealth.txt - 1459
+Tue 09 Oct 10:16:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z58wgate.txt - 803
+Tue 18 Dec 8:11:42 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z58wgatedlg.txt - 4223
+Tue 09 Oct 4:51:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z59thevats.txt - 1473
+Wed 06 Mar 8:11:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z59thevatsdlg.txt - 9937
+Wed 05 Sep 5:26:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z5serrula.txt - 1123
+Wed 10 Oct 4:12:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z60guard.txt - 1241
+Wed 05 Dec 5:31:40 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z60labcore.txt - 1509
+Tue 18 Dec 8:12:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z60labcoredlg.txt - 18527
+Wed 10 Oct 10:28:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z60lever.txt - 1282
+Wed 10 Oct 12:23:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z60patrol.txt - 1572
+Tue 16 Oct 8:28:46 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z61akkat.txt - 1713
+Thu 11 Oct 12:56:50 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z61qrtrs.txt - 1769
+Thu 07 Mar 8:05:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z61qrtrsdlg.txt - 15324
+Thu 11 Oct 5:05:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z61varya.txt - 1122
+Mon 22 Oct 5:17:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z62holcell.txt - 1464
+Thu 21 Feb 9:39:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z62holcelldlg.txt - 14131
+Mon 15 Oct 7:59:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z63gforge.txt - 674
+Mon 18 Feb 8:10:56 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z63gforgedlg.txt - 38142
+Mon 15 Oct 8:42:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z63guard.txt - 1112
+Mon 15 Oct 6:15:22 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z63pool.txt - 559
+Mon 15 Oct 7:58:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z63spiral.txt - 1428
+Mon 15 Oct 7:36:00 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z63trajkov.txt - 2222
+Tue 16 Oct 4:35:14 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z64hunter.txt - 1150
+Wed 31 Oct 8:04:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z64pylon.txt - 836
+Tue 16 Oct 4:47:58 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z64wastes.txt - 981
+Fri 16 Nov 7:58:38 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z64wastesdlg.txt - 3069
+Wed 17 Oct 10:15:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z65junky.txt - 649
+Tue 18 Dec 8:17:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z65junkydlg.txt - 15417
+Wed 17 Oct 8:37:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z65shock.txt - 1676
+Wed 28 Nov 4:09:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z66diarzad.txt - 905
+Tue 05 Mar 9:22:20 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z66diarzaddlg.txt - 3465
+Tue 06 Nov 6:42:56 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z66stealth.txt - 1459
+Wed 28 Nov 9:15:08 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z67wwastes.txt - 1622
+Fri 30 Nov 7:48:36 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z67wwastesdlg.txt - 3315
+Tue 30 Oct 6:39:30 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z68walker.txt - 1688
+Tue 30 Oct 6:48:38 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z68windwar.txt - 1007
+Tue 18 Dec 8:19:34 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z68windwardlg.txt - 10013
+Tue 23 Oct 10:40:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z69acrypt.txt - 1202
+Wed 28 Nov 4:16:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z69acryptdlg.txt - 5193
+Fri 26 Oct 6:10:08 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z69alarm.txt - 1973
+Mon 19 Nov 8:38:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z6spiral.txt - 1599
+Fri 16 Nov 8:33:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z70drayk.txt - 1603
+Tue 30 Oct 5:04:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z70drvale.txt - 806
+Tue 05 Mar 9:23:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z70drvaledlg.txt - 16852
+Tue 30 Oct 5:06:18 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z70rhakkus.txt - 1842
+Wed 24 Oct 11:05:06 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z70shade.txt - 934
+Thu 25 Oct 5:55:48 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z71box.txt - 430
+Tue 30 Oct 4:55:06 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z71spiritc.txt - 1987
+Fri 30 Nov 4:47:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z71spiritcdlg.txt - 13353
+Fri 26 Oct 6:10:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z72sentinl.txt - 1305
+Tue 05 Mar 9:24:00 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z72sentinldlg.txt - 22116
+Mon 29 Oct 8:38:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z73goett.txt - 1291
+Mon 29 Oct 4:29:52 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z73greet.txt - 1578
+Tue 13 Nov 6:07:04 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z73temple.txt - 1720
+Mon 11 Mar 8:47:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z73templedlg.txt - 22449
+Fri 16 Nov 9:30:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z74crypt.txt - 1815
+Tue 05 Mar 9:22:44 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z74cryptdlg.txt - 10465
+Thu 27 Dec 8:39:28 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z74monst.txt - 2170
+Wed 31 Oct 8:06:24 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z75danette.txt - 1742
+Mon 21 Jan 4:38:16 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z75incrypt.txt - 1159
+Wed 31 Oct 8:54:18 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z75incryptdlg.txt - 2276
+Thu 27 Dec 8:39:10 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z75monst.txt - 2170
+Mon 03 Dec 8:01:32 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z76gdocks.txt - 984
+Sun 23 Dec 3:37:24 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z76gdocksdlg.txt - 12251
+Sun 23 Dec 3:25:34 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z76guard.txt - 1771
+Wed 26 Sep 6:49:44 PM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z7ellhrah.txt - 1355
+Wed 19 Sep 9:19:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z8spiral.txt - 619
+Thu 28 Feb 9:01:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z8spiraldlg.txt - 10718
+Tue 18 Dec 8:26:02 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z9hilljars.txt - 1304
+Tue 05 Mar 9:15:58 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z9hilljarsdlg.txt - 10005
+Mon 19 Nov 8:29:22 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\z9spore.txt - 1095
+Thu 16 Aug 8:03:04 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\zonetemp.txt - 656
+Fri 06 Jul 9:38:26 AM - ProgramFilesX86\GOG.com\Geneforge\Geneforge\Data\Scripts\zonetempdlg.txt - 1273
+
+UAC Disabled or not present
+

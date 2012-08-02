@@ -1,0 +1,674 @@
+Comments:
+	<game name="Explodemon" platform="Windows">
+		<title>Explodemon!</title>
+		<location_path environment_variable="userdocuments" path="EXPLODEMON!" />
+		<save />
+		<contributer>Arc Angel</contributer>
+	</game>
+
+
+Game Name: Explodemon!
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\Games\Explodemon
+
+Save Path: 
+UserDocuments\EXPLODEMON!
+
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sun 06 May 6:04:26 PM - UserDocuments\EXPLODEMON!\Settings\SaveData\-USER-\auto-npeb00306.sav - 1928
+Thu 05 Apr 9:37:23 PM - UserDocuments\EXPLODEMON!\Settings\SaveData\-USER-\fixed-npeb00306.sav - 1928
+
+Install Folder Dump: 
+Tue 27 Mar 12:21:20 PM - Drive\Games\Explodemon\Explodemon.exe - 8274432
+Fri 19 Nov 4:36:52 PM - Drive\Games\Explodemon\fmodex.dll - 843776
+Fri 19 Nov 4:36:52 PM - Drive\Games\Explodemon\fmodexL.dll - 933961
+Fri 19 Nov 4:36:52 PM - Drive\Games\Explodemon\fmodexp.dll - 165888
+Tue 03 May 12:23:30 PM - Drive\Games\Explodemon\libcurl.dll - 237568
+Tue 03 May 12:23:30 PM - Drive\Games\Explodemon\zlibwapi.dll - 72704
+Thu 06 Oct 6:32:44 PM - Drive\Games\Explodemon\data\pc\absorbemon.pak - 2496965
+Thu 06 Oct 6:32:44 PM - Drive\Games\Explodemon\data\pc\absorbemon_tex.pak - 1151810
+Thu 06 Oct 6:32:44 PM - Drive\Games\Explodemon\data\pc\acid.pak - 13442
+Thu 06 Oct 6:32:44 PM - Drive\Games\Explodemon\data\pc\acid_tex.pak - 131811
+Thu 06 Oct 6:40:58 PM - Drive\Games\Explodemon\data\pc\arbor_01.inf - 695
+Thu 06 Oct 6:43:24 PM - Drive\Games\Explodemon\data\pc\arbor_01.pak - 11831
+Thu 06 Oct 6:43:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_00.nxo - 15952
+Thu 06 Oct 6:43:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_00.pak - 11203874
+Thu 06 Oct 6:43:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_00_geom.nxo - 168
+Thu 06 Oct 6:41:06 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_01.nxo - 57604
+Thu 06 Oct 6:41:06 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_01.pak - 23597436
+Thu 06 Oct 6:41:06 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_01_geom.nxo - 168
+Thu 06 Oct 6:41:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_02a.nxo - 109560
+Thu 06 Oct 6:41:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_02a.pak - 28968539
+Thu 06 Oct 6:41:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_02a_geom.nxo - 168
+Thu 06 Oct 6:43:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_02b.nxo - 117336
+Thu 06 Oct 6:43:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_02b.pak - 34721009
+Thu 06 Oct 6:43:24 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_02b_geom.nxo - 168
+Thu 06 Oct 6:41:32 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_03.nxo - 44892
+Thu 06 Oct 6:41:32 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_03.pak - 20075724
+Thu 06 Oct 6:41:32 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_03_geom.nxo - 168
+Thu 06 Oct 6:41:54 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_04.nxo - 110476
+Thu 06 Oct 6:41:56 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_04.pak - 36865238
+Thu 06 Oct 6:41:54 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_04_geom.nxo - 168
+Thu 06 Oct 6:43:04 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_05.nxo - 101916
+Thu 06 Oct 6:43:04 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_05.pak - 43216482
+Thu 06 Oct 6:43:04 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_05_geom.nxo - 168
+Thu 06 Oct 6:42:16 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_06.nxo - 111460
+Thu 06 Oct 6:42:16 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_06.pak - 37677749
+Thu 06 Oct 6:42:16 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_06_geom.nxo - 168
+Thu 06 Oct 6:42:18 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_07.nxo - 21220
+Thu 06 Oct 6:42:18 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_07.pak - 11537603
+Thu 06 Oct 6:42:18 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_07_geom.nxo - 168
+Thu 06 Oct 6:42:26 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_secretroom_01.nxo - 32108
+Thu 06 Oct 6:42:26 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_SecretRoom_01.pak - 9889650
+Thu 06 Oct 6:42:26 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_secretroom_01_geom.nxo - 168
+Thu 06 Oct 6:42:40 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_secretroom_02.nxo - 58376
+Thu 06 Oct 6:42:40 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_SecretRoom_02.pak - 15117153
+Thu 06 Oct 6:42:40 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_secretroom_02_geom.nxo - 168
+Thu 06 Oct 6:42:44 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_secretroom_03.nxo - 25432
+Thu 06 Oct 6:42:44 PM - Drive\Games\Explodemon\data\pc\arbor_01_Arbor_01_SecretRoom_03.pak - 15363564
+Thu 06 Oct 6:42:44 PM - Drive\Games\Explodemon\data\pc\arbor_01_arbor_01_secretroom_03_geom.nxo - 168
+Thu 06 Oct 6:43:34 PM - Drive\Games\Explodemon\data\pc\arbor_02.inf - 605
+Thu 06 Oct 6:45:24 PM - Drive\Games\Explodemon\data\pc\arbor_02.pak - 9764
+Thu 06 Oct 6:43:38 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_01.nxo - 32468
+Thu 06 Oct 6:43:38 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_01.pak - 19187546
+Thu 06 Oct 6:43:38 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_01_geom.nxo - 168
+Thu 06 Oct 6:44:48 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_02a.nxo - 135184
+Thu 06 Oct 6:44:48 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_02a.pak - 31010968
+Thu 06 Oct 6:44:48 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_02a_geom.nxo - 168
+Thu 06 Oct 6:45:08 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_02b.nxo - 113756
+Thu 06 Oct 6:45:08 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_02b.pak - 30331789
+Thu 06 Oct 6:45:08 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_02b_geom.nxo - 168
+Thu 06 Oct 6:43:46 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_03.nxo - 50464
+Thu 06 Oct 6:43:46 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_03.pak - 22524810
+Thu 06 Oct 6:43:46 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_03_geom.nxo - 168
+Thu 06 Oct 6:43:54 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_04.nxo - 53420
+Thu 06 Oct 6:43:54 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_04.pak - 32336820
+Thu 06 Oct 6:43:54 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_04_geom.nxo - 168
+Thu 06 Oct 6:44:12 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_05.nxo - 93768
+Thu 06 Oct 6:44:12 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_05.pak - 36663057
+Thu 06 Oct 6:44:12 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_05_geom.nxo - 168
+Thu 06 Oct 6:44:18 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_06a.nxo - 45996
+Thu 06 Oct 6:44:18 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_06a.pak - 17375967
+Thu 06 Oct 6:44:18 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_06a_geom.nxo - 168
+Thu 06 Oct 6:45:24 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_06b.nxo - 57668
+Thu 06 Oct 6:45:24 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_06b.pak - 19628110
+Thu 06 Oct 6:45:24 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_06b_geom.nxo - 168
+Thu 06 Oct 6:45:14 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_07.nxo - 37456
+Thu 06 Oct 6:45:14 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_07.pak - 24197138
+Thu 06 Oct 6:45:14 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_07_geom.nxo - 168
+Thu 06 Oct 6:44:20 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_08.nxo - 20160
+Thu 06 Oct 6:44:20 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_08.pak - 14603007
+Thu 06 Oct 6:44:20 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_08_geom.nxo - 168
+Thu 06 Oct 6:44:26 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_secretroom_01.nxo - 31860
+Thu 06 Oct 6:44:26 PM - Drive\Games\Explodemon\data\pc\arbor_02_Arbor_02_SecretRoom_01.pak - 20504733
+Thu 06 Oct 6:44:26 PM - Drive\Games\Explodemon\data\pc\arbor_02_arbor_02_secretroom_01_geom.nxo - 168
+Thu 06 Oct 6:45:30 PM - Drive\Games\Explodemon\data\pc\arbor_03.inf - 647
+Thu 06 Oct 6:47:44 PM - Drive\Games\Explodemon\data\pc\arbor_03.pak - 9161
+Thu 06 Oct 6:45:40 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_01.nxo - 66420
+Thu 06 Oct 6:45:40 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_01.pak - 22608517
+Thu 06 Oct 6:45:40 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_01_geom.nxo - 168
+Thu 06 Oct 6:45:52 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_02.nxo - 74628
+Thu 06 Oct 6:45:52 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_02.pak - 12872466
+Thu 06 Oct 6:45:52 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_02_geom.nxo - 168
+Thu 06 Oct 6:47:28 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_03_redesign.nxo - 101124
+Thu 06 Oct 6:47:28 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_03_Redesign.pak - 19493707
+Thu 06 Oct 6:47:28 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_03_redesign_geom.nxo - 168
+Thu 06 Oct 6:46:14 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_04.nxo - 123172
+Thu 06 Oct 6:46:14 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_04.pak - 18171617
+Thu 06 Oct 6:46:14 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_04_geom.nxo - 168
+Thu 06 Oct 6:46:20 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_05.nxo - 49064
+Thu 06 Oct 6:46:20 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_05.pak - 9557926
+Thu 06 Oct 6:46:20 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_05_geom.nxo - 168
+Thu 06 Oct 6:46:42 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_06.nxo - 138888
+Thu 06 Oct 6:46:42 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_06.pak - 17416890
+Thu 06 Oct 6:46:42 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_06_geom.nxo - 168
+Thu 06 Oct 6:47:44 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_07a.nxo - 75928
+Thu 06 Oct 6:47:44 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_07a.pak - 31477187
+Thu 06 Oct 6:47:44 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_07a_geom.nxo - 168
+Thu 06 Oct 6:47:00 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_07b.nxo - 116668
+Thu 06 Oct 6:47:00 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_07b.pak - 29924814
+Thu 06 Oct 6:47:00 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_07b_geom.nxo - 168
+Thu 06 Oct 6:47:32 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_08_redesign.nxo - 41908
+Thu 06 Oct 6:47:32 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_03_08_Redesign.pak - 13733169
+Thu 06 Oct 6:47:32 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_03_08_redesign_geom.nxo - 168
+Thu 06 Oct 6:47:10 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_secretroom_01.nxo - 31260
+Thu 06 Oct 6:47:10 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_SecretRoom_01.pak - 13468505
+Thu 06 Oct 6:47:10 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_secretroom_01_geom.nxo - 168
+Thu 06 Oct 6:47:06 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_secretroom_02.nxo - 47716
+Thu 06 Oct 6:47:06 PM - Drive\Games\Explodemon\data\pc\arbor_03_Arbor_SecretRoom_02.pak - 15515852
+Thu 06 Oct 6:47:06 PM - Drive\Games\Explodemon\data\pc\arbor_03_arbor_secretroom_02_geom.nxo - 168
+Wed 29 Sep 10:10:10 AM - Drive\Games\Explodemon\data\pc\arbor_04 - 12
+Thu 06 Oct 6:47:50 PM - Drive\Games\Explodemon\data\pc\arbor_04.inf - 655
+Thu 06 Oct 6:50:12 PM - Drive\Games\Explodemon\data\pc\arbor_04.pak - 8471
+Thu 06 Oct 6:49:06 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_01_redesign.nxo - 46232
+Thu 06 Oct 6:49:06 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_01_Redesign.pak - 16873546
+Thu 06 Oct 6:49:06 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_01_redesign_geom.nxo - 168
+Thu 06 Oct 6:49:32 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_02_redesign.nxo - 133040
+Thu 06 Oct 6:49:32 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_02_Redesign.pak - 27653059
+Thu 06 Oct 6:49:32 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_02_redesign_geom.nxo - 168
+Thu 06 Oct 6:49:38 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_03_redesign.nxo - 47204
+Thu 06 Oct 6:49:38 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_03_Redesign.pak - 18490346
+Thu 06 Oct 6:49:38 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_03_redesign_geom.nxo - 168
+Thu 06 Oct 6:49:52 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_04_redesign.nxo - 81168
+Thu 06 Oct 6:49:52 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_04_Redesign.pak - 20007831
+Thu 06 Oct 6:49:52 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_04_redesign_geom.nxo - 168
+Thu 06 Oct 6:50:04 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_05_redesign.nxo - 62656
+Thu 06 Oct 6:50:04 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_05_Redesign.pak - 22655870
+Thu 06 Oct 6:50:04 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_05_redesign_geom.nxo - 168
+Thu 06 Oct 6:48:24 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_06.nxo - 194612
+Thu 06 Oct 6:48:24 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_06.pak - 22610281
+Thu 06 Oct 6:48:24 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_06_geom.nxo - 168
+Thu 06 Oct 6:48:50 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_07.nxo - 154488
+Thu 06 Oct 6:48:50 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_07.pak - 32640200
+Thu 06 Oct 6:48:50 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_07_geom.nxo - 168
+Thu 06 Oct 6:48:52 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_08.nxo - 44356
+Thu 06 Oct 6:48:52 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_08.pak - 8921303
+Thu 06 Oct 6:48:52 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_08_geom.nxo - 168
+Thu 06 Oct 6:48:58 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_09.nxo - 39388
+Thu 06 Oct 6:48:58 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_09.pak - 20442255
+Thu 06 Oct 6:48:58 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_09_geom.nxo - 168
+Thu 06 Oct 6:50:12 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_secretroom_01_redesign.nxo - 40848
+Thu 06 Oct 6:50:12 PM - Drive\Games\Explodemon\data\pc\arbor_04_Arbor_04_SecretRoom_01_Redesign.pak - 18888475
+Thu 06 Oct 6:50:12 PM - Drive\Games\Explodemon\data\pc\arbor_04_arbor_04_secretroom_01_redesign_geom.nxo - 168
+Thu 06 Oct 6:32:44 PM - Drive\Games\Explodemon\data\pc\dropship.pak - 1255841
+Thu 06 Oct 6:32:44 PM - Drive\Games\Explodemon\data\pc\dropship_tex.pak - 645474
+Thu 06 Oct 7:01:36 PM - Drive\Games\Explodemon\data\pc\explodemon.omt - 297108
+Thu 06 Oct 6:32:48 PM - Drive\Games\Explodemon\data\pc\explodemon.pak - 652671
+Thu 06 Oct 6:32:48 PM - Drive\Games\Explodemon\data\pc\explodemon_tex.pak - 1471819
+Thu 06 Oct 7:01:36 PM - Drive\Games\Explodemon\data\pc\frontendmenu.inf - 83
+Thu 06 Oct 7:01:40 PM - Drive\Games\Explodemon\data\pc\frontendmenu.pak - 97
+Thu 06 Oct 7:01:40 PM - Drive\Games\Explodemon\data\pc\frontendmenu_room_0000.nxo - 3636
+Thu 06 Oct 7:01:40 PM - Drive\Games\Explodemon\data\pc\frontendmenu_Room_0000.pak - 9892509
+Thu 06 Oct 7:01:36 PM - Drive\Games\Explodemon\data\pc\frontendmenu_room_0000_geom.nxo - 0
+Thu 06 Oct 6:33:00 PM - Drive\Games\Explodemon\data\pc\global.pak - 7428801
+Thu 06 Oct 6:33:00 PM - Drive\Games\Explodemon\data\pc\global_tex.pak - 8886384
+Thu 06 Oct 6:33:02 PM - Drive\Games\Explodemon\data\pc\ingamemenus.pak - 6359784
+Thu 06 Oct 6:33:04 PM - Drive\Games\Explodemon\data\pc\mite.pak - 979206
+Thu 06 Oct 6:33:04 PM - Drive\Games\Explodemon\data\pc\mite_tex.pak - 827836
+Thu 06 Oct 6:33:04 PM - Drive\Games\Explodemon\data\pc\moveablelauncher.pak - 317229
+Thu 06 Oct 6:34:12 PM - Drive\Games\Explodemon\data\pc\nibia_01.inf - 439
+Thu 06 Oct 6:35:52 PM - Drive\Games\Explodemon\data\pc\nibia_01.pak - 5893
+Thu 06 Oct 6:34:14 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-1.nxo - 16036
+Thu 06 Oct 6:34:14 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-1.pak - 8881081
+Thu 06 Oct 6:34:14 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-1_geom.nxo - 168
+Thu 06 Oct 6:34:32 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-2.nxo - 144008
+Thu 06 Oct 6:34:34 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-2.pak - 40289355
+Thu 06 Oct 6:34:32 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-2_geom.nxo - 168
+Thu 06 Oct 6:35:08 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-3.nxo - 32628
+Thu 06 Oct 6:35:08 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-3.pak - 10635763
+Thu 06 Oct 6:35:08 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-3_geom.nxo - 168
+Thu 06 Oct 6:34:48 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-4.nxo - 92372
+Thu 06 Oct 6:34:48 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-4.pak - 26812435
+Thu 06 Oct 6:34:48 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-4_geom.nxo - 168
+Thu 06 Oct 6:35:04 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-5.nxo - 112616
+Thu 06 Oct 6:35:04 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-5.pak - 34861733
+Thu 06 Oct 6:35:04 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-5_geom.nxo - 168
+Thu 06 Oct 6:35:14 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-6.nxo - 43320
+Thu 06 Oct 6:35:14 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-6.pak - 25238988
+Thu 06 Oct 6:35:14 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-6_geom.nxo - 168
+Thu 06 Oct 6:35:22 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-7.nxo - 34212
+Thu 06 Oct 6:35:22 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-7.pak - 18730233
+Thu 06 Oct 6:35:22 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-7_geom.nxo - 168
+Thu 06 Oct 6:35:50 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-8.nxo - 201628
+Thu 06 Oct 6:35:50 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-8.pak - 46154292
+Thu 06 Oct 6:35:50 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-8_geom.nxo - 168
+Thu 06 Oct 6:35:52 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-9.nxo - 10068
+Thu 06 Oct 6:35:52 PM - Drive\Games\Explodemon\data\pc\nibia_01_Nibia 1-9.pak - 12344298
+Thu 06 Oct 6:35:52 PM - Drive\Games\Explodemon\data\pc\nibia_01_nibia 1-9_geom.nxo - 168
+Thu 06 Oct 6:36:00 PM - Drive\Games\Explodemon\data\pc\nibia_02.inf - 347
+Thu 06 Oct 6:37:18 PM - Drive\Games\Explodemon\data\pc\nibia_02.pak - 6603
+Thu 06 Oct 6:36:26 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-1.nxo - 177808
+Thu 06 Oct 6:36:26 PM - Drive\Games\Explodemon\data\pc\nibia_02_Nibia 2-1.pak - 51433028
+Thu 06 Oct 6:36:26 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-1_geom.nxo - 168
+Thu 06 Oct 6:36:32 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-2.nxo - 41260
+Thu 06 Oct 6:36:32 PM - Drive\Games\Explodemon\data\pc\nibia_02_Nibia 2-2.pak - 12323751
+Thu 06 Oct 6:36:32 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-2_geom.nxo - 168
+Thu 06 Oct 6:36:38 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-3.nxo - 47112
+Thu 06 Oct 6:36:38 PM - Drive\Games\Explodemon\data\pc\nibia_02_Nibia 2-3.pak - 17335931
+Thu 06 Oct 6:36:38 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-3_geom.nxo - 168
+Thu 06 Oct 6:36:50 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-4.nxo - 81824
+Thu 06 Oct 6:36:50 PM - Drive\Games\Explodemon\data\pc\nibia_02_Nibia 2-4.pak - 27408957
+Thu 06 Oct 6:36:50 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-4_geom.nxo - 168
+Thu 06 Oct 6:37:14 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-5.nxo - 167100
+Thu 06 Oct 6:37:14 PM - Drive\Games\Explodemon\data\pc\nibia_02_Nibia 2-5.pak - 48939898
+Thu 06 Oct 6:37:14 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-5_geom.nxo - 168
+Thu 06 Oct 6:37:18 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-6.nxo - 30764
+Thu 06 Oct 6:37:18 PM - Drive\Games\Explodemon\data\pc\nibia_02_Nibia 2-6.pak - 17697264
+Thu 06 Oct 6:37:18 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-6_geom.nxo - 168
+Thu 06 Oct 6:37:14 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-7.nxo - 21644
+Thu 06 Oct 6:37:14 PM - Drive\Games\Explodemon\data\pc\nibia_02_Nibia 2-7.pak - 8397053
+Thu 06 Oct 6:37:14 PM - Drive\Games\Explodemon\data\pc\nibia_02_nibia 2-7_geom.nxo - 168
+Thu 06 Oct 6:37:22 PM - Drive\Games\Explodemon\data\pc\nibia_03.inf - 395
+Thu 06 Oct 6:38:54 PM - Drive\Games\Explodemon\data\pc\nibia_03.pak - 6953
+Thu 06 Oct 6:38:48 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-1.nxo - 130092
+Thu 06 Oct 6:38:48 PM - Drive\Games\Explodemon\data\pc\nibia_03_Nibia 3-1.pak - 35980577
+Thu 06 Oct 6:38:54 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-10.nxo - 56656
+Thu 06 Oct 6:38:54 PM - Drive\Games\Explodemon\data\pc\nibia_03_Nibia 3-10.pak - 13484582
+Thu 06 Oct 6:38:54 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-10_geom.nxo - 168
+Thu 06 Oct 6:38:48 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-1_geom.nxo - 168
+Thu 06 Oct 6:37:38 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-2.nxo - 93676
+Thu 06 Oct 6:37:38 PM - Drive\Games\Explodemon\data\pc\nibia_03_Nibia 3-2.pak - 19526516
+Thu 06 Oct 6:37:38 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-2_geom.nxo - 168
+Thu 06 Oct 6:37:54 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-4.nxo - 93400
+Thu 06 Oct 6:37:54 PM - Drive\Games\Explodemon\data\pc\nibia_03_Nibia 3-4.pak - 30027535
+Thu 06 Oct 6:37:54 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-4_geom.nxo - 168
+Thu 06 Oct 6:38:02 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-5.nxo - 45452
+Thu 06 Oct 6:38:02 PM - Drive\Games\Explodemon\data\pc\nibia_03_Nibia 3-5.pak - 10011970
+Thu 06 Oct 6:38:02 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-5_geom.nxo - 168
+Thu 06 Oct 6:38:14 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-6.nxo - 91176
+Thu 06 Oct 6:38:14 PM - Drive\Games\Explodemon\data\pc\nibia_03_Nibia 3-6.pak - 26615443
+Thu 06 Oct 6:38:14 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-6_geom.nxo - 168
+Thu 06 Oct 6:38:26 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-8.nxo - 85668
+Thu 06 Oct 6:38:26 PM - Drive\Games\Explodemon\data\pc\nibia_03_Nibia 3-8.pak - 24620571
+Thu 06 Oct 6:38:26 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-8_geom.nxo - 168
+Thu 06 Oct 6:38:28 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-9.nxo - 25272
+Thu 06 Oct 6:38:28 PM - Drive\Games\Explodemon\data\pc\nibia_03_Nibia 3-9.pak - 13523560
+Thu 06 Oct 6:38:28 PM - Drive\Games\Explodemon\data\pc\nibia_03_nibia 3-9_geom.nxo - 168
+Thu 06 Oct 6:39:02 PM - Drive\Games\Explodemon\data\pc\nibia_04.inf - 443
+Thu 06 Oct 6:40:40 PM - Drive\Games\Explodemon\data\pc\nibia_04.pak - 7767
+Thu 06 Oct 6:39:32 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-1.nxo - 197256
+Thu 06 Oct 6:39:32 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-1.pak - 41947692
+Thu 06 Oct 6:39:32 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-1_geom.nxo - 168
+Thu 06 Oct 6:39:38 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-2.nxo - 40796
+Thu 06 Oct 6:39:38 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-2.pak - 15363774
+Thu 06 Oct 6:39:38 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-2_geom.nxo - 168
+Thu 06 Oct 6:40:24 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-3a.nxo - 107088
+Thu 06 Oct 6:40:24 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-3a.pak - 25419357
+Thu 06 Oct 6:40:24 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-3a_geom.nxo - 168
+Thu 06 Oct 6:40:40 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-3b.nxo - 124448
+Thu 06 Oct 6:40:40 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-3b.pak - 28301175
+Thu 06 Oct 6:40:40 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-3b_geom.nxo - 168
+Thu 06 Oct 6:39:46 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-4.nxo - 73132
+Thu 06 Oct 6:39:46 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-4.pak - 26122568
+Thu 06 Oct 6:39:46 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-4_geom.nxo - 168
+Thu 06 Oct 6:39:54 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-5.nxo - 52176
+Thu 06 Oct 6:39:54 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-5.pak - 14080002
+Thu 06 Oct 6:39:54 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-5_geom.nxo - 168
+Thu 06 Oct 6:40:00 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-6.nxo - 52396
+Thu 06 Oct 6:40:00 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-6.pak - 12469775
+Thu 06 Oct 6:40:00 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-6_geom.nxo - 168
+Thu 06 Oct 6:40:06 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-7.nxo - 64636
+Thu 06 Oct 6:40:06 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-7.pak - 26845283
+Thu 06 Oct 6:40:06 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-7_geom.nxo - 168
+Thu 06 Oct 6:40:08 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-9.nxo - 15176
+Thu 06 Oct 6:40:08 PM - Drive\Games\Explodemon\data\pc\nibia_04_Nibia 4-9.pak - 13114054
+Thu 06 Oct 6:40:08 PM - Drive\Games\Explodemon\data\pc\nibia_04_nibia 4-9_geom.nxo - 168
+Thu 06 Oct 6:33:14 PM - Drive\Games\Explodemon\data\pc\outgamemenus.pak - 36164657
+Thu 06 Oct 6:33:14 PM - Drive\Games\Explodemon\data\pc\outgamemenus_tex.pak - 6098
+Thu 06 Oct 6:33:46 PM - Drive\Games\Explodemon\data\pc\pc_ingamemenus.pak - 13045619
+Thu 06 Oct 6:33:52 PM - Drive\Games\Explodemon\data\pc\pc_outgamemenus.pak - 38332607
+Thu 06 Oct 6:33:52 PM - Drive\Games\Explodemon\data\pc\pc_outgamemenus_tex.pak - 6104
+Thu 06 Oct 6:33:54 PM - Drive\Games\Explodemon\data\pc\rhino.pak - 2014152
+Thu 06 Oct 6:33:54 PM - Drive\Games\Explodemon\data\pc\rhino_tex.pak - 341228
+Thu 06 Oct 6:33:54 PM - Drive\Games\Explodemon\data\pc\sentry.pak - 1993213
+Thu 06 Oct 6:33:54 PM - Drive\Games\Explodemon\data\pc\sentry_tex.pak - 657230
+Thu 06 Oct 6:33:56 PM - Drive\Games\Explodemon\data\pc\soldier.pak - 1464975
+Thu 06 Oct 6:33:56 PM - Drive\Games\Explodemon\data\pc\soldier_tex.pak - 436891
+Thu 06 Oct 6:50:20 PM - Drive\Games\Explodemon\data\pc\squall_01.inf - 776
+Thu 06 Oct 6:52:54 PM - Drive\Games\Explodemon\data\pc\squall_01.pak - 8501
+Thu 06 Oct 6:50:32 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_01.nxo - 68516
+Thu 06 Oct 6:50:32 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_01.pak - 14112986
+Thu 06 Oct 6:50:32 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_01_geom.nxo - 168
+Thu 06 Oct 6:50:48 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_02.nxo - 95788
+Thu 06 Oct 6:50:48 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_02.pak - 14673894
+Thu 06 Oct 6:50:48 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_02_geom.nxo - 168
+Thu 06 Oct 6:50:54 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_03.nxo - 50388
+Thu 06 Oct 6:50:54 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_03.pak - 14012156
+Thu 06 Oct 6:50:54 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_03_geom.nxo - 168
+Thu 06 Oct 6:51:08 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_04.nxo - 81632
+Thu 06 Oct 6:51:08 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_04.pak - 18579005
+Thu 06 Oct 6:51:08 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_04_geom.nxo - 168
+Thu 06 Oct 6:52:54 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_05a.nxo - 71448
+Thu 06 Oct 6:52:54 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_05a.pak - 15884288
+Thu 06 Oct 6:52:54 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_05a_geom.nxo - 168
+Thu 06 Oct 6:51:16 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_05b.nxo - 52640
+Thu 06 Oct 6:51:16 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_05b.pak - 13964728
+Thu 06 Oct 6:51:16 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_05b_geom.nxo - 168
+Thu 06 Oct 6:51:42 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_06.nxo - 146136
+Thu 06 Oct 6:51:42 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_06.pak - 20137091
+Thu 06 Oct 6:51:42 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_06_geom.nxo - 168
+Thu 06 Oct 6:52:08 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_07.nxo - 151980
+Thu 06 Oct 6:52:08 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_07.pak - 26000781
+Thu 06 Oct 6:52:08 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_07_geom.nxo - 168
+Thu 06 Oct 6:52:12 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_08.nxo - 30160
+Thu 06 Oct 6:52:12 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_08.pak - 9121480
+Thu 06 Oct 6:52:12 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_08_geom.nxo - 168
+Thu 06 Oct 6:52:42 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_09.nxo - 62428
+Thu 06 Oct 6:52:42 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_09.pak - 10234053
+Thu 06 Oct 6:52:42 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_09_geom.nxo - 168
+Thu 06 Oct 6:52:16 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_10.nxo - 24884
+Thu 06 Oct 6:52:16 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_10.pak - 9116726
+Thu 06 Oct 6:52:16 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_10_geom.nxo - 168
+Thu 06 Oct 6:52:24 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_secretroom_01.nxo - 45272
+Thu 06 Oct 6:52:24 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_SecretRoom_01.pak - 10500882
+Thu 06 Oct 6:52:24 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_secretroom_01_geom.nxo - 168
+Thu 06 Oct 6:52:30 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_secretroom_02.nxo - 37984
+Thu 06 Oct 6:52:30 PM - Drive\Games\Explodemon\data\pc\squall_01_Squall_01_SecretRoom_02.pak - 8469417
+Thu 06 Oct 6:52:30 PM - Drive\Games\Explodemon\data\pc\squall_01_squall_01_secretroom_02_geom.nxo - 168
+Thu 06 Oct 6:53:00 PM - Drive\Games\Explodemon\data\pc\squall_02.inf - 886
+Thu 06 Oct 6:55:22 PM - Drive\Games\Explodemon\data\pc\squall_02.pak - 8846
+Thu 06 Oct 6:53:14 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_01.nxo - 89292
+Thu 06 Oct 6:53:14 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_01.pak - 14750227
+Thu 06 Oct 6:53:14 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_01_geom.nxo - 168
+Thu 06 Oct 6:53:22 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_02.nxo - 39000
+Thu 06 Oct 6:53:22 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_02.pak - 9011288
+Thu 06 Oct 6:53:22 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_02_geom.nxo - 168
+Thu 06 Oct 6:53:28 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_03.nxo - 38388
+Thu 06 Oct 6:53:28 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_03.pak - 12162750
+Thu 06 Oct 6:53:28 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_03_geom.nxo - 168
+Thu 06 Oct 6:53:32 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_04.nxo - 34004
+Thu 06 Oct 6:53:32 PM - Drive\Games\Explodemon\data\pc\squall_02_SQuall_02_04.pak - 11762671
+Thu 06 Oct 6:53:32 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_04_geom.nxo - 168
+Thu 06 Oct 6:53:52 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_05a.nxo - 104940
+Thu 06 Oct 6:53:52 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_05a.pak - 17738950
+Thu 06 Oct 6:53:52 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_05a_geom.nxo - 168
+Thu 06 Oct 6:55:20 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_05b.nxo - 80412
+Thu 06 Oct 6:55:20 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_05b.pak - 13277405
+Thu 06 Oct 6:55:20 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_05b_geom.nxo - 168
+Thu 06 Oct 6:54:06 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_06.nxo - 73280
+Thu 06 Oct 6:54:06 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_06.pak - 11720438
+Thu 06 Oct 6:54:06 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_06_geom.nxo - 168
+Thu 06 Oct 6:54:08 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_07.nxo - 28132
+Thu 06 Oct 6:54:08 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_07.pak - 12308925
+Thu 06 Oct 6:54:08 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_07_geom.nxo - 168
+Thu 06 Oct 6:54:14 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_08.nxo - 35048
+Thu 06 Oct 6:54:14 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_08.pak - 14724528
+Thu 06 Oct 6:54:14 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_08_geom.nxo - 168
+Thu 06 Oct 6:54:38 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_09.nxo - 116728
+Thu 06 Oct 6:54:38 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_09.pak - 19370093
+Thu 06 Oct 6:54:38 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_09_geom.nxo - 168
+Thu 06 Oct 6:54:48 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_10.nxo - 59364
+Thu 06 Oct 6:54:48 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_10.pak - 15049659
+Thu 06 Oct 6:54:48 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_10_geom.nxo - 168
+Thu 06 Oct 6:55:22 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_11.nxo - 27760
+Thu 06 Oct 6:55:22 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_02_11.pak - 14838134
+Thu 06 Oct 6:55:22 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_02_11_geom.nxo - 168
+Thu 06 Oct 6:55:06 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_sr_1.nxo - 43992
+Thu 06 Oct 6:55:06 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_SR_1.pak - 6424406
+Thu 06 Oct 6:55:06 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_sr_1_geom.nxo - 168
+Thu 06 Oct 6:54:58 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_sr_2.nxo - 31708
+Thu 06 Oct 6:54:58 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_SR_2.pak - 6589188
+Thu 06 Oct 6:54:58 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_sr_2_geom.nxo - 168
+Thu 06 Oct 6:54:54 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_sr_3.nxo - 31776
+Thu 06 Oct 6:54:54 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_SR_3.pak - 8117356
+Thu 06 Oct 6:54:54 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_sr_3_geom.nxo - 168
+Thu 06 Oct 6:54:50 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_sr_4.nxo - 29056
+Thu 06 Oct 6:54:50 PM - Drive\Games\Explodemon\data\pc\squall_02_Squall_SR_4.pak - 9334618
+Thu 06 Oct 6:54:50 PM - Drive\Games\Explodemon\data\pc\squall_02_squall_sr_4_geom.nxo - 168
+Thu 06 Oct 6:55:28 PM - Drive\Games\Explodemon\data\pc\squall_03.inf - 928
+Thu 06 Oct 6:57:56 PM - Drive\Games\Explodemon\data\pc\squall_03.pak - 8195
+Thu 06 Oct 6:57:56 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_01_redesign.nxo - 57592
+Thu 06 Oct 6:57:56 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_01_Redesign.pak - 18519605
+Thu 06 Oct 6:57:56 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_01_redesign_geom.nxo - 168
+Thu 06 Oct 6:55:34 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_02.nxo - 47796
+Thu 06 Oct 6:55:34 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_02.pak - 9771331
+Thu 06 Oct 6:55:34 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_02_geom.nxo - 168
+Thu 06 Oct 6:55:48 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_03.nxo - 73936
+Thu 06 Oct 6:55:48 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_03.pak - 16480108
+Thu 06 Oct 6:55:48 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_03_geom.nxo - 168
+Thu 06 Oct 6:55:56 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_04.nxo - 48496
+Thu 06 Oct 6:55:56 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_04.pak - 12206052
+Thu 06 Oct 6:55:56 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_04_geom.nxo - 168
+Thu 06 Oct 6:56:12 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_05.nxo - 91212
+Thu 06 Oct 6:56:12 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_05.pak - 14197356
+Thu 06 Oct 6:56:12 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_05_geom.nxo - 168
+Thu 06 Oct 6:56:20 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_06.nxo - 47492
+Thu 06 Oct 6:56:20 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_06.pak - 10365166
+Thu 06 Oct 6:56:20 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_06_geom.nxo - 168
+Thu 06 Oct 6:56:40 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_07.nxo - 112168
+Thu 06 Oct 6:56:40 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_07.pak - 18980486
+Thu 06 Oct 6:56:40 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_07_geom.nxo - 168
+Thu 06 Oct 6:56:58 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_08.nxo - 109756
+Thu 06 Oct 6:56:58 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_08.pak - 17856326
+Thu 06 Oct 6:56:58 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_08_geom.nxo - 168
+Thu 06 Oct 6:57:06 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_09.nxo - 42028
+Thu 06 Oct 6:57:06 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_09.pak - 12426007
+Thu 06 Oct 6:57:06 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_09_geom.nxo - 168
+Thu 06 Oct 6:57:16 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_10.nxo - 74580
+Thu 06 Oct 6:57:16 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_10.pak - 16831829
+Thu 06 Oct 6:57:16 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_10_geom.nxo - 168
+Thu 06 Oct 6:57:46 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_11.nxo - 23124
+Thu 06 Oct 6:57:46 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_11.pak - 8917216
+Thu 06 Oct 6:57:46 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_11_geom.nxo - 168
+Thu 06 Oct 6:57:22 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_1.nxo - 30312
+Thu 06 Oct 6:57:22 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_SR_1.pak - 11751326
+Thu 06 Oct 6:57:22 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_1_geom.nxo - 168
+Thu 06 Oct 6:57:32 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_2.nxo - 53700
+Thu 06 Oct 6:57:32 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_SR_2.pak - 11205028
+Thu 06 Oct 6:57:32 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_2_geom.nxo - 168
+Thu 06 Oct 6:57:36 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_3.nxo - 33044
+Thu 06 Oct 6:57:36 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_SR_3.pak - 10473382
+Thu 06 Oct 6:57:36 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_3_geom.nxo - 168
+Thu 06 Oct 6:57:44 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_4.nxo - 45608
+Thu 06 Oct 6:57:44 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_SR_4.pak - 11709027
+Thu 06 Oct 6:57:44 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_4_geom.nxo - 168
+Thu 06 Oct 6:57:46 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_5.nxo - 3980
+Thu 06 Oct 6:57:46 PM - Drive\Games\Explodemon\data\pc\squall_03_Squall_03_SR_5.pak - 5208794
+Thu 06 Oct 6:57:46 PM - Drive\Games\Explodemon\data\pc\squall_03_squall_03_sr_5_geom.nxo - 168
+Thu 06 Oct 6:58:04 PM - Drive\Games\Explodemon\data\pc\squall_04.inf - 1308
+Thu 06 Oct 7:01:32 PM - Drive\Games\Explodemon\data\pc\squall_04.pak - 12207
+Thu 06 Oct 7:01:26 PM - Drive\Games\Explodemon\data\pc\squall_04_nibia 4-9.nxo - 17092
+Thu 06 Oct 7:01:26 PM - Drive\Games\Explodemon\data\pc\squall_04_Nibia 4-9.pak - 13239162
+Thu 06 Oct 7:01:26 PM - Drive\Games\Explodemon\data\pc\squall_04_nibia 4-9_geom.nxo - 168
+Thu 06 Oct 6:58:12 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_01.nxo - 35900
+Thu 06 Oct 6:58:12 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_01.pak - 10887640
+Thu 06 Oct 6:58:12 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_01_geom.nxo - 168
+Thu 06 Oct 6:58:28 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_02.nxo - 87356
+Thu 06 Oct 6:58:28 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_02.pak - 19919674
+Thu 06 Oct 6:58:28 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_02_geom.nxo - 168
+Thu 06 Oct 6:58:40 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_03.nxo - 69828
+Thu 06 Oct 6:58:40 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_03.pak - 15343384
+Thu 06 Oct 6:58:40 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_03_geom.nxo - 168
+Thu 06 Oct 6:58:50 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_04.nxo - 38692
+Thu 06 Oct 6:58:50 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_04.pak - 16407878
+Thu 06 Oct 6:58:50 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_04_geom.nxo - 168
+Thu 06 Oct 6:59:10 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_05.nxo - 98388
+Thu 06 Oct 6:59:10 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_05.pak - 17673260
+Thu 06 Oct 6:59:10 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_05_geom.nxo - 168
+Thu 06 Oct 6:59:22 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_06.nxo - 67400
+Thu 06 Oct 6:59:22 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_06.pak - 15485645
+Thu 06 Oct 6:59:22 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_06_geom.nxo - 168
+Thu 06 Oct 6:59:34 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_07.nxo - 67488
+Thu 06 Oct 6:59:34 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_07.pak - 14777582
+Thu 06 Oct 6:59:34 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_07_geom.nxo - 168
+Thu 06 Oct 6:59:48 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_08.nxo - 76228
+Thu 06 Oct 6:59:48 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_08.pak - 16084051
+Thu 06 Oct 6:59:48 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_08_geom.nxo - 168
+Thu 06 Oct 7:00:06 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_09.nxo - 89440
+Thu 06 Oct 7:00:06 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_09.pak - 15075775
+Thu 06 Oct 7:00:06 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_09_geom.nxo - 168
+Thu 06 Oct 7:00:24 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_10.nxo - 102136
+Thu 06 Oct 7:00:24 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_10.pak - 17003661
+Thu 06 Oct 7:00:24 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_10_geom.nxo - 168
+Thu 06 Oct 7:00:40 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_11.nxo - 103840
+Thu 06 Oct 7:00:40 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_11.pak - 18624839
+Thu 06 Oct 7:00:40 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_11_geom.nxo - 168
+Thu 06 Oct 7:00:42 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_12.nxo - 22860
+Thu 06 Oct 7:00:44 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_12.pak - 9621852
+Thu 06 Oct 7:00:42 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_12_geom.nxo - 168
+Thu 06 Oct 7:00:48 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_13.nxo - 34012
+Thu 06 Oct 7:00:48 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_13.pak - 25113646
+Thu 06 Oct 7:00:48 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_13_geom.nxo - 168
+Thu 06 Oct 6:58:44 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_01.nxo - 24884
+Thu 06 Oct 6:58:44 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_SecretRoom_01.pak - 10113585
+Thu 06 Oct 6:58:44 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_01_geom.nxo - 168
+Thu 06 Oct 7:00:52 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_02.nxo - 32452
+Thu 06 Oct 7:00:52 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_SecretRoom_02.pak - 9316845
+Thu 06 Oct 7:00:52 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_02_geom.nxo - 168
+Thu 06 Oct 7:00:56 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_03.nxo - 28396
+Thu 06 Oct 7:00:56 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_SecretRoom_03.pak - 8788744
+Thu 06 Oct 7:00:56 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_03_geom.nxo - 168
+Thu 06 Oct 7:01:02 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_04.nxo - 34928
+Thu 06 Oct 7:01:02 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_SecretRoom_04.pak - 11394823
+Thu 06 Oct 7:01:02 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_04_geom.nxo - 168
+Thu 06 Oct 7:01:18 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_05.nxo - 106296
+Thu 06 Oct 7:01:18 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_SecretRoom_05.pak - 23568174
+Thu 06 Oct 7:01:18 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_05_geom.nxo - 168
+Thu 06 Oct 7:01:24 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_06.nxo - 40084
+Thu 06 Oct 7:01:24 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_SecretRoom_06.pak - 14715213
+Thu 06 Oct 7:01:24 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_06_geom.nxo - 168
+Thu 06 Oct 7:01:32 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_07.nxo - 39816
+Thu 06 Oct 7:01:32 PM - Drive\Games\Explodemon\data\pc\squall_04_Squall_04_SecretRoom_07.pak - 5768832
+Thu 06 Oct 7:01:32 PM - Drive\Games\Explodemon\data\pc\squall_04_squall_04_secretroom_07_geom.nxo - 168
+Thu 06 Oct 6:33:56 PM - Drive\Games\Explodemon\data\pc\sticky.pak - 771786
+Thu 06 Oct 6:33:56 PM - Drive\Games\Explodemon\data\pc\sticky_tex.pak - 10070
+Thu 06 Oct 6:33:56 PM - Drive\Games\Explodemon\data\pc\vortex_tex.pak - 1271324
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\effect\background.nfx - 10633
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\effect\deferredlighting.nfx - 27953
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\effect\lightvolume.nfx - 858
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\effect\postdebugshaders.nfx - 12163
+Thu 06 Oct 6:33:38 PM - Drive\Games\Explodemon\data\pc\flashfx\curve_logo.ffx - 10960
+Thu 06 Oct 6:33:32 PM - Drive\Games\Explodemon\data\pc\flashfx\pc_conversation_system_arbor.ffx - 25491143
+Thu 06 Oct 6:33:36 PM - Drive\Games\Explodemon\data\pc\flashfx\pc_conversation_system_nibia.ffx - 26015476
+Thu 06 Oct 6:33:38 PM - Drive\Games\Explodemon\data\pc\flashfx\pc_conversation_system_squall.ffx - 26671391
+Thu 06 Oct 6:33:40 PM - Drive\Games\Explodemon\data\pc\flashfx\pc_cutscene1.ffx - 4567676
+Thu 06 Oct 6:33:40 PM - Drive\Games\Explodemon\data\pc\flashfx\pc_cutscene2.ffx - 3506756
+Thu 06 Oct 6:33:40 PM - Drive\Games\Explodemon\data\pc\flashfx\pc_cutscene3.ffx - 3896345
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\flashfx\pc_cutscene4.ffx - 5863022
+Thu 06 Oct 6:33:18 PM - Drive\Games\Explodemon\data\pc\music\explodemon_arbour.mus - 4611289
+Thu 06 Oct 6:33:18 PM - Drive\Games\Explodemon\data\pc\music\explodemon_bosstheme.mus - 1489948
+Thu 06 Oct 6:33:20 PM - Drive\Games\Explodemon\data\pc\music\explodemon_demo_music_edit.mus - 2737254
+Thu 06 Oct 6:33:20 PM - Drive\Games\Explodemon\data\pc\music\explodemon_incidentalscreentheme.mus - 1339048
+Thu 06 Oct 6:33:22 PM - Drive\Games\Explodemon\data\pc\music\explodemon_nibia.mus - 4402200
+Thu 06 Oct 6:33:22 PM - Drive\Games\Explodemon\data\pc\music\explodemon_squalltheme.mus - 4282398
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\music\explodemon_tallyscreen_endsting.mus - 100647
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\music\explodemon_tallyscreen_loop.mus - 480227
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\music\youfailedscreen.mus - 122519
+Thu 06 Oct 6:33:18 PM - Drive\Games\Explodemon\data\pc\sfx\env_nibiacitybackgroundloop.sfx - 1040098
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodelarge1.sfx - 63987
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodelarge2.sfx - 63987
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodelarge3.sfx - 63987
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodemedium1.sfx - 44761
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodemedium2.sfx - 46851
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodemedium3.sfx - 51866
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodesmall1.sfx - 44761
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodesmall2.sfx - 44761
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\exp_explodesmall3.sfx - 54792
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_autoexplodecountdowntimer.sfx - 34196
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_backcancel.sfx - 130581
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_chainguiindicatorcounterincrease.sfx - 53422
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_dangerwarning.sfx - 60888
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_dialogueboxappears.sfx - 13661
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_dialogueboxdisappears.sfx - 14816
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_fullrecharge.sfx - 89687
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_messageboxappears.sfx - 17692
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_messageboxdisappears.sfx - 11359
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_optionmove.sfx - 43809
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\men_optionselect.sfx - 60887
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx\obj_acidland.sfx - 43809
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\obj_injectionpodlaunch.sfx - 82261
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\obj_redbluegreencrateplacement.sfx - 53422
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\obj_scalenumberdown.sfx - 43809
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\obj_scalenumberup.sfx - 43809
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_3hitcombo2ndhit.sfx - 75290
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_3hitcombo3rdhit.sfx - 60890
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_boostdashhit.sfx - 44761
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonevasivedash.sfx - 43809
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonexplodedash.sfx - 66495
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonexplodejumps.sfx - 43809
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonfaints.sfx - 53422
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonjumps1.sfx - 29297
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonjumps2.sfx - 25535
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonjumpsonbouncecrate.sfx - 60903
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonlandsonhardsurface.sfx - 32103
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonlandsonsoftsurface.sfx - 32103
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonpullsupfromledge.sfx - 34196
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonrunsdirt.sfx - 155938
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonrunshard.sfx - 130443
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonrunshardecho.sfx - 121666
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonrunssoft.sfx - 121666
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonskid.sfx - 38074
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonslidesdownwall.sfx - 131279
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonslidesground1.sfx - 89901
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx\pla_explodemonslidesground2.sfx - 297626
+Thu 06 Oct 6:33:14 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_dropshipascenddescend.sfx - 291872
+Thu 06 Oct 6:33:14 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_dropshipexpelenemies.sfx - 75295
+Thu 06 Oct 6:33:14 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_dropshiphit.sfx - 75286
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_dropshiphover.sfx - 389043
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_mitedies_3d.sfx - 44761
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_mitehit.sfx - 60882
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_mitewalk.sfx - 226039
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_rhinocharge.sfx - 63035
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_rhinoexplodes.sfx - 72648
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_rhinohit.sfx - 27926
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_rhinospot.sfx - 43809
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_rhinowalk.sfx - 95636
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_sentryexplodesdies.sfx - 111581
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_sentryhit.sfx - 40724
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_sentryhover.sfx - 193942
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_sentrylaserfire.sfx - 32666
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_sentryspot.sfx - 58855
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_sentryspotblue.sfx - 75992
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_soldierdies.sfx - 63987
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_soldierfires.sfx - 35148
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_soldierhit.sfx - 46485
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_soldieridleradiosquawk.sfx - 53422
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_soldierspot.sfx - 58855
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_soldierspotblue.sfx - 84769
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_soldierwalks.sfx - 66796
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_turretfireprojectile.sfx - 60319
+Thu 06 Oct 6:33:16 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_turretfirerocket.sfx - 53422
+Thu 06 Oct 6:33:18 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_turretrotate.sfx - 298764
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\sfx3d\ene_turretspot.sfx - 53422
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_absorberactive.sfx - 63035
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_acidgloop.sfx - 43809
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_doorclose.sfx - 74708
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_dooropen.sfx - 74707
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_endoflevelorbexplosion.sfx - 60897
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_endoflevelorbgetall.sfx - 147294
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_endoflevelorbthrob.sfx - 108125
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_enemygeneratorexplode.sfx - 75872
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_enemygeneratorspawn.sfx - 75294
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_explosionchargeruse.sfx - 234270
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_generatorspawnsbox.sfx - 39005
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_glasschunkhits.sfx - 89689
+Thu 06 Oct 6:33:24 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_glasswalldestroy.sfx - 73600
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_laserfieldhum.sfx - 341396
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_laserfieldpowerdown.sfx - 89118
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_metalchunkhits.sfx - 60889
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_metalcratedestroy.sfx - 54374
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_metalcratelandhard.sfx - 60893
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_metalcratelandsoft.sfx - 60893
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_onewayhatchopenclose.sfx - 34399
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_powerboxexplode.sfx - 83213
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_rockchunkhits.sfx - 43809
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_scaleson0.sfx - 43809
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_standardcratedestroy1.sfx - 44761
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_standardcratedestroy2.sfx - 44761
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_standardcratedestroy3.sfx - 44761
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_standardcratelandhard.sfx - 32096
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_standardcratelandsoft.sfx - 32096
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_vortexchunkhits.sfx - 43391
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_wallrockdestroy.sfx - 104090
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\obj_woodenchunkhits.sfx - 89690
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\pic_chargecollect.sfx - 43809
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\pic_coincollect.sfx - 44761
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\pic_explodiconcollect.sfx - 63035
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\pic_explosionchargeorbcollect.sfx - 25535
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\pic_goldrecharge.sfx - 63035
+Thu 06 Oct 6:33:26 PM - Drive\Games\Explodemon\data\pc\sfx3d\pic_greenrecharge.sfx - 53422
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\strings\english.str - 118894
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\strings\englishus.str - 117044
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\strings\french.str - 132644
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\strings\german.str - 132190
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\strings\spanish.str - 128272
+Thu 06 Oct 6:33:28 PM - Drive\Games\Explodemon\data\pc\texture\default_nm.tex - 276
+Thu 06 Oct 6:33:42 PM - Drive\Games\Explodemon\data\pc\texture\scales_numerals.tex - 5120
+
+UAC Disabled or not present
+

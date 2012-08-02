@@ -1,0 +1,246 @@
+Comments:
+  <game name="Risen" platform="Windows">
+    <title>Risen</title>
+    <location_path environment_variable="savedgames" path="Risen" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Risen
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\risen
+
+Save Path: 
+SavedGames\Risen
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Deep Silver\Risen
+Value: Install_Dir
+Data: ProgramFilesX86\Steam\steamapps\common\risen\bin
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 40300
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\risen
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sat 21 Jul 1:31:27 PM - SavedGames\Risen\SaveGames\AutoSave.save - 461333
+Sat 21 Jul 1:31:36 PM - SavedGames\Risen\SaveGames\QuickSave.save - 459033
+
+Install Folder Dump: 
+Fri 20 Jul 6:48:49 PM - ProgramFilesX86\Steam\steamapps\common\risen\40300_install.vdf - 1554
+Fri 20 Jul 6:47:39 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\binkw32.dll - 193024
+Fri 20 Jul 6:47:37 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\dbghelp.dll - 1080656
+Fri 20 Jul 6:47:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\devil.dll - 269312
+Fri 20 Jul 6:37:32 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\Dialogs.dll - 290816
+Fri 20 Jul 9:59:59 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\dvm.dll - 130249466
+Fri 20 Jul 6:47:30 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\Engine.dll - 11100160
+Fri 20 Jul 6:44:49 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\FFC.dll - 499712
+Fri 20 Jul 6:35:24 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\FFCore.dll - 225280
+Fri 20 Jul 6:48:35 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\FileSystem2.dll - 335872
+Fri 20 Jul 6:49:06 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\fmodex.dll - 369152
+Fri 20 Jul 6:48:32 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\Game.dll - 16556032
+Fri 20 Jul 6:44:50 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\gameicon.ico - 70142
+Fri 20 Jul 6:46:54 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\GUI2.dll - 249856
+Fri 20 Jul 6:38:55 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\Importer.dll - 1667072
+Fri 20 Jul 6:36:51 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\lame_enc.dll - 364544
+Fri 20 Jul 6:32:02 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\Music.dll - 59904
+Fri 20 Jul 6:54:03 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\Risen.exe - 1339392
+Fri 20 Jul 6:32:24 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\SCM.dll - 720896
+Fri 20 Jul 9:30:59 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\Script.dll - 3661824
+Sat 21 Jul 1:13:30 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\serial.txt - 29
+Fri 20 Jul 6:32:33 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\SharedBase.dll - 1335296
+Fri 20 Jul 6:53:07 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\SHW32.DLL - 193536
+Fri 20 Jul 6:42:23 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\SHW32d.DLL - 401408
+Fri 20 Jul 6:43:02 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\splash.bmp - 178998
+Fri 20 Jul 6:40:54 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\TagesClient.dat - 1523712
+Fri 20 Jul 6:31:47 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\TagesClient.exe - 462496
+Fri 20 Jul 6:41:06 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\Thumbs.db - 12800
+Fri 20 Jul 6:48:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\bin\scripts\Script_Game.dll - 2437120
+Fri 20 Jul 6:41:13 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\brushes.pak - 172
+Fri 20 Jul 6:36:31 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\effects.pak - 119681
+Fri 20 Jul 6:31:49 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\gui2.pak - 46538
+Fri 20 Jul 6:35:12 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\library.p00 - 35558
+Fri 20 Jul 6:41:26 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\library.pak - 94182
+Fri 20 Jul 6:32:11 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\materials.pak - 2100437
+Fri 20 Jul 9:49:49 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\meshes.pak - 131885174
+Fri 20 Jul 6:51:27 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\physics.p00 - 53045
+Fri 20 Jul 6:32:33 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\physics.pak - 11252496
+Fri 20 Jul 6:35:56 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\projects.p00 - 15044876
+Fri 20 Jul 6:51:11 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\projects.pak - 19992773
+Fri 20 Jul 6:40:27 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\templates.pak - 14871073
+Fri 20 Jul 6:31:45 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\common\workspace.pak - 174
+Fri 20 Jul 6:39:01 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\animations.p00 - 351551
+Fri 20 Jul 9:46:04 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\animations.pak - 122484532
+Fri 20 Jul 6:47:04 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\effects.00 - 14389
+Fri 20 Jul 6:48:45 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\effects.pak - 115466
+Fri 20 Jul 10:27:14 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\images.pak - 521511169
+Fri 20 Jul 6:32:37 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\library.p00 - 4058321
+Fri 20 Jul 6:53:33 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\library.pak - 613024
+Fri 20 Jul 6:52:00 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\materials.00 - 2610502
+Fri 20 Jul 6:42:04 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\materials.p00 - 13147272
+Fri 20 Jul 6:43:23 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\materials.pak - 2607662
+Fri 20 Jul 6:38:26 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\navigation.p00 - 1908209
+Fri 20 Jul 6:31:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\navigation.pak - 942519
+Fri 20 Jul 6:52:55 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\sounds.p00 - 217057
+Fri 20 Jul 10:00:04 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\sounds.pak - 202444925
+Fri 20 Jul 6:40:46 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\speech_english.p00 - 7520040
+Fri 20 Jul 10:55:30 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\speech_english.pak - 885452115
+Fri 20 Jul 6:42:16 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\speech_french.p00 - 5628352
+Fri 20 Jul 6:47:02 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\speech_german.p00 - 9468519
+Fri 20 Jul 6:48:15 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\speedtrees.p00 - 4869
+Fri 20 Jul 6:39:57 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\speedtrees.pak - 754832
+Fri 20 Jul 6:32:09 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\compiled\strings.pak - 3344268
+Fri 20 Jul 6:32:26 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\extern\videos\esrb.bik - 1261880
+Fri 20 Jul 6:45:51 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\extern\videos\intro.bik - 58436456
+Fri 20 Jul 6:32:00 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\extern\videos\logo.ini - 49
+Fri 20 Jul 6:50:17 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\extern\videos\logo_01.bik - 1198352
+Fri 20 Jul 6:52:07 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\extern\videos\logo_02.bik - 1982260
+Fri 20 Jul 6:54:27 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\extern\videos\Outro.bik - 90920800
+Fri 20 Jul 6:31:45 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\ConfigDefault.xml - 28070
+Fri 20 Jul 6:31:45 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\ConfigPerformanceHigh.xml - 432
+Fri 20 Jul 6:48:58 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\ConfigPerformanceLow.xml - 427
+Fri 20 Jul 6:48:26 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\ConfigPerformanceNormal.xml - 438
+Fri 20 Jul 6:47:56 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\ConfigPerformanceVideoMemoryLow.xml - 88
+Fri 20 Jul 6:53:09 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\ConfigPerformanceVideoMemoryNormal.xml - 91
+Fri 20 Jul 6:48:18 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\imagequality.ini - 3606
+Fri 20 Jul 6:49:20 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\keyboard_and_console.txt - 27606
+Fri 20 Jul 6:31:53 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\loc.ini - 1647
+Fri 20 Jul 6:52:26 PM - ProgramFilesX86\Steam\steamapps\common\risen\data\ini\Physics.ini - 30488
+Fri 20 Jul 6:32:19 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2005_d3dx9_25_x64.cab - 1348370
+Fri 20 Jul 6:35:47 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2005_d3dx9_25_x86.cab - 1079978
+Fri 20 Jul 6:38:02 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2006_d3dx9_30_x64.cab - 1398846
+Fri 20 Jul 6:51:42 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2006_d3dx9_30_x86.cab - 1116237
+Fri 20 Jul 6:49:32 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2006_MDX1_x86.cab - 917446
+Fri 20 Jul 6:44:44 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2006_MDX1_x86_Archive.cab - 4163646
+Fri 20 Jul 6:53:27 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2006_XACT_x64.cab - 180149
+Fri 20 Jul 6:51:31 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2006_XACT_x86.cab - 134119
+Fri 20 Jul 6:32:33 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2006_xinput_x64.cab - 88117
+Fri 20 Jul 6:36:51 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Apr2006_xinput_x86.cab - 47026
+Fri 20 Jul 6:42:14 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\APR2007_d3dx10_33_x64.cab - 699628
+Fri 20 Jul 6:32:17 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\APR2007_d3dx10_33_x86.cab - 696881
+Fri 20 Jul 6:38:31 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\APR2007_d3dx9_33_x64.cab - 1608374
+Fri 20 Jul 6:48:06 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\APR2007_d3dx9_33_x86.cab - 1607055
+Fri 20 Jul 6:53:02 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\APR2007_XACT_x64.cab - 196782
+Fri 20 Jul 6:31:52 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\APR2007_XACT_x86.cab - 152241
+Fri 20 Jul 6:34:42 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\APR2007_xinput_x64.cab - 97833
+Fri 20 Jul 6:47:58 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\APR2007_xinput_x86.cab - 54318
+Fri 20 Jul 6:49:18 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2005_d3dx9_27_x64.cab - 1351558
+Fri 20 Jul 6:32:00 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2005_d3dx9_27_x86.cab - 1078660
+Fri 20 Jul 6:48:20 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2006_XACT_x64.cab - 183919
+Fri 20 Jul 6:48:38 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2006_XACT_x86.cab - 138251
+Fri 20 Jul 6:52:31 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2006_xinput_x64.cab - 88158
+Fri 20 Jul 6:34:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2006_xinput_x86.cab - 47074
+Fri 20 Jul 6:52:22 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2007_d3dx10_35_x64.cab - 853302
+Fri 20 Jul 6:32:01 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2007_d3dx10_35_x86.cab - 797883
+Fri 20 Jul 6:32:10 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2007_d3dx9_35_x64.cab - 1801176
+Fri 20 Jul 6:53:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2007_d3dx9_35_x86.cab - 1709168
+Fri 20 Jul 6:51:44 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2007_XACT_x64.cab - 199112
+Fri 20 Jul 6:31:47 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\AUG2007_XACT_x86.cab - 154028
+Fri 20 Jul 6:51:21 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2008_d3dx10_39_x64.cab - 868628
+Fri 20 Jul 6:47:00 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2008_d3dx10_39_x86.cab - 850183
+Fri 20 Jul 6:32:11 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2008_d3dx9_39_x64.cab - 1795100
+Fri 20 Jul 6:49:33 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2008_d3dx9_39_x86.cab - 1465688
+Fri 20 Jul 6:41:20 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2008_XACT_x64.cab - 122840
+Fri 20 Jul 6:32:00 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2008_XACT_x86.cab - 94028
+Fri 20 Jul 6:31:52 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2008_XAudio_x64.cab - 272384
+Fri 20 Jul 6:47:42 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Aug2008_XAudio_x86.cab - 270858
+Fri 20 Jul 6:47:53 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\BDANT.cab - 1156507
+Fri 20 Jul 6:47:39 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\BDAXP.cab - 976164
+Fri 20 Jul 6:50:16 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Dec2005_d3dx9_28_x64.cab - 1358992
+Fri 20 Jul 6:47:14 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Dec2005_d3dx9_28_x86.cab - 1080472
+Fri 20 Jul 6:43:30 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\DEC2006_d3dx10_00_x64.cab - 213823
+Fri 20 Jul 6:41:59 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\DEC2006_d3dx10_00_x86.cab - 192736
+Fri 20 Jul 6:51:03 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\DEC2006_d3dx9_32_x64.cab - 1572170
+Fri 20 Jul 6:31:53 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\DEC2006_d3dx9_32_x86.cab - 1575392
+Fri 20 Jul 6:31:50 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\DEC2006_XACT_x64.cab - 193491
+Fri 20 Jul 6:38:50 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\DEC2006_XACT_x86.cab - 146615
+Fri 20 Jul 6:45:18 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\DSETUP.dll - 95056
+Fri 20 Jul 6:31:49 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\dsetup32.dll - 1692496
+Fri 20 Jul 6:46:04 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\dxdllreg_x86.cab - 45464
+Fri 20 Jul 6:46:39 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\dxnt.cab - 13265184
+Fri 20 Jul 6:39:11 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\DXSETUP.exe - 526160
+Fri 20 Jul 6:31:50 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\dxupdate.cab - 96053
+Fri 20 Jul 6:46:33 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Feb2005_d3dx9_24_x64.cab - 1248515
+Fri 20 Jul 6:47:33 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Feb2005_d3dx9_24_x86.cab - 1014241
+Fri 20 Jul 6:31:55 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Feb2006_d3dx9_29_x64.cab - 1363812
+Fri 20 Jul 6:41:36 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Feb2006_d3dx9_29_x86.cab - 1085736
+Fri 20 Jul 6:44:22 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Feb2006_XACT_x64.cab - 179375
+Fri 20 Jul 6:37:16 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Feb2006_XACT_x86.cab - 133425
+Fri 20 Jul 6:48:12 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\FEB2007_XACT_x64.cab - 195691
+Fri 20 Jul 6:40:54 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\FEB2007_XACT_x86.cab - 148999
+Fri 20 Jul 6:47:28 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Jun2005_d3dx9_26_x64.cab - 1337018
+Fri 20 Jul 6:45:55 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Jun2005_d3dx9_26_x86.cab - 1065941
+Fri 20 Jul 6:31:54 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2006_XACT_x64.cab - 181801
+Fri 20 Jul 6:42:31 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2006_XACT_x86.cab - 134687
+Fri 20 Jul 6:47:46 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2007_d3dx10_34_x64.cab - 700060
+Fri 20 Jul 6:40:47 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2007_d3dx10_34_x86.cab - 699488
+Fri 20 Jul 6:31:58 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2007_d3dx9_34_x64.cab - 1608790
+Fri 20 Jul 6:32:09 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2007_d3dx9_34_x86.cab - 1608302
+Fri 20 Jul 6:31:47 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2007_XACT_x64.cab - 198138
+Fri 20 Jul 6:51:24 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2007_XACT_x86.cab - 153925
+Fri 20 Jul 6:31:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_d3dx10_38_x64.cab - 868844
+Fri 20 Jul 6:50:01 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_d3dx10_38_x86.cab - 850935
+Fri 20 Jul 6:34:37 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_d3dx9_38_x64.cab - 1793624
+Fri 20 Jul 6:43:02 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_d3dx9_38_x86.cab - 1464894
+Fri 20 Jul 6:54:11 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_X3DAudio_x64.cab - 56170
+Fri 20 Jul 6:44:00 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_X3DAudio_x86.cab - 22921
+Fri 20 Jul 6:54:06 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_XACT_x64.cab - 122070
+Fri 20 Jul 6:52:51 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_XACT_x86.cab - 94144
+Fri 20 Jul 6:40:33 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_XAudio_x64.cab - 270644
+Fri 20 Jul 6:36:13 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\JUN2008_XAudio_x86.cab - 270040
+Fri 20 Jul 6:31:57 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_d3dx10_37_x64.cab - 845900
+Fri 20 Jul 6:35:00 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_d3dx10_37_x86.cab - 819276
+Fri 20 Jul 6:52:47 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_d3dx9_37_x64.cab - 1770878
+Fri 20 Jul 6:42:54 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_d3dx9_37_x86.cab - 1444298
+Fri 20 Jul 6:32:39 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_X3DAudio_x64.cab - 56074
+Fri 20 Jul 6:31:45 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_X3DAudio_x86.cab - 22883
+Fri 20 Jul 6:47:17 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_XACT_x64.cab - 123352
+Fri 20 Jul 6:47:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_XACT_x86.cab - 94750
+Fri 20 Jul 6:43:31 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_XAudio_x64.cab - 252210
+Fri 20 Jul 6:34:59 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Mar2008_XAudio_x86.cab - 227266
+Fri 20 Jul 6:53:04 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2007_d3dx10_36_x64.cab - 865616
+Fri 20 Jul 6:53:21 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2007_d3dx10_36_x86.cab - 804900
+Fri 20 Jul 6:49:49 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2007_d3dx9_36_x64.cab - 1803074
+Fri 20 Jul 6:52:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2007_d3dx9_36_x86.cab - 1710376
+Fri 20 Jul 6:46:10 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\NOV2007_X3DAudio_x64.cab - 47160
+Fri 20 Jul 6:47:19 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\NOV2007_X3DAudio_x86.cab - 19512
+Fri 20 Jul 6:47:46 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\NOV2007_XACT_x64.cab - 197778
+Fri 20 Jul 6:42:31 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\NOV2007_XACT_x86.cab - 149280
+Fri 20 Jul 6:46:53 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_d3dx10_40_x64.cab - 995154
+Fri 20 Jul 6:48:07 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_d3dx10_40_x86.cab - 966445
+Fri 20 Jul 6:43:57 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_d3dx9_40_x64.cab - 1907944
+Fri 20 Jul 6:37:22 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_d3dx9_40_x86.cab - 1551228
+Fri 20 Jul 6:31:50 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_X3DAudio_x64.cab - 55538
+Fri 20 Jul 6:45:59 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_X3DAudio_x86.cab - 22867
+Fri 20 Jul 6:48:54 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_XACT_x64.cab - 122810
+Fri 20 Jul 6:48:22 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_XACT_x86.cab - 93700
+Fri 20 Jul 6:48:50 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_XAudio_x64.cab - 274976
+Fri 20 Jul 6:52:13 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Nov2008_XAudio_x86.cab - 273627
+Fri 20 Jul 6:48:42 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Oct2005_xinput_x64.cab - 87053
+Fri 20 Jul 6:49:48 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\Oct2005_xinput_x86.cab - 46375
+Fri 20 Jul 6:42:41 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\OCT2006_d3dx9_31_x64.cab - 1413918
+Fri 20 Jul 6:47:56 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\OCT2006_d3dx9_31_x86.cab - 1128233
+Fri 20 Jul 6:46:11 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\OCT2006_XACT_x64.cab - 183377
+Fri 20 Jul 6:40:59 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\dx\OCT2006_XACT_x86.cab - 139033
+Fri 20 Jul 6:45:50 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\physx\PhysX_9.09.0408_SystemSoftware.exe - 41162008
+Fri 20 Jul 6:32:11 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\tages\TagesSetup.exe - 398496
+Fri 20 Jul 6:32:13 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\tages\TagesSetup_x64.exe - 451232
+Fri 20 Jul 6:36:41 PM - ProgramFilesX86\Steam\steamapps\common\risen\redist\vc\vcredist_x86.exe - 2728104
+
+UAC Disabled or not present
+

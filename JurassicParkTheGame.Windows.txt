@@ -1,0 +1,103 @@
+Comments:
+	<game name="JurassicParkTheGame" platform="Windows">
+		<title>Jurassic Park: The Game</title>
+		<location_path environment_variable="userdocuments" path="Telltale Games" />
+		<save path="jurassicpark"/>
+		<contributer>Arc Angel</contributer>
+	</game>
+	
+	
+Game Name: Jurassic Park: The Game
+Operating System: 
+Microsoft Windows NT 6.1.7600.0
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\jurassicpark
+
+Save Path: 
+UserDocuments\Telltale Games\jurassicpark
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 201830
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\jurassicpark
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Telltale Games\JurassicPark100.exe
+Value: Install Location
+Data: ProgramFilesX86\Steam\steamapps\common\jurassicpark
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Mar 01 5:05:39 PM - UserDocuments\Telltale Games\jurassicpark\autosave.prop - 150
+Mar 01 5:05:39 PM - UserDocuments\Telltale Games\jurassicpark\autosave.save - 158383
+Mar 01 5:05:54 PM - UserDocuments\Telltale Games\jurassicpark\prefs.prop - 1517
+
+Install Folder Dump: 
+Feb 29 7:14:26 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\fmodex.dll - 806912
+Mar 01 4:54:00 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\installscript.vdf - 1122
+Feb 29 7:05:10 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\JurassicPark100.exe - 8754176
+Feb 29 6:37:07 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\steam_api.dll - 118368
+Feb 29 7:11:10 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\Apr2006_xinput_x86.cab - 46010
+Feb 29 7:14:04 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\APR2007_xinput_x86.cab - 53302
+Feb 29 7:13:55 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\Aug2005_d3dx9_27_x86.cab - 1077644
+Feb 29 6:30:06 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\AUG2006_xinput_x86.cab - 46058
+Feb 29 6:29:59 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\DSETUP.dll - 94040
+Feb 29 7:13:20 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\dsetup32.dll - 1691480
+Feb 29 7:12:28 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\dxdllreg_x86.cab - 44448
+Feb 29 7:17:40 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\DXSETUP.exe - 525656
+Feb 29 6:33:13 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\dxupdate.cab - 95820
+Feb 29 6:30:03 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\Mar2009_d3dx9_41_x86.cab - 1612446
+Feb 29 7:12:37 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\Mar2009_X3DAudio_x86.cab - 21298
+Feb 29 7:12:49 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\Mar2009_XAudio_x86.cab - 273018
+Feb 29 6:50:51 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\DirectX\Oct2005_xinput_x86.cab - 45359
+Feb 29 7:17:11 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\1_JurassicPark101_english_pc_data.ttarch - 78898922
+Feb 29 6:45:13 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\2_JurassicPark101_english_pc_voice.ttarch - 28378000
+Feb 29 7:02:22 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\3_JurassicPark101_english_pc_ms.ttarch - 84177579
+Feb 29 9:13:00 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\4_JurassicPark101_english_pc_tx.ttarch - 506030624
+Feb 29 7:21:04 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\Localized\french\1_JurassicPark101_pc_localized_data_french.ttarch - 24086152
+Feb 29 7:12:19 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\Localized\german\1_JurassicPark101_pc_localized_data_german.ttarch - 24721264
+Feb 29 6:53:30 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\Localized\german\2_JurassicPark101_pc_localized_voice_german.ttarch - 28965260
+Feb 29 7:02:23 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\Localized\german\3_JurassicPark101_pc_localized_chores_german.ttarch - 3359559
+Feb 29 7:24:51 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\default\Localized\input_mouse\0_input_mouse.ttarch - 122089
+Feb 29 7:48:11 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\1_JurassicPark102_english_pc_data.ttarch - 62581485
+Feb 29 6:38:38 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\2_JurassicPark102_english_pc_voice.ttarch - 30456669
+Feb 29 7:00:07 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\3_JurassicPark102_english_pc_ms.ttarch - 105828461
+Feb 29 9:26:07 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\4_JurassicPark102_english_pc_tx.ttarch - 471213947
+Feb 29 7:01:34 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\Localized\french\1_JurassicPark102_pc_localized_data_french.ttarch - 21200567
+Feb 29 7:37:19 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\Localized\german\1_JurassicPark102_pc_localized_data_german.ttarch - 21229682
+Feb 29 7:17:23 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\Localized\german\2_JurassicPark102_pc_localized_voice_german.ttarch - 22354395
+Feb 29 6:32:41 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\Localized\german\3_JurassicPark102_pc_localized_chores_german.ttarch - 2888157
+Feb 29 7:17:31 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP102\Localized\input_mouse\0_input_mouse.ttarch - 3535
+Feb 29 6:45:23 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\0_9_patch.ttarch - 526
+Feb 29 7:10:56 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\1_JurassicPark103_english_pc_data.ttarch - 50890994
+Feb 29 6:50:27 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\2_JurassicPark103_english_pc_voice.ttarch - 26939087
+Feb 29 7:04:54 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\3_JurassicPark103_english_pc_ms.ttarch - 123234805
+Feb 29 8:21:38 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\4_JurassicPark103_english_pc_tx.ttarch - 284519123
+Feb 29 6:36:57 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\Localized\french\1_JurassicPark103_pc_localized_data_french.ttarch - 22282384
+Feb 29 7:24:41 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\Localized\german\1_JurassicPark103_pc_localized_data_german.ttarch - 22528847
+Feb 29 7:10:22 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\Localized\german\2_JurassicPark103_pc_localized_voice_german.ttarch - 18983350
+Feb 29 7:01:09 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\Localized\german\3_JurassicPark103_pc_localized_chores_german.ttarch - 2828959
+Feb 29 6:51:16 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\Localized\input_mouse\0_9_input_mouse.ttarch - 446
+Feb 29 6:54:30 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP103\Localized\input_mouse\0_input_mouse.ttarch - 27702
+Feb 29 7:49:31 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\1_JurassicPark104_english_pc_data.ttarch - 62031728
+Feb 29 6:46:55 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\2_JurassicPark104_english_pc_voice.ttarch - 22884835
+Feb 29 7:59:06 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\3_JurassicPark104_english_pc_ms.ttarch - 145749646
+Feb 29 8:56:21 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\4_JurassicPark104_english_pc_tx.ttarch - 407771019
+Feb 29 7:11:32 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\Localized\french\1_JurassicPark104_pc_localized_data_french.ttarch - 25961105
+Feb 29 7:31:32 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\Localized\german\1_JurassicPark104_pc_localized_data_german.ttarch - 25813779
+Feb 29 6:46:19 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\Localized\german\2_JurassicPark104_pc_localized_voice_german.ttarch - 17648010
+Feb 29 6:54:20 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\Localized\german\3_JurassicPark104_pc_localized_chores_german.ttarch - 2793629
+Feb 29 7:13:31 PM - ProgramFilesX86\Steam\steamapps\common\jurassicpark\Pack\JP104\Localized\input_mouse\0_input_mouse.ttarch - 23709
+
+UAC Disabled or not present
+

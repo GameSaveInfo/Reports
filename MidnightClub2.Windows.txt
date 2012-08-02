@@ -1,0 +1,285 @@
+Comments:
+  <game name="MidnightClub2" platform="Steam">
+    <title>Midnight Club 2</title>
+    <location_path environment_variable="steamcommon" path="Midnight Club 2\userdata" />
+	<save />
+	<ignore path="mp3" />
+	<contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Midnight Club 2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\Midnight Club 2
+
+Save Path: 
+ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-2903464402-2387730440-2190293281-1000\{6D27F448-BB96-45E2-A997-3636F0A5615A}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\Steam\steamapps\common\Midnight Club 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-2903464402-2387730440-2190293281-1000\{6D27F448-BB96-45E2-A997-3636F0A5615A}
+Value: AppExePath
+Data: Sat 02 Jun 12:55:19 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\mc2.exe - 3104768
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 12160
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\Midnight Club 2
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sat 02 Jun 12:58:34 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata\default.cfg - 14
+Sat 02 Jun 5:45:54 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata\inputdevice_66069.map - 3233
+Sat 02 Jun 5:53:26 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata\Mobeeuz.sav - 10559
+Sat 02 Jun 5:43:05 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata\options.cfg - 198
+
+Install Folder Dump: 
+Sat 02 Jun 12:53:46 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\assets_p.dat - 231985152
+Sat 02 Jun 12:52:54 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\binkw32.dll - 377856
+Sat 02 Jun 12:51:40 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\defaults.bat - 28
+Sat 02 Jun 5:52:23 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\mc.pcmap - 600
+Sat 02 Jun 12:55:19 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\mc2.exe - 3104768
+Sat 02 Jun 12:55:20 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\mc2.ico - 4710
+Sat 02 Jun 12:53:38 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\mss32.dll - 370688
+Sat 02 Jun 12:54:44 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\ReadMe.txt - 13834
+Sat 02 Jun 1:03:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\streams_pc.dat - 545269760
+Sat 02 Jun 1:03:24 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\testapp.exe - 3862528
+Sat 02 Jun 12:51:08 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\airport2d.dls - 192176
+Sat 02 Jun 12:51:08 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\airport2d.sgt - 11890
+Sat 02 Jun 12:52:48 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\airport3d.dls - 407114
+Sat 02 Jun 12:52:48 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\airport3d.sgt - 9418
+Sat 02 Jun 12:51:30 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells.dls - 134852
+Sat 02 Jun 12:52:48 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells1.sgt - 1252
+Sat 02 Jun 12:52:48 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells2.sgt - 1364
+Sat 02 Jun 12:51:08 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells3.sgt - 1272
+Sat 02 Jun 12:52:46 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells4.sgt - 1232
+Sat 02 Jun 12:51:09 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells5.sgt - 2176
+Sat 02 Jun 12:51:30 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells6.sgt - 1424
+Sat 02 Jun 12:51:10 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells_nd.dls - 183812
+Sat 02 Jun 12:52:48 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells_nd1.sgt - 1190
+Sat 02 Jun 12:52:49 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\bells_nd2.sgt - 1190
+Sat 02 Jun 12:53:47 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\club.dls - 126458
+Sat 02 Jun 12:52:49 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\club.sgt - 1132
+Sat 02 Jun 12:51:58 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat.dls - 104824
+Sat 02 Jun 12:52:46 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat1.sgt - 1456
+Sat 02 Jun 12:51:58 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat2.sgt - 1198
+Sat 02 Jun 12:51:10 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat3.sgt - 1412
+Sat 02 Jun 12:51:10 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat4.sgt - 1372
+Sat 02 Jun 12:51:58 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat5.sgt - 1198
+Sat 02 Jun 12:51:30 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat6.sgt - 1392
+Sat 02 Jun 12:51:10 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat7.sgt - 1158
+Sat 02 Jun 12:51:58 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\dogs_cat8.sgt - 1146
+Sat 02 Jun 12:52:52 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\fe_hard.dls - 2725798
+Sat 02 Jun 12:52:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\fe_hard_01.sgt - 291524
+Sat 02 Jun 12:53:47 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\fe_hard_02.sgt - 288596
+Sat 02 Jun 12:51:30 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\fe_hard_03.sgt - 280700
+Sat 02 Jun 12:52:51 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\fe_hard_04.sgt - 328992
+Sat 02 Jun 12:53:48 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\gun.dls - 61564
+Sat 02 Jun 12:51:59 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\gun1.sgt - 2160
+Sat 02 Jun 12:53:49 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\gun2.sgt - 1744
+Sat 02 Jun 12:51:30 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\gun3.sgt - 1804
+Sat 02 Jun 12:52:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\l_aquaduct.dls - 244372
+Sat 02 Jun 12:51:10 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\l_aquaduct.sgt - 69032
+Sat 02 Jun 12:52:54 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\l_construction.dls - 213910
+Sat 02 Jun 12:51:10 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\l_construction.sgt - 1630
+Sat 02 Jun 12:52:58 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\l_hills.dls - 538296
+Sat 02 Jun 12:51:30 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\l_hills.sgt - 70222
+Sat 02 Jun 12:53:52 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\l_staples.dls - 498040
+Sat 02 Jun 12:51:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\l_staples.sgt - 17378
+Sat 02 Jun 12:53:00 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\power_lines.dls - 204686
+Sat 02 Jun 12:51:59 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\power_lines.sgt - 38550
+Sat 02 Jun 12:52:01 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\p_cafe.dls - 338302
+Sat 02 Jun 12:52:01 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\p_cafe.sgt - 1144
+Sat 02 Jun 12:51:12 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\p_ferriswheel.dls - 287088
+Sat 02 Jun 12:52:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\p_ferriswheel.sgt - 13446
+Sat 02 Jun 12:53:01 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\p_waterfront.dls - 154778
+Sat 02 Jun 12:52:01 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\p_waterfront.sgt - 17836
+Sat 02 Jun 12:53:54 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\road_work.dls - 228018
+Sat 02 Jun 12:51:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\road_work.sgt - 3122
+Sat 02 Jun 12:53:55 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\seagulls.dls - 135748
+Sat 02 Jun 12:53:55 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\seagulls1.sgt - 3004
+Sat 02 Jun 12:53:02 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\seagulls2.sgt - 5604
+Sat 02 Jun 12:52:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\seagulls3.sgt - 2492
+Sat 02 Jun 12:51:30 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\seagulls4.sgt - 3004
+Sat 02 Jun 12:52:01 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\seagulls5.sgt - 4044
+Sat 02 Jun 12:53:04 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_busdepot.dls - 573226
+Sat 02 Jun 12:51:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_busdepot.sgt - 3528
+Sat 02 Jun 12:52:05 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_dome.dls - 589742
+Sat 02 Jun 12:53:04 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_dome.sgt - 14156
+Sat 02 Jun 12:52:04 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_harbor.dls - 688464
+Sat 02 Jun 12:53:55 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_harbor.sgt - 47736
+Sat 02 Jun 12:53:07 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_mall.dls - 561446
+Sat 02 Jun 12:51:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_mall.sgt - 1748
+Sat 02 Jun 12:52:09 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_subway.dls - 600918
+Sat 02 Jun 12:51:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_subway.sgt - 3234
+Sat 02 Jun 12:51:13 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_temple.dls - 389842
+Sat 02 Jun 12:53:55 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\t_temple.sgt - 2810
+Sat 02 Jun 12:52:04 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\water.dls - 688464
+Sat 02 Jun 12:53:56 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\water.sgt - 47682
+Sat 02 Jun 12:53:08 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\waves.dls - 114592
+Sat 02 Jun 12:53:56 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\directmusic\pc\waves.sgt - 18156
+Sat 02 Jun 12:51:12 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\drivers\mssds3d.m3d - 81408
+Sat 02 Jun 12:52:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\drivers\mssdsp.flt - 115200
+Sat 02 Jun 12:51:31 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\drivers\mssdx7.m3d - 90112
+Sat 02 Jun 12:53:57 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\drivers\msseax.m3d - 115712
+Sat 02 Jun 12:53:08 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\drivers\mssmp3.asi - 137216
+Sat 02 Jun 12:51:13 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\audio\drivers\msssoft.m3d - 77824
+Sat 02 Jun 12:53:14 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\dawn_clear\losangeles_dawn_clear_cpvs.dat - 8648704
+Sat 02 Jun 12:53:26 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\dawn_cloudy\losangeles_dawn_cloudy_cpvs.dat - 8650752
+Sat 02 Jun 12:54:02 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\dawn_rainy\losangeles_dawn_rainy_cpvs.dat - 8648704
+Sat 02 Jun 12:54:04 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\dusk_clear\losangeles_dusk_clear_cpvs.dat - 8648704
+Sat 02 Jun 12:54:06 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\dusk_cloudy\losangeles_dusk_cloudy_cpvs.dat - 8650752
+Sat 02 Jun 12:54:15 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\dusk_rainy\losangeles_dusk_rainy_cpvs.dat - 8648704
+Sat 02 Jun 12:54:17 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\midnight_clear\losangeles_midnight_clear_cpvs.dat - 8650752
+Sat 02 Jun 12:54:20 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\midnight_cloudy\losangeles_midnight_cloudy_cpvs.dat - 8652800
+Sat 02 Jun 12:54:23 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\losangeles\midnight_rainy\losangeles_midnight_rainy_cpvs.dat - 8650752
+Sat 02 Jun 12:54:29 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\dawn_clear\paris_dawn_clear_cpvs.dat - 6973440
+Sat 02 Jun 12:54:22 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\dawn_cloudy\paris_dawn_cloudy_cpvs.dat - 6973440
+Sat 02 Jun 12:54:22 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\dawn_rainy\paris_dawn_rainy_cpvs.dat - 6973440
+Sat 02 Jun 12:54:32 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\dusk_clear\paris_dusk_clear_cpvs.dat - 6973440
+Sat 02 Jun 12:54:36 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\dusk_cloudy\paris_dusk_cloudy_cpvs.dat - 6973440
+Sat 02 Jun 12:54:40 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\dusk_rainy\paris_dusk_rainy_cpvs.dat - 6973440
+Sat 02 Jun 12:54:45 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\midnight_clear\paris_midnight_clear_cpvs.dat - 6975488
+Sat 02 Jun 12:54:52 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\midnight_cloudy\paris_midnight_cloudy_cpvs.dat - 6975488
+Sat 02 Jun 12:54:33 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\paris\midnight_rainy\paris_midnight_rainy_cpvs.dat - 6975488
+Sat 02 Jun 12:54:38 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\dawn_clear\tokyo_dawn_clear_cpvs.dat - 6592512
+Sat 02 Jun 12:54:57 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\dawn_cloudy\tokyo_dawn_cloudy_cpvs.dat - 6592512
+Sat 02 Jun 12:54:57 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\dawn_rainy\tokyo_dawn_rainy_cpvs.dat - 6592512
+Sat 02 Jun 12:55:07 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\dusk_clear\tokyo_dusk_clear_cpvs.dat - 6592512
+Sat 02 Jun 12:55:09 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\dusk_cloudy\tokyo_dusk_cloudy_cpvs.dat - 6592512
+Sat 02 Jun 12:55:09 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\dusk_rainy\tokyo_dusk_rainy_cpvs.dat - 6592512
+Sat 02 Jun 12:54:08 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\midnight_clear\tokyo_midnight_clear_cpvs.dat - 6594560
+Sat 02 Jun 12:55:13 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\midnight_cloudy\tokyo_midnight_cloudy_cpvs.dat - 6594560
+Sat 02 Jun 12:55:13 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\city\tokyo\midnight_rainy\tokyo_midnight_rainy_cpvs.dat - 6594560
+Sat 02 Jun 1:03:25 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_dawn_clear.dat - 2144256
+Sat 02 Jun 1:03:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_dawn_cloudy.dat - 2144256
+Sat 02 Jun 1:03:57 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_dawn_rainy.dat - 2144256
+Sat 02 Jun 1:03:25 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_dusk_clear.dat - 2144256
+Sat 02 Jun 1:03:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_dusk_cloudy.dat - 2144256
+Sat 02 Jun 1:03:57 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_dusk_rainy.dat - 2144256
+Sat 02 Jun 1:03:25 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_midnight_clear.dat - 2144256
+Sat 02 Jun 1:03:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_midnight_cloudy.dat - 2144256
+Sat 02 Jun 1:03:57 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\losangeles_midnight_rainy.dat - 2144256
+Sat 02 Jun 1:03:59 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_dawn_clear.dat - 2125824
+Sat 02 Jun 1:04:05 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_dawn_cloudy.dat - 2125824
+Sat 02 Jun 1:03:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_dawn_rainy.dat - 2125824
+Sat 02 Jun 1:03:59 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_dusk_clear.dat - 2125824
+Sat 02 Jun 1:04:05 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_dusk_cloudy.dat - 2125824
+Sat 02 Jun 1:03:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_dusk_rainy.dat - 2125824
+Sat 02 Jun 1:03:59 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_midnight_clear.dat - 2125824
+Sat 02 Jun 1:04:05 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_midnight_cloudy.dat - 2125824
+Sat 02 Jun 1:03:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\paris_midnight_rainy.dat - 2125824
+Sat 02 Jun 1:01:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_dawn_clear.dat - 1611776
+Sat 02 Jun 1:03:29 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_dawn_cloudy.dat - 1611776
+Sat 02 Jun 1:03:35 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_dawn_rainy.dat - 1611776
+Sat 02 Jun 1:01:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_dusk_clear.dat - 1611776
+Sat 02 Jun 1:03:29 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_dusk_cloudy.dat - 1611776
+Sat 02 Jun 1:03:35 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_dusk_rainy.dat - 1611776
+Sat 02 Jun 1:01:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_midnight_clear.dat - 1611776
+Sat 02 Jun 1:03:29 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_midnight_cloudy.dat - 1611776
+Sat 02 Jun 1:03:35 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\texture_x\tokyo_midnight_rainy.dat - 1611776
+Sat 02 Jun 12:58:34 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata\default.cfg - 14
+Sat 02 Jun 5:45:54 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata\inputdevice_66069.map - 3233
+Sat 02 Jun 5:53:26 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata\Mobeeuz.sav - 10559
+Sat 02 Jun 5:43:05 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\userdata\options.cfg - 198
+Sat 02 Jun 1:06:01 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\mc2intro.bik - 22605532
+Sat 02 Jun 1:06:39 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\rockstar.bik - 8561988
+Sat 02 Jun 1:05:45 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\sdlogo.bik - 3870328
+Sat 02 Jun 1:03:42 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\angel_01.bik - 6270932
+Sat 02 Jun 1:04:18 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\angel_02.bik - 11761580
+Sat 02 Jun 1:04:36 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\angel_03.bik - 5034492
+Sat 02 Jun 1:03:37 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\angel_04.bik - 6450196
+Sat 02 Jun 1:04:52 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\angel_4b.bik - 15330372
+Sat 02 Jun 1:03:48 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\dice_02.bik - 3364540
+Sat 02 Jun 1:04:01 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\dice_03.bik - 14201696
+Sat 02 Jun 1:05:03 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\ginabike.bik - 10624196
+Sat 02 Jun 1:03:48 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\gina_01.bik - 5010176
+Sat 02 Jun 1:04:04 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\gina_02.bik - 6495904
+Sat 02 Jun 1:04:11 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\gina_03.bik - 5653468
+Sat 02 Jun 1:04:22 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\gina_04.bik - 6516144
+Sat 02 Jun 1:05:21 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\gina_4b.bik - 15383104
+Sat 02 Jun 1:04:35 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\hectr_01.bik - 4731536
+Sat 02 Jun 1:04:29 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\hectr_02.bik - 6533524
+Sat 02 Jun 1:05:31 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\hectr_03.bik - 9255984
+Sat 02 Jun 1:05:38 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\hectr_04.bik - 6014860
+Sat 02 Jun 1:05:10 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\hectr_4b.bik - 14230560
+Sat 02 Jun 1:05:44 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\moses_01.bik - 5010980
+Sat 02 Jun 1:05:21 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\moses_02.bik - 5514056
+Sat 02 Jun 1:04:24 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\moses_03.bik - 6014060
+Sat 02 Jun 1:05:26 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\moses_04.bik - 8472732
+Sat 02 Jun 1:05:06 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\pica_01.bik - 9475896
+Sat 02 Jun 1:04:52 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\pica_02.bik - 5230688
+Sat 02 Jun 1:05:30 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\pica_03.bik - 4787824
+Sat 02 Jun 1:05:50 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\Steve_01.bik - 5264000
+Sat 02 Jun 1:05:56 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\Steve_02.bik - 6766328
+Sat 02 Jun 1:04:34 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\la\Steve_03.bik - 6019908
+Sat 02 Jun 1:04:41 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\blog_01.bik - 4006432
+Sat 02 Jun 1:05:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\blog_02.bik - 4020412
+Sat 02 Jun 1:05:59 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\blog_03.bik - 3517992
+Sat 02 Jun 1:05:00 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\Farid_01.bik - 5026924
+Sat 02 Jun 1:05:06 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\Farid_02.bik - 4530252
+Sat 02 Jun 1:06:06 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\Farid_03.bik - 6437196
+Sat 02 Jun 1:06:16 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\Farid_04.bik - 5035932
+Sat 02 Jun 1:06:17 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\farid_4b.bik - 12157992
+Sat 02 Jun 1:05:03 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\ian_01.bik - 4431720
+Sat 02 Jun 1:06:23 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\ian_02.bik - 4517400
+Sat 02 Jun 1:06:22 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\ian_03.bik - 4783408
+Sat 02 Jun 1:05:04 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\ian_04.bik - 4523424
+Sat 02 Jun 1:06:27 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\ian_4b.bik - 11747312
+Sat 02 Jun 1:06:28 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\parft_01.bik - 4182764
+Sat 02 Jun 1:05:15 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\parft_02.bik - 5679568
+Sat 02 Jun 1:06:27 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\parft_03.bik - 11700888
+Sat 02 Jun 1:05:22 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\primo_01.bik - 3851256
+Sat 02 Jun 1:05:23 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\primo_02.bik - 3448936
+Sat 02 Jun 1:06:27 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\primo_03.bik - 2720656
+Sat 02 Jun 1:06:33 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\steph_01.bik - 3950844
+Sat 02 Jun 1:05:24 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\steph_02.bik - 5517732
+Sat 02 Jun 1:06:34 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\steph_03.bik - 6368856
+Sat 02 Jun 1:05:26 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\twins_01.bik - 4508556
+Sat 02 Jun 1:06:36 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\twins_02.bik - 8183604
+Sat 02 Jun 1:06:39 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\paris\twins_03.bik - 3847060
+Sat 02 Jun 1:06:41 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\haley_01.bik - 5532132
+Sat 02 Jun 1:05:32 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\haley_02.bik - 4015844
+Sat 02 Jun 1:05:37 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\haley_03.bik - 5036872
+Sat 02 Jun 1:06:39 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\ken_01.bik - 5023388
+Sat 02 Jun 1:06:42 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\ken_02.bik - 6336376
+Sat 02 Jun 1:06:45 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\ken_03.bik - 6503692
+Sat 02 Jun 1:06:46 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\ken_04.bik - 6015712
+Sat 02 Jun 1:06:44 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\ken_4b.bik - 12693392
+Sat 02 Jun 1:05:51 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\mako_02.bik - 3021292
+Sat 02 Jun 1:06:46 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\mako_03.bik - 13149164
+Sat 02 Jun 1:06:44 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\nikko_01.bik - 3015220
+Sat 02 Jun 1:06:47 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\nikko_02.bik - 3264368
+Sat 02 Jun 1:06:49 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\nikko_03.bik - 6519140
+Sat 02 Jun 1:06:51 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\ricky_01.bik - 5533856
+Sat 02 Jun 1:06:51 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\ricky_02.bik - 5029368
+Sat 02 Jun 1:06:54 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\ricky_03.bik - 5369776
+Sat 02 Jun 1:06:53 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\shing_01.bik - 5035240
+Sat 02 Jun 1:06:57 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\shing_02.bik - 5265528
+Sat 02 Jun 1:06:58 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\shing_03.bik - 4050224
+Sat 02 Jun 1:06:58 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\shing_04.bik - 3301848
+Sat 02 Jun 1:06:03 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\zen_01.bik - 4014460
+Sat 02 Jun 1:07:01 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\zen_02.bik - 5532428
+Sat 02 Jun 1:06:35 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\zen_03.bik - 6040276
+Sat 02 Jun 1:07:00 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\tokyo\zen_3b.bik - 12530004
+Sat 02 Jun 1:06:58 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\world\world_02.bik - 5665464
+Sat 02 Jun 1:07:02 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\world\world_03.bik - 6901108
+Sat 02 Jun 1:07:04 PM - ProgramFilesX86\Steam\steamapps\common\Midnight Club 2\video\world\world_04.bik - 12624344
+
+UAC Disabled or not present
+

@@ -1,0 +1,114 @@
+Comments:
+  <game name="UFOAftermath" platform="Windows">
+    <title>UFO: Aftermath</title>
+    <location_registry root="local_machine" key="SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\UFO.exe" value="Path" />
+    <location_path environment_variable="installlocation" path="CENEGA\UFO Aftermath" />
+    <save path="Profiles" />
+    <contributer>Arc Angel</contributer>
+  </game>
+  
+  
+Game Name: UFO: Aftermath
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\CENEGA\UFO Aftermath
+
+Save Path: 
+ProgramFilesX86\CENEGA\UFO Aftermath\Profiles
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\UFO.exe
+Value: Path
+Data: ProgramFilesX86\CENEGA\UFO Aftermath
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\UFO.exe
+Value: 
+Data: Tue 15 Feb 10:57:56 AM - ProgramFilesX86\CENEGA\UFO Aftermath\UFO.exe - 3547136
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-2903464402-2387730440-2190293281-1000\{0F7565CE-F877-4966-8636-0F84E33BA49A}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\CENEGA\UFO Aftermath
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-2903464402-2387730440-2190293281-1000\{0F7565CE-F877-4966-8636-0F84E33BA49A}
+Value: AppExePath
+Data: Tue 15 Feb 10:57:56 AM - ProgramFilesX86\CENEGA\UFO Aftermath\UFO.exe - 3547136
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\ALTAR\UFOAftermath
+Value: Path
+Data: ProgramFilesX86\CENEGA\UFO Aftermath
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{3699BC50-DA7B-4DA7-BB43-2981C9178FAD}
+Value: InstallLocation
+Data: ProgramFilesX86\CENEGA\UFO Aftermath
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\App Paths\UFO.exe
+Value: Path
+Data: ProgramFilesX86\CENEGA\UFO Aftermath
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\App Paths\UFO.exe
+Value: 
+Data: Tue 15 Feb 10:57:56 AM - ProgramFilesX86\CENEGA\UFO Aftermath\UFO.exe - 3547136
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+Sun 03 Jun 1:18:14 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\CENEGA\UFO Aftermath\Configure.lnk - 960
+Mon 13 Oct 7:40:00 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Launcher.exe - 1400832
+Sun 03 Jun 1:18:14 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\CENEGA\UFO Aftermath\UFO Aftermath.lnk - 934
+Tue 15 Feb 10:57:56 AM - ProgramFilesX86\CENEGA\UFO Aftermath\UFO.exe - 3547136
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sun 03 Jun 12:29:41 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Recent.txt - 9
+Sun 03 Jun 12:29:41 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\ProfileName.txt - 84
+Sun 03 Jun 1:10:38 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\UFOOptions.txt - 3889
+Sun 03 Jun 1:08:40 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\Recent.txt - 11
+Sun 03 Jun 1:08:40 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\start.desc - 388
+Sun 03 Jun 1:08:40 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\start.vfs - 609652
+Sun 03 Jun 1:08:37 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\strat_00000001.desc - 424
+Sun 03 Jun 1:08:10 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\strat_00000001.vfs - 1284212
+
+Install Folder Dump: 
+Mon 18 Mar 9:14:08 PM - ProgramFilesX86\CENEGA\UFO Aftermath\binkw32.dll - 312371
+Sun 03 Jun 1:10:06 PM - ProgramFilesX86\CENEGA\UFO Aftermath\config.cfg - 570
+Thu 29 Aug 4:40:50 AM - ProgramFilesX86\CENEGA\UFO Aftermath\dbghelp.dll - 489984
+Wed 23 Feb 5:39:06 PM - ProgramFilesX86\CENEGA\UFO Aftermath\gamedata.vfs - 1239402700
+Mon 13 Oct 7:40:00 PM - ProgramFilesX86\CENEGA\UFO Aftermath\launcher.exe - 1400832
+Wed 23 Feb 5:38:34 PM - ProgramFilesX86\CENEGA\UFO Aftermath\launcherData.vfs - 3936844
+Sat 28 Jul 12:00:00 AM - ProgramFilesX86\CENEGA\UFO Aftermath\mod_OC_stfu.vfs - 53956
+Mon 17 Mar 4:15:30 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Mss32.dll - 370688
+Sun 07 Nov 5:35:28 PM - ProgramFilesX86\CENEGA\UFO Aftermath\NEW_mod.vfs - 36644660
+Thu 11 Sep 8:40:34 AM - ProgramFilesX86\CENEGA\UFO Aftermath\read_me.txt - 5481
+Wed 23 Feb 6:02:46 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Read_me_patch.txt - 3784
+Tue 15 Feb 10:57:56 AM - ProgramFilesX86\CENEGA\UFO Aftermath\UFO.exe - 3547136
+Wed 31 Jul 9:28:54 AM - ProgramFilesX86\CENEGA\UFO Aftermath\unicows.dll - 239224
+Mon 17 Mar 4:15:46 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\mssa3d.m3d - 98816
+Mon 17 Mar 4:15:42 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\mssds3d.m3d - 81408
+Mon 17 Mar 4:15:36 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\mssdsp.flt - 115200
+Mon 17 Mar 4:15:44 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\mssdx7.m3d - 90112
+Mon 17 Mar 4:15:40 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\msseax.m3d - 115712
+Mon 17 Mar 4:15:36 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\mssmp3.asi - 137216
+Mon 17 Mar 4:15:48 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\mssrsx.m3d - 369664
+Mon 17 Mar 4:15:38 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\msssoft.m3d - 77824
+Mon 17 Mar 4:17:26 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Codecs\mssvoice.asi - 212992
+Wed 10 Sep 10:49:48 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Localization\launcher.vfs - 18412
+Tue 21 Oct 4:41:24 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Localization\LocalizationPack.vfs - 200476
+Sun 03 Jun 12:29:41 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Recent.txt - 9
+Sun 03 Jun 12:29:41 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\ProfileName.txt - 84
+Sun 03 Jun 1:10:38 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\UFOOptions.txt - 3889
+Sun 03 Jun 1:08:40 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\Recent.txt - 11
+Sun 03 Jun 1:08:40 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\start.desc - 388
+Sun 03 Jun 1:08:40 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\start.vfs - 609652
+Sun 03 Jun 1:08:37 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\strat_00000001.desc - 424
+Sun 03 Jun 1:08:10 PM - ProgramFilesX86\CENEGA\UFO Aftermath\Profiles\Default\Saves\strat_00000001.vfs - 1284212
+
+UAC Disabled or not present
+

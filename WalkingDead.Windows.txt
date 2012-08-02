@@ -1,0 +1,73 @@
+Comments:
+	<game name="WalkingDead" platform="Windows">
+		<title>The Walking Dead</title>
+		<location_path environment_variable="userdocuments" path="Telltale Games\The Walking Dead" />
+		<save />
+		<contributer>Arc Angel</contributer>
+	</game>
+
+
+Game Name: The Walking Dead
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\the walking dead
+
+Save Path: 
+UserDocuments\Telltale Games\The Walking Dead
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 207610
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\the walking dead
+Current User Registry Entries: 
+
+Key:HKEY_CURRENT_USER\Software\Telltale Games\WalkingDead101.exe
+Value: Install Location
+Data: ProgramFilesX86\Steam\steamapps\common\the walking dead
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Fri 11 May 5:20:23 PM - UserDocuments\Telltale Games\The Walking Dead\prefs.prop - 3949
+Fri 11 May 5:17:15 PM - UserDocuments\Telltale Games\The Walking Dead\save_1.save - 12387
+Fri 11 May 5:20:23 PM - UserDocuments\Telltale Games\The Walking Dead\save_6.save - 18180
+
+Install Folder Dump: 
+Fri 11 May 12:35:22 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\fmodex.dll - 1086464
+Fri 11 May 5:10:12 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\installscript.vdf - 957
+Fri 11 May 12:35:12 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\steam_api.dll - 120616
+Fri 11 May 12:35:38 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\WalkingDead101.exe - 8808448
+Fri 11 May 12:34:43 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\Apr2006_xinput_x86.cab - 46010
+Fri 11 May 12:34:41 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\APR2007_xinput_x86.cab - 53302
+Fri 11 May 12:35:30 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\Aug2005_d3dx9_27_x86.cab - 1077644
+Fri 11 May 12:34:42 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\AUG2006_xinput_x86.cab - 46058
+Fri 11 May 12:34:43 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\DSETUP.dll - 94040
+Fri 11 May 12:35:08 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\dsetup32.dll - 1691480
+Fri 11 May 12:34:41 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\dxdllreg_x86.cab - 44448
+Fri 11 May 12:35:08 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\DXSETUP.exe - 525656
+Fri 11 May 12:34:48 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\dxupdate.cab - 95820
+Fri 11 May 12:35:04 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\Mar2009_d3dx9_41_x86.cab - 1612446
+Fri 11 May 12:34:41 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\Mar2009_X3DAudio_x86.cab - 21298
+Fri 11 May 12:34:44 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\Mar2009_XAudio_x86.cab - 273018
+Fri 11 May 12:34:44 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\DirectX\Oct2005_xinput_x86.cab - 45359
+Fri 11 May 12:34:41 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\Pack\default\0_98_patch.ttarch - 221388
+Fri 11 May 12:34:43 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\Pack\default\0_99_patch.ttarch - 493628
+Fri 11 May 12:38:07 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\Pack\default\1_WalkingDead101_english_pc_anichore.ttarch - 55061800
+Fri 11 May 12:35:23 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\Pack\default\2_WalkingDead101_english_pc_data.ttarch - 4062949
+Fri 11 May 12:55:12 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\Pack\default\3_WalkingDead101_english_pc_voice.ttarch - 64951252
+Fri 11 May 12:56:01 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\Pack\default\4_WalkingDead101_english_pc_ms.ttarch - 121815118
+Fri 11 May 1:14:24 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\Pack\default\5_WalkingDead101_english_pc_txmesh.ttarch - 232995234
+Fri 11 May 12:35:52 PM - ProgramFilesX86\Steam\steamapps\common\the walking dead\Pack\default\6_pc_shaders.ttarch - 13096768
+
+UAC Disabled or not present
+

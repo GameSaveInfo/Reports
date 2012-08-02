@@ -1,0 +1,240 @@
+Comments:
+  <game name="DynamiteJack" platform="Windows">
+    <title>Dynamite Jack</title>
+    <location_path environment_variable="appdata" path="Dynamite Jack" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Dynamite Jack
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\dynamite jack
+
+Save Path: 
+AppData\Dynamite Jack
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 202730
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\dynamite jack
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sun 29 Jul 2:11:08 PM - AppData\Dynamite Jack\lsettings.dat - 1024
+Sun 29 Jul 2:10:28 PM - AppData\Dynamite Jack\reliable.db - 3072
+Sun 29 Jul 1:59:31 PM - AppData\Dynamite Jack\shared.db - 6144
+Sun 29 Jul 2:11:08 PM - AppData\Dynamite Jack\social.json-1b7e748d6f6b7d9684b58092b5a258b6 - 118
+Sun 29 Jul 2:11:08 PM - AppData\Dynamite Jack\state.dat - 444104
+Sun 29 Jul 1:59:31 PM - AppData\Dynamite Jack\user.db - 6144
+
+Install Folder Dump: 
+Sun 22 Jul 1:21:51 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\Dynamite Jack.exe - 1918464
+Sun 22 Jul 1:22:04 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\Microsoft.VC90.CRT.manifest - 1857
+Sun 22 Jul 1:22:19 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\msvcm90.dll - 225280
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\msvcp90.dll - 572928
+Sun 22 Jul 1:22:39 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\msvcr90.dll - 655872
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\SDL.dll - 303616
+Sun 22 Jul 1:22:30 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\steam_api.dll - 120616
+Sun 22 Jul 1:21:49 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\UpdateDLLWrapper.dll - 58616
+Sun 22 Jul 1:21:59 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\abandonedmine.map - 1176
+Sun 22 Jul 1:22:10 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\advanced-lab.map - 645
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\alpha.dat - 262144
+Sun 22 Jul 1:22:03 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas1.png - 1742590
+Sun 22 Jul 1:22:00 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas2.png - 1648904
+Sun 22 Jul 1:22:18 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas3.png - 139554
+Sun 22 Jul 1:22:41 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas4.png - 2182118
+Sun 22 Jul 1:22:08 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas5.png - 83364
+Sun 22 Jul 1:22:09 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas6.png - 2672238
+Sun 22 Jul 1:22:41 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas7.png - 1081180
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas8.png - 1628503
+Sun 22 Jul 1:22:31 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\atlas9.png - 229095
+Sun 22 Jul 1:22:34 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\beam.png - 405
+Sun 22 Jul 1:22:31 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\big-tech-cave-crystals.map - 1319
+Sun 22 Jul 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\black.png - 181
+Sun 22 Jul 1:22:09 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\blank.png - 186
+Sun 22 Jul 1:21:50 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\blast1.png - 5463
+Sun 22 Jul 1:22:14 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\blast2.png - 10260
+Sun 22 Jul 1:21:48 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\blast3.png - 5586
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\blast4.png - 5745
+Sun 22 Jul 1:21:44 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\blast5.png - 4695
+Sun 22 Jul 1:22:13 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\box1.png - 6366
+Sun 22 Jul 1:21:49 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\box2.png - 4902
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\box3.png - 3020
+Sun 22 Jul 1:21:52 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\box4.png - 4158
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\castle17.map - 898
+Sun 22 Jul 1:22:06 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\cellblock23.map - 507
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\crystal234.map - 803
+Sun 22 Jul 1:22:18 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\crystalrefinery.map - 678
+Sun 22 Jul 1:21:52 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\dark03.map - 451
+Sun 22 Jul 1:22:27 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\darkness01.map - 496
+Sun 22 Jul 1:21:46 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\data.json - 1202331
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\difficult-cave.map - 439
+Sun 22 Jul 1:21:49 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\dot.png - 1689
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\dualcity.map - 722
+Sun 22 Jul 1:22:09 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\easybomber.map - 687
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\factory-7.map - 837
+Sun 22 Jul 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\fan.png - 1900
+Sun 22 Jul 1:22:09 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\final1.map - 969
+Sun 22 Jul 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\final2.map - 808
+Sun 22 Jul 1:22:37 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\final3c.map - 1589
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\final4.map - 1016
+Sun 22 Jul 1:21:44 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\final7.map - 596
+Sun 22 Jul 1:21:50 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\font1.png - 56819
+Sun 22 Jul 1:22:36 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\font15.png - 46473
+Sun 22 Jul 1:22:26 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\font1s.png - 56819
+Sun 22 Jul 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\font2.png - 29426
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\font2s.png - 29426
+Sun 22 Jul 1:21:49 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\font3.png - 20402
+Sun 22 Jul 1:22:06 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\gameinfo.db - 55296
+Sun 22 Jul 1:22:23 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\guard.png - 572410
+Sun 22 Jul 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\icon32.bmp - 3126
+Sun 22 Jul 1:22:38 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\icon512a.icns - 542368
+Sun 22 Jul 1:22:37 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\instawin.map - 336
+Sun 22 Jul 1:22:10 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\intro-take-5.map - 593
+Sun 22 Jul 1:22:07 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\intro.ivf - 3702942
+Sun 22 Jul 1:22:31 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\lab55.map - 638
+Sun 22 Jul 1:21:43 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\large-castle.map - 1133
+Sun 22 Jul 1:21:48 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\laser-lab.map - 670
+Sun 22 Jul 1:21:56 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\laser.png - 80449
+Sun 22 Jul 1:22:03 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\main.db - 0
+Sun 22 Jul 1:21:48 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\map1.dat - 980
+Sun 22 Jul 1:21:51 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\map2.dat - 565
+Sun 22 Jul 1:22:19 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\map3.dat - 629
+Sun 22 Jul 1:21:47 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\map4.dat - 1185
+Sun 22 Jul 1:22:26 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\map5.dat - 854
+Sun 22 Jul 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-intro.ogg - 1340923
+Sun 22 Jul 1:22:29 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-menus.ogg - 3054663
+Sun 22 Jul 1:22:37 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-outro.ogg - 1966031
+Sun 22 Jul 1:21:49 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-play1.ogg - 1965597
+Sun 22 Jul 1:22:32 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-play2.ogg - 2357348
+Sun 22 Jul 1:22:27 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-play3.ogg - 2776423
+Sun 22 Jul 1:21:56 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-play4.ogg - 1676677
+Sun 22 Jul 1:22:08 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-play5.ogg - 2167857
+Sun 22 Jul 1:22:30 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-play6.ogg - 2252002
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\mus-select.ogg - 2680678
+Sun 22 Jul 1:21:59 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\outro.ivf - 3703630
+Sun 22 Jul 1:22:34 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\palace89.map - 962
+Sun 22 Jul 1:22:19 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\player.png - 560392
+Sun 22 Jul 1:22:19 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\prison1.map - 520
+Sun 22 Jul 1:22:13 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-battery.wav - 76564
+Sun 22 Jul 1:22:05 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-blast-guard.wav - 345036
+Sun 22 Jul 1:22:19 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-blast-laser.wav - 417216
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-blast-sniper.wav - 360368
+Sun 22 Jul 1:21:43 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-blast-zombie.wav - 430772
+Sun 22 Jul 1:22:16 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-blast.wav - 1382374
+Sun 22 Jul 1:21:52 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-bomb-drop.wav - 227372
+Sun 22 Jul 1:22:28 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-bomb-get.wav - 237612
+Sun 22 Jul 1:22:37 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-bomb-step.wav - 224020
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-bomb.wav - 21550
+Sun 22 Jul 1:21:43 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-cartridge-get.wav - 218772
+Sun 22 Jul 1:22:08 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-click.wav - 64556
+Sun 22 Jul 1:22:30 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-death.wav - 114732
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-detonator-get.wav - 233400
+Sun 22 Jul 1:21:49 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-detonator-missing.wav - 203636
+Sun 22 Jul 1:22:31 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-detonator-use.wav - 206764
+Sun 22 Jul 1:21:44 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-blast.wav - 184420
+Sun 22 Jul 1:21:44 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-guard.wav - 394572
+Sun 22 Jul 1:22:18 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-laser.wav - 395572
+Sun 22 Jul 1:22:03 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-pit.wav - 465500
+Sun 22 Jul 1:21:44 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-scream1.wav - 385068
+Sun 22 Jul 1:22:08 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-scream2.wav - 325676
+Sun 22 Jul 1:22:23 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-scream3.wav - 437804
+Sun 22 Jul 1:22:14 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-scream4.wav - 329852
+Sun 22 Jul 1:22:34 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-scream5.wav - 385068
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-sniper.wav - 317776
+Sun 22 Jul 1:22:26 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-spider.wav - 317800
+Sun 22 Jul 1:21:50 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-die-zombie.wav - 367744
+Sun 22 Jul 1:22:25 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-exit.wav - 412668
+Sun 22 Jul 1:22:09 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-flashlight-get.wav - 191920
+Sun 22 Jul 1:22:30 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-flashlight-missing.wav - 184420
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-flashlight-off.wav - 47148
+Sun 22 Jul 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-flashlight-on.wav - 43052
+Sun 22 Jul 1:22:37 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-game-quit.wav - 184420
+Sun 22 Jul 1:22:28 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-game-start.wav - 184420
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-guard-alert.wav - 249824
+Sun 22 Jul 1:22:03 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-guard-run.wav - 184420
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-guard-turn.wav - 184420
+Sun 22 Jul 1:21:50 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-guard-walk.wav - 184420
+Sun 22 Jul 1:22:35 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-guard.wav - 256044
+Sun 22 Jul 1:22:21 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-gui-change.wav - 236576
+Sun 22 Jul 1:21:52 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-gui-click.wav - 328140
+Sun 22 Jul 1:22:06 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-gui-crackle.wav - 184420
+Sun 22 Jul 1:22:19 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-gui-down.wav - 184420
+Sun 22 Jul 1:22:22 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-gui-enter.wav - 307884
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-jewel-get.wav - 76564
+Sun 22 Jul 1:22:26 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-keycard-get.wav - 226920
+Sun 22 Jul 1:22:32 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-laser-hum.wav - 184420
+Sun 22 Jul 1:22:28 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-light-crackle.wav - 184420
+Sun 22 Jul 1:22:24 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-lock-locked.wav - 258784
+Sun 22 Jul 1:21:44 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-lock-unlock.wav - 249096
+Sun 22 Jul 1:22:11 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-map-enter.wav - 184420
+Sun 22 Jul 1:22:07 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-map-locked.wav - 184420
+Sun 22 Jul 1:22:31 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-map-play.wav - 184420
+Sun 22 Jul 1:21:55 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-map-scroll.wav - 218412
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-map-select.wav - 184420
+Sun 22 Jul 1:21:46 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-menu.wav - 101420
+Sun 22 Jul 1:22:09 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-minimap-close.wav - 184420
+Sun 22 Jul 1:22:13 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-minimap-open.wav - 184420
+Sun 22 Jul 1:22:29 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-off.wav - 47148
+Sun 22 Jul 1:21:50 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-on.wav - 43052
+Sun 22 Jul 1:21:55 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-ping.wav - 52964
+Sun 22 Jul 1:22:19 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-pit.wav - 207918
+Sun 22 Jul 1:22:04 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-player-walk.wav - 184420
+Sun 22 Jul 1:22:18 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-quiet.wav - 368684
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-ready.wav - 129206
+Sun 22 Jul 1:21:52 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-replay-faster.wav - 184420
+Sun 22 Jul 1:22:08 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-replay-slower.wav - 184420
+Sun 22 Jul 1:21:44 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-savept-detonator.wav - 184420
+Sun 22 Jul 1:22:26 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-savept-loop.wav - 184420
+Sun 22 Jul 1:22:30 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-savept-restore.wav - 758828
+Sun 22 Jul 1:21:47 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-savept-save.wav - 276156
+Sun 22 Jul 1:21:59 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-shoot.wav - 301102
+Sun 22 Jul 1:22:09 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-silence.wav - 184420
+Sun 22 Jul 1:22:31 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-sniper-alert.wav - 184420
+Sun 22 Jul 1:22:17 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-sniper-turn.wav - 184420
+Sun 22 Jul 1:21:48 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-sniper-walk.wav - 184420
+Sun 22 Jul 1:22:32 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-spider-alert.wav - 604712
+Sun 22 Jul 1:21:43 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-spider-walk.wav - 184420
+Sun 22 Jul 1:22:13 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-tech-blast.wav - 94106
+Sun 22 Jul 1:22:15 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-tech-hint.wav - 184420
+Sun 22 Jul 1:21:59 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-tech-locked.wav - 213528
+Sun 22 Jul 1:22:06 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-tech-unlock.wav - 505516
+Sun 22 Jul 1:22:15 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-trans-bzoom.wav - 184420
+Sun 22 Jul 1:22:29 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-trans-fade.wav - 220964
+Sun 22 Jul 1:22:22 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-trans-zoom.wav - 184420
+Sun 22 Jul 1:22:30 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-win.wav - 100396
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-zombie-growl.wav - 330644
+Sun 22 Jul 1:22:13 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sfx-zombie-walk.wav - 184420
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\smallbomber.map - 779
+Sun 22 Jul 1:22:06 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\smallgenerator.map - 473
+Sun 22 Jul 1:21:47 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\sniper.png - 196981
+Sun 22 Jul 1:22:11 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\space-ship.map - 571
+Sun 22 Jul 1:22:11 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\spider.png - 271127
+Sun 22 Jul 1:21:52 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\square-donut-castle.map - 377
+Sun 22 Jul 1:22:34 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\square-mini-maze.map - 563
+Sun 22 Jul 1:22:03 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\stealthgems.map - 1772
+Sun 22 Jul 1:22:31 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\the-core.map - 738
+Sun 22 Jul 1:21:45 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\the-halls.map - 805
+Sun 22 Jul 1:22:33 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\triplelab.map - 507
+Sun 22 Jul 1:22:03 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\unobtainium.map - 1047
+Sun 22 Jul 1:21:50 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\white.png - 224
+Sun 22 Jul 1:22:11 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\windswept.map - 597
+Sun 22 Jul 1:22:11 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\x.map - 336
+Sun 22 Jul 1:21:46 PM - ProgramFilesX86\Steam\steamapps\common\dynamite jack\data\zombie.png - 640049
+
+UAC Disabled or not present
+

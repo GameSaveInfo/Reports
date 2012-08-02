@@ -1,0 +1,214 @@
+Comments:
+  <game name="TitanAttacks" platform="Steam">
+    <title>Titan Attacks!</title>
+    <location_path environment_variable="steamuserdata" path="203210" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+  
+  
+Game Name: Titan Attacks!
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\titan attacks
+
+Save Path: 
+ProgramFilesX86\Steam\userdata\********\203210
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 203210
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\titan attacks
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Fri 11 May 12:31:24 PM - ProgramFilesX86\Steam\userdata\********\203210\remotecache.vdf - 555
+Tue 08 May 9:01:12 PM - ProgramFilesX86\Steam\userdata\********\203210\remote\.titan_attacks_2.00\hiscores.dat - 462
+Tue 08 May 8:47:33 PM - ProgramFilesX86\Steam\userdata\********\203210\remote\.titan_attacks_2.00\prefs.xml - 4908
+
+Install Folder Dump: 
+Fri 04 May 9:53:28 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\common.jar - 268948
+Fri 04 May 9:53:22 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\data-steam.jar - 189932
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\fonts.jar - 21383
+Fri 04 May 9:54:09 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\fx-mono.jar - 730185
+Fri 04 May 9:53:32 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\fx-stereo.jar - 751662
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\gamecommerce.jar - 53657
+Fri 04 May 9:54:06 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\gfx.jar - 8285193
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\images.jar - 47048
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\jinput-dx8.dll - 61952
+Fri 04 May 9:53:38 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\jinput-raw.dll - 59392
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\jinput.jar - 214859
+Fri 04 May 9:53:52 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\jorbis.jar - 64387
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lwjgl.dll - 286720
+Fri 04 May 9:53:22 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lwjgl.jar - 921921
+Fri 04 May 9:53:25 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lwjgl_util.jar - 174502
+Fri 04 May 9:53:24 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\msvcr100.dll - 770384
+Fri 04 May 9:53:53 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\msvcr71.dll - 348160
+Fri 04 May 9:54:05 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\music.jar - 5943024
+Fri 04 May 9:53:56 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\OpenALSoft32.dll - 177152
+Fri 04 May 9:53:47 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\spgl-lite.jar - 424508
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\steampuppy-public.jar - 53575
+Fri 04 May 9:53:46 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\Steampuppy.dll - 112640
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\steampuppy.jar - 34140
+Fri 04 May 9:53:22 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\steam_api.dll - 120616
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\TitanAttacks.exe - 69632
+Fri 04 May 9:53:50 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\TitanAttacks.jar - 185366
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\awt.dll - 1168256
+Fri 04 May 9:53:56 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\axbridge.dll - 133520
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\dcpr.dll - 141192
+Fri 04 May 9:53:25 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\deploy.dll - 200072
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\deployJava1.dll - 544656
+Fri 04 May 9:53:49 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\dt_shmem.dll - 24464
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\dt_socket.dll - 20880
+Fri 04 May 9:53:22 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\eula.dll - 107912
+Fri 04 May 9:53:33 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\fontmanager.dll - 163728
+Fri 04 May 9:53:31 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\hprof.dll - 131464
+Fri 04 May 9:53:21 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\instrument.dll - 113552
+Fri 04 May 9:53:59 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\j2pcsc.dll - 15240
+Fri 04 May 9:53:21 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\j2pkcs11.dll - 49552
+Fri 04 May 9:53:23 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jaas_nt.dll - 18824
+Fri 04 May 9:53:24 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\java.dll - 119176
+Fri 04 May 9:53:22 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\java_crw_demo.dll - 22424
+Fri 04 May 9:53:37 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jawt.dll - 13192
+Fri 04 May 9:53:23 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\JdbcOdbc.dll - 44944
+Fri 04 May 9:53:54 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jdwp.dll - 163720
+Fri 04 May 9:53:33 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jli.dll - 140672
+Fri 04 May 9:53:40 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jp2iexp.dll - 143240
+Fri 04 May 9:54:01 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jp2native.dll - 15760
+Fri 04 May 9:53:40 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jp2ssv.dll - 57224
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jpeg.dll - 144264
+Fri 04 May 9:53:21 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jpicom.dll - 92552
+Fri 04 May 9:54:03 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jpiexp.dll - 136584
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jpinscp.dll - 102792
+Fri 04 May 9:53:35 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jpioji.dll - 67976
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jpishare.dll - 134544
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jsdt.dll - 15752
+Fri 04 May 9:53:24 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jsound.dll - 30088
+Fri 04 May 9:53:28 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\jsoundds.dll - 26512
+Fri 04 May 9:53:30 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\kcms.dll - 177032
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\management.dll - 30608
+Fri 04 May 9:54:07 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\mlib_image.dll - 572816
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\msvcr100.dll - 770384
+Fri 04 May 9:53:32 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\net.dll - 74112
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\nio.dll - 49536
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\npdeployJava1.dll - 611224
+Fri 04 May 9:53:32 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\npjpi170_01.dll - 162192
+Fri 04 May 9:53:28 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\npoji610.dll - 159632
+Fri 04 May 9:53:35 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\npt.dll - 16768
+Fri 04 May 9:54:10 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\rmi.dll - 12672
+Fri 04 May 9:53:37 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\splashscreen.dll - 166808
+Fri 04 May 9:53:24 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\ssv.dll - 336768
+Fri 04 May 9:53:49 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\sunec.dll - 122760
+Fri 04 May 9:53:37 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\sunmscapi.dll - 24464
+Fri 04 May 9:54:02 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\t2k.dll - 190848
+Fri 04 May 9:53:54 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\unpack.dll - 56712
+Fri 04 May 9:53:24 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\verify.dll - 38792
+Fri 04 May 9:53:58 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\w2k_lsa_auth.dll - 20376
+Fri 04 May 9:53:23 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\wsdetect.dll - 137616
+Fri 04 May 9:53:40 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\zip.dll - 65920
+Fri 04 May 9:54:10 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\server\jvm.dll - 5112192
+Fri 04 May 9:53:28 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\bin\server\Xusage.txt - 1447
+Fri 04 May 9:53:22 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\jinput_license.txt - 1958
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\jogl_license.txt - 8274
+Fri 04 May 9:53:32 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\jvm_COPYRIGHT.txt - 3409
+Fri 04 May 9:53:31 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\jvm_README.txt - 16224
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\jvm_THIRDPARTYLICENSEREADME.txt - 77
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\lwjgl_CREDITS.txt - 1274
+Fri 04 May 9:53:33 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\lwjgl_LICENSE.txt - 1661
+Fri 04 May 9:53:29 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\lwjgl_README.txt - 1935
+Fri 04 May 9:53:52 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\lzma_license.txt - 583
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\doc\openal_license.txt - 23681
+Fri 04 May 9:53:24 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\alt-rt.jar - 123544
+Fri 04 May 9:53:28 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\calendars.properties - 1232
+Fri 04 May 9:54:14 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\charsets.jar - 3509870
+Fri 04 May 9:53:37 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\content-types.properties - 5483
+Fri 04 May 9:54:05 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\currency.data - 4073
+Fri 04 May 9:54:07 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy.jar - 3673208
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\flavormap.properties - 3928
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fontconfig.bfc - 3670
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fontconfig.properties.src - 10479
+Fri 04 May 9:53:45 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\javaws.jar - 866027
+Fri 04 May 9:53:28 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\jce.jar - 108618
+Fri 04 May 9:53:30 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\jsse.jar - 519572
+Fri 04 May 9:53:37 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\jvm.hprof.txt - 4226
+Fri 04 May 9:53:32 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\logging.properties - 2455
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\management-agent.jar - 385
+Fri 04 May 9:53:43 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\net.properties - 3070
+Fri 04 May 9:53:38 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\plugin.jar - 1812538
+Fri 04 May 9:53:23 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\psfont.properties.ja - 2796
+Fri 04 May 9:53:30 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\psfontj2d.properties - 10393
+Fri 04 May 9:53:23 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\resources.jar - 2464197
+Fri 04 May 9:54:21 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\rt.jar - 51748366
+Fri 04 May 9:53:33 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\sound.properties - 1210
+Fri 04 May 9:53:34 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\cmm\CIEXYZ.pf - 51236
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\cmm\GRAY.pf - 632
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\cmm\LINEAR_RGB.pf - 1044
+Fri 04 May 9:53:29 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\cmm\PYCC.pf - 274474
+Fri 04 May 9:53:37 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\cmm\sRGB.pf - 3144
+Fri 04 May 9:53:31 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\ffjcext.zip - 18504
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages.properties - 2860
+Fri 04 May 9:53:23 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_de.properties - 3307
+Fri 04 May 9:53:43 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_es.properties - 3603
+Fri 04 May 9:53:21 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_fr.properties - 3409
+Fri 04 May 9:54:05 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_it.properties - 3223
+Fri 04 May 9:53:37 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_ja.properties - 6563
+Fri 04 May 9:53:23 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_ko.properties - 5718
+Fri 04 May 9:54:06 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_pt_BR.properties - 3346
+Fri 04 May 9:53:43 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_sv.properties - 3409
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_zh_CN.properties - 4084
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_zh_HK.properties - 3770
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\messages_zh_TW.properties - 3770
+Fri 04 May 9:53:21 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\splash.gif - 13959
+Fri 04 May 9:53:32 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\jqs\jqs.conf - 40814
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\deploy\jqs\jqsmessages.properties - 1720
+Fri 04 May 9:53:32 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\ext\dnsns.jar - 8934
+Fri 04 May 9:53:33 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\ext\localedata.jar - 1009967
+Fri 04 May 9:53:25 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\ext\sunec.jar - 15817
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\ext\sunjce_provider.jar - 198063
+Fri 04 May 9:53:44 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\ext\sunmscapi.jar - 30518
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\ext\sunpkcs11.jar - 237686
+Fri 04 May 9:53:38 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\ext\zipfs.jar - 68502
+Fri 04 May 9:53:32 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fonts\LucidaBrightDemiBold.ttf - 75144
+Fri 04 May 9:53:31 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fonts\LucidaBrightDemiItalic.ttf - 75124
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fonts\LucidaBrightItalic.ttf - 80856
+Fri 04 May 9:53:53 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fonts\LucidaBrightRegular.ttf - 344908
+Fri 04 May 9:53:45 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fonts\LucidaSansDemiBold.ttf - 317896
+Fri 04 May 9:53:50 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fonts\LucidaSansRegular.ttf - 698236
+Fri 04 May 9:53:24 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fonts\LucidaTypewriterBold.ttf - 234068
+Fri 04 May 9:54:08 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\fonts\LucidaTypewriterRegular.ttf - 242700
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\i386\jvm.cfg - 686
+Fri 04 May 9:53:25 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\images\cursors\cursors.properties - 1280
+Fri 04 May 9:53:49 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\images\cursors\invalid32x32.gif - 153
+Fri 04 May 9:54:08 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\images\cursors\win32_CopyDrop32x32.gif - 165
+Fri 04 May 9:53:31 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\images\cursors\win32_CopyNoDrop32x32.gif - 153
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\images\cursors\win32_LinkDrop32x32.gif - 168
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\images\cursors\win32_LinkNoDrop32x32.gif - 153
+Fri 04 May 9:53:37 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\images\cursors\win32_MoveDrop32x32.gif - 147
+Fri 04 May 9:53:31 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\images\cursors\win32_MoveNoDrop32x32.gif - 153
+Fri 04 May 9:53:36 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\management\jmxremote.access - 3998
+Fri 04 May 9:53:22 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\management\jmxremote.password.template - 2856
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\management\management.properties - 14097
+Fri 04 May 9:53:39 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\management\snmp.acl.template - 3376
+Fri 04 May 9:53:34 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\security\java.policy - 2254
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\security\java.security - 14941
+Fri 04 May 9:53:21 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\security\javaws.policy - 98
+Fri 04 May 9:53:27 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\security\local_policy.jar - 2971
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\security\trusted.libraries - 14189
+Fri 04 May 9:53:20 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\security\US_export_policy.jar - 2487
+Fri 04 May 9:53:42 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\servicetag\jdk_header.png - 8705
+Fri 04 May 9:53:26 PM - ProgramFilesX86\Steam\steamapps\common\titan attacks\lib\servicetag\registration.xml - 1553
+
+UAC Disabled or not present
+

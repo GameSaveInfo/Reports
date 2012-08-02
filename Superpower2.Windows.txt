@@ -1,0 +1,492 @@
+Comments:
+  <game name="Superpower2" platform="Windows">
+    <title>Superpower 2</title>
+    <location_registry root="current_user" key="Software\GolemLabs\Superpower2" value="Installdir" />
+    <save path="MODS\SP2\save" />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Superpower 2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Dreamcatcher\Superpower 2
+
+Save Path: 
+ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\save
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-2903464402-2387730440-2190293281-1000\{A681399D-89E0-455E-9429-F6A310855647}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\Dreamcatcher\Superpower 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\S-1-5-21-2903464402-2387730440-2190293281-1000\{A681399D-89E0-455E-9429-F6A310855647}
+Value: AppExePath
+Data: Sun 03 Apr 2:44:00 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\joshua.exe - 81920
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{078FCE7A-BAC4-4111-8903-EF635654E919}
+Value: InstallLocation
+Data: ProgramFilesX86\Dreamcatcher\Superpower 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{078FCE7A-BAC4-4111-8903-EF635654E919}
+Value: Readme
+Data: Fri 29 Jun 4:04:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\ReadMe.txt - 22106
+Current User Registry Entries: 
+
+Key:HKEY_CURRENT_USER\Software\GolemLabs\Superpower2
+Value: Installdir
+Data: ProgramFilesX86\Dreamcatcher\Superpower 2
+
+Detected Start Menu Shortcuts: 
+Wed 04 Jul 11:57:32 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Dreamcatcher\Superpower 2\Configure GFX.lnk - 2064
+Fri 29 Jun 4:04:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\video_config.exe - 245760
+Wed 04 Jul 11:57:32 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Dreamcatcher\Superpower 2\Readme.lnk - 2020
+Fri 29 Jun 4:04:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\readme.txt - 22106
+Wed 04 Jul 11:57:32 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Dreamcatcher\Superpower 2\Superpower 2 Manual.lnk - 2043
+Mon 27 Sep 9:08:54 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\SP2Manual.pdf - 2948088
+Wed 04 Jul 11:57:32 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Dreamcatcher\Superpower 2\Superpower 2.lnk - 2112
+Sun 03 Apr 2:44:00 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\joshua.exe - 81920
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sat 21 Jul 2:12:14 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\save\Start.gsc - 291
+Sat 21 Jul 2:12:14 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\save\Start.gss - 5306929
+
+Install Folder Dump: 
+Sat 21 Jul 2:11:28 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\database_fb.log - 2
+Tue 14 Sep 12:04:24 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\directx.url - 292
+Tue 20 Jul 4:20:18 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\Dreamcatcher.url - 88
+Wed 11 Aug 8:52:36 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\fbclient.dll - 1519694
+Fri 06 Jun 2:42:02 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\firebird.conf - 16377
+Fri 06 Jun 2:42:02 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\firebird.msg - 131836
+Tue 28 Sep 6:24:08 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\gamespy.url - 187
+Wed 25 Jun 1:28:44 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\gds32.dll - 36864
+Sun 03 Apr 3:50:08 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\ginger_sdk.dll - 745472
+Mon 19 Jul 1:37:00 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\GOLEMLAB.lck - 262144
+Tue 20 Jul 4:20:40 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\GolemLabs.url - 80
+Mon 27 Sep 9:25:28 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\golemlabsnet.url - 80
+Wed 11 Aug 8:52:36 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\ib_util.dll - 24576
+Thu 05 Jul 12:05:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\joshua.cfg - 596
+Sun 03 Apr 2:44:00 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\joshua.exe - 81920
+Sat 21 Jul 2:12:20 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\Joshua_Client.log - 7710
+Sat 21 Jul 2:12:14 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\Joshua_Server.log - 4868
+Tue 18 Mar 7:14:52 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\msvcp71.dll - 499712
+Fri 21 Feb 3:42:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\msvcr71.dll - 348160
+Fri 29 Jun 4:04:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\protect.dll - 4303370
+Fri 29 Jun 4:04:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\readme.txt - 22106
+Tue 28 Sep 3:02:48 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\sp2.ico - 2238
+Mon 27 Sep 9:08:54 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\SP2Manual.pdf - 2948088
+Tue 10 Aug 9:23:44 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\unicows.dll - 245408
+Fri 29 Jun 4:04:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\video_config.exe - 245760
+Sat 21 Jul 2:12:20 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\window.log - 3494
+Tue 18 Mar 10:11:10 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\xerces-c_2_1_0.dll - 1859584
+Wed 17 Dec 11:47:52 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\Behavior.xml - 1284
+Fri 29 Jun 4:04:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\client.dll - 2084864
+Fri 29 Jun 4:04:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\ehe_entities.xml - 409167
+Fri 29 Jun 4:04:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\modinfo.xml - 272
+Fri 29 Jun 4:04:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\server.dll - 1138688
+Thu 30 Sep 2:17:06 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\sp2.glm - 544094920
+Fri 29 Jun 4:04:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\sp2_cfg_client.xml - 8629
+Fri 29 Jun 4:04:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\sp2_cfg_server.xml - 2426
+Sat 21 Jul 2:12:20 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\DATABASE.GDB - 9125888
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\dialogs.gml - 3383901
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\StringTable.english.gst - 976266
+Fri 29 Jun 4:04:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\AdaptiveMusics.xml - 4768
+Wed 29 Sep 11:16:16 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031006q4T\031006q4T1.wav - 5777232
+Wed 29 Sep 11:16:20 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031006q4T\031006q4T2.wav - 5777232
+Wed 29 Sep 11:16:20 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031006q4T\031006q4T2TOF.wav - 966320
+Wed 29 Sep 11:16:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031006q4T\031006q4T3.wav - 5777232
+Wed 29 Sep 11:16:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031006q4T\031006q4T4.wav - 5777232
+Wed 29 Sep 11:16:30 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031006q4T\031006q4T5.wav - 5777232
+Wed 29 Sep 11:16:54 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031110ccT\031110ccT1.wav - 5084832
+Wed 29 Sep 11:16:58 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031110ccT\031110ccT2.wav - 5084832
+Wed 29 Sep 11:17:00 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031110ccT\031110ccT3.wav - 5084832
+Wed 29 Sep 11:17:04 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031110ccT\031110ccT4.wav - 5084832
+Wed 29 Sep 11:17:06 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M031110ccT\031110ccT5.wav - 5084832
+Wed 29 Sep 11:22:20 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M040122uT\040122uT1.wav - 4053648
+Wed 29 Sep 11:19:18 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M040122uT\040122uT2.wav - 4053648
+Wed 29 Sep 11:19:20 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M040122uT\040122uT3.wav - 4053648
+Wed 29 Sep 11:19:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M040122uT\040122uT4.wav - 4053648
+Wed 29 Sep 11:19:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M040122uT\040122uT5.wav - 4053648
+Wed 29 Sep 11:19:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Loosing\M040122uT\040122uTO.wav - 556324
+Wed 29 Sep 11:16:02 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M030924Z3T\030924z3T1.wav - 4622608
+Wed 29 Sep 11:16:04 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M030924Z3T\030924z3T2.wav - 4622608
+Wed 29 Sep 11:16:06 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M030924Z3T\030924z3T3.wav - 4622608
+Wed 29 Sep 11:16:10 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M030924Z3T\030924z3T4.wav - 4622608
+Wed 29 Sep 11:16:12 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M030924Z3T\030924z3T5.wav - 4622608
+Wed 29 Sep 11:16:12 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M030924Z3T\030924z3TO.wav - 546876
+Wed 29 Sep 11:16:34 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M031010ccT\031010ccT1.wav - 7624612
+Wed 29 Sep 11:16:38 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M031010ccT\031010ccT2.wav - 7624612
+Wed 29 Sep 11:16:42 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M031010ccT\031010ccT3.wav - 7624612
+Wed 29 Sep 11:16:48 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M031010ccT\031010ccT4.wav - 7624612
+Wed 29 Sep 11:16:52 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M031010ccT\031010ccT5.wav - 7624612
+Wed 29 Sep 11:19:48 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040127wT\040127wT1.wav - 4608156
+Wed 29 Sep 11:19:52 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040127wT\040127wT2.wav - 4608156
+Wed 29 Sep 11:19:54 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040127wT\040127wT3.wav - 4608156
+Wed 29 Sep 11:19:56 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040127wT\040127wT4.wav - 4608156
+Wed 29 Sep 11:35:34 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040127wT\040127wTOF.wav - 267808
+Wed 29 Sep 11:20:00 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040722Lona1DD1jT\040722Lona1DD1jT1.wav - 4237712
+Wed 29 Sep 11:20:02 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040722Lona1DD1jT\040722Lona1DD1jT2.wav - 4237712
+Wed 29 Sep 11:20:04 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040722Lona1DD1jT\040722Lona1DD1jT3.wav - 4237712
+Wed 29 Sep 11:20:08 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040722Lona1DD1jT\040722Lona1DD1jT4.wav - 4237712
+Wed 29 Sep 11:20:10 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040722Lona1DD1jT\040722Lona1DD1jT5.wav - 4237712
+Wed 29 Sep 11:20:10 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040722Lona1DD1jT\040722Lona1DD1jTOF.wav - 886112
+Wed 29 Sep 11:20:18 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040724vT\040724vT1.wav - 5119712
+Wed 29 Sep 11:20:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040724vT\040724vT2.wav - 5119712
+Wed 29 Sep 11:20:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040724vT\040724vT3.wav - 5119712
+Wed 29 Sep 11:20:28 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040724vT\040724vT4.wav - 5119712
+Wed 29 Sep 11:20:30 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040724vT\040724vT5.wav - 5119712
+Wed 29 Sep 11:20:32 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040724vT\040724vT5TOnextSong.wav - 709712
+Wed 29 Sep 11:20:34 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040726pT\040726pT1.wav - 5797460
+Wed 29 Sep 11:20:38 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040726pT\040726pT2.wav - 5797460
+Wed 29 Sep 11:20:42 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040726pT\040726pT3.wav - 5797460
+Wed 29 Sep 11:20:44 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040726pT\040726pT4.wav - 5797460
+Wed 29 Sep 11:20:48 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040726pT\040726pT5.wav - 5797460
+Wed 29 Sep 11:20:50 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040726pT\040726pT5T0next.wav - 1118224
+Wed 29 Sep 11:21:08 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040802kT\040802kT1.wav - 5007460
+Wed 29 Sep 11:36:20 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040802kT\040802kT1TOnextSong.wav - 581424
+Wed 29 Sep 11:21:12 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040802kT\040802kT2.wav - 5007460
+Wed 29 Sep 11:21:16 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040802kT\040802kT3.wav - 5007460
+Wed 29 Sep 11:21:18 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040802kT\040802kT4.wav - 5007460
+Wed 29 Sep 11:21:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040802kT\040802kT5.wav - 5007460
+Wed 29 Sep 11:21:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040912Lona2s1k\040912Lona2s1kT1.wav - 4943312
+Wed 29 Sep 11:21:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040912Lona2s1k\040912Lona2s1kT2.wav - 4943312
+Wed 29 Sep 11:21:30 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040912Lona2s1k\040912Lona2s1kT3.wav - 4943312
+Wed 29 Sep 11:21:34 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040912Lona2s1k\040912Lona2s1kT4.wav - 4943312
+Wed 29 Sep 11:21:36 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040912Lona2s1k\040912Lona2s1kT5.wav - 4943312
+Wed 29 Sep 11:21:36 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\M040912Lona2s1k\040912Lona2s1kTOnextSong.wav - 1062512
+Wed 29 Sep 11:21:40 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\MGL030717bbT\GL030717bbT1.wav - 4237712
+Wed 29 Sep 11:21:42 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\MGL030717bbT\GL030717bbT2.wav - 4237712
+Wed 29 Sep 11:21:44 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\MGL030717bbT\GL030717bbT3.wav - 4237712
+Wed 29 Sep 11:21:48 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\MGL030717bbT\GL030717bbT4.wav - 4237712
+Wed 29 Sep 11:21:50 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\MGL030717bbT\GL030717bbT5.wav - 4237712
+Wed 29 Sep 11:21:50 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Main\MGL030717bbT\GL030717bbT5TOF.wav - 581424
+Wed 29 Sep 11:20:16 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Nuclear\M040723kT3NUKE\040723kT3.wav - 9582636
+Wed 29 Sep 11:17:24 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\M040113pT\040113pT1.wav - 7366892
+Wed 29 Sep 11:17:30 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\M040113pT\040113pT2.wav - 7366892
+Wed 29 Sep 11:17:34 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\M040113pT\040113pT3.wav - 7366892
+Wed 29 Sep 11:17:38 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\M040113pT\040113pT4.wav - 7366892
+Wed 29 Sep 11:17:42 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\M040113pT\040113pT5.wav - 7366892
+Wed 29 Sep 11:21:54 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\MGL031017uT1\GL031017uT1.wav - 5119712
+Wed 29 Sep 11:21:56 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\MGL031017uT1\GL031017uT2.wav - 5119712
+Wed 29 Sep 11:21:58 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\MGL031017uT1\GL031017uT3.wav - 5119712
+Wed 29 Sep 11:22:02 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\MGL031017uT1\GL031017uT4.wav - 5119712
+Wed 29 Sep 11:22:06 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\MGL031017uT1\GL031017uT5.wav - 5119712
+Wed 29 Sep 11:37:04 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Sneaky\MGL031017uT1\GL031017uTOF.wav - 535080
+Wed 29 Sep 11:19:28 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040127GL2vT\040127GL2v5T1.wav - 5648912
+Wed 29 Sep 11:19:32 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040127GL2vT\040127GL2v5T2.wav - 5648912
+Wed 29 Sep 11:19:36 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040127GL2vT\040127GL2v5T3.wav - 5648912
+Wed 29 Sep 11:19:38 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040127GL2vT\040127GL2v5T4.wav - 5648912
+Wed 29 Sep 11:19:42 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040127GL2vT\040127GL2v5T5.wav - 5648912
+Wed 29 Sep 11:19:46 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040127GL2vT\040127GL2v5T6.wav - 5648912
+Wed 29 Sep 11:19:46 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040127GL2vT\040127GL2v5T6TO.wav - 533312
+Wed 29 Sep 11:20:52 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040729uT\040729uT1.wav - 5648912
+Wed 29 Sep 11:20:56 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040729uT\040729uT2.wav - 5648912
+Wed 29 Sep 11:21:00 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040729uT\040729uT3.wav - 5648912
+Wed 29 Sep 11:21:02 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040729uT\040729uT4.wav - 5648912
+Wed 29 Sep 11:21:06 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040729uT\040729uT5.wav - 5648912
+Wed 29 Sep 11:21:06 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\adaptivemusic\Winning\M040729uT\040729uTOF.wav - 356912
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\advisor\client_advisor.xml - 1432
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\Combat_Overview\BattleOverview.xml - 36205
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\config\common.xml - 3567
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\cursors\mergeunit.cur - 19720
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\cursors\moveno.cur - 16498
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\cursors\moveunit.cur - 13172
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\cursors\moveunitattack.cur - 26268
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\cursors\moveunitto.cur - 13172
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\map\region.ctr - 44
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\map\region.graph - 5080296
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\military\types_characteristics.xml - 83704
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\military\unit_design.xml - 50569
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\military\unit_types.xml - 7862
+Mon 13 Sep 2:10:42 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\movies\CE.mpg - 20043780
+Mon 13 Sep 2:39:36 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\movies\CM.mpg - 20043780
+Mon 13 Sep 2:22:42 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\movies\CP.mpg - 20043780
+Wed 29 Sep 2:33:56 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\movies\DC.mpg - 3825304
+Wed 29 Sep 2:28:44 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\movies\GOLEM.mpg - 5895988
+Fri 24 Sep 11:46:00 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\movies\SP2.mpg - 54435052
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_01.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_02.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_03.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_04.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_05.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_06.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_07.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_08.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_09.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_10.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_11.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_12.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_13.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_14.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_15.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_16.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_17.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_18.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_19.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_20.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_21.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_22.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_23.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_24.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_25.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_26.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_27.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_28.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_29.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_30.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_31.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_32.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_33.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_34.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_35.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_36.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_37.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_38.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_39.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_40.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_41.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_42.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_43.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_44.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_45.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_46.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_47.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_48.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_49.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_50.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_51.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_52.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_53.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_54.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_55.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_56.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_57.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_58.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_59.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_60.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_61.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_62.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_63.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_64.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_65.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_66.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_67.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_68.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_69.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_70.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_71.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\color\earth_256_72.dds - 65664
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\aa.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ab.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ac.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ad.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ae.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\af.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ag.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ah.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ai.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\aj.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ak.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\al.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ba.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bb.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bc.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bd.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\be.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bf.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bg.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bh.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bi.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bj.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bk.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\bl.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ca.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\cb.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\cc.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\cd.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ce.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\cf.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\cg.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ch.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ci.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\cj.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ck.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\cl.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\da.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\db.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\dc.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\dd.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\de.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\df.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\dg.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\dh.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\di.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\dj.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\dk.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\dl.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ea.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\eb.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ec.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ed.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ee.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ef.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\eg.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\eh.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ei.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ej.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ek.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\el.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fa.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fb.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fc.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fd.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fe.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\ff.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fg.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fh.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fi.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fj.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fk.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\earth\gray\fl.dds - 32896
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_000.ifl - 1184
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_000.jpg - 24579
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_001.jpg - 24552
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_002.jpg - 24524
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_003.jpg - 24717
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_004.jpg - 24869
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_005.jpg - 25248
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_006.jpg - 25294
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_007.jpg - 25042
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_008.jpg - 25119
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_009.jpg - 25244
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_010.jpg - 25324
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_011.jpg - 25163
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_012.jpg - 25057
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_013.jpg - 25183
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_014.jpg - 25166
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_015.jpg - 25124
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_016.jpg - 25039
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_017.jpg - 25023
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_018.jpg - 24986
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_019.jpg - 24974
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_020.jpg - 24945
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_021.jpg - 25052
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_022.jpg - 25029
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_023.jpg - 25129
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_024.jpg - 25183
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_025.jpg - 25210
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_026.jpg - 25228
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_027.jpg - 25270
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_028.jpg - 25269
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_029.jpg - 25291
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_030.jpg - 25285
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_031.jpg - 25293
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_032.jpg - 25230
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_033.jpg - 25247
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_034.jpg - 25189
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_035.jpg - 25227
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_036.jpg - 25255
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_037.jpg - 25254
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_038.jpg - 25224
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_039.jpg - 25304
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_040.jpg - 25247
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_041.jpg - 25276
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_042.jpg - 25262
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_043.jpg - 25255
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_044.jpg - 25254
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_045.jpg - 25243
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_046.jpg - 25225
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_047.jpg - 25195
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_048.jpg - 25215
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_049.jpg - 25329
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_050.jpg - 25355
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_051.jpg - 24444
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_052.jpg - 21224
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_053.jpg - 15573
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_054.jpg - 15215
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_055.jpg - 19848
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_056.jpg - 21629
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_057.jpg - 22596
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_058.jpg - 23332
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_059.jpg - 23830
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_060.jpg - 23808
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_061.jpg - 23355
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_062.jpg - 22654
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_063.jpg - 21611
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_064.jpg - 20201
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_065.jpg - 19072
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_066.jpg - 18489
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_067.jpg - 19092
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_068.jpg - 20228
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_069.jpg - 21648
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_070.jpg - 22581
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_071.jpg - 23345
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_072.jpg - 23806
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\launch_073.jpg - 23794
+Fri 29 Jun 4:15:40 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\data\textures\launch\Thumbs.db - 99328
+Tue 20 Jul 11:21:32 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\connecting_nodes.dat - 212756
+Tue 20 Jul 11:22:22 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\connecting_nodes.idx - 34488
+Tue 20 Jul 11:21:32 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\edges.dat - 4763264
+Tue 20 Jul 11:22:20 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\edges.idx - 44620
+Tue 20 Jul 11:21:32 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\faces.dat - 99132
+Tue 20 Jul 11:22:18 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\faces.idx - 24724
+Tue 20 Jul 11:21:32 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\multifaces.dat - 87244
+Tue 20 Jul 11:22:18 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\multifaces.idx - 10420
+Tue 20 Jul 11:21:32 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\polygons.dat - 267776
+Tue 20 Jul 11:22:18 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\polygons.idx - 24728
+Tue 20 Jul 11:21:32 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\regions.txt - 40230
+Tue 20 Jul 11:22:46 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\admin\spatial_index.idx - 35244
+Fri 07 Nov 5:45:44 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\connecting_nodes.dat - 592724
+Mon 10 Nov 9:35:50 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\connecting_nodes.idx - 114668
+Fri 07 Nov 5:45:44 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\edges.dat - 12204656
+Mon 10 Nov 9:35:48 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\edges.idx - 120084
+Fri 07 Nov 5:45:44 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\faces.dat - 449696
+Mon 10 Nov 9:35:38 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\faces.idx - 112424
+Fri 07 Nov 5:45:44 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\multifaces.dat - 123560
+Mon 10 Nov 9:35:36 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\multifaces.idx - 1856
+Fri 07 Nov 5:45:44 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\polygons.dat - 1025076
+Mon 10 Nov 9:35:42 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\polygons.idx - 112424
+Mon 10 Nov 9:35:52 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\coastlines\spatial_index.idx - 27872
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\config\admin_area_config.xml - 927
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\config\coastlines_config.xml - 982
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\config\elevation_map_config.xml - 577
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\config\inland_water_config.xml - 555
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\config\land_cover_config.xml - 502
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\config\rivers_config.xml - 674
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\config\roads_config.xml - 669
+Wed 07 Apr 9:29:48 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\elevation\elevation.opt.idx - 373248
+Wed 07 Apr 9:29:50 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\elevation\elevation.opt.rle - 145320414
+Wed 07 Apr 9:45:12 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\land_cover\land_cover.opt.idx - 373248
+Wed 07 Apr 9:45:12 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\land_cover\land_cover.opt.rle - 55779238
+Thu 30 Oct 11:18:44 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\land_cover\legend.txt - 693
+Tue 29 Apr 5:24:14 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\rivers\connecting_nodes.dat - 19279528
+Wed 25 Jun 4:53:52 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\rivers\connecting_nodes.idx - 3419516
+Wed 25 Jun 4:54:02 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\rivers\curves.dat - 96936448
+Wed 25 Jun 4:54:02 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\rivers\curves.idx - 2800732
+Wed 25 Jun 3:59:34 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\rivers\spatial_index.idx - 2899160
+Wed 29 Oct 3:40:44 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\roads\connecting_nodes.dat - 8072720
+Wed 29 Oct 4:27:40 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\roads\connecting_nodes.idx - 1179336
+Wed 29 Oct 4:27:48 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\roads\curves.dat - 54575048
+Wed 29 Oct 4:27:46 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\roads\curves.idx - 1677688
+Wed 29 Oct 4:32:04 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\roads\spatial_index.idx - 1759808
+Tue 09 Sep 6:40:26 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\water\lone_areas.dat - 45539620
+Wed 10 Sep 10:35:34 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\water\lone_areas.idx - 992348
+Wed 10 Sep 10:39:36 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\map\water\spatial_index.idx - 1018808
+Sat 21 Jul 2:12:14 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\save\Start.gsc - 291
+Sat 21 Jul 2:12:14 PM - ProgramFilesX86\Dreamcatcher\Superpower 2\MODS\SP2\save\Start.gss - 5306929
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\modules\firebird.dll - 65536
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\modules\GingerGraphicDX.dll - 868352
+Fri 29 Jun 4:04:26 AM - ProgramFilesX86\Dreamcatcher\Superpower 2\modules\GingerSoundDX.dll - 53248
+
+UAC Disabled or not present
+

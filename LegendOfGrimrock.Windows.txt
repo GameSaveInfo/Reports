@@ -1,0 +1,87 @@
+Comments:
+	<game name="LegendsofGrimrock" platform="Windows">
+		<title>Legends of Grimrock</title>
+		<location_path environment_variable="userdocuments" path="Almost Human\Legend of Grimrock" />
+		<save />
+		<contributer>Arc Angel</contributer>
+	</game>
+
+	
+Game Name: Legends of Grimrock
+Operating System: 
+Microsoft Windows NT 6.1.7600.0
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\legend of grimrock
+
+Save Path: 
+UserDocuments\Almost Human\Legend of Grimrock
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 207170
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\legend of grimrock
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Apr 12 7:59:26 PM - UserDocuments\Almost Human\Legend of Grimrock\autosave.sav - 111100
+Apr 11 8:29:19 PM - UserDocuments\Almost Human\Legend of Grimrock\grimrock.cfg - 533
+Apr 11 6:33:45 PM - UserDocuments\Almost Human\Legend of Grimrock\savegame01.sav - 113277
+Apr 11 8:27:47 PM - UserDocuments\Almost Human\Legend of Grimrock\savegame02.sav - 109333
+Apr 12 8:40:27 PM - UserDocuments\Almost Human\Legend of Grimrock\savegame03.sav - 108609
+
+Install Folder Dump: 
+Apr 11 4:08:34 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\FreeImage.dll - 2420736
+Apr 11 5:20:05 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\Grimrock.dat - 695543571
+Apr 11 4:07:23 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\grimrock.exe - 1496064
+Apr 11 4:08:32 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\installscript.vdf - 753
+Apr 11 4:08:26 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\licenses.txt - 34800
+Apr 11 4:07:46 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\lua51.dll - 319488
+Apr 11 4:08:19 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\steam_api.dll - 120616
+Apr 11 4:09:01 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\Legend of Grimrock Graph Paper.pdf - 2731905
+Apr 11 4:08:08 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\Legend of Grimrock Manual.pdf - 2608714
+Apr 11 4:08:42 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\Legend of Grimrock World Map.pdf - 2261915
+Apr 11 4:08:47 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\cinematic\legend_of_grimrock_cinematic_1.jpg - 223532
+Apr 11 4:08:25 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\cinematic\legend_of_grimrock_cinematic_2.jpg - 250397
+Apr 11 4:08:37 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\cinematic\legend_of_grimrock_cinematic_3.jpg - 416876
+Apr 11 4:06:55 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\cinematic\legend_of_grimrock_cinematic_4.jpg - 313227
+Apr 11 4:08:23 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_big_cave_concept.jpg - 64237
+Apr 11 4:08:23 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_cave_test_concept.jpg - 191249
+Apr 11 4:08:19 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_door_lever_concept.jpg - 172169
+Apr 11 4:07:54 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_gateway_concept.jpg - 129944
+Apr 11 4:08:50 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_lava_bridge_concept.jpg - 159115
+Apr 11 4:09:05 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_pathways_concept.jpg - 221792
+Apr 11 4:06:55 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_plant_cave_concept_01.jpg - 94239
+Apr 11 4:07:05 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_plant_cave_concept_02.jpg - 82880
+Apr 11 4:08:10 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_tomb_concept.jpg - 100019
+Apr 11 4:07:05 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\environments\legend_of_grimrock_tunnel_concept.jpg - 251391
+Apr 11 4:06:55 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_crowern_concept.jpg - 98440
+Apr 11 4:08:38 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_crowern_sketch.jpg - 115470
+Apr 11 4:07:10 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_herder_concept_02.jpg - 87748
+Apr 11 4:08:34 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_herder_concept_04.jpg - 90125
+Apr 11 4:08:09 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_herder_concept_06.jpg - 90990
+Apr 11 4:07:18 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_herder_sketch.jpg - 135919
+Apr 11 4:06:39 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_skeleton_warrior_sketch.jpg - 146669
+Apr 11 4:06:29 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_snail_concept.jpg - 73193
+Apr 11 4:06:34 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_snail_sketch.jpg - 101364
+Apr 11 4:07:29 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_tunnel_ogre_concept.jpg - 167108
+Apr 11 4:06:41 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\legend_of_grimrock_uggardian_concept.jpg - 200039
+Apr 11 4:08:23 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\art\monsters\uggardian_sketch.jpg - 138320
+Apr 11 4:08:17 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\photos\AH_team_photo.jpg - 468352
+Apr 11 4:08:21 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\extras\soundtrack\Legend of Grimrock Main Theme.mp3 - 7280986
+Apr 11 4:07:42 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\reslists\precache.lst - 656
+Apr 11 4:07:08 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\reslists\preload.lst - 656
+Apr 11 4:10:04 PM - ProgramFilesX86\Steam\steamapps\common\legend of grimrock\vcredist\vcredist_x86.exe - 4995416
+
+UAC Disabled or not present
+

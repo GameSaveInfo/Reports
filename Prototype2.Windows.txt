@@ -1,0 +1,240 @@
+Comments:
+  <game name="Prototype2" platform="Windows">
+    <title>Prototype 2</title>
+    <location_path environment_variable="userdocuments" path="Activision\Prototype 2" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>  
+
+
+Game Name: Prototype 2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\prototype 2
+
+Save Path: 
+UserDocuments\Activision\Prototype 2
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Activision\Prototype 2
+Value: InstallPath
+Data: ProgramFilesX86\Steam\steamapps\common\prototype 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Activision\Prototype 2
+Value: SPExePath
+Data: Tue 24 Jul 1:14:29 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\prototype2.exe - 3044352
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 115320
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\prototype 2
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Tue 24 Jul 8:43:02 PM - UserDocuments\Activision\Prototype 2\profile.bin - 6424
+Tue 24 Jul 9:01:04 PM - UserDocuments\Activision\Prototype 2\slot-A.bin - 53528
+Tue 24 Jul 9:02:46 PM - UserDocuments\Activision\Prototype 2\slot-B.bin - 53528
+
+Install Folder Dump: 
+Tue 24 Jul 1:04:02 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\00audio.rcf - 943473625
+Tue 24 Jul 1:05:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\01audio.rcf - 940456722
+Tue 24 Jul 1:06:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\art.rcf - 822485932
+Tue 24 Jul 1:51:58 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\audio_german.rcf - 1965277025
+Tue 24 Jul 1:06:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\binkw32.dll - 226304
+Tue 24 Jul 1:06:27 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\boot.rcf - 237363531
+Tue 24 Jul 1:07:07 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\cells.rcf - 556623905
+Tue 24 Jul 1:13:56 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\cementfiles.p3d - 431
+Tue 24 Jul 8:39:09 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\installscript.vdf - 1365
+Tue 24 Jul 1:07:54 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\movies.rcf - 703684032
+Tue 24 Jul 1:14:29 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\prototype2.exe - 3044352
+Tue 24 Jul 1:14:24 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\prototype2engine.dll - 17340056
+Tue 24 Jul 1:07:54 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\scripts.rcf - 218881
+Tue 24 Jul 1:07:54 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\shaders.rcf - 5818
+Tue 24 Jul 1:14:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\skuinfo.p3d - 172
+Tue 24 Jul 1:07:54 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\steam_api.dll - 124296
+Tue 24 Jul 1:09:05 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\story_a_to_h.rcf - 1092052828
+Tue 24 Jul 1:11:26 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\story_i_to_z.rcf - 1837590420
+Tue 24 Jul 1:13:53 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\woi.rcf - 1386988023
+Tue 24 Jul 1:02:05 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\audio\allobjects.p3d - 4274866
+Tue 24 Jul 1:02:03 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\audio\audio.p3d - 23314
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\readme_English.htm - 35442
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\readme_French.htm - 24367
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\readme_German.htm - 28101
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\readme_Italian.htm - 33168
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\readme_Polish.htm - 27431
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\readme_Russian.htm - 68338
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\readme_Spanish.htm - 23833
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\vcredist_x86.exe - 4216840
+Tue 24 Jul 1:02:05 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2005_d3dx9_25_x64.cab - 1347354
+Tue 24 Jul 1:02:05 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2005_d3dx9_25_x86.cab - 1078962
+Tue 24 Jul 1:02:05 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2006_d3dx9_30_x64.cab - 1397830
+Tue 24 Jul 1:02:06 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2006_d3dx9_30_x86.cab - 1115221
+Tue 24 Jul 1:02:06 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2006_MDX1_x86.cab - 916430
+Tue 24 Jul 1:02:07 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2006_MDX1_x86_Archive.cab - 4162630
+Tue 24 Jul 1:02:07 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2006_XACT_x64.cab - 179133
+Tue 24 Jul 1:02:07 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2006_XACT_x86.cab - 133103
+Tue 24 Jul 1:02:07 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2006_xinput_x64.cab - 87101
+Tue 24 Jul 1:02:07 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Apr2006_xinput_x86.cab - 46010
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\APR2007_d3dx10_33_x64.cab - 698612
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\APR2007_d3dx10_33_x86.cab - 695865
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\APR2007_d3dx9_33_x64.cab - 1607358
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\APR2007_d3dx9_33_x86.cab - 1606039
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\APR2007_XACT_x64.cab - 195766
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\APR2007_XACT_x86.cab - 151225
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\APR2007_xinput_x64.cab - 96817
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\APR2007_xinput_x86.cab - 53302
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2005_d3dx9_27_x64.cab - 1350542
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2005_d3dx9_27_x86.cab - 1077644
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2006_XACT_x64.cab - 182903
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2006_XACT_x86.cab - 137235
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2006_xinput_x64.cab - 87142
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2006_xinput_x86.cab - 46058
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2007_d3dx10_35_x64.cab - 852286
+Tue 24 Jul 1:02:10 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2007_d3dx10_35_x86.cab - 796867
+Tue 24 Jul 1:51:59 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2007_d3dx9_35_x64.cab - 1800160
+Tue 24 Jul 1:02:11 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2007_d3dx9_35_x86.cab - 1708152
+Tue 24 Jul 1:02:11 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2007_XACT_x64.cab - 198096
+Tue 24 Jul 1:02:11 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\AUG2007_XACT_x86.cab - 153012
+Tue 24 Jul 1:02:11 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2008_d3dx10_39_x64.cab - 867612
+Tue 24 Jul 1:02:11 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2008_d3dx10_39_x86.cab - 849167
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2008_d3dx9_39_x64.cab - 1794084
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2008_d3dx9_39_x86.cab - 1464672
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2008_XACT_x64.cab - 121772
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2008_XACT_x86.cab - 92996
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2008_XAudio_x64.cab - 271412
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2008_XAudio_x86.cab - 271038
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_D3DCompiler_42_x64.cab - 919044
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_D3DCompiler_42_x86.cab - 900598
+Tue 24 Jul 1:02:12 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_d3dcsx_42_x64.cab - 3112111
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_d3dcsx_42_x86.cab - 3319740
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_d3dx10_42_x64.cab - 232635
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_d3dx10_42_x86.cab - 192131
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_d3dx11_42_x64.cab - 136301
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_d3dx11_42_x86.cab - 105044
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_d3dx9_42_x64.cab - 930116
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_d3dx9_42_x86.cab - 728456
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_XACT_x64.cab - 122408
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_XACT_x86.cab - 93106
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_XAudio_x64.cab - 273264
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Aug2009_XAudio_x86.cab - 272642
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Dec2005_d3dx9_28_x64.cab - 1357976
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Dec2005_d3dx9_28_x86.cab - 1079456
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\DEC2006_d3dx10_00_x64.cab - 212807
+Tue 24 Jul 1:02:13 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\DEC2006_d3dx10_00_x86.cab - 191720
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\DEC2006_d3dx9_32_x64.cab - 1571154
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\DEC2006_d3dx9_32_x86.cab - 1574376
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\DEC2006_XACT_x64.cab - 192475
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\DEC2006_XACT_x86.cab - 145599
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\DSETUP.dll - 89944
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\dsetup32.dll - 1801048
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\dxdllreg_x86.cab - 42410
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\DXSETUP.exe - 537432
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\dxupdate.cab - 94011
+Tue 24 Jul 1:02:14 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2005_d3dx9_24_x64.cab - 1247499
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2005_d3dx9_24_x86.cab - 1013225
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2006_d3dx9_29_x64.cab - 1362796
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2006_d3dx9_29_x86.cab - 1084720
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2006_XACT_x64.cab - 178359
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2006_XACT_x86.cab - 132409
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\FEB2007_XACT_x64.cab - 194675
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\FEB2007_XACT_x86.cab - 147983
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2010_X3DAudio_x64.cab - 54678
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2010_X3DAudio_x86.cab - 20713
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2010_XACT_x64.cab - 122446
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2010_XACT_x86.cab - 93180
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2010_XAudio_x64.cab - 276960
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Feb2010_XAudio_x86.cab - 277191
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2005_d3dx9_26_x64.cab - 1336002
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2005_d3dx9_26_x86.cab - 1064925
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2006_XACT_x64.cab - 180785
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2006_XACT_x86.cab - 133671
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2007_d3dx10_34_x64.cab - 699044
+Tue 24 Jul 1:02:15 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2007_d3dx10_34_x86.cab - 698472
+Tue 24 Jul 1:02:16 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2007_d3dx9_34_x64.cab - 1607774
+Tue 24 Jul 1:02:16 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2007_d3dx9_34_x86.cab - 1607286
+Tue 24 Jul 1:02:16 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2007_XACT_x64.cab - 197122
+Tue 24 Jul 1:02:16 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2007_XACT_x86.cab - 152909
+Tue 24 Jul 1:02:16 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_d3dx10_38_x64.cab - 867828
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_d3dx10_38_x86.cab - 849919
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_d3dx9_38_x64.cab - 1792608
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_d3dx9_38_x86.cab - 1463878
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_X3DAudio_x64.cab - 55154
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_X3DAudio_x86.cab - 21905
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_XACT_x64.cab - 121054
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_XACT_x86.cab - 93128
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_XAudio_x64.cab - 269628
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\JUN2008_XAudio_x86.cab - 269024
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_D3DCompiler_43_x64.cab - 944460
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_D3DCompiler_43_x86.cab - 931471
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_d3dcsx_43_x64.cab - 752783
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_d3dcsx_43_x86.cab - 762188
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_d3dx10_43_x64.cab - 235955
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_d3dx10_43_x86.cab - 197283
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_d3dx11_43_x64.cab - 138205
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_d3dx11_43_x86.cab - 109445
+Tue 24 Jul 1:02:17 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_d3dx9_43_x64.cab - 937246
+Tue 24 Jul 1:02:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_d3dx9_43_x86.cab - 768036
+Tue 24 Jul 1:02:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_XACT_x64.cab - 124596
+Tue 24 Jul 1:02:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_XACT_x86.cab - 93686
+Tue 24 Jul 1:02:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_XAudio_x64.cab - 277338
+Tue 24 Jul 1:02:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Jun2010_XAudio_x86.cab - 278060
+Tue 24 Jul 1:02:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_d3dx10_37_x64.cab - 844884
+Tue 24 Jul 1:02:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_d3dx10_37_x86.cab - 818260
+Tue 24 Jul 1:02:18 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_d3dx9_37_x64.cab - 1769862
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_d3dx9_37_x86.cab - 1443282
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_X3DAudio_x64.cab - 55058
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_X3DAudio_x86.cab - 21867
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_XACT_x64.cab - 122336
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_XACT_x86.cab - 93734
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_XAudio_x64.cab - 251194
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2008_XAudio_x86.cab - 226250
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_d3dx10_41_x64.cab - 1067160
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_d3dx10_41_x86.cab - 1040745
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_d3dx9_41_x64.cab - 1973702
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_d3dx9_41_x86.cab - 1612446
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_X3DAudio_x64.cab - 54600
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_X3DAudio_x86.cab - 21298
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_XACT_x64.cab - 121506
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_XACT_x86.cab - 92740
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_XAudio_x64.cab - 275044
+Tue 24 Jul 1:02:19 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Mar2009_XAudio_x86.cab - 273018
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2007_d3dx10_36_x64.cab - 864600
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2007_d3dx10_36_x86.cab - 803884
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2007_d3dx9_36_x64.cab - 1802058
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2007_d3dx9_36_x86.cab - 1709360
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\NOV2007_X3DAudio_x64.cab - 46144
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\NOV2007_X3DAudio_x86.cab - 18496
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\NOV2007_XACT_x64.cab - 196762
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\NOV2007_XACT_x86.cab - 148264
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_d3dx10_40_x64.cab - 994154
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_d3dx10_40_x86.cab - 965421
+Tue 24 Jul 1:02:20 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_d3dx9_40_x64.cab - 1906878
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_d3dx9_40_x86.cab - 1550796
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_X3DAudio_x64.cab - 54522
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_X3DAudio_x86.cab - 21851
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_XACT_x64.cab - 121794
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_XACT_x86.cab - 92684
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_XAudio_x64.cab - 273960
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Nov2008_XAudio_x86.cab - 272611
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Oct2005_xinput_x64.cab - 86037
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\Oct2005_xinput_x86.cab - 45359
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\OCT2006_d3dx9_31_x64.cab - 1412902
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\OCT2006_d3dx9_31_x86.cab - 1127217
+Tue 24 Jul 1:02:21 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\OCT2006_XACT_x64.cab - 182361
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\redist\DirectX\OCT2006_XACT_x86.cab - 138017
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\scripts\init.lua - 23464
+Tue 24 Jul 1:02:22 PM - ProgramFilesX86\Steam\steamapps\common\prototype 2\scripts\statsachievements_tod.p3d - 23017
+
+UAC Disabled or not present
+

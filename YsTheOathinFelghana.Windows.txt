@@ -1,0 +1,117 @@
+Comments:
+  <game name="YsTheOathinFelghana" platform="Steam">
+    <title>Ys The Oath in Felghana</title>
+    <location_path environment_variable="steamuserdata" path="207320" />
+    <save />
+    <contributer>Arc Angel</contributer>
+  </game>
+
+
+Game Name: Ys The Oath in Felghana
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana
+
+Save Path: 
+ProgramFilesX86\Steam\userdata\********\207320
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 207320
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Sat 14 Jul 5:16:47 PM - ProgramFilesX86\Steam\userdata\********\207320\remotecache.vdf - 1024
+Thu 12 Jul 10:39:56 PM - ProgramFilesX86\Steam\userdata\********\207320\remote\ysf_00.nacci - 7208
+Thu 12 Jul 10:41:27 PM - ProgramFilesX86\Steam\userdata\********\207320\remote\ysf_01.nacci - 7208
+Thu 12 Jul 10:43:04 PM - ProgramFilesX86\Steam\userdata\********\207320\remote\ysf_02.nacci - 7208
+Thu 12 Jul 10:43:17 PM - ProgramFilesX86\Steam\userdata\********\207320\remote\ysf_win.ini - 2450
+
+Install Folder Dump: 
+Thu 12 Jul 8:05:44 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\common.ini - 178
+Thu 12 Jul 8:07:27 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\config.exe - 3197440
+Thu 12 Jul 8:07:23 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\config_dx9.exe - 3107840
+Thu 12 Jul 8:08:33 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\installscript.vdf - 905
+Thu 12 Jul 8:15:33 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\steam_api.dll - 120616
+Thu 12 Jul 8:15:28 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\ysf_win.exe - 2181632
+Thu 12 Jul 8:10:50 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\ysf_win_dx9.exe - 1966592
+Thu 12 Jul 8:05:59 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\BDANT.cab - 1155491
+Thu 12 Jul 8:08:40 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\BDAXP.cab - 975148
+Thu 12 Jul 8:05:38 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\DSETUP.dll - 89944
+Thu 12 Jul 8:14:13 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\dsetup32.dll - 1801048
+Thu 12 Jul 8:14:32 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\dxdllreg_x86.cab - 42410
+Thu 12 Jul 8:11:20 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\dxnt.cab - 13264168
+Thu 12 Jul 8:08:44 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\DXSETUP.exe - 537432
+Thu 12 Jul 8:08:20 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\dxupdate.cab - 94011
+Thu 12 Jul 8:16:38 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\Jun2010_d3dx9_43_x64.cab - 937246
+Thu 12 Jul 8:13:01 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\dxredist\Jun2010_d3dx9_43_x86.cab - 768036
+Thu 12 Jul 10:15:58 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\data.na - 904081060
+Thu 12 Jul 8:09:49 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\data.ni - 636306
+Thu 12 Jul 8:10:57 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\data.no - 1024
+Thu 12 Jul 8:07:23 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\data.nu - 266620
+Thu 12 Jul 8:19:08 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\data_us.na - 24355561
+Thu 12 Jul 8:05:54 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\data_us.ni - 83805
+Thu 12 Jul 8:08:22 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\data_us.nu - 35540
+Thu 12 Jul 8:18:40 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\im01.dt - 31942660
+Thu 12 Jul 8:13:01 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\im02.dt - 8175372
+Thu 12 Jul 10:18:38 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\im02.fot - 1409
+Thu 12 Jul 8:28:57 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\im03a.dt - 116400132
+Thu 12 Jul 8:17:44 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\logo.avi - 6631428
+Thu 12 Jul 8:30:07 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\opening.avi - 84768772
+Thu 12 Jul 8:05:43 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\bgmdef.txt - 559
+Thu 12 Jul 8:06:25 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG01.ogg - 1115235
+Thu 12 Jul 8:06:25 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG02.ogg - 3735193
+Thu 12 Jul 8:07:15 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG03.ogg - 4024663
+Thu 12 Jul 8:08:12 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG04.ogg - 2110833
+Thu 12 Jul 8:08:11 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG05.ogg - 2698595
+Thu 12 Jul 8:14:20 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG06.ogg - 3674091
+Thu 12 Jul 8:11:02 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG07.ogg - 4111254
+Thu 12 Jul 8:07:22 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG08.ogg - 4725185
+Thu 12 Jul 8:06:31 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG09.ogg - 3384229
+Thu 12 Jul 8:16:20 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG10.ogg - 4934710
+Thu 12 Jul 8:08:06 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG11.ogg - 6667086
+Thu 12 Jul 8:15:23 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG12.ogg - 2071937
+Thu 12 Jul 8:10:46 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG13.ogg - 4528793
+Thu 12 Jul 8:09:40 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG14.ogg - 2065712
+Thu 12 Jul 8:14:55 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG15.ogg - 6442826
+Thu 12 Jul 8:08:31 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG16.ogg - 3039469
+Thu 12 Jul 8:10:04 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG17.ogg - 4852451
+Thu 12 Jul 8:09:17 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG18.ogg - 2082804
+Thu 12 Jul 8:07:17 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG19.ogg - 2144994
+Thu 12 Jul 8:07:26 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG20.ogg - 5270812
+Thu 12 Jul 8:14:36 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG21.ogg - 4922133
+Thu 12 Jul 8:08:55 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG22a.ogg - 4841554
+Thu 12 Jul 8:13:38 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG22b.ogg - 4015
+Thu 12 Jul 8:14:40 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG23.ogg - 1284226
+Thu 12 Jul 8:12:53 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG24.ogg - 7224262
+Thu 12 Jul 8:12:38 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG25.ogg - 7580928
+Thu 12 Jul 8:09:39 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG26.ogg - 5783443
+Thu 12 Jul 8:11:59 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG27.ogg - 2615729
+Thu 12 Jul 8:16:59 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG28.ogg - 4987624
+Thu 12 Jul 8:11:43 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG29.ogg - 2071180
+Thu 12 Jul 8:10:57 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG30.ogg - 4140308
+Thu 12 Jul 8:08:38 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG31.ogg - 3811921
+Thu 12 Jul 8:07:56 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG32.ogg - 6953950
+Thu 12 Jul 8:13:06 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG33.ogg - 4280935
+Thu 12 Jul 8:12:14 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\music\Y3BG34.ogg - 1807125
+Thu 12 Jul 8:10:57 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\programs\ogg.dll - 24576
+Thu 12 Jul 8:13:24 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\programs\vorbis.dll - 106496
+Thu 12 Jul 8:05:40 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\programs\vorbisfile.dll - 36864
+Thu 12 Jul 8:13:14 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\release\programs\wuvorbis.dll - 249856
+Thu 12 Jul 8:05:58 PM - ProgramFilesX86\Steam\steamapps\common\ys the oath in felghana\vsredist\vcredist_x86.exe - 1821192
+
+UAC Disabled or not present
+

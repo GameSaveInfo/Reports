@@ -1,0 +1,147 @@
+Comments:
+  <game name="SeriousSam2" platform="Steam">
+    <title>Serious Sam 2</title>
+    <location_path environment_variable="steamcommon" path="serious sam 2\Content\SeriousSam2" />
+	<save path="PlayerProfiles"/>
+	<save filename="Sam2.ini"/>
+	<contributer>Arc Angel</contributer>
+  </game>
+
+  
+Game Name: Serious Sam 2
+Operating System: 
+Microsoft Windows NT 6.1.7600.0
+
+Install Path: 
+ProgramFilesX86\Steam\steamapps\common\serious sam 2
+
+Save Path: 
+ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 204340
+Value: InstallLocation
+Data: ProgramFilesX86\Steam\steamapps\common\serious sam 2
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+Feb 27 6:35:52 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\Profile.dat - 98304
+Feb 27 6:35:52 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\Profile.txt - 7
+Feb 27 6:37:41 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\SavedGames\QuickSave.nfo - 206
+Feb 27 6:37:41 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\SavedGames\QuickSave.sav - 1312443
+Feb 27 6:37:41 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\SavedGames\QuickSave.sav.preload - 82538
+
+Install Folder Dump: 
+Feb 27 6:38:58 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\All.log - 9196
+Feb 25 4:20:16 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\All_PC_01.gro - 61816682
+Feb 25 9:16:40 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\All_PC_02.gro - 679836627
+Feb 25 10:11:35 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\All_PC_03.gro - 522537990
+Feb 27 6:24:35 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\cdkey.txt - 19
+Feb 25 3:44:20 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\installscript.vdf - 636
+Feb 25 9:24:03 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Movies_PC_01.gro - 675703738
+Feb 25 9:41:12 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Movies_PC_02.gro - 618116247
+Feb 25 4:01:59 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Patch_02_068.gro - 28838283
+Feb 27 6:38:58 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Sam2.log - 9196
+Feb 25 3:42:59 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\CodecOGG.dll - 1191936
+Feb 25 3:52:21 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\Core.dll - 790528
+Feb 25 3:49:42 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\d3dx9_25.dll - 2337488
+Feb 25 3:45:49 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\d3dx9_26.dll - 2297552
+Feb 25 3:50:40 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\d3dx9_27.dll - 2319568
+Feb 25 3:44:22 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\DedicatedServer.exe - 18432
+Feb 25 3:52:55 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Animation.dll - 323584
+Feb 25 3:46:22 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Base.dll - 479232
+Feb 25 3:43:02 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Destruction.dll - 122880
+Feb 25 3:47:28 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Font.dll - 143360
+Feb 25 3:43:08 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Generic.dll - 73728
+Feb 25 3:43:02 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Material.dll - 23552
+Feb 25 3:53:50 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Mechanism.dll - 204800
+Feb 25 3:49:04 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Mesh.dll - 622592
+Feb 25 3:42:53 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Model.dll - 196608
+Feb 25 3:52:06 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Simulation.dll - 126976
+Feb 25 3:44:33 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Skeleton.dll - 163840
+Feb 25 3:44:44 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Text.dll - 86016
+Feb 25 3:43:06 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_Texture.dll - 19456
+Feb 25 3:55:16 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EditKit_World.dll - 147456
+Feb 25 3:44:25 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\Engine.dll - 3424256
+Feb 25 3:44:41 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\EngineGui.dll - 2355200
+Feb 25 3:42:54 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\GfxD3D.dll - 81920
+Feb 25 3:43:01 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\GfxOGL.dll - 73728
+Feb 25 3:43:46 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\GfxSWR.dll - 40960
+Feb 25 3:44:36 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\GPU-Programs.asm - 82917
+Feb 25 3:56:36 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\msvcp71.dll - 499712
+Feb 25 3:44:31 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\msvcr71.dll - 348160
+Feb 25 3:56:11 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\OnlineGS.dll - 94208
+Feb 25 3:43:03 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\ProcRender.dll - 339968
+Feb 25 3:44:32 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\Sam2.exe - 27136
+Feb 25 3:51:15 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\Sam2Game.dll - 5132288
+Feb 25 3:43:25 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\Sam2GameGui.dll - 8192
+Feb 25 3:42:59 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\ScriptLua.dll - 151552
+Feb 25 3:44:39 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\SeCmd.exe - 90112
+Feb 25 3:52:37 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\SeriousEditor2.exe - 1781760
+Feb 25 3:44:32 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\SeriousPlugin4LW.p - 73728
+Feb 25 3:52:28 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\SfxDSD.dll - 15360
+Feb 25 3:45:00 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\SfxOAL.dll - 13824
+Feb 25 3:48:17 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Bin\Shaders.dll - 278528
+Feb 25 3:45:09 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\Installer\DirectX9.0c\BDANT.cab - 1156363
+Feb 25 3:44:20 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\Installer\DirectX9.0c\BDAXP.cab - 976020
+Feb 25 3:42:59 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\Installer\DirectX9.0c\DSETUP.dll - 62976
+Feb 25 3:51:57 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\Installer\DirectX9.0c\dsetup32.dll - 2242560
+Feb 25 3:56:24 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\Installer\DirectX9.0c\dxnt.cab - 13265040
+Feb 25 3:55:53 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\Installer\DirectX9.0c\dxsetup.exe - 472576
+Feb 25 3:49:57 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousEditor2\CustomTrees\Characters.ctr - 1519
+Feb 25 3:45:59 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousEditor2\CustomTrees\Entities.ctr - 8560
+Feb 25 3:50:59 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousEditor2\CustomTrees\Shaders.ctr - 1339
+Feb 25 3:53:12 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\DedicatedServer_ENU.html - 7065
+Feb 25 3:47:06 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\DMMapList.txt - 294
+Feb 25 3:46:42 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\ReadMe_ENU.html - 28314
+Feb 27 6:43:25 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Sam2.ini - 8554
+Feb 25 3:44:26 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Config\SafeMode.cfg - 2974
+Feb 25 3:44:20 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Config\user.cfg - 35
+Feb 25 3:57:02 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Demos\Demo_0001.dem - 2029309
+Feb 25 3:43:41 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Demos\Demo_0001.nfo - 59
+Feb 25 3:45:57 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Demos\Demo_0002.dem - 1052862
+Feb 25 3:55:34 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Demos\Demo_0002.nfo - 57
+Feb 25 3:43:21 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Demos\Demo_0003.dem - 1430104
+Feb 25 3:51:22 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Demos\Demo_0003.nfo - 64
+Feb 25 3:48:53 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSAdvancedOptions.rsc - 6454
+Feb 25 3:54:31 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSAdvancedVideoOptions.rsc - 14168
+Feb 25 3:43:08 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSAudioOptions.rsc - 6464
+Feb 25 3:43:36 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSCallAVote.rsc - 3523
+Feb 25 3:44:48 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSChangeName.rsc - 3458
+Feb 25 3:42:59 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSCooperativeSettings.rsc - 8424
+Feb 25 3:51:25 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSCreateNewProfile.rsc - 3530
+Feb 25 3:56:31 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSCustomizeKeys.rsc - 4055
+Feb 25 3:49:49 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSDeathmatchSettings.rsc - 4964
+Feb 25 3:54:07 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSGamespy.rsc - 5112
+Feb 25 3:50:05 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSItemSettings.rsc - 7246
+Feb 25 3:43:30 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSMultiplayer.rsc - 3648
+Feb 25 3:47:51 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSOptiMatchDetails.rsc - 4104
+Feb 25 3:43:01 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSOptiMatchList.rsc - 5848
+Feb 25 3:53:31 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSPowerupSettings.rsc - 5436
+Feb 25 3:44:22 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSServerList.rsc - 4612
+Feb 25 3:57:00 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSVotingSettings.rsc - 5445
+Feb 25 3:44:53 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CMSWeaponSettings.rsc - 8114
+Feb 25 3:48:44 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CPopupMenuEnterText.rsc - 3188
+Feb 25 3:54:54 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Menus\CPopupMenuEnterTextLarge.rsc - 3253
+Feb 25 3:43:06 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Models\Player\GroovyGregory.dsc - 521
+Feb 25 3:45:07 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\Models\Player\GroovyGregory.nfo - 629
+Feb 27 6:35:52 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\Profile.dat - 98304
+Feb 27 6:35:52 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\Profile.txt - 7
+Feb 27 6:37:41 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\SavedGames\QuickSave.nfo - 206
+Feb 27 6:37:41 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\SavedGames\QuickSave.sav - 1312443
+Feb 27 6:37:41 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Content\SeriousSam2\PlayerProfiles\5458BCCA\SavedGames\QuickSave.sav.preload - 82538
+Feb 25 3:49:05 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Help\SeriousEngineTools.chm - 9066234
+Feb 27 6:38:58 PM - ProgramFilesX86\Steam\steamapps\common\serious sam 2\Temp\ConsoleHistory.txt - 0
+
+UAC Disabled or not present
+
