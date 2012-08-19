@@ -1,0 +1,177 @@
+Game Name: Bobby
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\GamersGate\Nooskewl\Bobby
+
+Save Path: 
+AppData\Nooskewl\Bobby
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Bobby 1.6
+Value: DisplayIcon
+Data: 16.08.2012 04:08:43 - Drive\GamersGate\Nooskewl\Bobby\Uninstall.exe - 64358
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Bobby 1.6
+Value: UninstallString
+Data: 16.08.2012 04:08:43 - Drive\GamersGate\Nooskewl\Bobby\Uninstall.exe - 64358
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+16.08.2012 04:08:42 - AppData\Microsoft\Windows\Start Menu\Programs\Nooskewl\Bobby\Bobby.lnk - 753
+16.01.2012 20:43:30 - Drive\GamersGate\Nooskewl\Bobby\Bobby.exe - 1484288
+16.08.2012 04:08:42 - AppData\Microsoft\Windows\Start Menu\Programs\Nooskewl\Bobby\Uninstall.lnk - 771
+16.08.2012 04:08:43 - Drive\GamersGate\Nooskewl\Bobby\Uninstall.exe - 64358
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+17.08.2012 15:18:26 - AppData\Nooskewl\Bobby\save.txt - 79
+
+Install Folder Dump: 
+26.02.2011 17:27:48 - Drive\GamersGate\Nooskewl\Bobby\bass.dll - 100408
+16.01.2012 20:43:30 - Drive\GamersGate\Nooskewl\Bobby\Bobby.exe - 1484288
+16.08.2012 04:08:43 - Drive\GamersGate\Nooskewl\Bobby\Uninstall.exe - 64358
+16.08.2012 04:08:43 - Drive\GamersGate\Nooskewl\Bobby\Uninstall.ini - 8372
+01.12.2011 12:11:12 - Drive\GamersGate\Nooskewl\Bobby\data\abort_txt.png - 3546
+01.12.2011 12:11:38 - Drive\GamersGate\Nooskewl\Bobby\data\achievements_txt.png - 4238
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\arrow.png - 5749
+06.09.2011 11:20:16 - Drive\GamersGate\Nooskewl\Bobby\data\atlas.png - 167176
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\bg1.png - 22247
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\bink.ogg - 5088
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\blue_button.png - 5136
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\Bobby.ogg - 6233274
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\boing.ogg - 6237
+22.06.2011 23:26:50 - Drive\GamersGate\Nooskewl\Bobby\data\boost.ogg - 27144
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\continue_txt.png - 4980
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\credits_txt.png - 5048
+14.01.2012 09:48:50 - Drive\GamersGate\Nooskewl\Bobby\data\cursor.png - 1347
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\dereka.png - 6259
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\font.ttf - 39052
+17.09.2011 09:14:46 - Drive\GamersGate\Nooskewl\Bobby\data\fullscreen_txt.png - 2625
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\game_center.png - 6282
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\gradient.png - 23355
+14.01.2012 10:11:52 - Drive\GamersGate\Nooskewl\Bobby\data\help_txt.png - 2766
+16.01.2012 18:55:06 - Drive\GamersGate\Nooskewl\Bobby\data\icon-full.png - 5715
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\info.png - 2205
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\intro - 314
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\kitty_txt.png - 4329
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level1.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level10.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level11.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level12.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level13.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level14.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level15.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level16.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level17.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level18.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level19.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level2.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level20.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level21.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level22.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level23.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level24.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level25.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level26.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level27.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level28.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level29.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level3.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level30.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level31.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level32.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level33.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level34.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level35.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level36.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level37.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level38.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level39.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level4.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level40.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level41.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level42.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level43.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level44.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level44b.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level45.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level46.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level47.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level48.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level49.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level5.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level50.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level51.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level52.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level53.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level54.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level55.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level56.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level57.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level58.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level59.txt - 264
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level6.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level60.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level61.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level62.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level63.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level64.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level65.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level66.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level67.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level68.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level69.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level7.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level70.txt - 252
+11.09.2011 17:26:46 - Drive\GamersGate\Nooskewl\Bobby\data\level71.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level72.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level73.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level74.txt - 252
+11.09.2011 23:39:06 - Drive\GamersGate\Nooskewl\Bobby\data\level75.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level8.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\level9.txt - 252
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\lock.png - 8054
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\logo.png - 163831
+10.01.2012 16:35:32 - Drive\GamersGate\Nooskewl\Bobby\data\menu.ogg - 843049
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\menu.png - 173655
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\menu_button.png - 7786
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\meow.ogg - 18046
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\music_txt.png - 4564
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\nooskewl_square.png - 1044
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\orange_button.png - 5278
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\pause.png - 283
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\quit.png - 2696
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\rainbow.png - 615
+01.12.2011 12:11:20 - Drive\GamersGate\Nooskewl\Bobby\data\resume_txt.png - 4004
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\retry.png - 123229
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\retry_button.png - 17420
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\settings_txt.png - 3220
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\sounds_txt.png - 4991
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spiral.ogg - 10657
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\star.png - 5422
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\start.ogg - 15225
+30.09.2011 16:20:56 - Drive\GamersGate\Nooskewl\Bobby\data\story.png - 251048
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\switch.ogg - 7228
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\tinyfont.png - 423
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spacestuff\blackhole.png - 95309
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spacestuff\fireball.png - 47217
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spacestuff\images.png - 28688
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spacestuff\images2.png - 24708
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spacestuff\images3.png - 26182
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spacestuff\images4.png - 29782
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spacestuff\images5.png - 17793
+16.08.2011 13:18:24 - Drive\GamersGate\Nooskewl\Bobby\data\spacestuff\nebula.png - 57881
+
+UAC Enabled
+
+
+VirtualStore Folders: 
