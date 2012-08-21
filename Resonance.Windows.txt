@@ -1,0 +1,106 @@
+Game Name: Resonance
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\GOG.com\Resonance
+
+Save Path:
+SavedGames\Resonance
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{7B1AA518-C1DA-4AEC-850B-F0C6367C1938}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\GOG.com\Resonance
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{7B1AA518-C1DA-4AEC-850B-F0C6367C1938}
+Value: ConfigGDFBinaryPath
+Data: 19/06/2012 14:18:28 - ProgramFilesX86\GOG.com\Resonance\goggame.dll - 248832
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGPACKRESONANCE
+Value: PACKPATH
+Data: ProgramFilesX86\GOG.com\Resonance
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRESONANCE
+Value: EXE
+Data: 13/06/2012 17:13:04 - ProgramFilesX86\GOG.com\Resonance\winsetup.exe - 53274
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRESONANCE
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Resonance
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRESONANCE
+Value: LAUNCHCOMMAND
+Data: 13/06/2012 17:13:04 - ProgramFilesX86\GOG.com\Resonance\winsetup.exe - 53274
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRESONANCE
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Resonance
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Resonance_is1
+Value: Inno Setup: App Path
+Data: ProgramFilesX86\GOG.com\Resonance
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Resonance_is1
+Value: InstallLocation
+Data: ProgramFilesX86\GOG.com\Resonance
+Current User Registry Entries:
+
+Key:HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Applets\Wordpad\Recent File List
+Value: File1
+Data: 14/07/2012 18:47:46 - ProgramFilesX86\GOG.com\Resonance\acsetup.cfg - 319
+
+Detected Start Menu Shortcuts:
+14/07/2012 14:38:53 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Resonance\Resonance.lnk - 2067
+13/06/2012 17:13:04 - ProgramFilesX86\GOG.com\Resonance\winsetup.exe - 53274
+14/07/2012 14:38:53 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Resonance\Uninstall Resonance (full game).lnk - 1087
+14/07/2012 14:37:13 - ProgramFilesX86\GOG.com\Resonance\unins000.exe - 2142547
+14/07/2012 14:38:52 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Resonance\Documents\Readme.lnk - 1165
+18/06/2012 11:00:30 - ProgramFilesX86\GOG.com\Resonance\README.txt - 3254
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+14/07/2012 22:18:00 - SavedGames\Resonance\agssave.001 - 3672981
+14/07/2012 17:20:55 - SavedGames\Resonance\agssave.002 - 1747477
+14/07/2012 18:40:22 - SavedGames\Resonance\agssave.003 - 2201387
+14/07/2012 19:52:08 - SavedGames\Resonance\agssave.004 - 2532052
+14/07/2012 20:25:41 - SavedGames\Resonance\agssave.005 - 3047447
+14/07/2012 22:20:59 - SavedGames\Resonance\agssave.006 - 3673038
+14/07/2012 19:40:46 - SavedGames\Resonance\agssave.100 - 2368861
+14/07/2012 17:52:44 - SavedGames\Resonance\agssave.101 - 1997726
+14/07/2012 20:32:19 - SavedGames\Resonance\agssave.102 - 3047642
+14/07/2012 20:36:19 - SavedGames\Resonance\agssave.103 - 3089367
+14/07/2012 18:47:52 - SavedGames\Resonance\agssave.999 - 1663135
+14/07/2012 22:22:10 - SavedGames\Resonance\prog.res - 38
+
+All files in the save folder must be saved by Masgau.
+
+Install Folder Dump:
+14/07/2012 18:47:46 - ProgramFilesX86\GOG.com\Resonance\acsetup.cfg - 319
+13/06/2012 17:12:56 - ProgramFilesX86\GOG.com\Resonance\audio.vox - 49934037
+01/06/2012 19:50:26 - ProgramFilesX86\GOG.com\Resonance\data.100 - 114
+28/05/2012 12:21:32 - ProgramFilesX86\GOG.com\Resonance\gfw_high.ico - 125393
+19/06/2012 14:18:28 - ProgramFilesX86\GOG.com\Resonance\goggame.dll - 248832
+28/11/2008 22:32:10 - ProgramFilesX86\GOG.com\Resonance\innosetup_license.txt - 1471
+18/06/2012 11:00:30 - ProgramFilesX86\GOG.com\Resonance\README.txt - 3254
+13/06/2012 17:13:04 - ProgramFilesX86\GOG.com\Resonance\Resonance.exe - 849404957
+13/06/2012 15:40:46 - ProgramFilesX86\GOG.com\Resonance\speech.vox - 211934152
+20/04/2010 12:37:04 - ProgramFilesX86\GOG.com\Resonance\Support.ico - 62895
+14/07/2012 14:38:57 - ProgramFilesX86\GOG.com\Resonance\unins000.dat - 56832
+14/07/2012 14:37:13 - ProgramFilesX86\GOG.com\Resonance\unins000.exe - 2142547
+14/07/2012 14:38:54 - ProgramFilesX86\GOG.com\Resonance\unins000.ini - 80
+13/06/2012 17:13:04 - ProgramFilesX86\GOG.com\Resonance\winsetup.exe - 53274
+
+The settings are in the file "acsetup.cfg".
+
+UAC Enabled
+
+
+VirtualStore Folders:
