@@ -23,25 +23,28 @@ Drive Type: Fixed
 Ready Status: True
 
 Save Folder Dump:
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\config.txt - 671
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\met.ini - 27
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\prefs.ini - 74
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\sc.dat - 510
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\tip_pos.ini - 24
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\tutorial_seen.ini - 287
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\um.ini - 255
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\unl.dat - 33
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\debug\debug.txt - 704
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\debug\drawdebug.txt - 2969
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\deployments\tutorial1\deployed.txt - 550
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\deployments\tutorial1\_temp_deployment.txt - 1387
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\deployments\tutorial2\deployed.txt - 550
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\web\gsbcd - 17
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\web\gsbcdu - 7
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\web\messages.txt - 1
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\web\newsdate.ini - 47
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\web\up - 45
-C:\Users\%USERNAME%\Documents\My Games\GratuitousSpaceBattles\web\challenges\challengelist.txt - 247801
+12/08/2012 18:31:37 - UserDocuments\My Games\GratuitousSpaceBattles\config.txt - 761
+08/10/2011 15:32:35 - UserDocuments\My Games\GratuitousSpaceBattles\met.ini - 27
+08/10/2011 15:32:35 - UserDocuments\My Games\GratuitousSpaceBattles\prefs.ini - 74
+08/10/2011 15:38:48 - UserDocuments\My Games\GratuitousSpaceBattles\sc.dat - 3415
+08/10/2011 15:38:59 - UserDocuments\My Games\GratuitousSpaceBattles\tip_pos.ini - 24
+12/08/2012 18:32:01 - UserDocuments\My Games\GratuitousSpaceBattles\tutorial_seen.ini - 358
+12/08/2012 18:32:16 - UserDocuments\My Games\GratuitousSpaceBattles\um.ini - 1117
+08/10/2011 15:38:48 - UserDocuments\My Games\GratuitousSpaceBattles\unl.dat - 34
+12/08/2012 18:32:11 - UserDocuments\My Games\GratuitousSpaceBattles\campaignprogress\default\camp_ui.txt - 549
+12/08/2012 18:31:50 - UserDocuments\My Games\GratuitousSpaceBattles\campaignprogress\default\progress.txt - 230
+12/08/2012 18:32:16 - UserDocuments\My Games\GratuitousSpaceBattles\debug\debug.txt - 3266
+12/08/2012 18:32:17 - UserDocuments\My Games\GratuitousSpaceBattles\debug\drawdebug.txt - 5626
+08/10/2011 15:34:44 - UserDocuments\My Games\GratuitousSpaceBattles\deployments\scenario1\_temp_deployment.txt - 2077
+30/09/2011 13:09:53 - UserDocuments\My Games\GratuitousSpaceBattles\deployments\tutorial1\deployed.txt - 550
+08/10/2011 15:33:15 - UserDocuments\My Games\GratuitousSpaceBattles\deployments\tutorial1\_temp_deployment.txt - 1303
+30/09/2011 13:09:53 - UserDocuments\My Games\GratuitousSpaceBattles\deployments\tutorial2\deployed.txt - 550
+12/08/2012 18:27:56 - UserDocuments\My Games\GratuitousSpaceBattles\web\gsbcd - 16
+12/08/2012 18:28:03 - UserDocuments\My Games\GratuitousSpaceBattles\web\gsbcdu - 7
+12/08/2012 18:31:39 - UserDocuments\My Games\GratuitousSpaceBattles\web\messages.txt - 1
+12/08/2012 18:27:23 - UserDocuments\My Games\GratuitousSpaceBattles\web\news.txt - 161
+12/08/2012 18:27:22 - UserDocuments\My Games\GratuitousSpaceBattles\web\newsdate.ini - 48
+12/08/2012 18:31:38 - UserDocuments\My Games\GratuitousSpaceBattles\web\up - 46
 
 Install Folder Dump:
 C:\Program Files (x86)\Steam\steamapps\common\gratuitous space battles\41800_install.vdf - 547

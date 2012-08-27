@@ -1,0 +1,40 @@
+Game Name: Gratuitous Space Battles (Corrected)
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\My Games
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+12/08/2012 12:51:34 - UserDocuments\My Games\FormulaOne\hardwaresettings\hardware_settings_config.xml - 1646
+12/08/2012 12:51:34 - UserDocuments\My Games\FormulaOne\hardwaresettings\hardware_settings_info.xml - 5190
+12/08/2012 12:45:33 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\AGGRIC CZVKEKG WOM MIWC - 44584
+12/08/2012 12:45:32 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\CBTAXDHUDKR - 22996
+12/08/2012 12:45:33 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\GTEHXOSJZ - 52808
+12/08/2012 12:45:33 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\LKIEENWUUMXRY - 1408
+12/08/2012 12:45:33 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\LKIFEGWTCIDY - 1408
+12/08/2012 12:45:32 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\NXDSMWW - 6548
+12/08/2012 12:45:33 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\PGRRLTKJNZI - 8604
+12/08/2012 12:45:32 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\QEHGIXXYKM - 1408
+12/08/2012 12:45:33 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\QKHFMZF RMDROCTW KTT - 1408
+12/08/2012 12:45:32 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\TKWVGWWIDBDGTVFQLFQFMB - 1408
+12/08/2012 12:45:33 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\TKWVGWWIDBENYPIIOVQSI - 8604
+12/08/2012 12:45:33 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\TOSRSADQXMNKGCNKPJ - 1408
+12/08/2012 12:45:32 - UserDocuments\My Games\FormulaOne\savegame\Autosave_e00000bb5de8074e_0\TUXPINGKMBOPY - 1408
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
