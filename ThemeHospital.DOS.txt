@@ -1,0 +1,566 @@
+Game Name: Theme Hospital
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path:
+ProgramFilesX86\GOG.com\Theme Hospital
+
+Save Path:
+ProgramFilesX86\GOG.com\Theme Hospital\SAVE
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{12417A89-9966-40A3-A615-30EDF4B0A434}
+Value: ConfigApplicationPath
+Data: ProgramFilesX86\GOG.com\Theme Hospital
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{12417A89-9966-40A3-A615-30EDF4B0A434}
+Value: ConfigGDFBinaryPath
+Data: 4/12/2012 10:21:28 AM - ProgramFilesX86\GOG.com\Theme Hospital\goggame.dll - 218624
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGTHEMEHOSPITAL
+Value: EXE
+Data:
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGTHEMEHOSPITAL
+Value: PATH
+Data: ProgramFilesX86\GOG.com\Theme Hospital
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGTHEMEHOSPITAL
+Value: DOSBOXFOLDER
+Data: ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGTHEMEHOSPITAL
+Value: DOSBOXVERSION
+Data: ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGTHEMEHOSPITAL
+Value: SAVEGAMEFOLDER
+Data: ProgramFilesX86\GOG.com\Theme Hospital
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Theme Hospital_is1
+Value: Inno Setup: App Path
+Data: ProgramFilesX86\GOG.com\Theme Hospital
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Theme Hospital_is1
+Value: InstallLocation
+Data: ProgramFilesX86\GOG.com\Theme Hospital
+Current User Registry Entries:
+
+Key:HKEY_CURRENT_USER\Software\Microsoft\IntelliType Pro\AppSpecific\DOSBox.exe
+Value: Path
+Data: 5/12/2010 11:55:40 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\DOSBox.exe - 3727360
+
+Detected Start Menu Shortcuts:
+8/10/2012 2:50:07 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Theme Hospital\Graphic mode setup.lnk - 2207
+2/25/2011 4:19:10 PM - ProgramFilesX86\GOG.com\Theme Hospital\Graphic mode setup.exe - 980992
+8/10/2012 2:50:07 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Theme Hospital\Theme Hospital.lnk - 2274
+5/12/2010 11:55:40 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\DOSBox.exe - 3727360
+8/10/2012 2:50:07 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Theme Hospital\Uninstall Theme Hospital.lnk - 1103
+8/10/2012 2:49:34 PM - ProgramFilesX86\GOG.com\Theme Hospital\unins000.exe - 2142547
+8/10/2012 2:50:07 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Theme Hospital\Documents\Manual.lnk - 1191
+4/11/2012 11:42:06 PM - ProgramFilesX86\GOG.com\Theme Hospital\manual.pdf - 1123270
+8/10/2012 2:50:07 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Theme Hospital\Network\Start CLIENT game.lnk - 1414
+5/12/2010 11:55:40 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\DOSBox.exe - 3727360
+8/10/2012 2:50:07 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\GOG.com\Theme Hospital\Network\Start HOST game.lnk - 1414
+5/12/2010 11:55:40 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\DOSBox.exe - 3727360
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\SAVE\HISCORE.DAT - 720
+
+Install Folder Dump:
+2/16/2012 12:32:44 PM - ProgramFilesX86\GOG.com\Theme Hospital\CONNECT.BAT - 48
+2/16/2012 12:16:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\DOS4GW.EXE - 265396
+2/16/2012 12:28:58 PM - ProgramFilesX86\GOG.com\Theme Hospital\dosboxTH.conf - 10242
+2/16/2012 12:29:32 PM - ProgramFilesX86\GOG.com\Theme Hospital\dosboxTH_client.conf - 10360
+2/16/2012 12:30:00 PM - ProgramFilesX86\GOG.com\Theme Hospital\dosboxTH_server.conf - 10265
+4/12/2012 10:19:46 AM - ProgramFilesX86\GOG.com\Theme Hospital\gfw_high.ico - 104152
+4/12/2012 10:21:28 AM - ProgramFilesX86\GOG.com\Theme Hospital\goggame.dll - 218624
+2/25/2011 4:19:10 PM - ProgramFilesX86\GOG.com\Theme Hospital\Graphic mode setup.exe - 980992
+2/16/2012 12:20:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\HOSPITAL.CFG - 50
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\HOSPITAL.EXE - 1655539
+11/28/2008 11:32:10 PM - ProgramFilesX86\GOG.com\Theme Hospital\innosetup_license.txt - 1471
+4/11/2012 11:42:06 PM - ProgramFilesX86\GOG.com\Theme Hospital\manual.pdf - 1123270
+2/16/2012 12:12:32 PM - ProgramFilesX86\GOG.com\Theme Hospital\MODEM.INI - 85
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\NETPLAY.TXT - 6256
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\README.TXT - 1395
+4/20/2010 12:37:04 PM - ProgramFilesX86\GOG.com\Theme Hospital\Support.ico - 62895
+8/10/2012 2:50:07 PM - ProgramFilesX86\GOG.com\Theme Hospital\unins000.dat - 93939
+8/10/2012 2:49:34 PM - ProgramFilesX86\GOG.com\Theme Hospital\unins000.exe - 2142547
+8/10/2012 2:50:07 PM - ProgramFilesX86\GOG.com\Theme Hospital\unins000.ini - 88
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\320X2401.SMK - 872896
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\320X2402.SMK - 1122228
+2/16/2012 12:12:22 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\320X2403.SMK - 1447988
+2/16/2012 12:12:22 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\320X2404.SMK - 1652564
+2/16/2012 12:12:22 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\320X2405.SMK - 2370144
+2/16/2012 12:12:22 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\320X2406.SMK - 2118136
+2/16/2012 12:12:22 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA01V.SMK - 251572
+2/16/2012 12:12:22 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA02V.SMK - 250832
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA03V.SMK - 254060
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA04V.SMK - 242564
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA05V.SMK - 252496
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA06V.SMK - 240456
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA07V.SMK - 242760
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA08V.SMK - 249620
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA09V.SMK - 244604
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA10V.SMK - 248996
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA11V.SMK - 243736
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA12V.SMK - 284220
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA13V.SMK - 327336
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\AREA14V.SMK - 368080
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\ATTRACT.SMK - 5046768
+2/16/2012 12:12:24 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\LOPAPER.SMK - 150344
+2/16/2012 12:12:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\LOSE1.SMK - 1009728
+2/16/2012 12:12:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\LOSE2.SMK - 1165724
+2/16/2012 12:12:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\LOSE3.SMK - 1674096
+2/16/2012 12:12:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\LOSE4.SMK - 1411008
+2/16/2012 12:12:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\LOSE5.SMK - 2429792
+2/16/2012 12:12:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\LOSE6.SMK - 2093180
+2/16/2012 12:12:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\MMENU1-0.SMK - 1784340
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\MMENU2-0.SMK - 898052
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\WINGAME.SMK - 2066656
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\ANIMS\WINLEVEL.SMK - 335220
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\LANG-0.DAT - 95149
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\LANG-1.DAT - 95576
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\LANG-2.DAT - 111690
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\LANG-3.DAT - 98933
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\LANG-4.DAT - 100080
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\LANG-5.DAT - 95518
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\MONEY01V.DAT - 212
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\MONEY01V.TAB - 57
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\MPALETTE.DAT - 746
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\MPOINTER.DAT - 1886
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\MPOINTER.TAB - 113
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\PANEL02V.DAT - 11268
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\PANEL02V.TAB - 234
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\PANEL04V.DAT - 5327
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\PANEL04V.TAB - 131
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\PULLDV.DAT - 462
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\PULLDV.TAB - 78
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\P_COMP.LEX - 311
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\S_COMP.LEX - 672
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VBLK-0.DAT - 68214
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VBLK-0.TAB - 696
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VELE-1.ANI - 104696
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VFRA-1.ANI - 51849
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VLIST-1.ANI - 90850
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VSPR-0.DAT - 941398
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VSPR-0.TAB - 17897
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VSTA-0.ANI - 2243
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\VSTART-1.ANI - 6049
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\WATCH01V.DAT - 2316
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATA\WATCH01V.TAB - 81
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MBLK-0.DAT - 79261
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MBLK-0.TAB - 1356
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MELE-1.ANI - 149898
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MFRA-1.ANI - 116430
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MLIST-1.ANI - 217212
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MONEY01M.DAT - 298
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MONEY01M.TAB - 72
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MPOINTER.DAT - 1753
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MPOINTER.TAB - 120
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MSPR-0.DAT - 763663
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MSPR-0.TAB - 26382
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MSTART-1.ANI - 20744
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MUTTON01.DAT - 102724
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\MUTTON01.TAB - 2472
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\PANEL02M.DAT - 12518
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\PANEL02M.TAB - 378
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\PULLDM.DAT - 478
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\PULLDM.TAB - 126
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\WATCH01M.DAT - 2719
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\DATAM\WATCH01M.TAB - 108
+7/2/2010 1:00:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\dosbox-0.74.tar.gz - 1265711
+5/12/2010 11:55:40 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\DOSBox.exe - 3727360
+4/9/2010 9:04:12 PM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\SDL.dll - 448231
+4/9/2010 9:04:12 PM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\SDL_net.dll - 13312
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Documentation\dosbox_AUTHORS.txt - 276
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Documentation\dosbox_COPYING.txt - 18332
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Documentation\dosbox_INSTALL.txt - 3937
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Documentation\dosbox_NEWS.txt - 32130
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Documentation\dosbox_README.txt - 63204
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Documentation\dosbox_THANKS.txt - 1001
+5/12/2010 11:52:52 AM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Video Codec\Video Instructions.txt - 1608
+4/9/2010 9:08:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Video Codec\zmbv.dll - 94208
+4/9/2010 9:08:26 PM - ProgramFilesX86\GOG.com\Theme Hospital\DOSBOX\Video Codec\zmbv.inf - 4043
+2/21/1997 2:16:04 PM - ProgramFilesX86\GOG.com\Theme Hospital\INTRO\ATTRACT.SMK - 6301936
+2/19/1997 6:28:38 PM - ProgramFilesX86\GOG.com\Theme Hospital\INTRO\INTRO.SM2 - 16354880
+2/27/1997 5:59:42 PM - ProgramFilesX86\GOG.com\Theme Hospital\INTRO\INTRO.SM4 - 33616520
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY00.SAM - 31804
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY01.SAM - 3517
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY02.SAM - 5025
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY03.SAM - 7294
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY04.SAM - 7538
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY05.SAM - 8050
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY06.SAM - 8827
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY07.SAM - 9191
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY08.SAM - 10456
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY09.SAM - 11124
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY10.SAM - 11235
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY11.SAM - 12415
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\EASY12.SAM - 12726
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL00.SAM - 31801
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL01.SAM - 3517
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL02.SAM - 5024
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL03.SAM - 7296
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL04.SAM - 7539
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL05.SAM - 8283
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL06.SAM - 8826
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL07.SAM - 9191
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL08.SAM - 10452
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL09.SAM - 11122
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL10.SAM - 11228
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL11.SAM - 12407
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\FULL12.SAM - 12722
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD00.SAM - 31836
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD01.SAM - 3517
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD02.SAM - 5025
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD03.SAM - 7296
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD04.SAM - 7540
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD05.SAM - 8283
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD06.SAM - 8826
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD07.SAM - 9191
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD08.SAM - 10452
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD09.SAM - 11122
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD10.SAM - 11228
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD11.SAM - 12407
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\HARD12.SAM - 12722
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L1 - 2875
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L10 - 3606
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L11 - 3906
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L12 - 5045
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L13 - 2321
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L14 - 2425
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L2 - 2487
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L20 - 4371
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L21 - 3619
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L22 - 3046
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L23 - 3349
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L24 - 3460
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L3 - 3055
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L30 - 4141
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L31 - 5402
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L32 - 4525
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L33 - 4429
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L34 - 3735
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L4 - 3375
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L40 - 5473
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L41 - 5924
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L42 - 5635
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L43 - 8027
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L44 - 5826
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L5 - 3436
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L6 - 3426
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L7 - 3681
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L8 - 3068
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\LEVEL.L9 - 3940
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET00.SAM - 33979
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET2.DAT - 617
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET20.SAM - 11210
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET21.SAM - 6658
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET22.SAM - 7492
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET23.SAM - 6281
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET24.SAM - 3922
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET3.DAT - 617
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET30.SAM - 11551
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET31.SAM - 6719
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET32.SAM - 7572
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET33.SAM - 6795
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET34.SAM - 4448
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET4.DAT - 619
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET40.SAM - 11531
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET41.SAM - 6714
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET42.SAM - 7572
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET43.SAM - 7245
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\LEVELS\NET44.SAM - 4637
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\AREA01V.DAT - 132344
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\AREA01V.PAL - 749
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\AWARD01V.DAT - 158527
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\AWARD01V.PAL - 745
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\AWARD02V.DAT - 147659
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\AWARD02V.PAL - 745
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\AWARD03V.DAT - 85036
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\AWARD03V.TAB - 140
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BANK01V.DAT - 125482
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BANK01V.PAL - 760
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BANK02V.DAT - 13573
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BANK02V.TAB - 84
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BID01V.DAT - 120623
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BID01V.PAL - 634
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BID02V.DAT - 11195
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BID02V.TAB - 66
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BRIEF01V.DAT - 143819
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\BRIEF01V.PAL - 749
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\CRED01V.DAT - 71540
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\CRED01V.PAL - 724
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\DRUGN01V.DAT - 110836
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\DRUGN01V.PAL - 673
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\DRUGN02V.DAT - 6055
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\DRUGN02V.TAB - 74
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FACE01V.DAT - 87750
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FAME01V.DAT - 158477
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FAME01V.PAL - 745
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FAME02V.DAT - 206
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FAME02V.TAB - 18
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FAX01V.DAT - 64285
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FAX01V.PAL - 659
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FAX02V.DAT - 8213
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FAX02V.TAB - 110
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT00V.DAT - 1024
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT00V.TAB - 531
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT01V.DAT - 1331
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT01V.TAB - 524
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT02V.DAT - 1331
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT02V.TAB - 524
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT04V.DAT - 1489
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT04V.TAB - 540
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT05V.DAT - 596
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT05V.TAB - 289
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT09V.DAT - 1094
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT09V.TAB - 481
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT100V.DAT - 3429
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT100V.TAB - 547
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT101V.DAT - 3214
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT101V.TAB - 551
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT102V.DAT - 3597
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT102V.TAB - 1170
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT105V.DAT - 4546
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT105V.TAB - 539
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT106V.DAT - 392
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT106V.TAB - 415
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT110V.DAT - 323
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT110V.TAB - 111
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT111V.DAT - 191
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT111V.TAB - 106
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT112V.DAT - 6510
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT112V.TAB - 600
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT113V.DAT - 6730
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT113V.TAB - 600
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT115V.DAT - 5658
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT115V.TAB - 586
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT120V.DAT - 4565
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT120V.TAB - 569
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT121V.DAT - 12177
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG..com\Theme Hospital\QDATA\FONT121V.TAB - 614
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT122V.DAT - 21475
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT122V.TAB - 653
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT124V.DAT - 3473
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT124V.TAB - 552
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT16V.DAT - 3322
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT16V.TAB - 529
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT18V.DAT - 4119
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT18V.TAB - 568
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT19V.DAT - 4073
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT19V.TAB - 576
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT24V.DAT - 121
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT24V.TAB - 272
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT250V.DAT - 4917
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT250V.TAB - 591
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT25V.DAT - 4200
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT25V.TAB - 537
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT26V.DAT - 3657
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT26V.TAB - 541
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT31V.DAT - 2543
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT31V.TAB - 540
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT34V.DAT - 763
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT34V.TAB - 292
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT35V.DAT - 2771
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT35V.TAB - 514
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT36V.DAT - 3134
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT36V.TAB - 554
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT37V.DAT - 3067
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT37V.TAB - 515
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT38V.DAT - 597
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT38V.TAB - 289
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT39V.DAT - 32385
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT39V.TAB - 638
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT40V.DAT - 30780
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT40V.TAB - 639
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT43V.DAT - 5901
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT43V.TAB - 577
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT44V.DAT - 820
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT44V.TAB - 494
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT45V.DAT - 3553
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT45V.TAB - 514
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT46V.DAT - 6279
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT46V.TAB - 586
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT47V.DAT - 4821
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT47V.TAB - 565
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT500V.DAT - 32384
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT500V.TAB - 638
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT501V.DAT - 30782
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT501V.TAB - 639
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT502V.DAT - 217
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT502V.TAB - 487
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT50V.DAT - 1138
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT50V.TAB - 518
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT51V.DAT - 4273
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT51V.TAB - 510
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT60V.DAT - 5476
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT60V.TAB - 598
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT74V.DAT - 3332
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\FONT74V.TAB - 1170
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\GHOST1.DAT - 27047
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\GHOST2.DAT - 26873
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\GHOST66.DAT - 37180
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\GRAPH01V.DAT - 31930
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\GRAPH01V.PAL - 750
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\GRAPH02V.DAT - 1138
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\GRAPH02V.TAB - 24
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\LETTR02V.DAT - 1602
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\LETTR02V.TAB - 30
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\LOAD01V.DAT - 38228
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\LOAD01V.PAL - 768
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\LOAD02V.DAT - 113
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\LOAD02V.TAB - 36
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\MAIN01M.DAT - 24415
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\MAIN01M.PAL - 711
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\MAIN02M.DAT - 30711
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\MAIN02M.TAB - 67
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\POL01V.DAT - 168222
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\POL01V.PAL - 653
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\POL02V.DAT - 1870
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\POL02V.TAB - 42
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\PREF01V.DAT - 114939
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\PREF01V.PAL - 759
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\PREF02V.DAT - 304
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\PREF02V.TAB - 18
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REP01V.DAT - 100447
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REP01V.PAL - 686
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REP02V.DAT - 2438
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REP02V.TAB - 81
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ00V.DAT - 8088
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ00V.TAB - 828
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ01V.DAT - 10765
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ01V.TAB - 846
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ02V.DAT - 9348
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ02V.TAB - 821
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ03V.DAT - 3972
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ03V.TAB - 800
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ04V.DAT - 2086
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ04V.TAB - 792
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ05V.DAT - 4632
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ05V.TAB - 820
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ06V.DAT - 6719
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ06V.TAB - 820
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ09V.DAT - 3528
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ09V.TAB - 808
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ10V.DAT - 4486
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ10V.TAB - 822
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ11V.DAT - 9657
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ11V.TAB - 854
+2/16/2012 12:12:18 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ12V.DAT - 6124
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ12V.TAB - 819
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ13V.DAT - 2602
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\REQ13V.TAB - 831
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\RES01V.DAT - 76929
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\RES01V.PAL - 737
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\RES02V.DAT - 74434
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\RES02V.TAB - 98
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\SCORE01V.DAT - 30015
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\SCORE01V.PAL - 768
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\SPOINTER.DAT - 2506
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\SPOINTER.TAB - 152
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\STAFF01V.DAT - 9559
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\STAFF01V.PAL - 746
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\STAFF02V.DAT - 4952
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\STAFF02V.TAB - 111
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\STAT01V.DAT - 85877
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\STAT01V.PAL - 747
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\STAT02V.DAT - 163
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\STAT02V.TAB - 12
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\TITLE01V.DAT - 72988
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\TITLE01V.PAL - 724
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\TOWN.DAT - 48552
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\TOWN01V.DAT - 127878
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\TOWN01V.PAL - 759
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\TOWN02V.DAT - 6504
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\TOWN02V.TAB - 110
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\VER00V.DAT - 771
+2/16/2012 12:17:16 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATA\VER00V.TAB - 12
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FACE01M.DAT - 21280
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT100M.DAT - 2134
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT100M.TAB - 162
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT101M.DAT - 4324
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT101M.TAB - 1170
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT130M.DAT - 4545
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT130M.TAB - 1170
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT131M.DAT - 4545
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT131M.TAB - 1170
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT132M.DAT - 4545
+2/16/2012 12:12:20 PM - ProgramFilesX86\GOG.com\Theme Hospital\QDATAM\FONT132M.TAB - 1170
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\SAVE\HISCORE.DAT - 720
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\ADLIB.MDI - 15073
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\ADLIBG.MDI - 16464
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\AUDIODRV.DIG - 11372
+2/16/2012 12:12:34 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DIG.INI - 208
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DOS4GW.EXE - 265396
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\ESFM.MDI - 15896
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\IWAV.DIG - 2585
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\IWAV.MDI - 2149
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\JAMMER.DIG - 3219
+2/16/2012 12:12:34 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MDI.INI - 205
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MPU401.MDI - 2002
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MSSDRVR.LST - 20408
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MSSW95.EXE - 8030
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\NVDIG.DIG - 1877
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\NVMPU.MDI - 2044
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\OPL3.MDI - 16474
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\PAS.MDI - 15512
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\PASPLUS.MDI - 16545
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\PROAUDIO.DIG - 2214
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\RAP10.DIG - 2936
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SAMPLE.AD - 3802
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SAMPLE.OPL - 3802
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SB16.DIG - 2923
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SBAWE32.MDI - 31396
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SBLASTER.DIG - 3212
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SBLASTER.MDI - 15205
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SBPRO.DIG - 2871
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SBPRO1.MDI - 15558
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SBPRO2.MDI - 16628
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SETSOUND.EXE - 262787
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SNDSCAPE.DIG - 4171
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SNDSCAPE.MDI - 2971
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\SNDSYS.DIG - 3419
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\ULTRA.DIG - 9478
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\ULTRA.MDI - 49672
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DATA\MINHEAP.DAT - 446
+2/16/2012 12:12:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DATA\SOUND-0.DAT - 16634862
+2/20/1997 2:52:40 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DATA\SOUND-1.DAT - 13205518
+2/20/1997 2:53:00 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DATA\SOUND-2.DAT - 13601374
+2/20/1997 2:53:30 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DATA\SOUND-3.DAT - 13665998
+2/20/1997 2:53:52 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DATA\SOUND-4.DAT - 14453406
+2/20/1997 2:54:12 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\DATA\SOUND-5.DAT - 13797662
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\ATLANTIS.XMI - 24784
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\CANDY.XMI - 8094
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\DOCTOR.XMI - 3066
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\FORTUNE.XMI - 7728
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\HOSPMIDI.BAT - 385
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\MEND.XMI - 11936
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\MIDI.TXT - 204
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\MIDIFORM.EXE - 99149
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\NIGHTSH.XMI - 14402
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\README.TXT - 461
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\SIXSEVEN.XMI - 22156
+2/16/2012 12:12:28 PM - ProgramFilesX86\GOG.com\Theme Hospital\SOUND\MIDI\STEADY.XMI - 12490
+
+UAC Enabled
+
+
+VirtualStore Folders:
+8/13/2012 7:11:30 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\stderr.txt - 0
+8/13/2012 8:29:04 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\stdout.txt - 317
+8/13/2012 8:28:09 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\SAVE\CUNSO.H0 - 420314
+8/13/2012 7:13:06 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\SAVE\CUNSO.H1 - 420314
+8/13/2012 7:36:38 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\SAVE\CUNSO.H2 - 420314
+8/13/2012 8:28:45 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\SAVE\CUNSO.H8 - 420314
+8/13/2012 8:29:01 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\SAVE\CUNSO.H99 - 420314
+8/13/2012 8:29:01 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\SAVE\CUNSO.HDT - 92
+8/13/2012 8:13:24 AM - VirtualStore\Program Files (x86)\GOG.com\Theme Hospital\SAVE\HISCORE.DAT - 720
