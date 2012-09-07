@@ -1,0 +1,31 @@
+Game Name: ArmA II: Operation Arrowhead
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+LocalAppData\ArmA 2 OA
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+10/08/2012 19:00:31 - LocalAppData\ArmA 2 OA\ArmA2OA.bidmp - 14450
+10/08/2012 19:00:33 - LocalAppData\ArmA 2 OA\ArmA2OA.RPT - 284262
+06/07/2012 17:41:24 - LocalAppData\ArmA 2 OA\BattlEye\BEClient.dll - 102400
+06/07/2012 17:39:01 - LocalAppData\ArmA 2 OA\MPMissionsCache\dayz_1629.Chernarus.pbo - 42088
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

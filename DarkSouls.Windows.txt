@@ -1,0 +1,26 @@
+Game Name: Dark Souls: Prepare to Die Edition
+Operating System:
+Microsoft Windows NT 6.1.7600.0
+
+Path:
+UserDocuments\NBGI
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+8/31/2012 7:53:30 PM - UserDocuments\NBGI\DarkSouls\bunchafunk\DRAKS0005.sl2 - 4330480
+
+UAC Disabled or not present
+
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

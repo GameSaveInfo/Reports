@@ -1,0 +1,79 @@
+Game Name: Lunar Flight
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\Saved Games
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+27/08/2012 22:55:24 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\achievements.dat - 369
+27/08/2012 23:02:27 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\stats.dat - 64
+27/08/2012 23:02:27 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\upgrades.dat - 44
+27/08/2012 23:02:27 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\user.dat - 40
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Alpha_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Alpha_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Alpha_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Bravo_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Bravo_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Bravo_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Charlie_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Charlie_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Charlie_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Delta_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Delta_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M0\M0_Delta_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Alpha_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Alpha_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Alpha_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Bravo_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Bravo_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Bravo_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Charlie_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Charlie_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Charlie_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Delta_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Delta_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M1\M1_Delta_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Alpha_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Alpha_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Alpha_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Bravo_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Bravo_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Bravo_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Charlie_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Charlie_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Charlie_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Delta_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Delta_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M2\M2_Delta_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Alpha_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Alpha_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Alpha_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Bravo_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Bravo_To_Charlie.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Bravo_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Charlie_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Charlie_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Charlie_To_Delta.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Delta_To_Alpha.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Delta_To_Bravo.ttd - 4
+27/08/2012 22:53:03 - UserDocuments\Saved Games\LunarFlight\ProfileData\SIMTECH76\M3\M3_Delta_To_Charlie.ttd - 4
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

@@ -1,0 +1,29 @@
+Game Name: Homefront (Steam)
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\55100
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: D:\
+Drive Root: D:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+30/08/2012 21:40:50 - SteamUserData\55100\remotecache.vdf - 264
+30/08/2012 21:40:35 - SteamUserData\55100\remote\profile.bin - 1235
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
