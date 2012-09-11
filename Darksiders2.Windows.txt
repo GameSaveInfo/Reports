@@ -1,0 +1,32 @@
+
+Game Name: Darksiders 2
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\My Games
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sat 08 Sep 3:28:59 PM - UserDocuments\My Games\Darksiders2\22744720\dssave0.dsav - 79731
+Sat 08 Sep 3:29:20 PM - UserDocuments\My Games\Darksiders2\22744720\dssave4.dsav - 79827
+Tue 28 Aug 10:35:22 PM - UserDocuments\My Games\Darksiders2\English\dssave0.dsav - 67479
+Tue 28 Aug 10:31:49 PM - UserDocuments\My Games\Darksiders2\English\dssave4.dsav - 67233
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

@@ -1,0 +1,29 @@
+Game Name: I Am Alive
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\IAmAlive
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sat 08 Sep 10:58:14 PM - UserDocuments\IAmAlive\Save\IAA_Profile\game.sav - 1452
+Sat 08 Sep 10:58:14 PM - UserDocuments\IAmAlive\Save\IAA_Profile\profile.sav - 446
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

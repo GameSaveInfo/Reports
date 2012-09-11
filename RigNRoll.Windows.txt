@@ -1,0 +1,32 @@
+Game Name: Rig 'n' Roll
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\My Games
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Tue 07 Aug 9:05:56 PM - UserDocuments\My Games\RigNRoll_usa_ws\userprofile.bin - 11898
+Tue 07 Aug 9:05:55 PM - UserDocuments\My Games\RigNRoll_usa_ws\MadMax\MadMax.ini - 7711
+Mon 06 Aug 8:58:45 PM - UserDocuments\My Games\RigNRoll_usa_ws\MadMax\Plates\lplates.tga - 1048620
+Tue 07 Aug 9:05:55 PM - UserDocuments\My Games\RigNRoll_usa_ws\trucker\trucker.ini - 7715
+Mon 06 Aug 8:58:45 PM - UserDocuments\My Games\RigNRoll_usa_ws\trucker\Plates\lplates.tga - 1048620
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
