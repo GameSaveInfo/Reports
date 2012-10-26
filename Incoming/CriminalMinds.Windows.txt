@@ -1,0 +1,29 @@
+Game Name: Criminal Minds
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+AppData\LegacyInteractive\CriminalMinds
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+02.10.2012 09:30:41 - AppData\LegacyInteractive\CriminalMinds\cm.dat - 1077
+02.10.2012 09:30:42 - AppData\LegacyInteractive\CriminalMinds\cm.log - 2176
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

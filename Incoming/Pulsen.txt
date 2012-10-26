@@ -1,0 +1,44 @@
+Game Name: Pulsen
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+AppData\Pulsen
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+08.10.2012 17:43:27 - AppData\Pulsen\Save\DontShare.sig - 512
+04.10.2012 13:05:16 - AppData\Pulsen\Save\HiddenSettings.garbage - 324
+04.10.2012 13:05:16 - AppData\Pulsen\Save\HiddenSettings.garbage.sig - 512
+04.10.2012 13:05:15 - AppData\Pulsen\Save\HiddenSettingsVerify.hash - 40
+04.10.2012 13:05:16 - AppData\Pulsen\Save\HiddenSettingsVerify.hash.sig - 512
+08.10.2012 17:43:27 - AppData\Pulsen\Save\Keymaps.ini - 389
+08.10.2012 17:43:27 - AppData\Pulsen\Save\Preferences.ini - 720
+04.10.2012 13:04:28 - AppData\Pulsen\Save\Resolutions.lua - 210
+04.10.2012 13:07:08 - AppData\Pulsen\Save\Scores - Casual.lua - 639
+04.10.2012 13:07:09 - AppData\Pulsen\Save\Scores - Casual.lua.sig - 512
+04.10.2012 13:07:09 - AppData\Pulsen\Save\Scores - Intricate.lua - 547
+04.10.2012 13:07:09 - AppData\Pulsen\Save\Scores - Intricate.lua.sig - 512
+08.10.2012 17:43:26 - AppData\Pulsen\Save\Stats.xml.gz - 1365
+08.10.2012 17:43:27 - AppData\Pulsen\Save\Stats.xml.gz.sig - 512
+04.10.2012 13:04:55 - AppData\Pulsen\Save\ThemePrefs.ini - 474
+04.10.2012 13:07:08 - AppData\Pulsen\Save\Wallet.lua - 233
+04.10.2012 13:07:08 - AppData\Pulsen\Save\Wallet.lua.sig - 512
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

@@ -1,0 +1,31 @@
+Game Name: Medal of Honor: Warfighter
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\MOHW
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+26.10.2012 01:21:17 - UserDocuments\MOHW\settings\meta.xml - 35290
+26.10.2012 01:21:16 - UserDocuments\MOHW\settings\PROF_SAVE_body - 1024000
+26.10.2012 01:21:16 - UserDocuments\MOHW\settings\PROF_SAVE_header - 8
+26.10.2012 01:21:16 - UserDocuments\MOHW\settings\PROF_SAVE_profile - 22875
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
