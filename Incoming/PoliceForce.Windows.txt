@@ -1,0 +1,30 @@
+Game Name: Police Force
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+LocalAppData\Quadriga Games\Police Force
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+08.10.2012 17:08:09 - LocalAppData\Quadriga Games\Police Force\police.cfg - 13188
+08.10.2012 17:07:55 - LocalAppData\Quadriga Games\Police Force\police.log - 5910
+08.10.2012 17:08:07 - LocalAppData\Quadriga Games\Police Force\profiles.json - 781
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

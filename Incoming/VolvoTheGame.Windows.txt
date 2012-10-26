@@ -1,0 +1,40 @@
+Game Name: Volvo - The Game
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\SimBin\Volvo - The Game
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+08.10.2012 17:54:11 - UserDocuments\SimBin\Volvo - The Game\Config.ini - 919
+06.10.2012 00:44:46 - UserDocuments\SimBin\Volvo - The Game\GameInstallDir.ini - 41
+08.10.2012 17:48:17 - UserDocuments\SimBin\Volvo - The Game\sysinfo.txt - 166
+08.10.2012 17:53:08 - UserDocuments\SimBin\Volvo - The Game\REPLAYDATA\Gothenburg City Track_121008_1750_Race1 HOT LAP.Vcr - 229137
+08.10.2012 17:53:09 - UserDocuments\SimBin\Volvo - The Game\REPLAYDATA\Gothenburg City Track_121008_1750_Race1.Vcr - 565250
+08.10.2012 17:54:11 - UserDocuments\SimBin\Volvo - The Game\USERDATA\OnlineUser.dat - 8
+08.10.2012 17:54:11 - UserDocuments\SimBin\Volvo - The Game\USERDATA\AdmiringWorm\AdmiringWorm.gal - 0
+08.10.2012 17:54:11 - UserDocuments\SimBin\Volvo - The Game\USERDATA\AdmiringWorm\AdmiringWorm.PLR - 54336
+08.10.2012 17:49:09 - UserDocuments\SimBin\Volvo - The Game\USERDATA\AdmiringWorm\carfilter.caf - 955
+08.10.2012 17:50:44 - UserDocuments\SimBin\Volvo - The Game\USERDATA\AdmiringWorm\tempGarage.svm - 2490
+08.10.2012 17:53:09 - UserDocuments\SimBin\Volvo - The Game\USERDATA\LOG\Results\raceresults.txt - 2430
+08.10.2012 17:53:08 - UserDocuments\SimBin\Volvo - The Game\USERDATA\ReplayTempFiles\rep3684826921.vcr - 857295
+08.10.2012 17:50:34 - UserDocuments\SimBin\Volvo - The Game\USERDATA\Temp\monoSample.wav - 28518
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

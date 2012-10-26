@@ -1,0 +1,88 @@
+Game Name: Pulsen
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\GamersGate\Pulsen
+
+Save Path: 
+AppData\Pulsen
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Pulsen
+Value: UninstallString
+Data: 16.08.2012 04:16:26 - Drive\GamersGate\Pulsen\Uninstall Pulsen.exe - 174674
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Pulsen
+Value: 
+Data: Drive\GamersGate\Pulsen
+Current User Registry Entries: 
+
+Key:HKEY_CURRENT_USER\Software\Foxit Software\Foxit Reader 5.0\Recent File List
+Value: File2
+Data: 08.05.2012 06:50:46 - Drive\GamersGate\Pulsen\Manual.pdf - 516187
+
+Detected Start Menu Shortcuts: 
+16.08.2012 04:16:30 - AppData\Microsoft\Windows\Start Menu\Programs\Pulsen\Pulsen Manual.lnk - 652
+08.05.2012 06:50:46 - Drive\GamersGate\Pulsen\Manual.pdf - 516187
+16.08.2012 04:16:30 - AppData\Microsoft\Windows\Start Menu\Programs\Pulsen\Pulsen.lnk - 742
+16.05.2012 06:21:46 - Drive\GamersGate\Pulsen\Program\Pulsen.exe - 5058560
+16.08.2012 04:16:30 - AppData\Microsoft\Windows\Start Menu\Programs\Pulsen\Uninstall Pulsen.lnk - 684
+16.08.2012 04:16:26 - Drive\GamersGate\Pulsen\Uninstall Pulsen.exe - 174674
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+17.08.2012 17:32:53 - AppData\Pulsen\Save\DontShare.sig - 512
+17.08.2012 17:32:29 - AppData\Pulsen\Save\HiddenSettings.garbage - 324
+17.08.2012 17:32:30 - AppData\Pulsen\Save\HiddenSettings.garbage.sig - 512
+17.08.2012 17:32:29 - AppData\Pulsen\Save\HiddenSettingsVerify.hash - 40
+17.08.2012 17:32:29 - AppData\Pulsen\Save\HiddenSettingsVerify.hash.sig - 512
+17.08.2012 17:32:53 - AppData\Pulsen\Save\Keymaps.ini - 389
+17.08.2012 17:32:53 - AppData\Pulsen\Save\Preferences.ini - 721
+17.08.2012 17:29:49 - AppData\Pulsen\Save\Resolutions.lua - 210
+17.08.2012 17:32:06 - AppData\Pulsen\Save\Scores - Casual.lua - 639
+17.08.2012 17:32:06 - AppData\Pulsen\Save\Scores - Casual.lua.sig - 512
+17.08.2012 17:32:06 - AppData\Pulsen\Save\Scores - Intricate.lua - 547
+17.08.2012 17:32:06 - AppData\Pulsen\Save\Scores - Intricate.lua.sig - 512
+17.08.2012 17:32:52 - AppData\Pulsen\Save\Stats.xml.gz - 1871
+17.08.2012 17:32:53 - AppData\Pulsen\Save\Stats.xml.gz.sig - 512
+17.08.2012 17:32:41 - AppData\Pulsen\Save\ThemePrefs.ini - 474
+17.08.2012 17:32:05 - AppData\Pulsen\Save\Wallet.lua - 233
+17.08.2012 17:32:06 - AppData\Pulsen\Save\Wallet.lua.sig - 512
+
+Install Folder Dump: 
+30.04.2012 03:02:20 - Drive\GamersGate\Pulsen\LICENSES.txt - 16912
+08.05.2012 06:50:46 - Drive\GamersGate\Pulsen\Manual.pdf - 516187
+16.08.2012 04:16:26 - Drive\GamersGate\Pulsen\Uninstall Pulsen.exe - 174674
+16.05.2012 06:23:10 - Drive\GamersGate\Pulsen\DLC\Pulsen Part1.pulsen - 31494711
+16.05.2012 06:23:12 - Drive\GamersGate\Pulsen\DLC\Pulsen Part2.pulsen - 35101079
+16.05.2012 06:23:12 - Drive\GamersGate\Pulsen\DLC\Pulsen Part3.pulsen - 16728583
+06.04.2012 18:53:38 - Drive\GamersGate\Pulsen\DLC\Verify.verify - 583
+12.05.2012 05:59:24 - Drive\GamersGate\Pulsen\Program\avcodec-53.dll - 13698048
+12.05.2012 05:59:24 - Drive\GamersGate\Pulsen\Program\avformat-53.dll - 2523136
+12.05.2012 05:59:24 - Drive\GamersGate\Pulsen\Program\avutil-51.dll - 139776
+04.03.2012 07:41:50 - Drive\GamersGate\Pulsen\Program\dbghelp.dll - 213504
+04.03.2012 07:41:50 - Drive\GamersGate\Pulsen\Program\jpeg.dll - 88035
+04.03.2012 07:41:46 - Drive\GamersGate\Pulsen\Program\MFC71.dll - 1060864
+04.03.2012 07:41:46 - Drive\GamersGate\Pulsen\Program\Microsoft.VC80.CRT.manifest - 1871
+04.03.2012 07:41:50 - Drive\GamersGate\Pulsen\Program\msvcp71.dll - 499712
+04.03.2012 07:41:50 - Drive\GamersGate\Pulsen\Program\msvcp80.dll - 548864
+04.03.2012 07:41:50 - Drive\GamersGate\Pulsen\Program\msvcp90.dll - 569664
+04.03.2012 07:41:50 - Drive\GamersGate\Pulsen\Program\msvcr71.dll - 348160
+04.03.2012 07:41:52 - Drive\GamersGate\Pulsen\Program\msvcr80.dll - 626688
+04.03.2012 07:41:52 - Drive\GamersGate\Pulsen\Program\msvcr90.dll - 653120
+16.05.2012 06:21:46 - Drive\GamersGate\Pulsen\Program\Pulsen.exe - 5058560
+12.05.2012 05:59:24 - Drive\GamersGate\Pulsen\Program\swscale-2.dll - 302592
+04.03.2012 07:41:52 - Drive\GamersGate\Pulsen\Program\zlib1.dll - 33792
+
+UAC Enabled
+
+
+VirtualStore Folders: 

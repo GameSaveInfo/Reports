@@ -1,0 +1,94 @@
+Game Name: Team Fortress Classic
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SteamUser\team fortress classic
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: D:\
+Drive Root: D:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+04.10.2012 22:10:05 - SteamUser\team fortress classic\Core.dll - 258106
+04.10.2012 22:09:57 - SteamUser\team fortress classic\dbg.dll - 69632
+04.10.2012 22:10:05 - SteamUser\team fortress classic\DemoPlayer.dll - 90112
+04.10.2012 22:09:56 - SteamUser\team fortress classic\FileSystem_Steam.dll - 122974
+04.10.2012 22:09:57 - SteamUser\team fortress classic\hl.exe - 86077
+04.10.2012 22:09:59 - SteamUser\team fortress classic\hlds.exe - 389120
+04.10.2012 22:09:59 - SteamUser\team fortress classic\hw.dll - 1840440
+04.10.2012 22:09:59 - SteamUser\team fortress classic\Mp3dec.asi - 125952
+04.10.2012 22:09:57 - SteamUser\team fortress classic\Mss32.dll - 351744
+04.10.2012 22:09:57 - SteamUser\team fortress classic\Mssv12.asi - 142848
+04.10.2012 22:09:59 - SteamUser\team fortress classic\Mssv29.asi - 161792
+04.10.2012 22:09:58 - SteamUser\team fortress classic\readme.txt - 39818
+04.10.2012 22:09:57 - SteamUser\team fortress classic\steamclient.dll - 2968048
+04.10.2012 22:09:57 - SteamUser\team fortress classic\steam_api.dll - 67072
+04.10.2012 22:09:57 - SteamUser\team fortress classic\steam_api_c.dll - 70144
+04.10.2012 22:09:57 - SteamUser\team fortress classic\steam_appid.txt - 2
+04.10.2012 22:09:58 - SteamUser\team fortress classic\sw.dll - 1672504
+04.10.2012 22:09:58 - SteamUser\team fortress classic\tier0.dll - 344064
+04.10.2012 22:09:58 - SteamUser\team fortress classic\tier0_s.dll - 259320
+04.10.2012 22:09:59 - SteamUser\team fortress classic\vgui.dll - 352256
+04.10.2012 22:10:04 - SteamUser\team fortress classic\vgui2.dll - 245819
+04.10.2012 22:10:05 - SteamUser\team fortress classic\voice_miles.dll - 53248
+04.10.2012 22:09:57 - SteamUser\team fortress classic\voice_speex.dll - 139264
+04.10.2012 22:09:57 - SteamUser\team fortress classic\vstdlib.dll - 340480
+04.10.2012 22:09:57 - SteamUser\team fortress classic\vstdlib_s.dll - 365816
+04.10.2012 22:09:57 - SteamUser\team fortress classic\gldrv\3dfxgl.dll - 137728
+04.10.2012 22:09:57 - SteamUser\team fortress classic\gldrv\drvmap.txt - 52
+04.10.2012 22:10:05 - SteamUser\team fortress classic\platform\servers\serverbrowser.dll - 535552
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\offline_english.html - 972
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\PreloadSubscription_ActivelyPreloading.res - 3461
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\PreloadSubscription_ActivelyPreloading_Payed_NotPlayable.res - 3063
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\PreloadSubscription_FinishedPreload_NotPayed_NotPlayable.res - 2996
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\PreloadSubscription_FinishedPreload_NotPayed_Playable.res - 2995
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\PreloadSubscription_FinishedPreload_Payed_NotPlayable.res - 3709
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\PreloadSubscription_NotPreloading.res - 3046
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\PreloadSubscription_NotPreloading_Payed_NotPlayable.res - 2648
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\ProductMarketingDialog.res - 955
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\ProductMarketingDialog_Initial.res - 1018
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\ProductMarketingDialog_Preload.res - 1018
+04.10.2012 22:09:57 - SteamUser\team fortress classic\platform\Steam\cached\ProductMarketingDialog_Released.res - 1018
+04.10.2012 22:09:56 - SteamUser\team fortress classic\platform\Steam\cached\PurchaseSubBillingConfirmation.res - 434
+04.10.2012 22:09:57 - SteamUser\team fortress classic\tfc\autoexec.cfg - 141
+04.10.2012 22:09:57 - SteamUser\team fortress classic\tfc\config.cfg - 3152
+04.10.2012 22:10:02 - SteamUser\team fortress classic\tfc\game.ico - 17622
+04.10.2012 22:10:01 - SteamUser\team fortress classic\tfc\liblist.gam - 430
+04.10.2012 22:09:57 - SteamUser\team fortress classic\tfc\mapcycle.txt - 1224
+04.10.2012 22:09:57 - SteamUser\team fortress classic\tfc\motd.txt - 186
+04.10.2012 22:09:57 - SteamUser\team fortress classic\tfc\server.cfg - 714
+04.10.2012 22:09:57 - SteamUser\team fortress classic\tfc\settings.scr - 1535
+04.10.2012 22:09:57 - SteamUser\team fortress classic\tfc\steam_appid.txt - 2
+04.10.2012 22:10:26 - SteamUser\team fortress classic\tfc_norwegian\config.cfg - 3438
+04.10.2012 22:10:26 - SteamUser\team fortress classic\tfc_norwegian\custom.hpk - 6456
+04.10.2012 22:10:24 - SteamUser\team fortress classic\tfc_norwegian\tempdecal.wad - 6296
+04.10.2012 22:10:12 - SteamUser\team fortress classic\tfc_norwegian\logos\remapped.bmp - 5176
+04.10.2012 22:10:12 - SteamUser\team fortress classic\tfc_norwegian\models\player\remapped.bmp - 33878
+04.10.2012 22:09:57 - SteamUser\team fortress classic\valve\autoexec.cfg - 19
+04.10.2012 22:09:57 - SteamUser\team fortress classic\valve\config.cfg - 1779
+04.10.2012 22:09:57 - SteamUser\team fortress classic\valve\mapcycle.txt - 68
+04.10.2012 22:09:57 - SteamUser\team fortress classic\valve\server.cfg - 469
+04.10.2012 22:09:57 - SteamUser\team fortress classic\valve\settings.scr - 2225
+04.10.2012 22:09:57 - SteamUser\team fortress classic\valve\steam_appid.txt - 2
+04.10.2012 22:10:05 - SteamUser\team fortress classic\valve\cl_dlls\GameUI.dll - 845112
+04.10.2012 22:09:59 - SteamUser\team fortress classic\valve\cl_dlls\particleman.dll - 81920
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 20
+Value: InstallLocation
+Data: SteamUser\team fortress classic
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
