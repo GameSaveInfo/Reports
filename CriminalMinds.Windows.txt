@@ -1,0 +1,79 @@
+Game Name: Criminal Minds
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\GamersGate\Criminal Minds
+
+Save Path: 
+AppData\LegacyInteractive\CriminalMinds
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{6C296D6E-F411-428A-A5C1-318C255351CE}_is1
+Value: Inno Setup: App Path
+Data: Drive\GamersGate\Criminal Minds
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{6C296D6E-F411-428A-A5C1-318C255351CE}_is1
+Value: InstallLocation
+Data: Drive\GamersGate\Criminal Minds
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+16.08.2012 06:51:30 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Criminal Minds\Criminal Minds.lnk - 717
+20.04.2012 08:21:04 - Drive\GamersGate\Criminal Minds\CriminalMinds.exe - 6024192
+16.08.2012 06:51:30 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Criminal Minds\Uninstall Criminal Minds.lnk - 702
+16.08.2012 06:43:57 - Drive\GamersGate\Criminal Minds\unins000.exe - 715038
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+17.08.2012 14:47:36 - AppData\LegacyInteractive\CriminalMinds\cm.dat - 1451
+
+Install Folder Dump: 
+06.04.2012 18:55:16 - Drive\GamersGate\Criminal Minds\case1.dat - 31282551
+09.04.2012 06:52:44 - Drive\GamersGate\Criminal Minds\case2.dat - 32603028
+20.04.2012 10:29:34 - Drive\GamersGate\Criminal Minds\common.dat - 3748964
+20.04.2012 08:21:04 - Drive\GamersGate\Criminal Minds\CriminalMinds.exe - 6024192
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\jpeg.dll - 113664
+19.04.2012 07:38:22 - Drive\GamersGate\Criminal Minds\lang_en.dat - 14513613
+02.03.2012 03:22:48 - Drive\GamersGate\Criminal Minds\libfreetype-6.dll - 461824
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\libfreetype.dll - 426496
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\libogg-0.dll - 15872
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\libpng12-0.dll - 131072
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\libvorbis-0.dll - 157696
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\libvorbisfile-3.dll - 28672
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\msvcr90.dll - 655872
+10.11.2011 08:32:48 - Drive\GamersGate\Criminal Minds\music.dat - 5386527
+19.04.2012 07:38:10 - Drive\GamersGate\Criminal Minds\scripts.dat - 175137
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\SDL.dll - 364032
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\SDL_image.dll - 34816
+07.05.2011 08:11:12 - Drive\GamersGate\Criminal Minds\SDL_mixer.dll - 137216
+02.03.2012 03:39:26 - Drive\GamersGate\Criminal Minds\SDL_ttf.dll - 27136
+26.03.2012 17:14:50 - Drive\GamersGate\Criminal Minds\sfx.dat - 14557373
+21.03.2012 18:45:36 - Drive\GamersGate\Criminal Minds\shared.dat - 4048191
+31.01.2012 07:47:24 - Drive\GamersGate\Criminal Minds\ui.dat - 3709351
+16.08.2012 06:51:30 - Drive\GamersGate\Criminal Minds\unins000.dat - 3827
+16.08.2012 06:43:57 - Drive\GamersGate\Criminal Minds\unins000.exe - 715038
+02.03.2012 03:39:26 - Drive\GamersGate\Criminal Minds\zlib1.dll - 100352
+13.03.2012 02:36:08 - Drive\GamersGate\Criminal Minds\cutscenes\c02_end.ogv - 7864598
+03.11.2011 04:55:40 - Drive\GamersGate\Criminal Minds\cutscenes\c02_s04_s05.ogv - 4612996
+03.11.2011 04:54:34 - Drive\GamersGate\Criminal Minds\cutscenes\c02_s06_s07.ogv - 3379320
+08.03.2012 04:39:44 - Drive\GamersGate\Criminal Minds\cutscenes\c1_ch5_police_ext.ogv - 5272251
+13.03.2012 02:34:50 - Drive\GamersGate\Criminal Minds\cutscenes\c1_ch_6_reveal.ogv - 8485024
+05.03.2012 06:16:18 - Drive\GamersGate\Criminal Minds\cutscenes\case1_02_landing_a.ogv - 5262248
+23.03.2012 11:02:26 - Drive\GamersGate\Criminal Minds\cutscenes\case1_02_landing_b.ogv - 3481326
+18.04.2012 19:07:40 - Drive\GamersGate\Criminal Minds\cutscenes\case1_08_final_scene.ogv - 5825972
+03.11.2011 15:23:56 - Drive\GamersGate\Criminal Minds\cutscenes_en\c02_intro.ogv - 1678192
+22.03.2012 04:57:42 - Drive\GamersGate\Criminal Minds\cutscenes_en\case1_01_intro.ogv - 4631387
+31.01.2012 07:42:08 - Drive\GamersGate\Criminal Minds\cutscenes_en\game_intro.ogv - 8168337
+
+UAC Enabled
+
+
+VirtualStore Folders: 

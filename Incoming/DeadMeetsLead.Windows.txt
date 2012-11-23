@@ -1,0 +1,33 @@
+Game Name: Dead Meets Lead
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+LocalAppData\DeadMeetsLead
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+08.10.2012 16:01:22 - LocalAppData\DeadMeetsLead\Controls.json - 243
+08.10.2012 16:01:22 - LocalAppData\DeadMeetsLead\Settings.json - 6144
+08.10.2012 16:01:22 - LocalAppData\DeadMeetsLead\Logs\ApplicationLog.txt - 71050
+08.10.2012 15:53:49 - LocalAppData\DeadMeetsLead\Logs\DeviceSettingsLog.txt - 325
+08.10.2012 16:01:17 - LocalAppData\DeadMeetsLead\Profiles\AdmiringWorm.profile.gameInstances.json - 587
+08.10.2012 16:01:17 - LocalAppData\DeadMeetsLead\Profiles\AdmiringWorm.profile.json - 19857
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

@@ -1,0 +1,130 @@
+Game Name: Half-Life 2: Deathmatch
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SteamUser\half-life 2 deathmatch
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: D:\
+Drive Root: D:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+04.10.2012 13:54:21 - SteamUser\half-life 2 deathmatch\debug.log - 0
+25.09.2012 12:58:04 - SteamUser\half-life 2 deathmatch\hl2.exe - 89456
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\AdminServer.dll - 815488
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\avcodec-53.dll - 1099616
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\avformat-53.dll - 190816
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\avutil-51.dll - 123232
+04.10.2012 13:54:19 - SteamUser\half-life 2 deathmatch\bin\bsppack.dll - 414584
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\bugreporter.dll - 117632
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\bugreporter_public.dll - 101776
+04.10.2012 13:54:20 - SteamUser\half-life 2 deathmatch\bin\chromehtml.dll - 860672
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\datacache.dll - 236416
+25.09.2012 12:58:03 - SteamUser\half-life 2 deathmatch\bin\datamodel.dll - 1051312
+25.09.2012 12:58:02 - SteamUser\half-life 2 deathmatch\bin\dmserializers.dll - 723648
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\engine.dll - 4094328
+04.10.2012 13:54:19 - SteamUser\half-life 2 deathmatch\bin\FileSystemOpenDialog.dll - 1866136
+04.10.2012 13:54:15 - SteamUser\half-life 2 deathmatch\bin\FileSystem_Steam.dll - 328592
+25.09.2012 12:58:03 - SteamUser\half-life 2 deathmatch\bin\friendsui.dll - 780976
+04.10.2012 13:54:26 - SteamUser\half-life 2 deathmatch\bin\GameUI.dll - 1907064
+04.10.2012 13:54:19 - SteamUser\half-life 2 deathmatch\bin\haptics.dll - 189304
+25.09.2012 12:58:02 - SteamUser\half-life 2 deathmatch\bin\icudt.dll - 9955112
+25.09.2012 12:58:02 - SteamUser\half-life 2 deathmatch\bin\icudt42.dll - 10910384
+04.10.2012 13:54:14 - SteamUser\half-life 2 deathmatch\bin\inputsystem.dll - 107392
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\launcher.dll - 162688
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\libcef.dll - 20318544
+25.09.2012 12:58:04 - SteamUser\half-life 2 deathmatch\bin\libsasl.dll - 81920
+04.10.2012 13:54:16 - SteamUser\half-life 2 deathmatch\bin\MaterialSystem.dll - 1017736
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\mdllib.dll - 104312
+04.10.2012 13:54:28 - SteamUser\half-life 2 deathmatch\bin\Mss32.dll - 383648
+25.09.2012 12:58:01 - SteamUser\half-life 2 deathmatch\bin\mssmp3.asi - 149504
+25.09.2012 12:58:04 - SteamUser\half-life 2 deathmatch\bin\mssvoice.asi - 214528
+25.09.2012 12:57:59 - SteamUser\half-life 2 deathmatch\bin\msvcr71.dll - 359088
+25.09.2012 12:57:59 - SteamUser\half-life 2 deathmatch\bin\parsifal.dll - 94080
+25.09.2012 12:57:59 - SteamUser\half-life 2 deathmatch\bin\rdmwin32.dll - 213336
+04.10.2012 13:54:16 - SteamUser\half-life 2 deathmatch\bin\replay.dll - 1752440
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\scenefilecache.dll - 76168
+04.10.2012 13:54:29 - SteamUser\half-life 2 deathmatch\bin\ServerBrowser.dll - 874376
+04.10.2012 13:54:19 - SteamUser\half-life 2 deathmatch\bin\serverplugin_empty.dll - 144784
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\shaderapidx9.dll - 1496456
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\shaderapiempty.dll - 78728
+25.09.2012 12:58:03 - SteamUser\half-life 2 deathmatch\bin\sixense.dll - 632152
+25.09.2012 12:58:04 - SteamUser\half-life 2 deathmatch\bin\sixense_utils.dll - 294912
+04.10.2012 13:54:19 - SteamUser\half-life 2 deathmatch\bin\SoundEmitterSystem.dll - 124304
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\soundsystem.dll - 157568
+04.10.2012 13:54:20 - SteamUser\half-life 2 deathmatch\bin\stdshader_dbg.dll - 152456
+04.10.2012 13:54:20 - SteamUser\half-life 2 deathmatch\bin\stdshader_dx6.dll - 233352
+04.10.2012 13:54:20 - SteamUser\half-life 2 deathmatch\bin\stdshader_dx7.dll - 164744
+04.10.2012 13:54:20 - SteamUser\half-life 2 deathmatch\bin\stdshader_dx8.dll - 350088
+04.10.2012 13:54:20 - SteamUser\half-life 2 deathmatch\bin\stdshader_dx9.dll - 541064
+25.09.2012 12:57:59 - SteamUser\half-life 2 deathmatch\bin\steam_api.dll - 105808
+04.10.2012 13:54:16 - SteamUser\half-life 2 deathmatch\bin\StudioRender.dll - 521608
+04.10.2012 13:54:19 - SteamUser\half-life 2 deathmatch\bin\texturecompile_dll.dll - 300944
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\tier0.dll - 249720
+25.09.2012 12:58:01 - SteamUser\half-life 2 deathmatch\bin\tier0_s.dll - 237904
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\unicode.dll - 67960
+25.09.2012 12:58:01 - SteamUser\half-life 2 deathmatch\bin\unicows.dll - 256336
+04.10.2012 13:54:15 - SteamUser\half-life 2 deathmatch\bin\unitlib.dll - 67448
+25.09.2012 12:58:04 - SteamUser\half-life 2 deathmatch\bin\valve_avi.dll - 120152
+04.10.2012 13:54:28 - SteamUser\half-life 2 deathmatch\bin\vaudio_miles.dll - 73096
+04.10.2012 13:54:32 - SteamUser\half-life 2 deathmatch\bin\vaudio_speex.dll - 166592
+04.10.2012 13:54:19 - SteamUser\half-life 2 deathmatch\bin\vgui2.dll - 353144
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\vguimatsurface.dll - 1209224
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\video_bink.dll - 106368
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\video_quicktime.dll - 127368
+04.10.2012 13:54:17 - SteamUser\half-life 2 deathmatch\bin\video_services.dll - 94088
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\vphysics.dll - 912256
+04.10.2012 13:54:16 - SteamUser\half-life 2 deathmatch\bin\vstdlib.dll - 167800
+25.09.2012 12:58:04 - SteamUser\half-life 2 deathmatch\bin\vstdlib_s.dll - 212304
+25.09.2012 12:57:57 - SteamUser\half-life 2 deathmatch\bin\vtex.dll - 379552
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\vtex_dll.dll - 699776
+25.09.2012 12:57:59 - SteamUser\half-life 2 deathmatch\bin\xinput1_3.dll - 79816
+04.10.2012 13:54:18 - SteamUser\half-life 2 deathmatch\bin\tools\commedit.dll - 1458560
+04.10.2012 13:54:16 - SteamUser\half-life 2 deathmatch\bin\tools\pet.dll - 3553648
+04.10.2012 13:54:16 - SteamUser\half-life 2 deathmatch\bin\tools\vmt.dll - 3202928
+25.09.2012 12:58:00 - SteamUser\half-life 2 deathmatch\hl2\media\StartupVids.txt - 17
+25.09.2012 12:57:54 - SteamUser\half-life 2 deathmatch\hl2\media\valve.avi - 11134144
+04.10.2012 13:54:21 - SteamUser\half-life 2 deathmatch\hl2\resource\game.ico - 29926
+04.10.2012 13:54:28 - SteamUser\half-life 2 deathmatch\hl2\resource\hl2crosshairs.ttf - 4000
+04.10.2012 13:54:26 - SteamUser\half-life 2 deathmatch\hl2\resource\hl2ep2.ttf - 5032
+04.10.2012 13:54:26 - SteamUser\half-life 2 deathmatch\hl2\resource\marlett.ttf - 6136
+25.09.2012 12:57:57 - SteamUser\half-life 2 deathmatch\hl2mp\GameInfo.txt - 1531
+25.09.2012 12:57:54 - SteamUser\half-life 2 deathmatch\hl2mp\mapcycle.txt - 93
+04.10.2012 13:55:14 - SteamUser\half-life 2 deathmatch\hl2mp\modelsounds.cache - 16
+25.09.2012 12:57:57 - SteamUser\half-life 2 deathmatch\hl2mp\motd.txt - 754
+04.10.2012 13:55:14 - SteamUser\half-life 2 deathmatch\hl2mp\stats.txt - 0
+04.10.2012 13:55:14 - SteamUser\half-life 2 deathmatch\hl2mp\voice_ban.dt - 4
+04.10.2012 13:54:25 - SteamUser\half-life 2 deathmatch\hl2mp\bin\client.dll - 5535096
+04.10.2012 13:54:16 - SteamUser\half-life 2 deathmatch\hl2mp\bin\client.dylib - 12529964
+04.10.2012 13:54:25 - SteamUser\half-life 2 deathmatch\hl2mp\bin\server.dll - 7537528
+04.10.2012 13:54:14 - SteamUser\half-life 2 deathmatch\hl2mp\bin\server.dylib - 16055232
+04.10.2012 13:54:15 - SteamUser\half-life 2 deathmatch\hl2mp\bin\server.so - 17554331
+04.10.2012 13:55:14 - SteamUser\half-life 2 deathmatch\hl2mp\cfg\config.cfg - 6674
+04.10.2012 13:55:14 - SteamUser\half-life 2 deathmatch\hl2mp\cfg\server_blacklist.txt - 22
+04.10.2012 13:55:14 - SteamUser\half-life 2 deathmatch\hl2mp\maps\soundcache\_other_norwegian.cache - 134
+04.10.2012 13:54:29 - SteamUser\half-life 2 deathmatch\hl2mp\maps\soundcache\_other_rebuild_norwegian.cache - 16
+04.10.2012 13:54:29 - SteamUser\half-life 2 deathmatch\hl2mp\maps\soundcache\_sharedprecache_norwegian.cache - 16
+04.10.2012 13:54:26 - SteamUser\half-life 2 deathmatch\hl2mp\resource\halflife2.ttf - 55904
+04.10.2012 13:54:28 - SteamUser\half-life 2 deathmatch\hl2mp\resource\hl2mp.ttf - 16148
+04.10.2012 13:55:15 - SteamUser\half-life 2 deathmatch\platform\config\ingamedialogconfig.vdf - 3806
+04.10.2012 13:55:14 - SteamUser\half-life 2 deathmatch\platform\config\serverbrowser.vdf - 1590
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 320
+Value: InstallLocation
+Data: SteamUser\half-life 2 deathmatch
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

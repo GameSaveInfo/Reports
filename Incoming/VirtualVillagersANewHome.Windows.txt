@@ -1,0 +1,275 @@
+Game Name: Virtual Villagers: A New Home
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SteamCommon\Virtual Villagers
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: E:\
+Drive Root: E:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\fmod.dll - 161280
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\INSTALLER NOTES!.rtf - 4637
+04.10.2012 22:35:53 - SteamCommon\Virtual Villagers\Isola0.ldw - 204
+04.10.2012 22:35:53 - SteamCommon\Virtual Villagers\Isola1.ldw - 43840
+04.10.2012 22:35:40 - SteamCommon\Virtual Villagers\Isola21.ldw - 43840
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\ldw.ini - 69
+04.10.2012 22:35:54 - SteamCommon\Virtual Villagers\ldwLog.txt - 16605
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Readme.txt - 211
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\testapp.exe - 917504
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\VirtualVillagers.exe - 917504
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\VV_installScript.nsi - 32484
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\arrowglow.png - 5731
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\arrowglowdown.png - 5820
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\arrowleftglow.png - 6859
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\arrowrightglow.png - 6846
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\BambooMeterFrame1.png - 13454
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\berry1.png - 7565
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\berry2.png - 11433
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\berry3.png - 11503
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\berry4.png - 10805
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\berry5.png - 12890
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\berry6.png - 8821
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\berry7.png - 8565
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\berry8.png - 3558
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\berry9.png - 3230
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\blink.png - 554
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\blockage.png - 17680
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\boulder.png - 34651
+24.09.2012 01:55:21 - SteamCommon\Virtual Villagers\Images\Boxshtfeat.png - 713971
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\breeding.jpg - 13136
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\bubble.png - 4829
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\building.jpg - 11772
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\butterflygreen.png - 14951
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\buy_button.png - 9981
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\bxshtBG.png - 608435
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\canvas_bg.jpg - 60716
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\carrying.png - 24189
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\Checkbox.png - 1902
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\CheckboxChecked.png - 4122
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\checkmark.png - 1596
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\CloudBack.png - 14342
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\Cloudfront.png - 21108
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\CloudMiddle.png - 17251
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\credits.jpg - 74065
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\crops_planted.png - 2309
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\debris.png - 5688
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\drum.png - 2824
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\dust.png - 5666
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\dust2.png - 6212
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\empty1.png - 605
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\farming.jpg - 13243
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\farm_after.png - 193176
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\female_actions00.png - 224969
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\female_actions01.png - 230427
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\female_bodies00.png - 402880
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\female_bodies01.png - 428254
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\female_bodies10.png - 365385
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\female_bodies11.png - 374531
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\female_heads.png - 208654
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\focus_circle.png - 4668
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\food1.png - 3507
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\food2.png - 9094
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\food3.png - 14029
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\gamewin_bg.jpg - 96365
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\garden_restored.png - 278656
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\graveflowers.png - 18428
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\graves.png - 16276
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\GreenDlgTileGrid.png - 97839
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\hand.png - 2658
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\hand_open.png - 2772
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\healthBarbulb.png - 2293
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\help1.jpg - 86543
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\help2.jpg - 96878
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\help3.jpg - 94642
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\help4.jpg - 91157
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\idol_uncarved.png - 19959
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\info_button.png - 5125
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\intro1_bg.jpg - 90004
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\intro2_bg.jpg - 80371
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\lagoon_restored.jpg - 40100
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\Lavaglow.png - 16095
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\ldwarialbold.png - 7637
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\ldwBurweed27.png - 12343
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\ldwLogo.png - 13545
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\leftarrow.png - 6336
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\LoadColor.png - 228
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\logo1.png - 78531
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\main_BG.png - 467053
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\main_detail_button.png - 24948
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\main_wide_button.png - 10921
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\main_wide_button2.png - 23354
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\male_actions00.png - 224504
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\male_actions01.png - 205370
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\male_bodies00.png - 400683
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\male_bodies01.png - 400060
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\male_bodies10.png - 374033
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\male_bodies11.png - 374690
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\male_heads.png - 192811
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX0Y0.jpg - 75234
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX0Y1.jpg - 73215
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX0Y2.jpg - 41493
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX0Y3.jpg - 14734
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX1Y0.jpg - 69196
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX1Y1.jpg - 58250
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX1Y2.jpg - 44388
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX1Y3.jpg - 11016
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\MapX2Y0.jpg - 66558
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\MapX2Y1.jpg - 58231
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\MapX2Y2.jpg - 48334
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\MapX2Y3.jpg - 13468
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\MapX3Y0.jpg - 33619
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\MapX3Y1.jpg - 28518
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX3Y2.jpg - 15297
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MapX3Y3.jpg - 9919
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\medicine.jpg - 10961
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MS_Button_01.png - 30925
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MS_Button_02.png - 23688
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MS_Button_03.png - 30192
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\MS_Button_04.png - 23443
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\OrangeDlgTileGrid.png - 88266
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\overview_bg.jpg - 139651
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\peep_shadow1.png - 1733
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\ProcessedHorizBambStrip3.png - 762
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\ProcessedVertBambStrip1.png - 983
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\puzzles_bg.png - 815995
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\puzzle_covers.jpg - 79132
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\puzzle_solved.jpg - 84336
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\radioblank.png - 2202
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\radioselected.png - 2990
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\rainbow.png - 17561
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\real_logo.png - 8551
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\research_button.png - 6104
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\rightarrow.png - 6124
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\ripple.png - 11533
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\scaffolding.png - 7433
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\science.jpg - 10373
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\skelly.png - 11979
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\sliderhandle.png - 1277
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\smallHut.png - 58937
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\sparklestrip.png - 5422
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\sparklestrip2.png - 2014
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\spirituality.jpg - 7012
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\SPLASH_BG.jpg - 45114
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\StatusBar.png - 514
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\StatusBarSliceB.png - 445
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\StatusBarSliceR.png - 425
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\stoolfood.png - 1261
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\tchest.png - 12418
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\tech_bg.jpg - 134700
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\temple_rebuilt.jpg - 20030
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\tools2.png - 5844
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Images\tools3.png - 10871
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Images\ultra_wide_button.png - 41338
+24.09.2012 01:55:23 - SteamCommon\Virtual Villagers\Images\VD_BG.jpg - 148279
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Images\waves_proto.png - 11317
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Images\WideSlider2.png - 5934
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Images\yellow_sparkle.png - 6357
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\DRM\60dayguarantee.gif - 6888
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\DRM\logo1.gif - 2704
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\DRM\stylesheet.css - 1199
+24.09.2012 01:55:22 - SteamCommon\Virtual Villagers\Images\DRM\virtualvillagers_main.jpg - 58478
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\babygurgle2.wav - 12070
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\beaker.wav - 12254
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\BIRD1.wav - 31340
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bird1b.wav - 37484
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\BIRD2.wav - 27886
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bird2b.wav - 12878
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bird3.wav - 10318
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bird4.wav - 11550
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bird5b.wav - 5646
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bird6.wav - 10894
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bird7.wav - 7084
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\boing.ogg - 6041
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bounceSfx.wav - 44996
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\bush3.wav - 12334
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\chime3b.ogg - 31630
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\chime3bX.ogg - 27454
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\chimeslow.wav - 50732
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\chiselloop.wav - 21840
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\cough1.wav - 14252
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\cough2.wav - 10034
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\cough3.wav - 4820
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\creek1.ogg - 99052
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\dirt.wav - 2812
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\dirtcrunch2.wav - 6092
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\drip.wav - 1900
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\drop.ogg - 8066
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\femaleno1.wav - 6604
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\femaleno2.wav - 3964
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\femaleoh3.ogg - 7091
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\femaleoh4.ogg - 7466
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\femaleoh5.ogg - 7079
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\flick.ogg - 5303
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\gong1.ogg - 38114
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\hammerwoodloop.wav - 21486
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\hou.ogg - 5075
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\insect.ogg - 57212
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kidhey3.ogg - 6731
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kidhum.ogg - 8574
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kidyay2.ogg - 6104
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kishehe.ogg - 7517
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kishuh.ogg - 6415
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kislaugh2.ogg - 7893
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kiss.wav - 3032
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kiswee4.ogg - 7054
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\kiswhoah3.ogg - 6069
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\malehey13.ogg - 6759
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\malehey3.ogg - 6865
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\malehey7.ogg - 6335
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\malehey8.ogg - 7368
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\malehuh2.ogg - 6455
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\maleno1.wav - 6204
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\maleno3.wav - 4940
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\maleoh4.ogg - 6785
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\menu.ogg - 585563
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\menubutton3.wav - 1294
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\msg-gratz.wav - 12460
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ocean.ogg - 98525
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohkid1.wav - 5800
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohkid2.wav - 7806
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohkid3.wav - 5576
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohman2.wav - 3908
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohman3.wav - 5452
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohman4.wav - 5820
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohman5.wav - 5164
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohwoman1.wav - 5268
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohwoman2.wav - 5962
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohwoman3.wav - 6444
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ohwoman4.wav - 9100
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\ping.ogg - 5233
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\pulm.ogg - 5551
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\puwump.ogg - 5284
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\sock.ogg - 4967
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\song1.ogg - 1348292
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\song2.ogg - 1654866
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\song3.ogg - 1153505
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\splash1.ogg - 7956
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\spray.wav - 6828
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\stoneb.wav - 11011
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\tap.ogg - 8078
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\teachangelY.ogg - 44091
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\thump.ogg - 5552
+24.09.2012 01:55:24 - SteamCommon\Virtual Villagers\Sounds\wind1.wav - 82220
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 16100
+Value: InstallLocation
+Data: SteamCommon\Virtual Villagers
+
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

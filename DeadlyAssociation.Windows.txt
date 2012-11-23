@@ -1,0 +1,81 @@
+Game Name: Deadly Association
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+ProgramFilesX86\Deadly Association
+
+Save Path: 
+AppData\Hidden Objects DeadlyAssociation
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{13500A37-CCC9-473D-AC49-6638C6F53EBB}_is1
+Value: Inno Setup: App Path
+Data: ProgramFilesX86\Deadly Association
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\{13500A37-CCC9-473D-AC49-6638C6F53EBB}_is1
+Value: InstallLocation
+Data: ProgramFilesX86\Deadly Association
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+16.08.2012 05:01:21 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Deadly Association\Deadly Association.lnk - 1144
+26.04.2012 15:10:54 - ProgramFilesX86\Deadly Association\DeadlyAssociation.exe - 2293760
+16.08.2012 05:01:21 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Deadly Association\Uninstall Deadly Association.lnk - 1099
+16.08.2012 05:00:51 - ProgramFilesX86\Deadly Association\unins000.exe - 715038
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+16.08.2012 09:01:07 - AppData\Hidden Objects DeadlyAssociation\DeadlyAssociation.v2.5.options.sav - 326
+16.08.2012 09:01:00 - AppData\Hidden Objects DeadlyAssociation\DeadlyAssociation.v2.5.profile_full_0.sav - 35949
+
+Install Folder Dump: 
+26.04.2012 15:10:54 - ProgramFilesX86\Deadly Association\DeadlyAssociation.exe - 2293760
+16.08.2012 05:01:21 - ProgramFilesX86\Deadly Association\unins000.dat - 5221
+16.08.2012 05:00:51 - ProgramFilesX86\Deadly Association\unins000.exe - 715038
+27.04.2012 11:07:20 - ProgramFilesX86\Deadly Association\Data_full_Win32\DeadlyAssociation_external_Win32.pak - 682199
+26.04.2012 15:10:54 - ProgramFilesX86\Deadly Association\Data_full_Win32\DeadlyAssociation_full_Win32.pak - 75009718
+27.04.2012 11:07:20 - ProgramFilesX86\Deadly Association\Data_full_Win32\prefetch.params - 6
+20.04.2012 11:45:50 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\appartlaura.wav - 2586212
+20.04.2012 11:45:50 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\bureaulouvre.wav - 882584
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\campagne.wav - 1185144
+20.04.2012 11:45:50 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\cavern.wav - 885852
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\chambreleila.wav - 1335206
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\click.wav - 6402
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\clicksparkles.wav - 177452
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\creuser.wav - 165880
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\extincteur.wav - 25196
+20.04.2012 11:45:50 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\feu.wav - 864020
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\garage.wav - 1571354
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\highschool.wav - 6403238
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\hint.wav - 378156
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\hospital.wav - 1424146
+20.04.2012 11:45:50 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\labo.wav - 3617598
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\library.wav - 1285578
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\meuh.wav - 1300908
+20.04.2012 11:45:50 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\motel.wav - 2586212
+20.04.2012 11:45:50 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\music.wav - 12517676
+20.04.2012 11:45:50 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\music_action.wav - 7941932
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\music_angoisse.wav - 14029100
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\night.wav - 1323668
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\office.wav - 1876556
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\opendoor.wav - 84246
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\ouille.wav - 44316
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\park.wav - 2384564
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\placard_elec.wav - 8642234
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\timeend.wav - 441886
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\walk_floor.wav - 117868
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\walk_gravel.wav - 139504
+20.04.2012 11:45:48 - ProgramFilesX86\Deadly Association\Data_full_Win32\sounds\win.wav - 89996
+
+UAC Enabled
+
+
+VirtualStore Folders: 

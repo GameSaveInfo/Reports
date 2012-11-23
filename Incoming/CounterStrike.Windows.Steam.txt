@@ -1,0 +1,100 @@
+Game Name: Counter-Strike
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SteamUser\counter-strike
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: D:\
+Drive Root: D:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+07.10.2012 15:44:28 - SteamUser\counter-strike\Core.dll - 258106
+07.10.2012 15:44:12 - SteamUser\counter-strike\dbg.dll - 69632
+07.10.2012 15:44:27 - SteamUser\counter-strike\DemoPlayer.dll - 90112
+07.10.2012 15:44:12 - SteamUser\counter-strike\FileSystem_Steam.dll - 122974
+07.10.2012 15:44:12 - SteamUser\counter-strike\hl.exe - 86077
+07.10.2012 15:44:12 - SteamUser\counter-strike\hlds.exe - 389120
+07.10.2012 15:44:12 - SteamUser\counter-strike\hw.dll - 1840440
+07.10.2012 15:44:12 - SteamUser\counter-strike\Mp3dec.asi - 125952
+07.10.2012 15:44:12 - SteamUser\counter-strike\Mss32.dll - 351744
+07.10.2012 15:44:11 - SteamUser\counter-strike\Mssv12.asi - 142848
+07.10.2012 15:44:12 - SteamUser\counter-strike\Mssv29.asi - 161792
+07.10.2012 15:44:13 - SteamUser\counter-strike\readme.txt - 39818
+07.10.2012 15:44:13 - SteamUser\counter-strike\steamclient.dll - 2968048
+07.10.2012 15:44:11 - SteamUser\counter-strike\steam_api.dll - 67072
+07.10.2012 15:44:12 - SteamUser\counter-strike\steam_api_c.dll - 70144
+07.10.2012 15:44:11 - SteamUser\counter-strike\steam_appid.txt - 2
+07.10.2012 15:44:10 - SteamUser\counter-strike\sw.dll - 1672504
+07.10.2012 15:44:11 - SteamUser\counter-strike\tier0.dll - 344064
+07.10.2012 15:44:12 - SteamUser\counter-strike\tier0_s.dll - 259320
+07.10.2012 15:44:12 - SteamUser\counter-strike\vgui.dll - 352256
+07.10.2012 15:44:27 - SteamUser\counter-strike\vgui2.dll - 245819
+07.10.2012 15:46:00 - SteamUser\counter-strike\voice_miles.dll - 53248
+07.10.2012 15:44:11 - SteamUser\counter-strike\voice_speex.dll - 139264
+07.10.2012 15:44:12 - SteamUser\counter-strike\vstdlib.dll - 340480
+07.10.2012 15:44:11 - SteamUser\counter-strike\vstdlib_s.dll - 365816
+07.10.2012 15:44:12 - SteamUser\counter-strike\cstrike\autobuy.txt - 2108
+07.10.2012 15:44:10 - SteamUser\counter-strike\cstrike\config.cfg - 2370
+07.10.2012 15:44:24 - SteamUser\counter-strike\cstrike\game.ico - 7782
+07.10.2012 15:44:11 - SteamUser\counter-strike\cstrike\liblist.gam - 313
+07.10.2012 15:44:11 - SteamUser\counter-strike\cstrike\mapcycle.txt - 183
+07.10.2012 15:44:11 - SteamUser\counter-strike\cstrike\motd.txt - 819
+07.10.2012 15:46:47 - SteamUser\counter-strike\cstrike\radial.cdb - 4096
+07.10.2012 15:44:12 - SteamUser\counter-strike\cstrike\readme.txt - 29433
+07.10.2012 15:44:11 - SteamUser\counter-strike\cstrike\rebuy.txt - 1550
+07.10.2012 15:44:10 - SteamUser\counter-strike\cstrike\server.cfg - 480
+07.10.2012 15:44:12 - SteamUser\counter-strike\cstrike\settings.scr - 2772
+07.10.2012 15:44:11 - SteamUser\counter-strike\cstrike\steam_appid.txt - 2
+07.10.2012 15:44:12 - SteamUser\counter-strike\cstrike\user.scr - 2416
+07.10.2012 15:46:47 - SteamUser\counter-strike\cstrike\voice_ban.dt - 4
+07.10.2012 15:44:27 - SteamUser\counter-strike\cstrike\cl_dlls\client.dll - 1074496
+07.10.2012 15:45:54 - SteamUser\counter-strike\cstrike\dlls\mp.dll - 1316152
+07.10.2012 15:44:12 - SteamUser\counter-strike\cstrike\manual\manual.htm - 82840
+07.10.2012 15:46:42 - SteamUser\counter-strike\cstrike_norwegian\config.cfg - 3879
+07.10.2012 15:45:54 - SteamUser\counter-strike\cstrike_norwegian\custom.hpk - 6456
+07.10.2012 15:45:54 - SteamUser\counter-strike\cstrike_norwegian\settings.scr - 2771
+07.10.2012 15:45:25 - SteamUser\counter-strike\cstrike_norwegian\tempdecal.wad - 6296
+07.10.2012 15:44:58 - SteamUser\counter-strike\cstrike_norwegian\logos\remapped.bmp - 5176
+07.10.2012 15:44:58 - SteamUser\counter-strike\cstrike_norwegian\models\player\remapped.bmp - 33878
+07.10.2012 15:44:10 - SteamUser\counter-strike\gldrv\3dfxgl.dll - 137728
+07.10.2012 15:44:11 - SteamUser\counter-strike\gldrv\drvmap.txt - 52
+07.10.2012 15:44:28 - SteamUser\counter-strike\platform\servers\serverbrowser.dll - 535552
+07.10.2012 15:44:12 - SteamUser\counter-strike\platform\Steam\cached\offline_english.html - 972
+07.10.2012 15:44:12 - SteamUser\counter-strike\platform\Steam\cached\PreloadSubscription_ActivelyPreloading.res - 3461
+07.10.2012 15:44:12 - SteamUser\counter-strike\platform\Steam\cached\PreloadSubscription_ActivelyPreloading_Payed_NotPlayable.res - 3063
+07.10.2012 15:44:11 - SteamUser\counter-strike\platform\Steam\cached\PreloadSubscription_FinishedPreload_NotPayed_NotPlayable.res - 2996
+07.10.2012 15:44:10 - SteamUser\counter-strike\platform\Steam\cached\PreloadSubscription_FinishedPreload_NotPayed_Playable.res - 2995
+07.10.2012 15:44:11 - SteamUser\counter-strike\platform\Steam\cached\PreloadSubscription_FinishedPreload_Payed_NotPlayable.res - 3709
+07.10.2012 15:44:12 - SteamUser\counter-strike\platform\Steam\cached\PreloadSubscription_NotPreloading.res - 3046
+07.10.2012 15:44:11 - SteamUser\counter-strike\platform\Steam\cached\PreloadSubscription_NotPreloading_Payed_NotPlayable.res - 2648
+07.10.2012 15:44:11 - SteamUser\counter-strike\platform\Steam\cached\ProductMarketingDialog.res - 955
+07.10.2012 15:44:11 - SteamUser\counter-strike\platform\Steam\cached\ProductMarketingDialog_Initial.res - 1018
+07.10.2012 15:44:11 - SteamUser\counter-strike\platform\Steam\cached\ProductMarketingDialog_Preload.res - 1018
+07.10.2012 15:44:12 - SteamUser\counter-strike\platform\Steam\cached\ProductMarketingDialog_Released.res - 1018
+07.10.2012 15:44:10 - SteamUser\counter-strike\platform\Steam\cached\PurchaseSubBillingConfirmation.res - 434
+07.10.2012 15:44:11 - SteamUser\counter-strike\valve\autoexec.cfg - 19
+07.10.2012 15:44:11 - SteamUser\counter-strike\valve\config.cfg - 1779
+07.10.2012 15:44:11 - SteamUser\counter-strike\valve\mapcycle.txt - 68
+07.10.2012 15:44:11 - SteamUser\counter-strike\valve\server.cfg - 469
+07.10.2012 15:44:11 - SteamUser\counter-strike\valve\settings.scr - 2225
+07.10.2012 15:44:10 - SteamUser\counter-strike\valve\steam_appid.txt - 2
+07.10.2012 15:44:11 - SteamUser\counter-strike\valve\cl_dlls\GameUI.dll - 845112
+07.10.2012 15:44:12 - SteamUser\counter-strike\valve\cl_dlls\particleman.dll - 81920
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

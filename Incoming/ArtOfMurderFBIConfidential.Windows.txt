@@ -1,0 +1,28 @@
+Game Name: Art of Murder - FBI Confidential
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SavedGames\Art of Murder FBI Confidential
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+02.10.2012 08:43:52 - SavedGames\Art of Murder FBI Confidential\save001.dsv - 349553
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

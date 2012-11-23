@@ -1,0 +1,139 @@
+Game Name: Bounce!
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\GamersGate\Bounce!
+
+Save Path: 
+Drive\GamersGate\Bounce!\Save
+
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Key:HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall\Bounce! v2.1
+Value: UninstallString
+Data: 16.08.2012 04:10:24 - Drive\GamersGate\Bounce!\Uninstal.exe - 86516
+
+Detected Start Menu Shortcuts: 
+16.08.2012 04:10:24 - AppData\Microsoft\Windows\Start Menu\Bounce!.lnk - 660
+23.12.2010 20:47:32 - Drive\GamersGate\Bounce!\Bounce!.exe - 1687040
+
+Root Drive Information: 
+Drive Name: E:\
+Drive Root: E:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+17.08.2012 15:31:26 - Drive\GamersGate\Bounce!\Save\Autosave.sav - 421692
+17.08.2012 15:32:56 - Drive\GamersGate\Bounce!\Save\MySave.sav - 342080
+
+Install Folder Dump: 
+23.12.2010 20:47:32 - Drive\GamersGate\Bounce!\Bounce!.exe - 1687040
+17.08.2012 15:32:59 - Drive\GamersGate\Bounce!\C4Log.html - 24846
+23.12.2010 20:53:37 - Drive\GamersGate\Bounce!\Game.dll - 325632
+16.08.2012 04:10:24 - Drive\GamersGate\Bounce!\Uninstal.exe - 86516
+24.12.2010 16:02:20 - Drive\GamersGate\Bounce!\Data\Assets.pak - 443121920
+24.12.2010 16:02:47 - Drive\GamersGate\Bounce!\Data\Plugins.pak - 3056
+24.12.2010 16:02:54 - Drive\GamersGate\Bounce!\Data\Tools.pak - 2518016
+14.12.2010 23:10:36 - Drive\GamersGate\Bounce!\Data\Custom\Intro.mov - 2904819
+14.12.2010 00:08:16 - Drive\GamersGate\Bounce!\Data\Custom\License (Read if your in this folder).txt - 932
+21.10.2010 00:58:19 - Drive\GamersGate\Bounce!\Data\Custom\configuration\Game.str - 5584
+21.10.2010 00:58:21 - Drive\GamersGate\Bounce!\Data\Custom\configuration\Input.str - 632
+24.11.2010 23:14:21 - Drive\GamersGate\Bounce!\Data\Custom\configuration\Terrain.str - 4
+21.10.2010 00:58:24 - Drive\GamersGate\Bounce!\Data\Custom\configuration\Worlds.str - 160
+06.07.2010 14:05:31 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Ambient.WAV - 1411244
+21.05.2010 16:55:37 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Award Unlocked.wav - 434536
+06.01.2010 14:56:32 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Bang.wav - 173922
+01.04.2010 22:56:13 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Boing.wav - 86508
+15.07.2010 21:53:01 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Button Activated.wav - 279912
+06.07.2010 14:01:14 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Chill.WAV - 1411244
+06.07.2010 13:58:54 - Drive\GamersGate\Bounce!\Data\Custom\sounds\City.WAV - 3175244
+15.07.2010 21:52:59 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Correct.wav - 313704
+26.07.2006 18:09:30 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Disengage.wav - 2960
+26.07.2006 18:05:20 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Engage.wav - 5184
+27.02.2010 20:34:16 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Explosion.wav - 50380
+20.01.2010 21:22:51 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Failure.wav - 282668
+15.07.2010 21:53:04 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Incorrect.wav - 503144
+15.07.2010 21:53:06 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Item.wav - 269672
+22.12.2010 18:28:22 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Jump.wav - 22792
+23.05.2010 22:08:29 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Laugh.wav - 139816
+14.03.2006 03:41:06 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Launch.wav - 31350
+15.07.2010 21:53:08 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Level Complete.wav - 305512
+27.02.2010 21:29:00 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Pickup Toy Shooter.wav - 369000
+06.02.2010 19:47:21 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Pop.wav - 53000
+21.05.2010 16:53:57 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Portal.wav - 329064
+19.02.2008 21:43:32 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Rain.wav - 727130
+04.02.2010 19:43:51 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Respawn.wav - 34188
+23.05.2010 22:09:56 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Scream.wav - 197412
+10.06.2010 16:35:44 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Space.wav - 2469644
+21.05.2010 16:53:26 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Spawn.wav - 547176
+24.07.2000 03:18:46 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Splash.wav - 40096
+27.02.2010 21:16:32 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Task 1 Complete.wav - 380532
+27.02.2010 21:29:08 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Task 2 Complete.wav - 345448
+21.05.2010 16:50:45 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Task 3 Complete.wav - 360808
+21.05.2010 16:51:27 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Task 4 Complete.wav - 376168
+27.02.2010 21:29:15 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Task 5 Complete.wav - 379240
+27.02.2010 21:29:18 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Task 6 Complete.wav - 371048
+16.05.2010 20:26:55 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Task Complete.wav - 285678
+04.02.2010 19:43:51 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Teleport.wav - 34188
+21.05.2010 16:55:56 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Treasure.wav - 351592
+22.12.2010 18:29:12 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Walk.wav - 53244
+06.07.2010 13:59:39 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Wind.WAV - 1411244
+06.07.2010 14:00:06 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Wind2.WAV - 1402380
+14.12.2010 18:29:37 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Music\Beach.wav - 5050084
+14.12.2010 18:28:21 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Music\Mermaid.wav - 5935332
+14.12.2010 18:39:19 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Music\Remains.wav - 5460230
+19.10.2010 18:38:13 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Music\Sensations.wav - 5213264
+19.10.2010 20:36:03 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Music\Sensual.wav - 4237176
+19.10.2010 19:02:56 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Music\Soothing.wav - 5364480
+19.10.2010 21:47:48 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Music\SpaceAge.wav - 5297054
+14.12.2010 18:43:55 - Drive\GamersGate\Bounce!\Data\Custom\sounds\Music\Tremors.wav - 5922132
+11.12.2010 01:35:24 - Drive\GamersGate\Bounce!\Data\Custom\texture\Ball.tex - 152888
+12.02.2010 22:11:48 - Drive\GamersGate\Bounce!\Data\Custom\texture\BlockMedium01.tex - 41873
+12.02.2010 22:12:46 - Drive\GamersGate\Bounce!\Data\Custom\texture\BlockMedium02.tex - 41911
+12.02.2010 22:12:50 - Drive\GamersGate\Bounce!\Data\Custom\texture\BlockMedium03.tex - 41911
+12.02.2010 22:02:54 - Drive\GamersGate\Bounce!\Data\Custom\texture\BlockSmall NRM.tex - 59482
+12.02.2010 22:02:59 - Drive\GamersGate\Bounce!\Data\Custom\texture\BlockSmall01.tex - 51214
+12.02.2010 22:03:03 - Drive\GamersGate\Bounce!\Data\Custom\texture\BlockSmall02.tex - 51406
+12.02.2010 22:03:08 - Drive\GamersGate\Bounce!\Data\Custom\texture\BlockSmall03.tex - 51410
+10.05.2010 22:31:42 - Drive\GamersGate\Bounce!\Data\Custom\world\ModelViewer.wld - 45672
+05.09.2010 15:22:12 - Drive\GamersGate\Bounce!\Data\Custom\world\SampleLevel.tex - 1058229
+01.12.2010 23:14:25 - Drive\GamersGate\Bounce!\Data\Custom\world\SampleLevel.wld - 3135036
+17.08.2012 15:28:50 - Drive\GamersGate\Bounce!\Data\Engine\input.cfg - 480
+17.08.2012 15:28:50 - Drive\GamersGate\Bounce!\Data\Engine\variables.cfg - 1458
+23.12.2010 21:09:26 - Drive\GamersGate\Bounce!\Extras\Changelog.txt - 14030
+18.01.2010 19:30:22 - Drive\GamersGate\Bounce!\Extras\dxwebsetup.exe - 299864
+14.12.2010 00:10:08 - Drive\GamersGate\Bounce!\Extras\Troubleshoot Guide.txt - 355
+20.10.2010 22:02:50 - Drive\GamersGate\Bounce!\Import\Custom\configuration\Game.txt - 5489
+20.10.2010 22:02:45 - Drive\GamersGate\Bounce!\Import\Custom\configuration\Input.txt - 540
+24.11.2010 23:36:20 - Drive\GamersGate\Bounce!\Import\Custom\configuration\Terrain.cfg - 113
+12.09.2010 15:21:57 - Drive\GamersGate\Bounce!\Import\Custom\configuration\Worlds.txt - 151
+11.12.2010 01:11:42 - Drive\GamersGate\Bounce!\Import\Custom\texture\Ball.tga - 1048620
+12.02.2010 22:11:42 - Drive\GamersGate\Bounce!\Import\Custom\texture\BlockMedium01.tga - 786476
+12.02.2010 22:12:22 - Drive\GamersGate\Bounce!\Import\Custom\texture\BlockMedium02.tga - 786476
+12.02.2010 22:12:39 - Drive\GamersGate\Bounce!\Import\Custom\texture\BlockMedium03.tga - 786476
+12.02.2010 22:02:47 - Drive\GamersGate\Bounce!\Import\Custom\texture\BlockSmall NRM.tga - 196652
+12.02.2010 22:01:39 - Drive\GamersGate\Bounce!\Import\Custom\texture\BlockSmall01.tga - 196652
+12.02.2010 22:02:11 - Drive\GamersGate\Bounce!\Import\Custom\texture\BlockSmall02.tga - 196652
+12.02.2010 22:02:24 - Drive\GamersGate\Bounce!\Import\Custom\texture\BlockSmall03.tga - 196652
+23.12.2010 20:47:46 - Drive\GamersGate\Bounce!\Plugins\Extras.dll - 96768
+23.12.2010 20:49:03 - Drive\GamersGate\Bounce!\Plugins\GenericParticle.dll - 131072
+23.12.2010 20:47:38 - Drive\GamersGate\Bounce!\Plugins\Movies.dll - 112640
+23.12.2010 20:47:54 - Drive\GamersGate\Bounce!\Plugins\Tools\MoviePlayer.dll - 65024
+23.12.2010 20:47:52 - Drive\GamersGate\Bounce!\Plugins\Tools\ResourcePacker.dll - 47104
+23.12.2010 20:47:49 - Drive\GamersGate\Bounce!\Plugins\Tools\SoundPlayer.dll - 71168
+23.12.2010 20:47:42 - Drive\GamersGate\Bounce!\Plugins\Tools\StringImporter.dll - 61952
+23.12.2010 20:47:46 - Drive\GamersGate\Bounce!\Plugins\Tools\TextureTool.dll - 141312
+23.12.2010 20:48:42 - Drive\GamersGate\Bounce!\Plugins\Tools\WorldEditor.dll - 834048
+23.12.2010 20:48:46 - Drive\GamersGate\Bounce!\Plugins\Tools\Editor\ColladaImporter.dll - 126464
+23.12.2010 20:47:51 - Drive\GamersGate\Bounce!\Plugins\Tools\Fonts\FontGenerator.dll - 72192
+17.08.2012 15:31:26 - Drive\GamersGate\Bounce!\Save\Autosave.sav - 421692
+17.08.2012 15:32:56 - Drive\GamersGate\Bounce!\Save\MySave.sav - 342080
+
+UAC Enabled
+
+
+VirtualStore Folders: 

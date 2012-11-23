@@ -1,0 +1,73 @@
+Game Name: Art of Murder - FBI Confidential
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Install Path: 
+Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version
+
+Save Path: 
+UserProfile\Saved Games\Art of Murder FBI Confidential
+
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\City Interactive\Art of Murder - FBI Confidential Download Version
+Value: Path
+Data: Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\City Interactive\Art of Murder - FBI Confidential Download Version
+Value: WorkingDir
+Data: Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\art_of_murder_en Download Version_is1
+Value: Inno Setup: App Path
+Data: Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\art_of_murder_en Download Version_is1
+Value: InstallLocation
+Data: Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+16.08.2012 10:35:16 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\City Interactive\Art of Murder - FBI Confidential Download Version\Art of Murder - FBI Confidential on the Web.lnk - 1007
+16.08.2012 10:35:16 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\game.url - 56
+16.08.2012 10:35:16 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\City Interactive\Art of Murder - FBI Confidential Download Version\Art of Murder - FBI Confidential.lnk - 1194
+09.02.2008 15:55:06 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\game.exe - 1933312
+16.08.2012 10:35:16 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\City Interactive\Art of Murder - FBI Confidential Download Version\City Interactive Homepage.lnk - 1007
+16.08.2012 10:35:16 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\city.url - 57
+16.08.2012 10:35:16 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\City Interactive\Art of Murder - FBI Confidential Download Version\License.lnk - 1211
+13.02.2008 09:09:40 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\license.txt - 6055
+16.08.2012 10:35:16 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\City Interactive\Art of Murder - FBI Confidential Download Version\ReadMe.lnk - 1206
+13.02.2008 09:08:28 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\readme.txt - 385
+16.08.2012 10:35:16 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\City Interactive\Art of Murder - FBI Confidential Download Version\Settings.lnk - 1210
+09.02.2008 15:55:32 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\settings.exe - 184320
+16.08.2012 10:35:16 - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\City Interactive\Art of Murder - FBI Confidential Download Version\Uninstall Art of Murder - FBI Confidential.lnk - 1218
+16.08.2012 10:34:19 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\unins000.exe - 796505
+
+Root Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump: 
+16.08.2012 10:24:36 - UserProfile\Saved Games\Art of Murder FBI Confidential\save001.dsv - 368269
+
+Install Folder Dump: 
+16.08.2012 10:35:16 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\city.url - 57
+13.03.2008 07:24:32 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\data.dcp - 23757546
+09.02.2008 15:55:06 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\game.exe - 1933312
+16.08.2012 10:35:16 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\game.url - 56
+13.03.2008 07:25:32 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\imglite.dcp - 123403102
+14.01.2008 01:34:24 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\installutil.dll - 5632
+13.02.2008 09:09:40 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\license.txt - 6055
+13.03.2008 07:25:06 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\lite.dcp - 105198356
+13.02.2008 09:08:28 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\readme.txt - 385
+09.02.2008 15:55:32 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\settings.exe - 184320
+16.08.2012 10:35:16 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\unins000.dat - 14309
+16.08.2012 10:34:19 - Drive\GamersGate\City Interactive\Art of Murder - FBI Confidential Download Version\unins000.exe - 796505
+
+UAC Enabled
+
+
+VirtualStore Folders: 
