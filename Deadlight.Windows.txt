@@ -1,0 +1,42 @@
+<game name="Deadlight" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Deadlight</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="My Games\Deadlight"/>
+      </locations>
+      <files>
+        <include/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Deadlight
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\My Games
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sat 27 Oct 5:25:16 PM - UserDocuments\My Games\Deadlight\profile.bin - 769
+Sat 27 Oct 5:25:16 PM - UserDocuments\My Games\Deadlight\savegame - 1260
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

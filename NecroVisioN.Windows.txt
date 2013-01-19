@@ -1,0 +1,30 @@
+Game Name: NecroVisioN
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+D:\Steam\steamapps\common\NecroVisioN\Profiles
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: D:\
+Drive Root: D:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+10/09/2012 19:10:54 - D:\Steam\steamapps\common\NecroVisioN\Profiles\Default\profile.dat - 482
+10/09/2012 19:29:05 - D:\Steam\steamapps\common\NecroVisioN\Profiles\Default\SaveGames\000\Save.dat - 268
+10/09/2012 19:29:05 - D:\Steam\steamapps\common\NecroVisioN\Profiles\Default\SaveGames\000\SaveGame.Info - 303
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

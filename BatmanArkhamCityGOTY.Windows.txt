@@ -1,0 +1,40 @@
+Game Name: Batman Arkham City GOTY
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\WB Games\Batman Arkham City GOTY
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+26/11/2012 21:31:33 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\bmcamera.ini - 91
+26/11/2012 21:31:24 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\bmcompat.ini - 16143
+26/11/2012 22:35:07 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\bmengine.ini - 73211
+26/11/2012 21:45:59 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\bmgame.ini - 159817
+26/11/2012 21:45:59 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\bminput.ini - 58602
+26/11/2012 21:31:24 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\bmlightmass.ini - 6882
+26/11/2012 21:31:24 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\bmui.ini - 1856
+26/11/2012 21:45:43 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\UserEngine.ini - 1310
+26/11/2012 21:45:43 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\UserGame.ini - 24690
+26/11/2012 21:45:43 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Config\UserInput.ini - 40544
+26/11/2012 21:38:01 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Logs\Launch-backup-2012.11.26-21.39.37.log - 444
+26/11/2012 21:44:14 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Logs\Launch-backup-2012.11.26-21.46.12.log - 651
+26/11/2012 22:35:07 - UserDocuments\WB Games\Batman Arkham City GOTY\BmGame\Logs\launch.log - 197097
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

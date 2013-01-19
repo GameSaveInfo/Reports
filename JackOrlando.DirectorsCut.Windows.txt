@@ -1,0 +1,381 @@
+Game Name: JackOrlandoDirectorsCut
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+3/13/2009 12:33:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\game.ico - 4286
+3/13/2009 12:33:30 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\gfw_high.ico - 118590
+8/27/2001 8:33:48 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Global.pak - 14986139
+10/20/2008 2:56:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\innosetup_license.txt - 1471
+3/11/2009 2:12:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\JackOrlando.exe - 1298477
+3/11/2009 2:23:48 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\JackStart.exe - 510976
+2/3/2004 4:31:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Manual.pdf - 6021329
+6/3/2003 11:15:20 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Menu.pak - 4052566
+2/19/2009 4:53:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\support.txt - 827
+1/3/2013 11:25:18 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\unins000.dat - 70707
+1/3/2013 11:24:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\unins000.exe - 2142547
+1/3/2013 11:25:18 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\unins000.ini - 80
+8/30/2001 1:39:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC000.phk - 1273381
+8/30/2001 1:40:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC000B.phk - 1803693
+8/30/2001 1:40:54 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC000C.phk - 978152
+8/30/2001 1:40:44 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC000D.phk - 3602212
+8/30/2001 1:40:08 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC001.phk - 4532260
+8/30/2001 1:40:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC002.phk - 953548
+8/30/2001 1:41:04 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC003.phk - 1083319
+8/30/2001 1:41:10 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC004.phk - 1074042
+8/30/2001 1:40:18 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC005.phk - 1496316
+8/30/2001 1:40:22 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC005B.phk - 1778994
+8/30/2001 1:41:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC006.phk - 3494682
+8/30/2001 1:41:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC007.phk - 957756
+8/30/2001 1:41:26 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC008.phk - 839660
+8/30/2001 1:41:32 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC009.phk - 2743836
+8/30/2001 1:41:42 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC010.phk - 960374
+9/3/2001 10:06:42 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC011.phk - 1785361
+8/30/2001 1:41:52 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC012.phk - 752490
+9/3/2001 10:27:28 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC013.phk - 2189235
+8/30/2001 1:42:10 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC014.phk - 3293949
+8/30/2001 1:42:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC015.phk - 3234092
+8/30/2001 1:42:26 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC018.phk - 2096693
+8/30/2001 1:42:30 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC019.phk - 791830
+8/30/2001 1:42:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC020.phk - 1795490
+8/30/2001 1:42:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC021.phk - 775943
+8/30/2001 1:42:42 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC022.phk - 1264911
+8/30/2001 1:42:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC023.phk - 870395
+8/30/2001 1:42:52 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC024.phk - 2234573
+8/30/2001 1:42:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC025.phk - 1256689
+8/30/2001 1:43:06 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC026.phk - 2666978
+8/31/2001 9:08:56 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC031.phk - 2891928
+8/31/2001 9:09:22 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC032.phk - 6267976
+8/31/2001 9:09:08 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC032A.phk - 4981333
+8/31/2001 9:09:16 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC032B.phk - 3922175
+9/3/2001 1:25:52 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC033.phk - 1812715
+9/3/2001 1:26:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC034.phk - 3717432
+8/31/2001 9:09:46 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC035.phk - 1546399
+8/31/2001 9:09:50 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC037.phk - 2582551
+8/31/2001 9:09:58 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC038.phk - 3369656
+8/31/2001 9:10:04 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC039.phk - 1558000
+8/31/2001 9:10:08 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC040.phk - 768509
+9/3/2001 4:07:04 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC041.phk - 770823
+8/31/2001 9:10:16 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC042.phk - 1379843
+8/31/2001 9:10:20 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC043.phk - 755314
+8/31/2001 9:10:24 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC044.phk - 3427116
+8/31/2001 9:10:30 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC045.phk - 1265242
+8/31/2001 9:10:38 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC046.phk - 4337117
+8/31/2001 9:12:22 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC047A.phk - 5447557
+8/31/2001 9:12:38 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC047B.phk - 4952031
+8/31/2001 9:12:58 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC047C.phk - 5615927
+8/31/2001 9:13:04 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC047D.phk - 3089465
+8/31/2001 9:13:06 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC048.phk - 757861
+8/31/2001 9:13:10 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC049.phk - 791309
+8/31/2001 9:13:14 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC050.phk - 813614
+8/31/2001 9:13:26 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC051.phk - 2771047
+8/31/2001 9:13:20 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC051A.phk - 2454049
+8/31/2001 3:03:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC052.phk - 1290196
+8/31/2001 9:13:36 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC053.phk - 2984079
+8/31/2001 9:13:56 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC054.phk - 8668075
+8/31/2001 9:14:06 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC055.phk - 2605757
+8/31/2001 9:14:00 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC055A.phk - 875777
+8/31/2001 9:14:10 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC056.phk - 786688
+8/31/2001 9:14:18 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC057.phk - 2331886
+8/31/2001 9:14:14 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC057A.phk - 769644
+8/31/2001 9:14:28 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC058.phk - 2150586
+8/31/2001 9:14:22 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC058B.phk - 1111861
+8/31/2001 9:14:32 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC059.phk - 757674
+9/3/2001 4:09:54 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC060.phk - 3101981
+8/31/2001 9:14:44 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC061.phk - 1802895
+8/31/2001 9:14:50 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC062.phk - 2179276
+9/3/2001 1:26:14 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC063.phk - 1597729
+8/31/2001 9:15:00 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC064.phk - 2213949
+8/31/2001 9:15:04 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC065.phk - 1180058
+8/31/2001 9:15:08 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC066.phk - 1083747
+8/31/2001 9:15:12 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC067.phk - 1752254
+8/31/2001 9:15:16 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC068.phk - 677519
+8/31/2001 9:15:20 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC069.phk - 1033820
+8/31/2001 9:15:26 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC070.phk - 1272374
+8/31/2001 9:15:22 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC070A.phk - 693519
+8/31/2001 9:15:40 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC071.phk - 1906628
+8/31/2001 9:15:32 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC071A.phk - 1586904
+8/31/2001 9:15:36 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC071B.phk - 1840691
+8/31/2001 9:15:42 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC072.phk - 1826819
+8/31/2001 9:15:48 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC073.phk - 1956725
+8/30/2001 1:43:14 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC075.phk - 3286980
+8/30/2001 4:09:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\sc076.phk - 2931481
+8/30/2001 1:43:30 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC077.phk - 1326205
+8/30/2001 1:43:34 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC078.phk - 1771381
+8/30/2001 1:43:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC079.phk - 2290450
+8/30/2001 1:43:44 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC080.phk - 1335018
+8/30/2001 1:43:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC081.phk - 1571470
+8/30/2001 1:43:54 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC082.phk - 1449780
+8/31/2001 1:21:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\sc083.phk - 1233103
+8/30/2001 1:44:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC084.phk - 1101941
+8/30/2001 1:44:06 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC085.phk - 923004
+8/30/2001 1:44:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC086.phk - 3346584
+8/30/2001 4:20:32 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\sc087.phk - 1974469
+8/30/2001 1:44:32 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC088.phk - 1030309
+8/30/2001 1:44:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC089.phk - 2813557
+8/30/2001 1:44:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC090.phk - 719185
+8/30/2001 1:44:44 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC091.phk - 729657
+8/30/2001 1:44:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC092.phk - 726532
+8/31/2001 3:34:22 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\sc093.phk - 1682603
+8/30/2001 1:45:00 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC094.phk - 1156254
+8/30/2001 1:45:06 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC095.phk - 1598458
+8/30/2001 1:45:14 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC100.phk - 2854204
+8/30/2001 1:45:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC101.phk - 804361
+8/30/2001 1:45:22 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC102.phk - 886057
+9/3/2001 8:54:42 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC103.phk - 2885778
+8/30/2001 1:45:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC104.phk - 1326578
+8/30/2001 1:45:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC105.phk - 911774
+8/30/2001 1:45:44 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC106.phk - 790275
+8/30/2001 1:45:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC107.phk - 4836147
+8/30/2001 1:46:08 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC108.phk - 2635608
+8/30/2001 1:46:14 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC109.phk - 705289
+8/30/2001 1:46:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC110.phk - 921138
+8/30/2001 1:46:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC111.phk - 818503
+8/30/2001 1:46:28 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC112.phk - 2785068
+8/30/2001 1:46:32 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC113.phk - 745486
+8/30/2001 1:46:44 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC114.phk - 3397238
+8/30/2001 1:47:00 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC115.phk - 4690228
+8/30/2001 1:47:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC116.phk - 2001931
+8/30/2001 1:47:32 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC117.phk - 3944330
+8/30/2001 1:47:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC118.phk - 775641
+8/30/2001 1:47:48 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC119.phk - 789513
+8/31/2001 9:15:52 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC201.phk - 976257
+8/30/2001 1:47:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC201A.phk - 702637
+8/31/2001 9:15:54 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC202.phk - 846655
+9/3/2001 4:11:12 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC203.phk - 1571162
+9/3/2001 4:11:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC204.phk - 3351582
+9/3/2001 4:11:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC205.phk - 1508382
+8/31/2001 3:03:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC206.phk - 1400722
+9/3/2001 4:11:28 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC207.phk - 1542519
+8/31/2001 9:16:18 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC208.phk - 1009989
+9/3/2001 4:11:34 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC209.phk - 1750689
+9/3/2001 4:31:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Action\SC210.phk - 938855
+4/27/2001 12:18:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC000.ph2 - 182607
+4/27/2001 12:19:10 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC000B.ph2 - 156755
+4/27/2001 12:19:12 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC000C.ph2 - 68607
+4/27/2001 12:18:32 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC001.ph2 - 1671182
+4/27/2001 12:19:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC002.ph2 - 66439
+4/27/2001 12:19:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC003.ph2 - 329050
+4/27/2001 12:19:24 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC004.ph2 - 311492
+4/27/2001 12:18:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC005.ph2 - 69856
+4/27/2001 12:18:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC005B.ph2 - 208935
+4/27/2001 12:19:30 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC006.ph2 - 72095
+4/27/2001 12:19:34 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC007.ph2 - 321305
+4/27/2001 12:19:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC008.ph2 - 43196
+4/27/2001 12:19:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC009.ph2 - 1681201
+4/27/2001 12:19:54 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC011.ph2 - 748973
+4/27/2001 12:19:56 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC012.ph2 - 503025
+8/20/2001 12:45:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC013.ph2 - 398019
+4/27/2001 12:20:12 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC014.ph2 - 258791
+4/27/2001 12:20:22 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC015.ph2 - 258791
+4/27/2001 12:20:28 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC018.ph2 - 64735
+4/27/2001 12:20:34 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC020.ph2 - 66207
+4/27/2001 12:20:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC023.ph2 - 237899
+4/27/2001 12:20:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC024.ph2 - 530427
+4/27/2001 12:20:52 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC025.ph2 - 573421
+4/27/2001 12:20:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC026.ph2 - 686057
+8/31/2001 11:08:58 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC031.ph2 - 82357
+8/31/2001 11:09:24 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC032.ph2 - 27923
+8/31/2001 11:09:12 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC032A.ph2 - 869137
+8/31/2001 11:09:30 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC033.ph2 - 137649
+8/31/2001 12:14:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC034.ph2 - 248193
+8/31/2001 11:09:52 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC037.ph2 - 1300297
+8/31/2001 11:10:00 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC038.ph2 - 998236
+8/31/2001 11:10:04 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC039.ph2 - 132638
+8/31/2001 11:10:08 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC040.ph2 - 210594
+8/31/2001 11:10:12 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC041.ph2 - 2942
+8/31/2001 11:10:18 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC042.ph2 - 1090727
+8/31/2001 11:10:26 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC044.ph2 - 220300
+8/31/2001 11:10:30 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC045.ph2 - 219241
+8/31/2001 11:10:38 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC046.ph2 - 165853
+8/31/2001 11:12:24 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC047A.ph2 - 607401
+8/31/2001 11:12:40 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC047B.ph2 - 227956
+8/31/2001 11:12:58 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC047C.ph2 - 226634
+8/31/2001 11:13:08 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC048.ph2 - 295638
+8/31/2001 11:13:12 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC049.ph2 - 614675
+8/31/2001 11:13:16 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC050.ph2 - 354255
+8/31/2001 11:13:26 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC051.ph2 - 562565
+8/31/2001 11:13:20 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC051A.ph2 - 62174
+8/31/2001 11:13:32 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC052.ph2 - 153702
+8/31/2001 11:13:38 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC053.ph2 - 154349
+8/31/2001 11:13:56 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC054.ph2 - 690888
+8/31/2001 11:14:06 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC055.ph2 - 432763
+8/31/2001 11:14:10 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC056.ph2 - 897836
+8/31/2001 11:14:20 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC057.ph2 - 691242
+8/31/2001 11:14:30 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC058.ph2 - 755192
+8/31/2001 11:14:24 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC058B.ph2 - 272276
+8/31/2001 11:14:34 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC059.ph2 - 48898
+8/31/2001 11:14:40 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC060.ph2 - 72838
+8/31/2001 11:14:46 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC061.ph2 - 41123
+8/31/2001 11:14:52 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC062.ph2 - 245795
+8/31/2001 11:14:56 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC063.ph2 - 59812
+8/31/2001 11:15:02 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC064.ph2 - 54198
+8/31/2001 11:15:08 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC066.ph2 - 106092
+8/31/2001 11:15:12 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC067.ph2 - 8432
+8/31/2001 11:15:26 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC070.ph2 - 387940
+8/31/2001 11:15:44 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC072.ph2 - 416346
+4/27/2001 12:27:06 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC075.ph2 - 344845
+4/27/2001 12:27:18 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC076.ph2 - 686246
+8/20/2001 2:31:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC077.ph2 - 113085
+4/27/2001 12:27:26 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC078.ph2 - 191125
+4/27/2001 12:27:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC080.ph2 - 132559
+4/27/2001 12:27:42 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC081.ph2 - 169528
+4/27/2001 12:27:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC082.ph2 - 4214
+4/27/2001 12:27:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC083.ph2 - 391721
+4/27/2001 12:27:56 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC084.ph2 - 231944
+4/27/2001 12:28:00 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC085.ph2 - 256865
+4/27/2001 12:28:12 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC086.ph2 - 401337
+4/27/2001 12:28:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC087.ph2 - 479316
+4/27/2001 12:28:30 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC089.ph2 - 120142
+4/27/2001 12:28:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC093.ph2 - 1056147
+4/27/2001 12:28:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC094.ph2 - 333520
+4/27/2001 12:28:56 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC095.ph2 - 62043
+4/27/2001 12:29:06 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC100.ph2 - 273602
+4/27/2001 12:29:08 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC101.ph2 - 68667
+8/10/2001 6:04:06 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC102.ph2 - 324052
+4/27/2001 12:29:24 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC104.ph2 - 94636
+4/27/2001 12:29:30 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC105.ph2 - 586477
+4/27/2001 12:29:34 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC106.ph2 - 133323
+4/27/2001 12:29:48 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC107.ph2 - 57807
+4/27/2001 12:29:56 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC108.ph2 - 357518
+4/27/2001 12:30:10 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC112.ph2 - 120447
+4/27/2001 12:30:14 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC113.ph2 - 481980
+4/27/2001 12:30:24 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC114.ph2 - 409051
+4/27/2001 12:30:42 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC115.ph2 - 1806591
+4/27/2001 12:30:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC116.ph2 - 599265
+4/27/2001 12:31:06 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Data\SC117.ph2 - 1961057
+5/24/2001 1:33:48 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\83JC16.AVX - 1565758
+5/20/2001 10:36:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\84JC16.AVX - 1629608
+5/24/2001 1:38:04 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\93JC16.AVX - 1604582
+5/20/2001 10:28:08 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\BRZU16.AVX - 2757112
+8/31/2001 3:55:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\CREDITS.PBM - 307460
+11/5/1997 1:16:14 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\CYKL1.BM - 112580
+11/5/1997 1:16:14 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\CYKL2.BM - 112580
+11/5/1997 1:16:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\CYKL3.BM - 112580
+5/20/2001 10:25:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\GORA16.AVX - 2749595
+5/20/2001 8:59:00 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\INTRO.AVX - 89081893
+8/24/2001 2:06:14 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\INTRO.DLG - 353496
+2/3/2004 8:34:36 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\JoDC.avx - 12296152
+5/20/2001 9:14:18 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\KRATY16.AVX - 12467830
+11/5/1997 1:11:52 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\kraty16.dlg - 126204
+5/20/2001 9:28:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\MUN16.AVX - 5012960
+11/5/1997 1:11:10 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\MUN16.DLG - 137314
+5/20/2001 10:40:00 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\ONCAR16.AVX - 2635390
+5/28/2001 9:25:34 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\OUTRO16.AVX - 80768148
+11/5/1997 1:16:18 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\OUTRO16.BM - 614404
+1/5/1998 9:42:44 AM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\OUTRO16.DLG - 202388
+5/20/2001 9:24:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\PLA16.AVX - 5027349
+11/5/1997 1:11:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\PLA16.DLG - 137314
+5/20/2001 10:41:22 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\PLAND16.AVX - 2631427
+5/20/2001 10:42:52 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\PLECY16.AVX - 2610015
+5/20/2001 10:44:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\Z32A16.AVX - 2556920
+5/20/2001 10:51:34 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\Z3816.AVX - 1650998
+5/22/2001 10:36:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\Z4216.AVX - 2634770
+5/22/2001 10:37:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\Z5116.AVX - 2629295
+5/22/2001 10:39:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\Z5816.AVX - 1593609
+5/22/2001 11:09:08 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\Z58B16.AVX - 1591254
+5/22/2001 10:42:06 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Movies\ZIEM16.AVX - 1615073
+5/16/2001 12:49:04 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr02-22.pms - 5618192
+5/16/2001 12:49:08 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr03-22.pms - 3060848
+5/16/2001 12:49:12 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr12-22.pms - 8278032
+7/11/2001 4:45:20 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr13-22.pms - 5346320
+5/16/2001 12:49:16 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr14-22.pms - 6882320
+5/16/2001 12:49:18 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr15-22.pms - 6153232
+5/16/2001 1:21:10 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr16-22.pms - 4732176
+5/16/2001 1:24:24 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr17-22.pms - 14213392
+5/16/2001 12:49:30 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr18-22.pms - 6159248
+5/16/2001 12:49:34 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr19-22.pms - 5945872
+5/16/2001 1:31:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr20-22.pms - 9883152
+5/16/2001 12:49:40 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr201-22.pms - 2738704
+5/16/2001 1:36:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr202-22.pms - 6820624
+5/16/2001 12:49:46 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr203-22.pms - 6125584
+5/16/2001 12:49:48 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr205-22.pms - 513552
+5/16/2001 12:49:52 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr21-22.pms - 10486544
+5/16/2001 12:49:52 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr22-22.pms - 1075024
+5/16/2001 12:49:54 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr23-22.pms - 973328
+5/16/2001 12:49:56 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr24-22.pms - 5554192
+5/16/2001 1:41:10 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr25-22.pms - 3304464
+5/16/2001 12:49:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr26-22.pms - 519616
+5/16/2001 12:49:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr29-22.pms - 453136
+5/16/2001 12:49:58 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr30-22.pms - 1082896
+5/16/2001 12:50:04 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Music\Tr321-22.pms - 16445456
+8/30/2001 4:48:32 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Resource\Resource.pak - 3221486
+4/19/2001 4:41:28 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Savegame\Jacksave.00a - 1135
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+1/19/2013 12:13:19 PM - VirtualStore\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Savegame\AUTOSAVE.sav - 1135
+1/19/2013 12:22:16 PM - VirtualStore\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Savegame\save.SAV - 1135
+1/19/2013 12:13:19 PM - VirtualStore\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Savegame\tempjs - 1135
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{CA72D6C4-97C5-4C60-92CB-6EC92ECCA0DD}
+Value: AppExePath
+Data: 3/11/2009 2:12:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\JackOrlando.exe - 1298477
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{CA72D6C4-97C5-4C60-92CB-6EC92ECCA0DD}
+Value: ConfigApplicationPath
+Data: C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGJACKORLANDODC
+Value: EXE
+Data: 3/11/2009 2:12:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\JackOrlando.exe - 1298477
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGJACKORLANDODC
+Value: PATH
+Data: C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGJACKORLANDODC
+Value: LAUNCHCOMMAND
+Data: 3/11/2009 2:12:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\JackOrlando.exe - 1298477
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGJACKORLANDODC
+Value: SAVEGAMEFOLDER
+Data: C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Jack Orlando Director's Cut
+Value: UninstallString
+Data: 1/3/2013 11:24:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\unins000.exe - 2142547
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Jack Orlando Director's Cut_is1
+Value: Inno Setup: App Path
+Data: C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Jack Orlando Director's Cut_is1
+Value: InstallLocation
+Data: C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\TopWare Poland\Jack Orlando
+Value: Directory
+Data: C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+1/3/2013 11:25:18 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Jack Orlando Director's Cut\Jack Orlando Director's Cut.lnk - 2218
+3/11/2009 2:12:38 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\JackOrlando.exe - 1298477
+1/3/2013 11:25:18 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Jack Orlando Director's Cut\Uninstall Jack Orlando Director's Cut.lnk - 1163
+1/3/2013 11:24:02 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\unins000.exe - 2142547
+1/3/2013 11:25:18 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Jack Orlando Director's Cut\Documents\Manual.lnk - 1275
+2/3/2004 4:31:50 PM - C:\Program Files (x86)\GOGcom\Jack Orlando Director's Cut\Manual.pdf - 6021329

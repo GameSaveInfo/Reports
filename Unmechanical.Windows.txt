@@ -1,0 +1,48 @@
+Game Name: Unmechanical
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\My Games\Unmechanical
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+11/24/2012 12:56:03 PM - UserDocuments\My Games\Unmechanical\SavedElements\FactoryKactors.kactors - 17
+11/24/2012 12:56:03 PM - UserDocuments\My Games\Unmechanical\SavedElements\FactoryVariables.kvars - 17
+11/24/2012 12:59:52 PM - UserDocuments\My Games\Unmechanical\SavedElements\Globals.kvars - 429
+11/24/2012 12:56:03 PM - UserDocuments\My Games\Unmechanical\SavedElements\MinesKactors.kactors - 17
+11/24/2012 12:56:03 PM - UserDocuments\My Games\Unmechanical\SavedElements\MinesVariables.kvars - 17
+11/24/2012 12:56:03 PM - UserDocuments\My Games\Unmechanical\SavedElements\PacemakerKactors.kactors - 17
+11/24/2012 12:56:03 PM - UserDocuments\My Games\Unmechanical\SavedElements\PacemakerVariables.kvars - 17
+11/24/2012 12:59:52 PM - UserDocuments\My Games\Unmechanical\SavedElements\UndergroundKactors.kactors - 23047
+11/24/2012 12:59:52 PM - UserDocuments\My Games\Unmechanical\SavedElements\UndergroundVariables.kvars - 2251
+11/24/2012 12:55:41 PM - UserDocuments\My Games\Unmechanical\UDKGame\Config\UDKEditor.ini - 50402
+11/24/2012 12:55:41 PM - UserDocuments\My Games\Unmechanical\UDKGame\Config\UDKEditorUserSettings.ini - 8510
+11/24/2012 1:01:43 PM - UserDocuments\My Games\Unmechanical\UDKGame\Config\UDKEngine.ini - 42787
+11/24/2012 12:55:49 PM - UserDocuments\My Games\Unmechanical\UDKGame\Config\UDKGame.ini - 17614
+11/24/2012 12:55:41 PM - UserDocuments\My Games\Unmechanical\UDKGame\Config\UDKInput.ini - 40093
+11/24/2012 12:55:41 PM - UserDocuments\My Games\Unmechanical\UDKGame\Config\UDKLightmass.ini - 6923
+11/24/2012 12:55:41 PM - UserDocuments\My Games\Unmechanical\UDKGame\Config\UDKUI.ini - 2212
+11/24/2012 1:01:43 PM - UserDocuments\My Games\Unmechanical\UDKGame\Logs\Launch.log - 23111
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGUNMECHANICAL
+Value: SAVEGAMEFOLDER
+Data: UserDocuments\My Games\Unmechanical
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

@@ -1,0 +1,117 @@
+Game Name: HotlineMiamiGog
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+G:\GOG\Hotline Miami
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: G:\
+Drive Root: G:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+1/17/2013 12:29:45 AM - G:\GOG\Hotline Miami\achievements.dat - 85
+10/2/2012 9:02:36 PM - G:\GOG\Hotline Miami\AlienInMiami.dll - 18944
+10/11/2012 5:40:20 AM - G:\GOG\Hotline Miami\ANewMorning.ogg - 4026926
+10/11/2012 5:45:54 PM - G:\GOG\Hotline Miami\bass.dll - 92728
+6/25/2011 12:31:12 PM - G:\GOG\Hotline Miami\bgm.dll - 33792
+10/2/2012 5:40:10 PM - G:\GOG\Hotline Miami\Crush.ogg - 3076745
+10/2/2012 5:40:18 PM - G:\GOG\Hotline Miami\Crystals.ogg - 6197599
+10/2/2012 5:40:12 PM - G:\GOG\Hotline Miami\Daisuke.ogg - 4139101
+10/2/2012 5:40:30 PM - G:\GOG\Hotline Miami\DeepCover.ogg - 12010561
+10/2/2012 5:40:20 PM - G:\GOG\Hotline Miami\ElectricDreams.ogg - 7400730
+1/16/2013 9:48:35 PM - G:\GOG\Hotline Miami\EULA.txt - 7505
+10/2/2012 5:40:10 PM - G:\GOG\Hotline Miami\Flatline.ogg - 2815693
+9/14/2012 1:56:08 PM - G:\GOG\Hotline Miami\GameuxInstallHelper.dll - 96264
+10/23/2012 5:04:38 PM - G:\GOG\Hotline Miami\gfw_high.ico - 122462
+9/27/2010 2:35:36 PM - G:\GOG\Hotline Miami\GMXInput.dll - 159744
+9/14/2012 1:56:10 PM - G:\GOG\Hotline Miami\gog.ico - 69248
+11/8/2012 11:36:24 AM - G:\GOG\Hotline Miami\goggame.dll - 267600
+10/2/2012 5:40:36 PM - G:\GOG\Hotline Miami\HorseSteppin.ogg - 14944067
+10/2/2012 5:40:16 PM - G:\GOG\Hotline Miami\Hotline.ogg - 5436601
+11/5/2012 10:52:56 PM - G:\GOG\Hotline Miami\HotlineMiami.exe - 20647411
+10/2/2012 5:40:28 PM - G:\GOG\Hotline Miami\Hydrogen.ogg - 8855631
+10/2/2012 5:40:26 PM - G:\GOG\Hotline Miami\InnerAnimal.ogg - 7791073
+10/26/2012 4:00:34 AM - G:\GOG\Hotline Miami\ItsSafeNow.ogg - 5674440
+10/2/2012 5:40:30 PM - G:\GOG\Hotline Miami\Knock.ogg - 7662507
+1/16/2013 9:48:35 PM - G:\GOG\Hotline Miami\Launch Hotline Miami.lnk - 780
+1/16/2013 11:50:35 PM - G:\GOG\Hotline Miami\mask.nfo - 1
+10/2/2012 5:40:28 PM - G:\GOG\Hotline Miami\Miami2.ogg - 5655147
+10/23/2012 6:32:28 PM - G:\GOG\Hotline Miami\Musikk2.ogg - 5331426
+10/2/2012 5:40:36 PM - G:\GOG\Hotline Miami\Paris2.ogg - 7422490
+1/17/2013 12:30:08 AM - G:\GOG\Hotline Miami\pause.bmp - 3686454
+10/2/2012 5:40:42 PM - G:\GOG\Hotline Miami\Perturbator.ogg - 8326293
+10/25/2012 10:05:46 PM - G:\GOG\Hotline Miami\README.txt - 613
+10/2/2012 5:40:46 PM - G:\GOG\Hotline Miami\Release.ogg - 11448720
+1/17/2013 12:29:45 AM - G:\GOG\Hotline Miami\saves.dat - 264
+10/2/2012 5:40:46 PM - G:\GOG\Hotline Miami\SilverLights.ogg - 9715620
+10/2/2012 5:40:36 PM - G:\GOG\Hotline Miami\Static.ogg - 2110272
+1/17/2013 12:28:50 AM - G:\GOG\Hotline Miami\stats.sav - 884
+9/14/2012 1:56:10 PM - G:\GOG\Hotline Miami\Support.ico - 62895
+1/17/2013 12:10:46 AM - G:\GOG\Hotline Miami\tempsave.sav - 4368854
+10/26/2012 4:00:32 AM - G:\GOG\Hotline Miami\ToTheTop.ogg - 3718189
+10/2/2012 5:40:36 PM - G:\GOG\Hotline Miami\TurfIntro.ogg - 3685305
+10/26/2012 4:00:36 AM - G:\GOG\Hotline Miami\TurfMain.ogg - 8649667
+1/16/2013 9:48:35 PM - G:\GOG\Hotline Miami\unins000.dat - 214951
+1/16/2013 9:48:18 PM - G:\GOG\Hotline Miami\unins000.exe - 1236304
+1/16/2013 9:48:35 PM - G:\GOG\Hotline Miami\unins000.ini - 86
+1/16/2013 9:48:35 PM - G:\GOG\Hotline Miami\unins000.msg - 22733
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{FBA4387C-4F98-477E-B163-1A582C12B16E}
+Value: ConfigApplicationPath
+Data: G:\GOG\Hotline Miami
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{FBA4387C-4F98-477E-B163-1A582C12B16E}
+Value: ConfigGDFBinaryPath
+Data: 11/8/2012 11:36:24 AM - G:\GOG\Hotline Miami\goggame.dll - 267600
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{FBA4387C-4F98-477E-B163-1A582C12B16E}
+Value: AppExePath
+Data: 11/5/2012 10:52:56 PM - G:\GOG\Hotline Miami\HotlineMiami.exe - 20647411
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGHOTLINEMIAMI
+Value: PATH
+Data: G:\GOG\Hotline Miami
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGHOTLINEMIAMI
+Value: SAVEGAMEFOLDER
+Data: G:\GOG\Hotline Miami
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGHOTLINEMIAMI
+Value: LAUNCHCOMMAND
+Data: 11/5/2012 10:52:56 PM - G:\GOG\Hotline Miami\HotlineMiami.exe  - 20647411
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGHOTLINEMIAMI
+Value: EXE
+Data: 11/5/2012 10:52:56 PM - G:\GOG\Hotline Miami\HotlineMiami.exe - 20647411
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKHOTLINEMIAMI_is1
+Value: Inno Setup: App Path
+Data: G:\GOG\Hotline Miami
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKHOTLINEMIAMI_is1
+Value: InstallLocation
+Data: G:\GOG\Hotline Miami
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKHOTLINEMIAMI_is1
+Value: DisplayIcon
+Data: 9/14/2012 1:56:10 PM - G:\GOG\Hotline Miami\gog.ico - 69248
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+1/16/2013 9:48:35 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Hotline Miami\Hotline Miami.lnk - 742
+11/5/2012 10:52:56 PM - G:\GOG\Hotline Miami\HotlineMiami.exe - 20647411
+1/16/2013 9:48:35 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Hotline Miami\Uninstall Hotline Miami.lnk - 660
+1/16/2013 9:48:18 PM - G:\GOG\Hotline Miami\unins000.exe - 1236304

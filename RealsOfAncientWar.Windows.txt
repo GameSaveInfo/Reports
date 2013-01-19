@@ -1,0 +1,43 @@
+Comments:
+  <game name="RealmofAncientWar" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Realm of Ancient War</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="My Games\Realms of Ancient War"/>
+      </locations>
+      <files>
+        <include/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Realm of Ancient War
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\My Games
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Thu 11 Oct 8:59:17 PM - UserDocuments\My Games\Realms of Ancient War\gameslot00.sav - 84568
+Thu 11 Oct 8:59:18 PM - UserDocuments\My Games\Realms of Ancient War\raw.profile - 372
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcut

@@ -1,0 +1,31 @@
+Game Name: SpecOps The Update
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\50300
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sun 09 Dec 9:10:03 PM - SteamUserData\50300\remotecache.vdf - 776
+Sun 09 Dec 9:09:46 PM - SteamUserData\50300\remote\profile.bin - 1712
+Sun 09 Dec 8:57:02 PM - SteamUserData\50300\remote\theline_cp0.sav - 2481
+Sun 09 Dec 9:05:37 PM - SteamUserData\50300\remote\theline_cp1.sav - 1303
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts

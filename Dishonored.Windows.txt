@@ -1,0 +1,54 @@
+Comments:
+  <game name="Dishonored" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Dishonored</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="205100"/>
+      <path ev="userdocuments" path="My Games\Dishonored\DishonoredGame"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+      <files type="Settings">
+        <include path="Config"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Dishonored
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\205100
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Tue 09 Oct 11:51:42 AM - SteamUserData\205100\remotecache.vdf - 2073
+Tue 09 Oct 11:46:17 AM - SteamUserData\205100\remote\disautosave0.sav - 450938
+Tue 09 Oct 11:44:40 AM - SteamUserData\205100\remote\disautosave1.sav - 318316
+Tue 09 Oct 11:50:21 AM - SteamUserData\205100\remote\dishonored0.sav - 449334
+Tue 09 Oct 11:06:23 AM - SteamUserData\205100\remote\dishonored1.sav - 267245
+Tue 09 Oct 9:26:45 AM - SteamUserData\205100\remote\dismission0.sav - 100994
+Tue 09 Oct 10:36:41 AM - SteamUserData\205100\remote\dismission1.sav - 214379
+Tue 09 Oct 11:50:05 AM - SteamUserData\205100\remote\disquicksave.sav - 449805
+Tue 09 Oct 9:57:33 AM - SteamUserData\205100\remote\options.sav - 603
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

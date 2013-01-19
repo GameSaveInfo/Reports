@@ -1,0 +1,324 @@
+Game Name: Runaway2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+G:\GOG\Runaway 2 - The Dream of the Turtle
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: G:\
+Drive Root: G:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+9/28/2005 2:26:50 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\binkw32.dll - 193024
+6/11/2012 11:46:56 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\gfw_high.ico - 124473
+6/11/2012 12:30:20 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\goggame.dll - 259072
+11/28/2008 11:32:10 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\innosetup_license.txt - 1471
+6/1/2012 3:27:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\manual.pdf - 1987137
+8/8/2005 3:29:04 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\mss32.dll - 386048
+6/11/2012 11:43:38 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Readme.txt - 4645
+3/1/2007 11:32:16 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Runaway2.exe - 2514944
+4/20/2010 1:37:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Support.ico - 62895
+1/3/2013 11:26:07 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\unins000.dat - 76105
+1/3/2013 11:22:15 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\unins000.exe - 2142547
+1/3/2013 11:26:07 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\unins000.ini - 142
+1/22/2007 1:00:50 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Video card setup.exe - 45056
+1/29/2007 12:44:42 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Dataa\Dataaa.000 - 389185750
+2/13/2007 2:55:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA01.001 - 14292872
+2/13/2007 2:55:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA02.001 - 12297820
+2/13/2007 2:55:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA03.001 - 21934612
+2/13/2007 2:55:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA04.001 - 28431396
+2/13/2007 2:55:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA05.001 - 21814444
+2/13/2007 2:56:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA06.001 - 7202004
+2/13/2007 2:56:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA07.001 - 7201932
+2/13/2007 2:56:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA08.001 - 68891488
+2/13/2007 2:56:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA09.001 - 4126244
+2/13/2007 2:56:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA10.001 - 17840336
+2/13/2007 2:56:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVA12.001 - 4125320
+2/13/2007 2:56:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB10.001 - 4467624
+2/13/2007 2:56:24 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB11.001 - 20517312
+2/13/2007 2:56:24 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB14.001 - 30221416
+2/13/2007 2:56:34 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB19.001 - 10474352
+2/13/2007 2:56:34 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB23A.001 - 16206372
+2/13/2007 2:56:34 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB23B.001 - 16206284
+2/13/2007 2:56:34 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB24.001 - 8544212
+2/13/2007 2:56:34 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB25A.001 - 3184444
+2/13/2007 2:56:34 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB25B.001 - 3051400
+2/13/2007 2:56:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB25C.001 - 6068800
+2/13/2007 2:56:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.000 - 33286428
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.001 - 148785348
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.002 - 200672
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.003 - 199832
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.004 - 1800312
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.005 - 2500088
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.006 - 1475524
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.007 - 3546604
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB26.008 - 18753772
+2/13/2007 2:57:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB64.000 - 104788
+2/13/2007 2:57:26 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVB64.001 - 17422828
+2/13/2007 3:00:24 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC00.000 - 249631
+2/13/2007 2:57:26 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC28.001 - 20577260
+2/13/2007 2:57:26 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC29.001 - 5440112
+2/13/2007 2:57:26 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC30.001 - 11561468
+2/13/2007 2:57:26 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC31.000 - 468592
+2/13/2007 2:57:26 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC31.001 - 4151704
+2/13/2007 2:57:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC32.001 - 15152780
+2/13/2007 2:57:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC34.001 - 275516
+2/13/2007 2:57:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC35.000 - 3933508
+2/13/2007 2:57:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC35.001 - 71210224
+2/13/2007 2:57:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC36.001 - 401752
+2/13/2007 2:57:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC37.000 - 4943224
+2/13/2007 2:57:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC37.001 - 3775784
+2/13/2007 2:57:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC38.001 - 6053356
+2/13/2007 2:57:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC39.000 - 43568
+2/13/2007 2:57:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC39.001 - 9515404
+2/13/2007 2:57:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC39.002 - 1025704
+2/13/2007 2:57:56 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVC40.001 - 5651732
+2/13/2007 2:58:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD20.001 - 59586412
+2/13/2007 2:58:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD21.000 - 1596084
+2/13/2007 2:58:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD21.001 - 31522856
+2/13/2007 2:58:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD21.002 - 8133696
+2/13/2007 2:58:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD33.000 - 5141888
+2/13/2007 2:58:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD33.001 - 6047732
+2/13/2007 2:58:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD33.002 - 7809348
+2/13/2007 2:58:26 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD56.001 - 59953440
+2/13/2007 2:58:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD57.001 - 40107244
+2/13/2007 2:58:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD58.001 - 10037424
+2/13/2007 2:58:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD59.001 - 2654784
+2/13/2007 2:58:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD60.002 - 48040452
+2/13/2007 2:58:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD60.003 - 31110016
+2/13/2007 2:58:56 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD60.004 - 34805484
+2/13/2007 2:59:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD60.005 - 45224676
+2/13/2007 2:59:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD63.000 - 4945408
+2/13/2007 2:59:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD63.001 - 17056012
+2/13/2007 2:59:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVD67.001 - 3701200
+2/13/2007 2:59:58 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE27.001 - 38806996
+2/13/2007 2:59:58 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE60.000 - 3988708
+2/13/2007 2:59:58 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE60.001 - 44158784
+2/13/2007 2:59:58 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE61.001 - 2177288
+2/13/2007 3:00:08 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE66.000 - 16400436
+2/13/2007 3:00:08 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE66.001 - 13377956
+2/13/2007 3:00:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE68.000 - 31568524
+2/13/2007 3:00:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE68.001 - 16550508
+2/13/2007 3:00:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE68.002 - 23073176
+2/13/2007 3:00:28 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE68.003 - 47018404
+2/13/2007 3:00:28 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE68.004 - 26374076
+2/13/2007 3:00:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE68.005 - 12427488
+2/13/2007 3:00:08 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE69.000 - 1643288
+2/13/2007 3:00:08 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE69.001 - 3711936
+2/13/2007 3:00:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVE70.001 - 5383176
+2/13/2007 2:59:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG41.001 - 20637448
+2/13/2007 2:59:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG41.002 - 6123860
+2/13/2007 2:59:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG41.003 - 6123716
+2/13/2007 2:59:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG42.001 - 10326484
+2/13/2007 2:59:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG42.002 - 10317168
+2/13/2007 2:59:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG43.000 - 1590884
+2/13/2007 2:59:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG43.001 - 4927384
+2/13/2007 2:59:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG44.001 - 12612228
+2/13/2007 2:59:28 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG45.001 - 11148632
+2/13/2007 2:59:28 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG45.002 - 491948
+2/13/2007 2:59:28 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG46.000 - 39920
+2/13/2007 2:59:28 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG46.001 - 38590196
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG47.001 - 11202396
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG48.001 - 4572012
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG48.002 - 2590456
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG48.003 - 2589772
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG49.001 - 3776388
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG50.001 - 2527620
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG50.002 - 1001676
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG50.003 - 1607724
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG50.004 - 1208348
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG51.001 - 6479980
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG52.001 - 6470436
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG53.001 - 9092472
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG54.001 - 9301884
+2/13/2007 2:59:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG55A.000 - 61460
+2/13/2007 2:59:48 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG55A.001 - 12911944
+2/13/2007 2:59:48 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG55B.001 - 1002092
+2/13/2007 2:59:48 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG55C.000 - 1641484
+2/13/2007 2:59:48 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVG55C.001 - 32267096
+1/19/2013 12:06:07 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVI02.001 - 3092760
+1/19/2013 12:06:09 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVI03.001 - 2938052
+2/13/2007 2:55:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVI13.001 - 47230652
+2/13/2007 2:55:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVI14.001 - 69333656
+2/13/2007 2:55:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVI15.000 - 15030144
+2/13/2007 2:55:24 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVI15.001 - 14194328
+2/13/2007 2:55:34 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVI16.001 - 86631116
+2/13/2007 2:55:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVI18.001 - 28078944
+2/13/2007 3:00:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Datav\DATAVT00.000 - 22840264
+9/7/2005 3:20:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\mss\mssdolby.flt - 28160
+9/7/2005 3:20:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\mss\mssds3d.flt - 39936
+9/7/2005 3:20:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\mss\mssdsp.flt - 107008
+9/7/2005 3:20:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\mss\msseax.flt - 118784
+9/7/2005 3:20:52 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\mss\mssmp3.asi - 150528
+9/7/2005 3:20:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\mss\msssrs.flt - 42496
+1/19/2013 12:06:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.000 - 334928013
+11/7/2006 3:15:30 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.001 - 4719377
+2/1/2007 3:40:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.003 - 4233874
+1/29/2007 12:46:22 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.004 - 1352394
+5/10/2005 3:53:34 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.A05 - 6302010
+5/10/2004 6:04:02 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.A08 - 31104493
+5/26/2005 2:46:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.A09 - 13689466
+10/13/2006 2:24:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.A10 - 30082693
+10/26/2006 7:34:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.A11 - 13591161
+11/9/2006 11:13:06 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B01 - 54184334
+10/25/2005 8:07:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B03 - 28267013
+11/28/2005 2:56:12 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B04 - 29611766
+11/10/2005 1:03:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B04A - 4809281
+9/28/2006 3:55:12 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B05 - 30070177
+3/23/2006 12:53:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B06 - 36880119
+10/11/2003 10:18:32 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B07 - 35757035
+10/26/2006 5:46:06 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B08 - 53770908
+4/18/2006 8:39:48 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B09 - 30457213
+10/11/2006 1:56:32 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.B20 - 1901511
+3/29/2006 7:34:58 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C01 - 12888915
+11/9/2006 11:16:30 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C02 - 10248297
+4/25/2006 3:24:50 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C03 - 58228635
+10/26/2006 8:10:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C04 - 37905580
+6/16/2006 12:19:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C05 - 34530277
+3/30/2006 2:49:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C05B - 3564037
+3/30/2006 2:50:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C05C - 19847755
+4/25/2006 7:51:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C09 - 45760485
+4/25/2006 7:27:52 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C10 - 23192654
+10/26/2006 7:35:28 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C11 - 22642081
+10/20/2006 1:44:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C12 - 12878216
+3/30/2006 2:52:30 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C13 - 19885163
+3/30/2006 2:53:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C14 - 44870961
+4/25/2006 7:31:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C15 - 17327131
+11/7/2006 6:07:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C16 - 1291203
+3/29/2006 7:37:42 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C17 - 2651329
+10/26/2006 7:44:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C18 - 16643770
+4/25/2006 3:14:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C19 - 35276203
+4/20/2006 7:32:10 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C20 - 13633442
+4/3/2006 12:29:42 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.C21 - 8934343
+9/26/2006 12:21:08 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D06 - 19538180
+10/26/2006 6:25:32 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D08 - 63363028
+10/18/2006 4:01:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D09 - 29795446
+9/26/2006 12:22:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D10 - 13010063
+9/26/2006 9:26:24 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D11 - 6972996
+11/9/2006 11:17:00 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D12 - 27076197
+9/26/2006 12:22:50 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D13 - 35640942
+10/26/2006 9:01:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D14 - 66715027
+8/17/2006 6:13:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D15 - 31468445
+10/17/2006 12:43:24 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D16 - 40187254
+10/23/2006 8:26:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.D17 - 41177916
+11/9/2006 11:24:04 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E01 - 61045545
+10/26/2006 8:25:04 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E02 - 66984139
+10/25/2006 7:03:40 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E03 - 42064831
+10/26/2006 8:32:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E04 - 29179143
+10/26/2006 7:11:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E05 - 12506318
+10/15/2006 6:40:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E07 - 158074437
+11/9/2006 11:36:50 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E08 - 19455762
+10/16/2006 2:44:58 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E10 - 69961599
+10/15/2006 6:47:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.E11 - 9982963
+6/16/2006 2:08:32 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G01 - 54719023
+7/12/2006 3:02:52 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G02 - 13866930
+6/28/2006 7:15:40 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G03 - 4318924
+7/4/2006 12:22:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G03B - 11209236
+6/16/2006 2:09:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G04 - 1977253
+7/3/2006 6:30:10 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G05 - 3138343
+7/12/2006 6:44:40 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G06 - 20806262
+7/10/2006 4:02:02 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G07 - 16848518
+6/16/2006 2:15:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G08 - 36277305
+11/9/2006 11:43:22 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G10 - 26231539
+6/16/2006 2:16:24 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G11 - 32676381
+6/1/2006 1:43:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G12 - 22657425
+6/28/2006 3:32:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.G13 - 14397175
+10/20/2006 6:44:10 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.H02 - 18718713
+10/17/2006 2:00:44 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.H04 - 4418779
+10/17/2006 9:59:20 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.H06 - 22988192
+5/26/2005 2:05:00 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.I01 - 23707497
+4/15/2005 2:02:38 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.I02 - 50289542
+10/11/2006 9:27:54 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.M01 - 20003506
+7/18/2006 2:30:46 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.M02 - 40639419
+8/24/2006 8:13:02 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.M03 - 26060985
+10/18/2006 9:03:08 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.M04 - 33254394
+10/19/2006 6:05:10 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.M05 - 39395134
+10/26/2006 7:14:52 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.M06 - 15478676
+11/13/2006 7:55:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.S00 - 27099134
+10/11/2006 9:29:42 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.S01 - 20687124
+11/8/2006 11:30:02 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.S02 - 42279608
+10/22/2006 1:29:18 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.S03 - 26989765
+10/18/2006 10:10:58 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.S04 - 38669453
+10/19/2006 10:31:16 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.S05 - 43540519
+11/20/2006 12:03:56 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.S06 - 49704328
+10/20/2004 12:21:52 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.SP1 - 176871886
+6/13/2005 2:14:36 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.SP2 - 278357335
+3/28/2006 6:22:58 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.SP3 - 368139325
+6/14/2006 2:52:02 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.SP4 - 176035464
+3/28/2006 7:19:14 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\Resource\RESOURCE.SP5 - 179808820
+1/19/2013 12:06:19 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\SAVEGAME\SAVEGAME.001 - 164968
+1/19/2013 12:06:19 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\SAVEGAME\SAVEGAME.IJS - 3002
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{8AA109FA-783C-41FA-BEAE-6ACD35411BA2}
+Value: ConfigApplicationPath
+Data: G:\GOG\Runaway 2 - The Dream of the Turtle
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{8AA109FA-783C-41FA-BEAE-6ACD35411BA2}
+Value: ConfigGDFBinaryPath
+Data: 6/11/2012 12:30:20 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\goggame.dll - 259072
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGPACKRUNAWAY2
+Value: PACKPATH
+Data: G:\GOG\Runaway 2 - The Dream of the Turtle
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRUNAWAY2
+Value: EXE
+Data: 3/1/2007 11:32:16 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Runaway2.exe - 2514944
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRUNAWAY2
+Value: PATH
+Data: G:\GOG\Runaway 2 - The Dream of the Turtle
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRUNAWAY2
+Value: LAUNCHCOMMAND
+Data: 3/1/2007 11:32:16 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Runaway2.exe - 2514944
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRUNAWAY2
+Value: SAVEGAMEFOLDER
+Data: G:\GOG\Runaway 2 - The Dream of the Turtle
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRUNAWAY2EN
+Value: EXE
+Data: 3/1/2007 11:32:16 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Runaway2.exe - 2514944
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRUNAWAY2EN
+Value: PATH
+Data: G:\GOG\Runaway 2 - The Dream of the Turtle
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRUNAWAY2EN
+Value: LAUNCHCOMMAND
+Data: 3/1/2007 11:32:16 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Runaway2.exe - 2514944
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGRUNAWAY2EN
+Value: SAVEGAMEFOLDER
+Data: G:\GOG\Runaway 2 - The Dream of the Turtle
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Runaway 2 - The Dream of the Turtle_is1
+Value: Inno Setup: App Path
+Data: G:\GOG\Runaway 2 - The Dream of the Turtle
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Runaway 2 - The Dream of the Turtle_is1
+Value: InstallLocation
+Data: G:\GOG\Runaway 2 - The Dream of the Turtle
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+1/3/2013 11:26:07 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Runaway 2 - The Dream of the Turtle\Runaway 2 - The Dream of the Turtle.lnk - 884
+3/1/2007 11:32:16 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Runaway2.exe - 2514944
+1/3/2013 11:26:07 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Runaway 2 - The Dream of the Turtle\Uninstall Runaway 2 - The Dream of the Turtle.lnk - 684
+1/3/2013 11:22:15 PM - G:\GOG\Runaway 2 - The Dream of the Turtle\unins000.exe - 2142547
+1/3/2013 11:26:07 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Runaway 2 - The Dream of the Turtle\Documents\Readme.lnk - 764
+6/11/2012 11:43:38 AM - G:\GOG\Runaway 2 - The Dream of the Turtle\Readme.txt - 4645

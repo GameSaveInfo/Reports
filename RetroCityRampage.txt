@@ -1,0 +1,73 @@
+Comments:
+  <game name="RetroCityRampage" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Retro City Rampage</title>
+    <version os="Windows">
+      <locations>
+        <path ev="steamcommon" path="Retro City Rampage"/>
+      </locations>
+      <files>
+        <include filename="*.rsv"/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Retro City Rampage
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Wed 17 Oct 7:48:10 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\204630_install.vdf - 527
+Sat 13 Oct 6:11:40 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\audio_music_W32.bap - 6008512
+Sat 13 Oct 6:11:43 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\audio_sfx_W32.bap - 821856
+Fri 26 Oct 5:41:00 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\gamedata.bfp - 14098176
+Wed 17 Oct 7:55:29 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\profile.rsv - 1000
+Wed 17 Oct 7:55:32 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\rcr.cfg - 338
+Fri 26 Oct 5:41:00 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\retrocityrampage.exe - 1399808
+Wed 17 Oct 7:55:26 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\rtsave0.rsv - 500
+Sat 13 Oct 6:11:35 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\steam_api.dll - 105808
+Sat 13 Oct 6:11:35 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\DSETUP.dll - 89944
+Sat 13 Oct 6:11:39 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\dsetup32.dll - 1801048
+Sat 13 Oct 6:11:41 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\dxdllreg_x86.cab - 42410
+Sat 13 Oct 6:11:37 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\DXSETUP.exe - 537432
+Sat 13 Oct 6:11:37 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\dxupdate.cab - 94011
+Sat 13 Oct 6:11:39 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_D3DCompiler_43_x64.cab - 944460
+Sat 13 Oct 6:11:39 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_D3DCompiler_43_x86.cab - 931471
+Sat 13 Oct 6:11:43 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_d3dcsx_43_x64.cab - 752783
+Sat 13 Oct 6:11:41 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_d3dcsx_43_x86.cab - 762188
+Sat 13 Oct 6:11:42 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_d3dx10_43_x64.cab - 235955
+Sat 13 Oct 6:11:41 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_d3dx10_43_x86.cab - 197283
+Sat 13 Oct 6:11:37 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_d3dx11_43_x64.cab - 138205
+Sat 13 Oct 6:11:38 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_d3dx11_43_x86.cab - 109445
+Sat 13 Oct 6:11:40 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_d3dx9_43_x64.cab - 937246
+Sat 13 Oct 6:11:39 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_d3dx9_43_x86.cab - 768036
+Sat 13 Oct 6:11:35 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_XACT_x64.cab - 124596
+Sat 13 Oct 6:11:42 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_XACT_x86.cab - 93686
+Sat 13 Oct 6:11:39 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_XAudio_x64.cab - 277338
+Sat 13 Oct 6:11:38 PM - C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage\Redist\Jun2010_XAudio_x86.cab - 278060
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 204630
+Value: InstallLocation
+Data: C:\Program Files (x86)\Steam\steamapps\common\Retro City Rampage
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

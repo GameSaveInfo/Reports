@@ -1,0 +1,1303 @@
+Game Name: DungeonKeeper2gog
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+G:\GOG\Dungeon Keeper 2
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: G:\
+Drive Root: G:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+4/17/1997 2:21:00 PM - G:\GOG\Dungeon Keeper 2\Aweman32.dll - 35328
+4/28/2012 4:23:44 PM - G:\GOG\Dungeon Keeper 2\DKII-DX.exe - 2977280
+5/12/2011 3:18:28 PM - G:\GOG\Dungeon Keeper 2\DKII.EXE - 2977280
+8/26/2011 4:40:14 PM - G:\GOG\Dungeon Keeper 2\DKII_SOFT.EXE - 844215
+4/27/2000 2:38:22 PM - G:\GOG\Dungeon Keeper 2\EAMSEULA.txt - 4537
+12/25/2012 8:47:52 PM - G:\GOG\Dungeon Keeper 2\EULA.txt - 31398
+9/14/2012 1:56:08 PM - G:\GOG\Dungeon Keeper 2\GameuxInstallHelper.dll - 96264
+11/6/2012 12:23:08 PM - G:\GOG\Dungeon Keeper 2\gfw_high.ico - 124644
+9/14/2012 1:56:10 PM - G:\GOG\Dungeon Keeper 2\gog.ico - 69248
+11/6/2012 3:30:34 PM - G:\GOG\Dungeon Keeper 2\goggame.dll - 273744
+11/6/2012 9:27:44 AM - G:\GOG\Dungeon Keeper 2\gog_dk2.sdb - 586
+12/25/2012 8:47:52 PM - G:\GOG\Dungeon Keeper 2\Launch Dungeon Keeper 2.lnk - 774
+6/27/2011 4:22:56 PM - G:\GOG\Dungeon Keeper 2\manual.pdf - 1767753
+1/19/2013 11:46:33 AM - G:\GOG\Dungeon Keeper 2\MESSAGE.LOG - 1434
+6/7/2012 10:03:40 AM - G:\GOG\Dungeon Keeper 2\patch.dll - 147968
+9/30/1998 3:43:40 AM - G:\GOG\Dungeon Keeper 2\QMIXER.DLL - 198656
+8/24/2011 9:57:22 AM - G:\GOG\Dungeon Keeper 2\ReadMe.txt - 31656
+6/27/2011 4:25:16 PM - G:\GOG\Dungeon Keeper 2\reference_card.pdf - 370661
+8/29/1997 5:00:00 AM - G:\GOG\Dungeon Keeper 2\SFMAN32.DLL - 48640
+9/14/2012 1:56:10 PM - G:\GOG\Dungeon Keeper 2\Support.ico - 62895
+12/25/2012 8:47:52 PM - G:\GOG\Dungeon Keeper 2\unins000.dat - 414765
+12/25/2012 8:47:05 PM - G:\GOG\Dungeon Keeper 2\unins000.exe - 1233232
+12/25/2012 8:47:52 PM - G:\GOG\Dungeon Keeper 2\unins000.ini - 149
+12/25/2012 8:47:52 PM - G:\GOG\Dungeon Keeper 2\unins000.msg - 22733
+6/8/1999 4:39:56 PM - G:\GOG\Dungeon Keeper 2\WEANETR.dll - 142848
+1/19/2000 2:30:06 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures.WAD - 2208282
+1/19/2000 2:31:40 PM - G:\GOG\Dungeon Keeper 2\Data\FrontEnd.WAD - 22599650
+5/12/2000 2:18:54 PM - G:\GOG\Dungeon Keeper 2\Data\Meshes.WAD - 32026721
+1/19/2000 2:39:26 PM - G:\GOG\Dungeon Keeper 2\Data\Paths.WAD - 1933348
+1/19/2000 2:39:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sprite.WAD - 818184
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\Creatures.kwd - 250710
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\CreatureSpells.kwd - 10962
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\Doors.kwd - 4984
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\EffectElements.kwd - 108528
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\Effects.kwd - 91076
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\GlobalVariables.kwd - 13636
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\KeeperSpells.kwd - 5334
+3/28/2000 1:04:06 PM - G:\GOG\Dungeon Keeper 2\Data\editor\Objects.kwd - 129686
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\Rooms.kwd - 27486
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\Shots.kwd - 15591
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\Terrain.kwd - 22688
+2/4/2000 10:37:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\Traps.kwd - 9320
+1/11/2000 4:09:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Alcatraz.kwd - 26927
+1/11/2000 4:09:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\AlcatrazMap.kld - 14920
+1/11/2000 4:09:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\AlcatrazPlayers.kld - 876
+1/11/2000 4:09:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\AlcatrazThings.kld - 4204
+1/11/2000 4:09:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\AlcatrazTriggers.kld - 156
+1/11/2000 4:09:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\AlcatrazVariables.kld - 1912
+10/15/1999 9:55:40 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Bottleneck.kwd - 26919
+6/6/1999 2:53:46 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\BottleneckMap.kld - 12324
+10/15/1999 9:55:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\BottleneckPlayers.kld - 876
+10/15/1999 9:55:40 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\BottleneckThings.kld - 672
+10/15/1999 9:55:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\BottleneckTriggers.kld - 156
+10/15/1999 9:55:40 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\BottleneckVariables.kld - 1848
+12/16/1999 10:50:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Caverns.kwd - 26931
+12/16/1999 10:50:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CavernsMap.kld - 40840
+12/16/1999 10:50:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CavernsPlayers.kld - 1286
+12/16/1999 10:50:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CavernsThings.kld - 5224
+12/16/1999 10:50:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CavernsTriggers.kld - 252
+12/16/1999 10:50:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CavernsVariables.kld - 3576
+1/11/2000 4:11:04 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Circlet.kwd - 26923
+1/11/2000 4:11:04 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CircletMap.kld - 25636
+1/11/2000 4:11:04 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CircletPlayers.kld - 1081
+1/11/2000 4:11:04 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CircletThings.kld - 6644
+1/11/2000 4:11:04 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CircletTriggers.kld - 204
+1/11/2000 4:11:04 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CircletVariables.kld - 2808
+12/16/1999 10:51:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Clover.kwd - 26919
+12/16/1999 10:51:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CloverMap.kld - 16420
+12/16/1999 10:51:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CloverPlayers.kld - 1081
+12/16/1999 10:51:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CloverThings.kld - 1160
+12/16/1999 10:51:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CloverTriggers.kld - 204
+12/16/1999 10:51:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\CloverVariables.kld - 2760
+1/26/2000 6:03:08 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FrontEnd3DLevel.kwd - 26831
+1/26/2000 6:03:08 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FrontEnd3DLevelMap.kld - 428
+1/26/2000 6:03:08 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FrontEnd3DLevelPlayers.kld - 671
+1/26/2000 6:03:08 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FrontEnd3DLevelThings.kld - 316
+1/26/2000 6:03:08 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FrontEnd3DLevelTriggers.kld - 108
+1/26/2000 6:03:08 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FrontEnd3DLevelVariables.kld - 152
+1/11/2000 4:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's Castle.kwd - 26887
+1/11/2000 4:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's CastleMap.kld - 37672
+1/11/2000 4:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's CastlePlayers.kld - 1286
+1/11/2000 4:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's CastleThings.kld - 15152
+1/11/2000 4:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's CastleTriggers.kld - 972
+1/11/2000 4:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's CastleVariables.kld - 3512
+1/11/2000 4:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's Lair.kwd - 26927
+1/11/2000 4:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's LairMap.kld - 22536
+1/11/2000 4:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's LairPlayers.kld - 1081
+1/11/2000 4:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's LairThings.kld - 396
+1/11/2000 4:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's LairTriggers.kld - 276
+1/11/2000 4:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's LairVariables.kld - 3736
+1/31/2000 12:05:52 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's Realm.kwd - 26927
+1/31/2000 12:05:52 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's RealmMap.kld - 12836
+1/31/2000 12:05:52 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's RealmPlayers.kld - 876
+1/31/2000 12:05:52 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's RealmThings.kld - 368
+1/31/2000 12:05:52 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's RealmTriggers.kld - 252
+1/31/2000 12:05:52 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Frosty's RealmVariables.kld - 2456
+1/11/2000 4:16:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Furnace.kwd - 26923
+1/11/2000 4:16:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FurnaceMap.kld - 16420
+1/11/2000 4:16:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FurnacePlayers.kld - 876
+1/11/2000 4:16:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FurnaceThings.kld - 2496
+1/11/2000 4:16:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FurnaceTriggers.kld - 156
+1/11/2000 4:16:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\FurnaceVariables.kld - 1912
+12/17/1999 4:33:30 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Gonzalez.kwd - 26919
+12/17/1999 4:33:30 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\GonzalezMap.kld - 16936
+12/17/1999 4:33:30 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\GonzalezPlayers.kld - 1286
+12/17/1999 4:33:30 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\GonzalezThings.kld - 1304
+12/17/1999 4:33:30 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\GonzalezTriggers.kld - 252
+12/17/1999 4:33:30 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\GonzalezVariables.kld - 3704
+12/17/1999 4:34:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HeroCove.kwd - 26919
+12/17/1999 4:34:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HeroCoveMap.kld - 14436
+12/17/1999 4:34:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HeroCovePlayers.kld - 876
+12/17/1999 4:34:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HeroCoveThings.kld - 2458
+12/17/1999 4:34:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HeroCoveTriggers.kld - 156
+12/17/1999 4:34:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HeroCoveVariables.kld - 1912
+12/17/1999 4:34:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Hopping.kwd - 26923
+12/17/1999 4:34:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HoppingMap.kld - 26280
+12/17/1999 4:34:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HoppingPlayers.kld - 876
+12/17/1999 4:34:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HoppingThings.kld - 10684
+12/17/1999 4:34:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HoppingTriggers.kld - 3228
+12/17/1999 4:34:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\HoppingVariables.kld - 1912
+1/18/2000 5:05:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Islands.kwd - 26919
+1/18/2000 5:05:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\IslandsMap.kld - 28260
+1/18/2000 5:05:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\IslandsPlayers.kld - 1286
+1/18/2000 5:05:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\IslandsThings.kld - 1784
+1/18/2000 5:05:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\IslandsTriggers.kld - 636
+1/18/2000 5:05:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\IslandsVariables.kld - 3832
+12/17/1999 4:35:54 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\King Of The Hill.kwd - 26919
+12/17/1999 4:35:54 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\King Of The HillMap.kld - 36136
+12/17/1999 4:35:54 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\King Of The HillPlayers.kld - 1081
+12/17/1999 4:35:54 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\King Of The HillThings.kld - 1496
+12/17/1999 4:35:54 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\King Of The HillTriggers.kld - 1212
+12/17/1999 4:35:54 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\King Of The HillVariables.kld - 2904
+2/3/2000 11:40:20 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level1.kwd - 26843
+1/27/2000 10:25:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level10.kwd - 26895
+1/27/2000 10:25:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level10Map.kld - 23236
+1/27/2000 10:25:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level10Players.kld - 876
+1/27/2000 10:25:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level10Things.kld - 18645
+1/27/2000 10:25:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level10Triggers.kld - 9204
+1/27/2000 10:25:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level10Variables.kld - 1544
+1/27/2000 10:25:56 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11A.kwd - 26891
+1/27/2000 10:25:56 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11AMap.kld - 21636
+1/27/2000 10:25:56 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11APlayers.kld - 1491
+1/27/2000 10:25:56 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11AThings.kld - 3772
+1/27/2000 10:25:56 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11ATriggers.kld - 4020
+1/27/2000 10:25:56 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11AVariables.kld - 4024
+1/27/2000 10:26:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11B.kwd - 26891
+1/27/2000 10:26:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11BMap.kld - 21636
+1/27/2000 10:26:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11BPlayers.kld - 1491
+1/27/2000 10:26:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11BThings.kld - 3508
+1/27/2000 10:26:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11BTriggers.kld - 3996
+1/27/2000 10:26:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11BVariables.kld - 4040
+1/27/2000 10:26:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11C.kwd - 26891
+1/27/2000 10:26:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11CMap.kld - 21636
+1/27/2000 10:26:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11CPlayers.kld - 1491
+1/27/2000 10:26:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11CThings.kld - 3472
+1/27/2000 10:26:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11CTriggers.kld - 3588
+1/27/2000 10:26:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level11CVariables.kld - 4024
+1/27/2000 10:27:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level12.kwd - 26899
+1/27/2000 10:27:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level12Map.kld - 16140
+1/27/2000 10:27:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level12Players.kld - 876
+1/27/2000 10:27:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level12Things.kld - 8383
+1/27/2000 10:27:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level12Triggers.kld - 3324
+1/27/2000 10:27:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level12Variables.kld - 1800
+1/27/2000 10:27:58 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level13.kwd - 26903
+1/27/2000 10:27:58 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level13Map.kld - 22036
+1/27/2000 10:27:58 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level13Players.kld - 876
+1/27/2000 10:27:58 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level13Things.kld - 11445
+1/27/2000 10:27:58 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level13Triggers.kld - 4380
+1/27/2000 10:27:58 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level13Variables.kld - 1528
+1/27/2000 10:28:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level14.kwd - 26911
+1/27/2000 10:28:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level14Map.kld - 14436
+1/27/2000 10:28:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level14Players.kld - 671
+1/27/2000 10:28:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level14Things.kld - 5388
+1/27/2000 10:28:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level14Triggers.kld - 2628
+1/27/2000 10:28:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level14Variables.kld - 984
+1/27/2000 10:28:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level15a.kwd - 26919
+1/27/2000 10:28:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level15aMap.kld - 49476
+1/27/2000 10:28:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level15aPlayers.kld - 671
+1/27/2000 10:28:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level15aThings.kld - 16862
+1/27/2000 10:28:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level15aTriggers.kld - 4956
+1/27/2000 10:28:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level15aVariables.kld - 1000
+1/27/2000 10:29:12 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level15b.kwd - 26915
+1/27/2000 10:29:12 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level15bMap.kld - 49476
+1/27/2000 10:29:12 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level15bPlayers.kld - 671
+1/27/2000 10:29:12 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level15bThings.kld - 13726
+1/27/2000 10:29:12 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level15bTriggers.kld - 4764
+1/27/2000 10:29:12 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level15bVariables.kld - 1000
+10/18/1999 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level16.kwd - 26919
+6/13/1999 9:55:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level16Map.kld - 26280
+10/18/1999 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level16Players.kld - 671
+10/18/1999 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level16Things.kld - 13932
+10/18/1999 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level16Triggers.kld - 17268
+10/18/1999 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level16Variables.kld - 1240
+12/16/1999 12:03:50 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level17.kwd - 26923
+6/13/1999 9:58:56 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level17Map.kld - 25636
+12/16/1999 12:03:50 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level17Players.kld - 1081
+12/16/1999 12:03:50 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level17Things.kld - 10740
+12/16/1999 12:03:50 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level17Triggers.kld - 6900
+12/16/1999 12:03:50 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level17Variables.kld - 3064
+1/27/2000 10:29:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level18.kwd - 26911
+1/27/2000 10:29:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level18Map.kld - 32036
+1/27/2000 10:29:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level18Players.kld - 1286
+1/27/2000 10:29:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level18Things.kld - 6427
+1/27/2000 10:29:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level18Triggers.kld - 1740
+1/27/2000 10:29:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level18Variables.kld - 3448
+1/27/2000 10:29:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level19.kwd - 26927
+1/27/2000 10:29:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level19Map.kld - 25636
+1/27/2000 10:29:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level19Players.kld - 671
+1/27/2000 10:29:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level19Things.kld - 7141
+1/27/2000 10:29:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level19Triggers.kld - 7956
+1/27/2000 10:29:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level19Variables.kld - 1000
+6/5/1999 8:00:04 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level1Map.kld - 4596
+2/3/2000 11:40:20 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level1Players.kld - 671
+2/3/2000 11:40:20 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level1Things.kld - 3142
+2/3/2000 11:40:20 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level1Triggers.kld - 16428
+2/3/2000 11:40:20 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level1Variables.kld - 824
+10/18/1999 10:56:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level2.kwd - 26851
+1/27/2000 10:30:24 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level20.kwd - 26931
+1/27/2000 10:30:24 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level20Map.kld - 39240
+1/27/2000 10:30:24 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level20Players.kld - 671
+1/27/2000 10:30:24 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level20Things.kld - 15914
+1/27/2000 10:30:24 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level20Triggers.kld - 4908
+1/27/2000 10:30:24 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level20Variables.kld - 1000
+6/6/1999 8:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level2Map.kld - 8036
+10/18/1999 10:56:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level2Players.kld - 671
+10/18/1999 10:56:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level2Things.kld - 2886
+10/18/1999 10:56:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level2Triggers.kld - 10140
+10/18/1999 10:56:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level2Variables.kld - 728
+10/18/1999 10:56:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level3.kwd - 26867
+6/4/1999 3:22:26 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level3Map.kld - 10036
+10/18/1999 10:56:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level3Players.kld - 671
+10/18/1999 10:56:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level3Things.kld - 8953
+10/18/1999 10:56:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level3Triggers.kld - 6756
+10/18/1999 10:56:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level3Variables.kld - 792
+10/18/1999 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level4.kwd - 26879
+6/6/1999 9:26:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level4Map.kld - 12836
+10/18/1999 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level4Players.kld - 671
+10/18/1999 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level4Things.kld - 9091
+10/18/1999 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level4Triggers.kld - 6036
+10/18/1999 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level4Variables.kld - 792
+1/27/2000 10:30:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level5.kwd - 26875
+1/27/2000 10:30:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level5Map.kld - 11256
+1/27/2000 10:30:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level5Players.kld - 671
+1/27/2000 10:30:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level5Things.kld - 9712
+1/27/2000 10:30:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level5Triggers.kld - 2868
+1/27/2000 10:30:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level5Variables.kld - 792
+1/27/2000 10:31:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6a.kwd - 26879
+1/27/2000 10:31:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6aMap.kld - 19636
+1/27/2000 10:31:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6aPlayers.kld - 671
+1/27/2000 10:31:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6aThings.kld - 14821
+1/27/2000 10:31:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6aTriggers.kld - 7572
+1/27/2000 10:31:28 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6aVariables.kld - 664
+10/18/1999 10:58:42 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6b.kwd - 26903
+10/18/1999 10:58:40 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6bMap.kld - 23836
+10/18/1999 10:58:40 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6bPlayers.kld - 671
+10/18/1999 10:58:42 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6bThings.kld - 8781
+10/18/1999 10:58:40 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6bTriggers.kld - 11244
+10/18/1999 10:58:40 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level6bVariables.kld - 920
+1/27/2000 10:36:06 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level7.kwd - 26895
+1/27/2000 10:36:06 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level7Map.kld - 14344
+1/27/2000 10:36:06 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level7Players.kld - 876
+1/27/2000 10:36:06 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level7Things.kld - 12033
+1/27/2000 10:36:06 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level7Triggers.kld - 4596
+1/27/2000 10:36:06 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level7Variables.kld - 1640
+10/15/1999 11:36:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level8.kwd - 26911
+6/4/1999 3:23:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level8Map.kld - 16836
+10/15/1999 11:36:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level8Players.kld - 876
+10/15/1999 11:36:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level8Things.kld - 15274
+10/15/1999 11:36:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level8Triggers.kld - 7644
+10/15/1999 11:36:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\level8Variables.kld - 1144
+1/27/2000 10:31:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level9.kwd - 26895
+1/27/2000 10:31:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level9Map.kld - 31980
+1/27/2000 10:31:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level9Players.kld - 671
+1/27/2000 10:31:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level9Things.kld - 4359
+1/27/2000 10:31:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level9Triggers.kld - 6468
+1/27/2000 10:31:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Level9Variables.kld - 936
+1/31/2000 10:56:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd1.kwd - 26923
+6/2/1999 1:32:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd1Map.kld - 14920
+1/31/2000 10:56:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd1Players.kld - 671
+1/31/2000 10:56:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd1Things.kld - 1647
+1/31/2000 10:56:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd1Triggers.kld - 6444
+1/31/2000 10:56:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd1Variables.kld - 1096
+1/31/2000 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd2.kwd - 26931
+1/31/2000 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd2Map.kld - 22536
+1/31/2000 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd2Players.kld - 671
+1/31/2000 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd2Things.kld - 1691
+1/31/2000 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd2Triggers.kld - 6252
+1/31/2000 10:57:14 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd2Variables.kld - 1064
+2/2/2000 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd3.kwd - 26923
+2/2/2000 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd3Map.kld - 14920
+2/2/2000 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd3Players.kld - 671
+2/2/2000 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd3Things.kld - 1259
+2/2/2000 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd3Triggers.kld - 5964
+2/2/2000 10:55:46 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd3Variables.kld - 1112
+1/31/2000 10:58:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd4.kwd - 26919
+1/31/2000 10:58:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd4Map.kld - 19080
+1/31/2000 10:58:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd4Players.kld - 671
+1/31/2000 10:58:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd4Things.kld - 3127
+1/31/2000 10:58:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd4Triggers.kld - 5916
+1/31/2000 10:58:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd4Variables.kld - 712
+1/31/2000 10:59:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd5.kwd - 26927
+1/31/2000 10:59:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd5Map.kld - 16036
+1/31/2000 10:59:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd5Players.kld - 671
+1/31/2000 10:59:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd5Things.kld - 1459
+1/31/2000 10:59:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd5Triggers.kld - 5916
+1/31/2000 10:59:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd5Variables.kld - 1064
+1/31/2000 10:59:44 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\MPD6.kwd - 26927
+1/31/2000 10:59:44 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\MPD6Map.kld - 25636
+1/31/2000 10:59:44 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\MPD6Players.kld - 671
+1/31/2000 10:59:44 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\MPD6Things.kld - 2011
+1/31/2000 10:59:44 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\MPD6Triggers.kld - 1332
+1/31/2000 10:59:44 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\MPD6Variables.kld - 1176
+1/31/2000 11:00:08 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd7.kwd - 26923
+1/31/2000 11:00:08 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd7Map.kld - 36436
+1/31/2000 11:00:08 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd7Players.kld - 671
+1/31/2000 11:00:08 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd7Things.kld - 2879
+1/31/2000 11:00:08 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd7Triggers.kld - 6300
+1/31/2000 11:00:08 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\mpd7Variables.kld - 1096
+1/11/2000 4:17:42 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\No Mans Land.kwd - 26923
+1/11/2000 4:17:42 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\No Mans LandMap.kld - 16036
+1/11/2000 4:17:42 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\No Mans LandPlayers.kld - 876
+1/11/2000 4:17:42 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\No Mans LandThings.kld - 3326
+1/11/2000 4:17:42 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\No Mans LandTriggers.kld - 924
+1/11/2000 4:17:42 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\No Mans LandVariables.kld - 1768
+10/15/1999 10:30:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Olympia.kwd - 26923
+10/15/1999 10:30:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OlympiaMap.kld - 44136
+10/15/1999 10:30:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OlympiaPlayers.kld - 1286
+10/15/1999 10:30:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OlympiaThings.kld - 1736
+10/15/1999 10:30:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OlympiaTriggers.kld - 2844
+10/15/1999 10:30:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OlympiaVariables.kld - 3576
+12/17/1999 4:37:44 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Onslaught.kwd - 26923
+12/17/1999 4:37:44 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OnslaughtMap.kld - 25636
+12/17/1999 4:37:44 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OnslaughtPlayers.kld - 1081
+12/17/1999 4:37:44 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OnslaughtThings.kld - 3133
+12/17/1999 4:37:44 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OnslaughtTriggers.kld - 1572
+12/17/1999 4:37:44 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\OnslaughtVariables.kld - 2808
+1/11/2000 4:18:22 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Patrol.kwd - 26923
+1/11/2000 4:18:22 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PatrolMap.kld - 32436
+1/11/2000 4:18:22 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PatrolPlayers.kld - 1286
+1/11/2000 4:18:22 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PatrolThings.kld - 16148
+1/11/2000 4:18:22 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PatrolTriggers.kld - 1908
+1/11/2000 4:18:22 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PatrolVariables.kld - 3576
+1/18/2000 5:06:18 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Platform.kwd - 26919
+6/8/1999 6:18:46 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PlatformMap.kld - 16936
+1/18/2000 5:06:18 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PlatformPlayers.kld - 1286
+1/18/2000 5:06:18 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PlatformThings.kld - 1848
+1/18/2000 5:06:18 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PlatformTriggers.kld - 348
+1/18/2000 5:06:18 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PlatformVariables.kld - 3832
+10/15/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Pressure.kwd - 26923
+10/15/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PressureMap.kld - 40036
+10/15/1999 10:34:00 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PressurePlayers.kld - 1081
+10/15/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PressureThings.kld - 2712
+10/15/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PressureTriggers.kld - 204
+10/15/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\PressureVariables.kld - 2712
+11/2/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret1.kwd - 26831
+6/6/1999 1:10:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret1Map.kld - 10036
+11/2/1999 10:34:00 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret1Players.kld - 671
+11/2/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret1Things.kld - 1248
+11/2/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret1Triggers.kld - 852
+11/2/1999 10:34:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret1Variables.kld - 280
+1/27/2000 10:32:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret2.kwd - 26867
+1/27/2000 10:32:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret2Map.kld - 3636
+1/27/2000 10:32:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret2Players.kld - 671
+1/27/2000 10:32:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret2Things.kld - 1712
+1/27/2000 10:32:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret2Triggers.kld - 1308
+1/27/2000 10:32:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret2Variables.kld - 344
+1/27/2000 10:32:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret3.kwd - 26847
+1/27/2000 10:32:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret3Map.kld - 10440
+1/27/2000 10:32:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret3Players.kld - 671
+1/27/2000 10:32:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret3Things.kld - 5788
+1/27/2000 10:32:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret3Triggers.kld - 2556
+1/27/2000 10:32:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret3Variables.kld - 280
+1/27/2000 10:32:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret4.kwd - 26835
+1/27/2000 10:32:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret4Map.kld - 6760
+1/27/2000 10:32:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret4Players.kld - 671
+1/27/2000 10:32:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret4Things.kld - 1348
+1/27/2000 10:32:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret4Triggers.kld - 492
+1/27/2000 10:32:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret4Variables.kld - 216
+1/27/2000 10:33:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret5.kwd - 26847
+1/27/2000 10:33:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret5Map.kld - 6760
+1/27/2000 10:33:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret5Players.kld - 876
+1/27/2000 10:33:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret5Things.kld - 1652
+1/27/2000 10:33:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret5Triggers.kld - 1956
+1/27/2000 10:33:02 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Secret5Variables.kld - 1240
+10/15/1999 10:35:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Siege.kwd - 26923
+6/6/1999 5:29:34 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SiegeMap.kld - 16420
+10/15/1999 10:35:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SiegePlayers.kld - 876
+10/15/1999 10:35:18 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SiegeThings.kld - 1264
+10/15/1999 10:35:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SiegeTriggers.kld - 924
+10/15/1999 10:35:16 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SiegeVariables.kld - 1528
+10/15/1999 10:35:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Small.kwd - 26919
+6/6/1999 5:30:06 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SmallMap.kld - 9252
+10/15/1999 10:35:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SmallPlayers.kld - 876
+10/15/1999 10:35:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SmallThings.kld - 464
+10/15/1999 10:35:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SmallTriggers.kld - 60
+10/15/1999 10:35:54 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SmallVariables.kld - 1848
+10/15/1999 10:41:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Spiral.kwd - 26919
+6/6/1999 5:31:16 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SpiralMap.kld - 10440
+10/15/1999 10:41:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SpiralPlayers.kld - 876
+10/15/1999 10:41:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SpiralThings.kld - 664
+10/15/1999 10:41:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SpiralTriggers.kld - 60
+10/15/1999 10:41:50 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\SpiralVariables.kld - 1928
+10/15/1999 10:42:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Swiss Cheese.kwd - 26919
+6/6/1999 5:32:56 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Swiss CheeseMap.kld - 36900
+10/15/1999 10:42:34 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Swiss CheesePlayers.kld - 1286
+10/15/1999 10:42:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Swiss CheeseThings.kld - 1416
+10/15/1999 10:42:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Swiss CheeseTriggers.kld - 60
+10/15/1999 10:42:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Swiss CheeseVariables.kld - 3576
+10/15/1999 10:43:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The Deep End.kwd - 26919
+6/7/1999 5:39:06 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The Deep EndMap.kld - 9252
+10/15/1999 10:43:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The Deep EndPlayers.kld - 876
+10/15/1999 10:43:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The Deep EndThings.kld - 760
+10/15/1999 10:43:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The Deep EndTriggers.kld - 60
+10/15/1999 10:43:52 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The Deep EndVariables.kld - 1912
+11/5/1999 3:44:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The Pass.kwd - 26923
+11/5/1999 3:44:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The PassMap.kld - 10440
+11/5/1999 3:44:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The PassPlayers.kld - 876
+11/5/1999 3:44:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The PassThings.kld - 6172
+11/5/1999 3:44:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The PassTriggers.kld - 852
+11/5/1999 3:44:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\The PassVariables.kld - 1912
+10/15/1999 10:46:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\TrapTime.kwd - 26923
+10/15/1999 10:46:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\TrapTimeMap.kld - 35236
+10/15/1999 10:46:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\TrapTimePlayers.kld - 1081
+10/15/1999 10:46:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\TrapTimeThings.kld - 7123
+10/15/1999 10:46:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\TrapTimeTriggers.kld - 996
+10/15/1999 10:46:30 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\TrapTimeVariables.kld - 2568
+10/15/1999 10:49:04 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\U Turn.kwd - 26919
+6/6/1999 5:36:38 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\U TurnMap.kld - 14372
+10/15/1999 10:49:04 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\U TurnPlayers.kld - 876
+10/15/1999 10:49:04 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\U TurnThings.kld - 592
+10/15/1999 10:49:04 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\U TurnTriggers.kld - 60
+10/15/1999 10:49:04 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\U TurnVariables.kld - 1848
+10/15/1999 10:49:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Warrens.kwd - 26919
+6/6/1999 5:38:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\WarrensMap.kld - 16420
+10/15/1999 10:49:36 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\WarrensPlayers.kld - 1081
+10/15/1999 10:49:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\WarrensThings.kld - 668
+10/15/1999 10:49:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\WarrensTriggers.kld - 60
+10/15/1999 10:49:38 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\WarrensVariables.kld - 2760
+1/11/2000 4:09:58 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Alcatraz144.bmp - 49206
+6/5/1999 2:12:12 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Bottleneck144.bmp - 49206
+6/5/1999 2:19:22 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Caverns144.bmp - 49206
+1/11/2000 4:11:04 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Circlet144.bmp - 49206
+6/5/1999 2:14:44 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Clover144.bmp - 49206
+1/11/2000 4:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Frosty's Castle144.bmp - 49206
+1/11/2000 4:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Frosty's Lair144.bmp - 49206
+2/1/2000 4:38:44 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Frosty's Realm144.bmp - 49206
+1/11/2000 4:16:40 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Furnace144.bmp - 49206
+6/6/1999 2:46:50 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Gonzalez144.bmp - 49206
+6/6/1999 1:14:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\HeroCove144.bmp - 49206
+6/6/1999 5:17:30 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Hopping144.bmp - 49206
+1/18/2000 5:05:32 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Islands144.bmp - 49206
+8/17/1999 7:06:48 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\King Of The Hill144.bmp - 49206
+1/11/2000 4:17:42 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\No Mans Land144.bmp - 49206
+8/3/1999 11:38:08 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Olympia144.bmp - 49206
+6/8/1999 5:05:08 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Onslaught144.bmp - 49206
+1/11/2000 4:18:24 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Patrol144.bmp - 49206
+1/18/2000 5:06:18 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Platform144.bmp - 49206
+7/14/1999 5:23:52 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Pressure144.bmp - 49206
+6/3/1999 3:15:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Siege144.bmp - 49206
+6/5/1999 2:23:16 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Small144.bmp - 49206
+6/6/1999 2:51:08 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Spiral144.bmp - 49206
+5/26/1999 5:56:02 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Swiss Cheese144.bmp - 49206
+6/7/1999 5:39:06 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\The Deep End144.bmp - 49206
+6/6/1999 1:35:48 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\The Pass144.bmp - 49206
+8/6/1999 11:33:48 AM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\TrapTime144.bmp - 49206
+5/26/1999 5:56:34 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\U Turn144.bmp - 49206
+6/5/1999 2:26:14 PM - G:\GOG\Dungeon Keeper 2\Data\editor\maps\Thumbnails\Warrens144.bmp - 49206
+9/13/1999 3:49:34 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpLava0.png - 51421
+9/17/1999 1:31:30 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpLavaBumpmap0.png - 29406
+9/17/1999 1:31:12 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpLavaEnvMap0.png - 9304
+9/17/1999 2:50:42 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWater0.png - 1042
+9/17/1999 1:40:52 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap0.png - 15399
+9/17/1999 1:40:54 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpMap1.png - 15358
+9/17/1999 1:40:54 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap10.png - 15518
+9/17/1999 1:40:56 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap11.png - 15443
+9/17/1999 1:40:58 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap12.png - 15247
+9/17/1999 1:40:58 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap13.png - 15286
+9/17/1999 1:41:00 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap14.png - 15201
+9/17/1999 1:41:00 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap15.png - 15387
+9/17/1999 1:41:02 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap16.png - 15502
+9/17/1999 1:41:02 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap17.png - 15566
+9/17/1999 1:41:04 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap18.png - 15355
+9/17/1999 1:41:06 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap19.png - 15055
+9/17/1999 1:41:06 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap2.png - 15531
+9/17/1999 1:41:08 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap20.png - 15338
+9/17/1999 1:41:10 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap21.png - 15544
+9/17/1999 1:41:10 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap22.png - 15586
+9/17/1999 1:41:12 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap23.png - 15537
+9/17/1999 1:41:14 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap24.png - 15182
+9/17/1999 1:41:14 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap25.png - 15599
+9/17/1999 1:41:16 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap26.png - 15627
+9/17/1999 1:41:16 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap27.png - 15661
+9/17/1999 1:41:18 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap28.png - 15638
+9/17/1999 1:41:18 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap29.png - 15806
+9/17/1999 1:41:20 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap3.png - 15358
+9/17/1999 1:41:20 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap30.png - 15653
+9/17/1999 1:41:22 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap31.png - 15405
+9/17/1999 1:41:24 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap4.png - 15260
+9/17/1999 1:41:26 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap5.png - 15454
+9/17/1999 1:41:26 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap6.png - 15477
+9/17/1999 1:41:28 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap7.png - 15462
+9/17/1999 1:42:36 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap8.png - 15547
+9/17/1999 1:42:32 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterBumpmap9.png - 15511
+9/17/1999 2:52:40 PM - G:\GOG\Dungeon Keeper 2\Data\EngineTextures\BumpWaterEnvMap0.png - 27753
+6/6/1999 4:19:20 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\BullfrogIntro.tgq - 1986192
+5/11/1999 2:33:56 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\BullfrogOutro.tgq - 5937644
+5/11/1999 2:31:30 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel1.tgq - 5656304
+5/11/1999 2:33:06 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel10.tgq - 3770548
+5/11/1999 2:32:32 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel11.tgq - 5980112
+5/11/1999 2:31:50 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel12.tgq - 6580968
+5/11/1999 2:31:14 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel13.tgq - 8344152
+5/11/1999 2:33:20 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel14.tgq - 11844368
+5/11/1999 2:31:26 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel15.tgq - 8464724
+5/11/1999 2:33:38 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel16.tgq - 12824976
+5/11/1999 2:31:42 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel17.tgq - 2867780
+5/11/1999 2:33:24 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel18.tgq - 4848720
+5/11/1999 2:33:48 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel19.tgq - 12862104
+5/11/1999 2:32:48 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel2.tgq - 4378048
+5/11/1999 2:33:04 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel3.tgq - 6545528
+5/11/1999 2:33:52 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel4.tgq - 3454392
+5/11/1999 2:32:36 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel5.tgq - 5960656
+5/11/1999 2:31:58 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel6.tgq - 5541728
+5/11/1999 2:33:10 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel7.tgq - 4727324
+5/11/1999 2:32:44 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel8.tgq - 9449524
+5/11/1999 2:33:30 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\CutSceneLevel9.tgq - 5509608
+5/20/1999 12:58:06 AM - G:\GOG\Dungeon Keeper 2\Data\Movies\INTRO.TGQ - 40589016
+5/20/1999 12:48:00 AM - G:\GOG\Dungeon Keeper 2\Data\Movies\Outro.tgq - 28535944
+5/17/1999 4:54:12 PM - G:\GOG\Dungeon Keeper 2\Data\Movies\trailer.tgq - 6785068
+1/19/2013 11:46:28 AM - G:\GOG\Dungeon Keeper 2\Data\Save\asdasdas.SAV - 72456
+6/8/1999 11:15:38 PM - G:\GOG\Dungeon Keeper 2\Data\Save\save.txt - 1
+1/19/2013 11:46:01 AM - G:\GOG\Dungeon Keeper 2\Data\Settings\HiScores.dat - 1320
+6/8/1999 2:29:18 PM - G:\GOG\Dungeon Keeper 2\Data\Settings\settings.txt - 1
+6/7/1999 10:15:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ambienceBANK.map - 61
+6/7/1999 10:00:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\AmbienceHD.sdt - 671394
+6/7/1999 10:15:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ambienceSFX.map - 4658
+6/7/1999 10:01:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\BileHD.sdt - 323148
+6/7/1999 10:01:08 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\BileHW.sdt - 514432
+6/7/1999 10:01:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Black_KnightHD.sdt - 399572
+6/7/1999 10:01:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Black_KnightHW.sdt - 562008
+6/7/1999 10:01:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\CasinoHD.sdt - 54144
+6/7/1999 10:01:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\CasinoHW.sdt - 68912
+6/7/1999 10:01:34 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\CharacterSpellsHD.sdt - 1214090
+6/7/1999 10:01:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\CharacterSpellsHW.sdt - 1482606
+6/7/1999 10:01:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\CodLatinHD.sdt - 358744
+6/7/1999 10:15:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_bile_demonBANK.map - 91
+6/7/1999 10:15:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_bile_demonSFX.map - 3578
+6/7/1999 10:15:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_black_knightBANK.map - 99
+6/7/1999 10:15:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_black_knightSFX.map - 3546
+6/7/1999 10:15:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_dark_angelBANK.map - 96
+6/7/1999 10:15:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_dark_angelSFX.map - 3464
+6/7/1999 10:15:34 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_dark_elfBANK.map - 94
+6/7/1999 10:15:34 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_dark_elfSFX.map - 4376
+6/7/1999 10:15:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_dwarfBANK.map - 92
+6/7/1999 10:15:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_dwarfSFX.map - 3742
+6/7/1999 10:16:00 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_elven_archerBANK.map - 98
+6/7/1999 10:16:00 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_elven_archerSFX.map - 4346
+6/7/1999 10:16:08 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_fairyBANK.map - 92
+6/7/1999 10:16:08 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_fairySFX.map - 3922
+6/7/1999 10:15:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_fireflyBANK.map - 64
+6/7/1999 10:15:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_fireflySFX.map - 990
+6/7/1999 10:15:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_giantBANK.map - 92
+6/7/1999 10:15:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_giantSFX.map - 3432
+6/7/1999 10:15:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_goblinBANK.map - 119
+6/7/1999 10:15:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_goblinSFX.map - 4204
+6/7/1999 10:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_guardBANK.map - 92
+6/7/1999 10:16:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_guardSFX.map - 3102
+6/7/1999 10:15:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_horned_reaperBANK.map - 125
+6/7/1999 10:15:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_horned_reaperSFX.map - 4180
+6/7/1999 10:15:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_impBANK.map - 146
+6/7/1999 10:15:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_impSFX.map - 3584
+10/21/1999 11:07:16 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_jackinboxBANK.map - 90
+10/21/1999 11:07:16 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_jackinboxSFX.map - 336
+6/7/1999 10:16:12 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_kingBANK.map - 120
+6/7/1999 10:16:12 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_kingSFX.map - 4154
+6/7/1999 10:15:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_knightBANK.map - 93
+6/7/1999 10:15:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_knightSFX.map - 3762
+12/8/1999 4:52:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_maidenBANK.map - 131
+12/8/1999 4:52:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_maidenSFX.map - 3706
+6/7/1999 10:15:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_mistressBANK.map - 95
+6/7/1999 10:15:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_mistressSFX.map - 3514
+6/7/1999 10:16:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_monkBANK.map - 91
+6/7/1999 10:16:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_monkSFX.map - 3306
+6/7/1999 10:16:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_rogueBANK.map - 92
+6/7/1999 10:16:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_rogueSFX.map - 3326
+6/29/1999 3:56:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_salamanderBANK.map - 97
+6/29/1999 3:56:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_salamanderSFX.map - 3368
+6/7/1999 10:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_skeletonBANK.map - 95
+6/7/1999 10:15:40 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_skeletonSFX.map - 2794
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_stone_knightBANK.map - 128
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_stone_knightSFX.map - 3476
+6/7/1999 10:16:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_thiefBANK.map - 92
+6/7/1999 10:16:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_thiefSFX.map - 3102
+6/7/1999 10:15:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_trollBANK.map - 92
+6/7/1999 10:15:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_trollSFX.map - 3742
+6/7/1999 10:15:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_vampireBANK.map - 94
+6/7/1999 10:15:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_vampireSFX.map - 3304
+6/7/1999 10:15:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_warlockBANK.map - 94
+6/7/1999 10:15:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_warlockSFX.map - 3448
+6/7/1999 10:15:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_wizardBANK.map - 93
+6/7/1999 10:15:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\creature_wizardSFX.map - 3464
+6/7/1999 10:01:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\DarkAngelHD.sdt - 605056
+6/7/1999 10:01:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\DarkAngelHW.sdt - 774908
+6/7/1999 10:02:12 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\DarkElfHD.sdt - 701919
+6/7/1999 10:02:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\DarkElfHW.sdt - 1080451
+7/26/1999 11:59:26 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\DoorsHD.sdt - 63307
+7/26/1999 11:59:28 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\DoorsHW.sdt - 89223
+7/27/1999 6:12:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_barricadeBANK.map - 111
+7/27/1999 6:12:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_barricadeSFX.map - 442
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_bracedBANK.map - 111
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_bracedSFX.map - 442
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_magicBANK.map - 111
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_magicSFX.map - 442
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_secretBANK.map - 111
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_secretSFX.map - 442
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_steelBANK.map - 111
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_steelSFX.map - 442
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_woodBANK.map - 111
+7/27/1999 6:12:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\door_woodSFX.map - 442
+6/7/1999 10:02:40 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\DwarfHD.sdt - 499607
+6/7/1999 10:02:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\DwarfHW.sdt - 789519
+6/7/1999 10:15:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\effectsBANK.map - 58
+6/7/1999 10:02:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\EffectsHD.sdt - 115349
+6/7/1999 10:02:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\EffectsHW.sdt - 148369
+6/7/1999 10:15:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\effectsSFX.map - 320
+6/7/1999 10:03:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ElvenArcherHD.sdt - 645301
+6/7/1999 10:03:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ElvenArcherHW.sdt - 1031777
+6/7/1999 10:03:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\FairyHD.sdt - 871624
+6/7/1999 10:03:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\FairyHW.sdt - 1092588
+6/7/1999 10:03:34 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\FrontEndHD.sdt - 93715
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\front_endBANK.map - 85
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\front_endSFX.map - 248
+6/7/1999 10:03:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\GiantHD.sdt - 539388
+6/7/1999 10:03:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\GiantHW.sdt - 716876
+6/7/1999 10:04:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\GoblinHD.sdt - 621259
+6/7/1999 10:04:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\GoblinHW.sdt - 1000479
+6/7/1999 10:04:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\GraveyardHD.sdt - 272501
+6/7/1999 10:04:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\GuardHD.sdt - 485732
+6/7/1999 10:04:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\GuardHW.sdt - 632416
+6/7/1999 10:04:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\GuiHD.sdt - 411299
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_call_to_armsBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_call_to_armsSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_chickenBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_chickenSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_create_goldBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_create_goldSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_create_impBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_create_impSFX.map - 130
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_defaultBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_defaultSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_healBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_healSFX.map - 130
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_iconBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_iconSFX.map - 208
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_icon_largeBANK.map - 54
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_icon_largeSFX.map - 208
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_infernoBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_infernoSFX.map - 130
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_infoBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_infoSFX.map - 130
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_optionsBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_optionsSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_possessionBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_possessionSFX.map - 130
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_reaper_talismanBANK.map - 54
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_reaper_talismanSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_sight_of_evilBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_sight_of_evilSFX.map - 130
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_sizeBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_sizeSFX.map - 364
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_summon_reaperBANK.map - 59
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_summon_reaperSFX.map - 130
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_creatureBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_creatureSFX.map - 458
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_new_combatBANK.map - 54
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_new_combatSFX.map - 302
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_roomsBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_roomsSFX.map - 458
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_spellsBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_spellsSFX.map - 458
+6/29/1999 3:56:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_workshopBANK.map - 54
+6/29/1999 3:56:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tab_workshopSFX.map - 458
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_thunderboltBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_thunderboltSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tremorBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_tremorSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_turncoatBANK.map - 59
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_turncoatSFX.map - 130
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_zoomBANK.map - 54
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_button_zoomSFX.map - 130
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_message_barBANK.map - 54
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_message_barSFX.map - 286
+6/29/1999 3:55:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_minimapBANK.map - 54
+6/29/1999 3:55:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_minimapSFX.map - 150
+6/7/1999 10:16:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_sellBANK.map - 54
+6/7/1999 10:16:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\gui_sellSFX.map - 130
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\handBANK.map - 54
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\handSFX.map - 334
+6/7/1999 10:04:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\HeartHD.sdt - 267894
+6/7/1999 10:04:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\HeartHW.sdt - 297158
+6/7/1999 10:04:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Hero_GateHD.sdt - 533190
+6/7/1999 10:04:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Hero_GateHW.sdt - 566202
+6/7/1999 10:04:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ImpHD.sdt - 460102
+6/7/1999 10:05:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ImpHW.sdt - 687906
+10/13/1999 6:04:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\JackinBoxHD.sdt - 596194
+10/13/1999 6:04:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\JackinBoxHW.sdt - 778750
+6/7/1999 10:05:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\KeeperSpellsHD.sdt - 801072
+6/7/1999 10:05:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\KeeperSpellsHW.sdt - 893592
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_alertBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_alertSFX.map - 130
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_call_to_armsBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_call_to_armsSFX.map - 130
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_chickenBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_chickenSFX.map - 194
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_create_goldBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_create_goldSFX.map - 146
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_create_impBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_create_impSFX.map - 194
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_healBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_healSFX.map - 130
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_infernoBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_infernoSFX.map - 130
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_possessionBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_possessionSFX.map - 130
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_sight_of_evilBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_sight_of_evilSFX.map - 208
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_summon_reaperBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_summon_reaperSFX.map - 130
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_thunderboltBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_thunderboltSFX.map - 130
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_tremorBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_tremorSFX.map - 356
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_turncoatBANK.map - 63
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\keeper_spell_turncoatSFX.map - 130
+6/7/1999 10:05:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\KingHD.sdt - 745704
+6/7/1999 10:05:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\KingHW.sdt - 1098220
+6/7/1999 10:05:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\KnightHD.sdt - 597403
+6/7/1999 10:06:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\KnightHW.sdt - 888703
+6/7/1999 10:06:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\LibraryHD.sdt - 748957
+6/7/1999 10:06:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\LibraryHW.sdt - 790057
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\library_bookBANK.map - 54
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\library_bookSFX.map - 364
+9/30/1999 6:00:08 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\MaidenHD.sdt - 3401818
+9/30/1999 6:00:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\MaidenHW.sdt - 5308514
+9/17/1999 12:27:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\MiscCreaturesHD.sdt - 726888
+6/7/1999 10:06:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\MiscCreaturesHW.sdt - 837288
+6/7/1999 10:06:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\MistressHD.sdt - 364075
+6/7/1999 10:06:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\MistressHW.sdt - 581063
+6/7/1999 10:07:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\MonkHD.sdt - 385158
+6/7/1999 10:07:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\MonkHW.sdt - 554550
+7/26/1999 12:13:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\multi_playerBANK.map - 58
+7/26/1999 12:13:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\multi_playerSFX.map - 130
+6/29/1999 3:56:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\musicBANK.map - 316
+6/29/1999 3:56:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\musicSFX.map - 27042
+6/7/1999 10:07:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ObjectsHD.sdt - 16670
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_batBANK.map - 64
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_batSFX.map - 210
+6/7/1999 10:15:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_bedBANK.map - 54
+6/7/1999 10:15:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_bedSFX.map - 130
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_boulderSFX.map - 192
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_chickenBANK.map - 64
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_chickenSFX.map - 892
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_electric_chairBANK.map - 62
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_electric_chairSFX.map - 130
+6/7/1999 10:15:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_mapBANK.map - 54
+6/7/1999 10:15:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_mapSFX.map - 130
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_parchmentBANK.map - 85
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_parchmentSFX.map - 982
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_spikeBANK.map - 59
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_spikeSFX.map - 224
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_torchBANK.map - 59
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_torchSFX.map - 178
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_windowBANK.map - 59
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fe_windowSFX.map - 138
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fliesBANK.map - 64
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_fliesSFX.map - 256
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_forgeBANK.map - 59
+6/7/1999 10:16:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_forgeSFX.map - 162
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_goldBANK.map - 58
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_goldSFX.map - 208
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_ratBANK.map - 64
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_ratSFX.map - 146
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_roulette_wheelBANK.map - 57
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_roulette_wheelSFX.map - 208
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_specialBANK.map - 59
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_specialSFX.map - 1378
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_torchBANK.map - 59
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_torchSFX.map - 178
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_training_dummyBANK.map - 63
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_training_dummySFX.map - 146
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_wheelBANK.map - 62
+6/7/1999 10:16:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\object_wheelSFX.map - 208
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\one_shot_atmosBANK.map - 60
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\one_shot_atmosSFX.map - 418
+6/7/1999 10:16:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\optionsBANK.map - 54
+6/7/1999 10:16:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\optionsSFX.map - 1224
+6/7/1999 10:15:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\options_musicBANK.map - 60
+6/7/1999 10:15:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\options_musicSFX.map - 1128
+6/7/1999 10:15:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\options_speechBANK.map - 54
+6/7/1999 10:15:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\options_speechSFX.map - 732
+7/26/1999 12:12:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Patch_1HD.sdt - 11613
+7/26/1999 12:12:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Patch_1HW.sdt - 15233
+10/4/1999 3:41:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\PortalHD.sdt - 1677670
+6/7/1999 10:07:12 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\PrisonHD.sdt - 414368
+6/7/1999 10:07:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\PrisonHW.sdt - 421608
+6/7/1999 10:07:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ReaperHD.sdt - 1363817
+6/7/1999 10:07:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ReaperHW.sdt - 1602909
+6/7/1999 10:07:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\RogueHD.sdt - 415375
+6/7/1999 10:07:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\RogueHW.sdt - 617363
+6/7/1999 10:16:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_bridgeBANK.map - 54
+6/7/1999 10:16:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_bridgeSFX.map - 302
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_casinoBANK.map - 115
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_casinoSFX.map - 490
+6/7/1999 10:16:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_dungeon_heartBANK.map - 88
+6/7/1999 10:16:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_dungeon_heartSFX.map - 756
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_graveyardBANK.map - 86
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_graveyardSFX.map - 506
+6/7/1999 10:16:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_guard_postBANK.map - 54
+6/7/1999 10:16:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_guard_postSFX.map - 302
+6/7/1999 10:16:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_hatcheryBANK.map - 54
+6/7/1999 10:16:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_hatcherySFX.map - 302
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_hero_gateBANK.map - 60
+6/7/1999 10:16:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_hero_gateSFX.map - 1786
+6/7/1999 10:15:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_hero_gate_birdlessBANK.map - 60
+6/7/1999 10:15:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_hero_gate_birdlessSFX.map - 1638
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_lairBANK.map - 54
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_lairSFX.map - 302
+6/7/1999 10:16:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_libraryBANK.map - 84
+6/7/1999 10:16:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_librarySFX.map - 5736
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_pitBANK.map - 54
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_pitSFX.map - 302
+10/4/1999 3:41:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_portalBANK.map - 57
+10/4/1999 3:41:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_portalSFX.map - 2932
+6/7/1999 10:16:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_prisonBANK.map - 111
+6/7/1999 10:16:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_prisonSFX.map - 1110
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_templeBANK.map - 83
+6/7/1999 10:16:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_templeSFX.map - 3096
+6/7/1999 10:15:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_temple_waterlessBANK.map - 83
+6/7/1999 10:15:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_temple_waterlessSFX.map - 2088
+6/7/1999 10:16:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_tortureBANK.map - 85
+6/7/1999 10:16:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_tortureSFX.map - 380
+6/7/1999 10:16:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_trainingBANK.map - 54
+6/7/1999 10:16:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_trainingSFX.map - 302
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_treasureBANK.map - 54
+6/7/1999 10:16:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_treasureSFX.map - 302
+6/7/1999 10:16:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_workshopBANK.map - 85
+6/7/1999 10:16:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\room_workshopSFX.map - 810
+6/7/1999 10:07:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SalamanderHD.sdt - 492240
+6/7/1999 10:07:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SalamanderHW.sdt - 654556
+6/7/1999 10:07:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SetPiecesHD.sdt - 1605360
+6/7/1999 10:08:00 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SkeletonHD.sdt - 153972
+6/7/1999 10:08:08 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SkeletonHW.sdt - 300656
+6/4/1999 2:36:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SoundFont.sf2 - 404764
+6/7/1999 10:08:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SoundFontHD.sdt - 294407
+6/7/1999 10:08:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SpecialsHD.sdt - 127615
+6/7/1999 10:08:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\SpecialsHW.sdt - 138627
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_armourBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_armourSFX.map - 286
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_arrowBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_arrowSFX.map - 590
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_drainBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_drainSFX.map - 286
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_fireballBANK.map - 66
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_fireballSFX.map - 350
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_firebombBANK.map - 66
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_firebombSFX.map - 318
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_freezeBANK.map - 66
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_freezeSFX.map - 208
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_gas_cloudBANK.map - 66
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_gas_cloudSFX.map - 194
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_gas_missileBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_gas_missileSFX.map - 350
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_grenadeBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_grenadeSFX.map - 224
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_guided_boltBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_guided_boltSFX.map - 350
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_hail_stormBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_hail_stormSFX.map - 130
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_hast_creatureBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_hast_creatureSFX.map - 286
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_heal_creatureBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_heal_creatureSFX.map - 130
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_invisibleBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_invisibleSFX.map - 130
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_knivesBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_knivesSFX.map - 604
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_lightningBANK.map - 66
+6/7/1999 10:16:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_lightningSFX.map - 130
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_raise_deadBANK.map - 66
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_raise_deadSFX.map - 568
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_skeleton_armyBANK.map - 66
+6/7/1999 10:16:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_skeleton_armySFX.map - 130
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_slowBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_slowSFX.map - 130
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_touch_of_deathBANK.map - 66
+6/7/1999 10:16:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\spell_touch_of_deathSFX.map - 286
+6/7/1999 10:08:12 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Stone_KnightHD.sdt - 14674
+6/7/1999 10:08:12 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Stone_KnightHW.sdt - 21914
+6/7/1999 10:08:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TempleHD.sdt - 821257
+6/7/1999 10:08:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TerrainHD.sdt - 73834
+6/7/1999 10:08:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TerrainHW.sdt - 95990
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_claimed_pathBANK.map - 66
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_claimed_pathSFX.map - 178
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_dirt_pathBANK.map - 66
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_dirt_pathSFX.map - 178
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_gemsBANK.map - 96
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_gemsSFX.map - 288
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_goldBANK.map - 96
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_goldSFX.map - 288
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_lavaBANK.map - 97
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_lavaSFX.map - 304
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_lava_1st_personBANK.map - 97
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_lava_1st_personSFX.map - 692
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_rockBANK.map - 122
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_rockSFX.map - 366
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_solid_rockBANK.map - 66
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_solid_rockSFX.map - 178
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_wallBANK.map - 96
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_wallSFX.map - 288
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_waterBANK.map - 97
+6/7/1999 10:16:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_waterSFX.map - 304
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_water_1st_personBANK.map - 97
+6/7/1999 10:16:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\terrain_water_1st_personSFX.map - 304
+6/7/1999 10:08:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ThiefHD.sdt - 300000
+6/7/1999 10:08:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\ThiefHW.sdt - 432452
+6/7/1999 10:08:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TortureRoomHD.sdt - 130543
+6/9/1999 1:34:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_1SGHD.sdt - 1858284
+6/9/1999 1:34:12 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_1_1HD.sdt - 8548092
+6/9/1999 1:34:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_1_2HD.sdt - 6504028
+6/9/1999 1:34:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_1_3HD.sdt - 4088220
+6/9/1999 1:34:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_1_4HD.sdt - 2415768
+6/9/1999 1:34:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_3_1HD.sdt - 11849056
+6/9/1999 1:34:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_3_2HD.sdt - 2999764
+6/9/1999 1:35:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_3_3HD.sdt - 2699788
+6/9/1999 1:35:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_3_4HD.sdt - 3599716
+6/7/1999 10:09:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\Track_ZeroHD.sdt - 11319142
+6/7/1999 10:09:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TrainingRoomHD.sdt - 44669
+6/7/1999 10:09:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TrainingRoomHW.sdt - 63345
+10/13/1999 1:18:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TrapsHD.sdt - 980133
+10/13/1999 1:19:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TrapsHW.sdt - 1154865
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_alarmBANK.map - 120
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_alarmSFX.map - 286
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_boulderBANK.map - 82
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_boulderSFX.map - 1058
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_fearBANK.map - 82
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_fearSFX.map - 224
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_fireburstBANK.map - 82
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_fireburstSFX.map - 224
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_freezeBANK.map - 82
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_freezeSFX.map - 208
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_gasBANK.map - 82
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_gasSFX.map - 224
+6/8/1999 3:11:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_guard_postBANK.map - 54
+6/8/1999 3:11:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_guard_postSFX.map - 130
+10/21/1999 11:07:30 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_jackinboxBANK.map - 82
+10/21/1999 11:07:30 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_jackinboxSFX.map - 208
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_lightningBANK.map - 82
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_lightningSFX.map - 224
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_sentryBANK.map - 120
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_sentrySFX.map - 460
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_spikeBANK.map - 82
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_spikeSFX.map - 208
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_triggerBANK.map - 82
+6/7/1999 10:16:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\trap_triggerSFX.map - 224
+6/7/1999 10:09:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TrollHD.sdt - 594577
+6/7/1999 10:09:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\TrollHW.sdt - 891897
+6/7/1999 10:10:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\VampireHD.sdt - 466118
+6/7/1999 10:10:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\VampireHW.sdt - 620214
+6/7/1999 10:10:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\WarlockHD.sdt - 455641
+6/7/1999 10:10:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\WarlockHW.sdt - 636725
+6/7/1999 10:10:22 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\WeaponsHD.sdt - 160413
+6/7/1999 10:10:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\WeaponsHW.sdt - 267393
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\weapon_fleshBANK.map - 93
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\weapon_fleshSFX.map - 492
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\weapon_metalBANK.map - 93
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\weapon_metalSFX.map - 476
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\weapon_scytheBANK.map - 93
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\weapon_scytheSFX.map - 382
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\weapon_woodBANK.map - 93
+6/7/1999 10:16:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\weapon_woodSFX.map - 492
+6/7/1999 10:10:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\WizardHD.sdt - 724741
+6/7/1999 10:10:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\WizardHW.sdt - 918665
+6/7/1999 10:10:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\Global\WorkshopHD.sdt - 240442
+6/6/1999 7:52:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_horny\speech_hornyBANK.map - 69
+6/6/1999 7:52:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_horny\speech_hornyHD.SDT - 36412
+6/6/1999 7:52:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_horny\speech_hornySFX.map - 130
+5/26/1999 5:06:12 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_horny\back\speech_hornyBANK.map - 69
+5/26/1999 5:06:22 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_horny\back\speech_hornyHD.SDT - 2542160
+5/26/1999 5:06:10 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_horny\back\speech_hornySFX.map - 4810
+6/1/1999 6:56:32 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level1\speech_level1BANK.map - 71
+6/1/1999 6:56:32 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level1\speech_level1HD.SDT - 3006080
+6/1/1999 6:56:32 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level1\speech_level1SFX.map - 4732
+5/30/1999 8:09:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level10\speech_level10BANK.map - 73
+5/30/1999 8:09:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level10\speech_level10HD.SDT - 1733394
+5/30/1999 8:09:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level10\speech_level10SFX.map - 4732
+5/30/1999 8:09:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11a\speech_level11aBANK.map - 75
+5/30/1999 8:09:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11a\speech_level11aHD.SDT - 1460048
+5/30/1999 8:09:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11a\speech_level11aSFX.map - 4732
+5/30/1999 8:10:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11b\speech_level11bBANK.map - 75
+5/30/1999 8:10:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11b\speech_level11bHD.SDT - 1442183
+5/30/1999 8:10:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11b\speech_level11bSFX.map - 4732
+5/30/1999 8:10:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11c\speech_level11cBANK.map - 75
+5/30/1999 8:10:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11c\speech_level11cHD.SDT - 1385442
+5/30/1999 8:10:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level11c\speech_level11cSFX.map - 4732
+5/30/1999 8:10:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level12\speech_level12BANK.map - 73
+5/30/1999 8:10:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level12\speech_level12HD.SDT - 1295165
+5/30/1999 8:10:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level12\speech_level12SFX.map - 4732
+6/2/1999 7:02:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level13\speech_level13BANK.map - 73
+5/30/1999 7:56:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level13\speech_level13HD.SDT - 1802044
+5/30/1999 7:56:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level13\speech_level13SFX.map - 4732
+6/2/1999 6:59:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level14\speech_level14BANK.map - 73
+5/30/1999 7:10:34 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level14\speech_level14HD.SDT - 1435599
+5/30/1999 7:10:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level14\speech_level14SFX.map - 4732
+5/30/1999 8:10:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level15a\speech_level15aBANK.map - 75
+5/30/1999 8:10:42 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level15a\speech_level15aHD.SDT - 1365069
+5/30/1999 8:10:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level15a\speech_level15aSFX.map - 4732
+5/30/1999 8:10:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level15b\speech_level15bBANK.map - 75
+5/30/1999 8:10:48 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level15b\speech_level15bHD.SDT - 1249713
+5/30/1999 8:10:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level15b\speech_level15bSFX.map - 4732
+6/2/1999 7:07:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level16\speech_level16BANK.map - 73
+5/30/1999 7:10:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level16\speech_level16HD.SDT - 1377295
+5/30/1999 7:10:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level16\speech_level16SFX.map - 4732
+6/2/1999 7:06:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level17\speech_level17BANK.map - 73
+5/30/1999 7:11:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level17\speech_level17HD.SDT - 1789663
+5/30/1999 7:10:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level17\speech_level17SFX.map - 4732
+5/30/1999 8:11:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level18\speech_level18BANK.map - 73
+5/30/1999 8:11:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level18\speech_level18HD.SDT - 1570079
+5/30/1999 8:11:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level18\speech_level18SFX.map - 4732
+5/30/1999 8:11:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level19\speech_level19BANK.map - 73
+5/30/1999 8:11:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level19\speech_level19HD.SDT - 1332781
+5/30/1999 8:11:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level19\speech_level19SFX.map - 4732
+5/30/1999 8:08:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level2\speech_level2BANK.map - 71
+5/30/1999 8:08:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level2\speech_level2HD.SDT - 2481963
+5/30/1999 8:08:26 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level2\speech_level2SFX.map - 4732
+6/1/1999 6:56:32 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level20\speech_level20BANK.map - 73
+6/1/1999 6:56:32 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level20\speech_level20HD.SDT - 1641863
+6/1/1999 6:56:32 AM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level20\speech_level20SFX.map - 4732
+5/30/1999 8:08:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level3\speech_level3BANK.map - 71
+5/30/1999 8:08:40 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level3\speech_level3HD.SDT - 1800479
+5/30/1999 8:08:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level3\speech_level3SFX.map - 4732
+6/2/1999 6:54:34 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level4\speech_level4BANK.map - 71
+5/30/1999 7:08:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level4\speech_level4HD.SDT - 2712047
+5/30/1999 7:08:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level4\speech_level4SFX.map - 4732
+5/30/1999 8:08:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level5\speech_level5BANK.map - 71
+5/30/1999 8:08:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level5\speech_level5HD.SDT - 1286387
+5/30/1999 8:08:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level5\speech_level5SFX.map - 4732
+6/2/1999 6:53:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level6a\speech_level6aBANK.map - 73
+5/30/1999 7:09:06 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level6a\speech_level6aHD.SDT - 1829944
+5/30/1999 7:09:02 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level6a\speech_level6aSFX.map - 4732
+6/2/1999 6:56:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level6b\speech_level6bBANK.map - 73
+5/30/1999 7:09:16 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level6b\speech_level6bHD.SDT - 2155639
+5/30/1999 7:09:12 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level6b\speech_level6bSFX.map - 4732
+5/30/1999 8:09:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level7\speech_level7BANK.map - 71
+5/30/1999 8:09:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level7\speech_level7HD.SDT - 1249086
+5/30/1999 8:09:20 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level7\speech_level7SFX.map - 4732
+5/30/1999 8:09:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level8\speech_level8BANK.map - 71
+5/30/1999 8:09:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level8\speech_level8HD.SDT - 1523685
+5/30/1999 8:09:28 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level8\speech_level8SFX.map - 4732
+6/3/1999 11:32:24 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level9\speech_level9BANK.map - 71
+5/30/1999 7:09:40 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level9\speech_level9HD.SDT - 1417419
+5/30/1999 7:09:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_level9\speech_level9SFX.map - 4732
+5/30/1999 8:19:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_mentor\speech_mentorBANK.map - 71
+5/30/1999 8:21:54 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_mentor\speech_mentorHD.SDT - 33288635
+5/30/1999 8:19:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_mentor\speech_mentorSFX.map - 117442
+5/30/1999 8:12:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_multiplayer\speech_multiplayerBANK.map - 81
+5/30/1999 8:12:18 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_multiplayer\speech_multiplayerHD.SDT - 787032
+5/30/1999 8:12:14 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_multiplayer\speech_multiplayerSFX.map - 4732
+6/8/1999 4:28:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_mypetdungeon\speech_mypetdungeonBANK.map - 83
+5/30/1999 7:12:10 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_mypetdungeon\speech_mypetdungeonHD.SDT - 4320741
+5/30/1999 7:12:04 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_mypetdungeon\speech_mypetdungeonSFX.map - 6292
+5/30/1999 8:11:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret1\speech_secret1BANK.map - 73
+5/30/1999 8:11:32 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret1\speech_secret1HD.SDT - 712425
+5/30/1999 8:11:30 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret1\speech_secret1SFX.map - 4732
+5/30/1999 8:11:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret2\speech_secret2BANK.map - 73
+5/30/1999 8:11:38 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret2\speech_secret2HD.SDT - 690796
+5/30/1999 8:11:36 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret2\speech_secret2SFX.map - 4732
+5/30/1999 8:11:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret3\speech_secret3BANK.map - 73
+5/30/1999 8:11:46 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret3\speech_secret3HD.SDT - 735309
+5/30/1999 8:11:44 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret3\speech_secret3SFX.map - 4732
+5/30/1999 8:11:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret4\speech_secret4BANK.map - 73
+5/30/1999 8:11:52 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret4\speech_secret4HD.SDT - 725278
+5/30/1999 8:11:50 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret4\speech_secret4SFX.map - 4732
+5/30/1999 8:11:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret5\speech_secret5BANK.map - 73
+5/30/1999 8:11:58 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret5\speech_secret5HD.SDT - 695184
+5/30/1999 8:11:56 PM - G:\GOG\Dungeon Keeper 2\Data\Sound\Sfx\speech_secret5\speech_secret5SFX.map - 4732
+7/3/1999 2:45:16 PM - G:\GOG\Dungeon Keeper 2\Data\Text\JCN.dat - 4698
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\DEMO1.str - 1452
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\DEMO2.str - 1452
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\DEMO3.str - 1452
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_FRONTEND10.bf4 - 13540
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_FRONTEND12.bf4 - 15900
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_FRONTEND14.bf4 - 17172
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_FRONTEND20.bf4 - 23804
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_FRONTEND28.bf4 - 31668
+5/12/2000 11:22:16 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_FRONTEND36.bf4 - 41764
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME10.bf4 - 13540
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME12.bf4 - 15900
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME14.bf4 - 17172
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME16.bf4 - 18596
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME18.bf4 - 21084
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME20.bf4 - 23804
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME22.bf4 - 25508
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME24.bf4 - 27908
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME26.bf4 - 30244
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME28.bf4 - 31668
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME36.bf4 - 41764
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME48.bf4 - 56956
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME7.bf4 - 10940
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME72.bf4 - 93820
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME8.bf4 - 11684
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\FONT_INGAME9.bf4 - 12812
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL1.str - 8012
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL10.str - 4488
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL10_BRIEFING.str - 260
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL11A.str - 3664
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL11A_BRIEFING.str - 224
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL11B.str - 3520
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL11B_BRIEFING.str - 244
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL11C.str - 3516
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL11C_BRIEFING.str - 256
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL12.str - 3352
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL12_BRIEFING.str - 256
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL13.str - 4656
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL13_BRIEFING.str - 276
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL14.str - 3652
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL14_BRIEFING.str - 164
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL15A.str - 3556
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL15A_BRIEFING.str - 216
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL15B.str - 3228
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL15B_BRIEFING.str - 216
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL16.str - 3672
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL16_BRIEFING.str - 276
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL17.str - 4620
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL17_BRIEFING.str - 288
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL18.str - 3696
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL18_BRIEFING.str - 256
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL19.str - 3308
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL19_BRIEFING.str - 288
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL1_BRIEFING.str - 172
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL2.str - 6704
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL20.str - 3384
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL20_BRIEFING.str - 240
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL2_BRIEFING.str - 252
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL3.str - 4620
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL3_BRIEFING.str - 276
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL4.str - 6860
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL4_BRIEFING.str - 272
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL5.str - 3344
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL5_BRIEFING.str - 236
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL6A.str - 4704
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL6A_BRIEFING.str - 284
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL6B.str - 5512
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL6B_BRIEFING.str - 284
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL7.str - 3156
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL7_BRIEFING.str - 260
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL8.str - 3860
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL8_BRIEFING.str - 244
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL9.str - 3808
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVEL9_BRIEFING.str - 216
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM10_BRIEFING.str - 120
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM11_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM12_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM13_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM14_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM15_BRIEFING.str - 120
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM16_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM17_BRIEFING.str - 144
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM18_BRIEFING.str - 176
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM19_BRIEFING.str - 168
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM1_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM20_BRIEFING.str - 104
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM2_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM3_BRIEFING.str - 120
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM4_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM5_BRIEFING.str - 120
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM6_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM7_BRIEFING.str - 120
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM8_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELM9_BRIEFING.str - 116
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELMPD1_BRIEFING.str - 220
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELMPD2_BRIEFING.str - 200
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELMPD3_BRIEFING.str - 240
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELMPD4_BRIEFING.str - 212
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELMPD5_BRIEFING.str - 208
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELMPD6_BRIEFING.str - 228
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELMPD7_BRIEFING.str - 216
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELS1_BRIEFING.str - 136
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELS2_BRIEFING.str - 144
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELS3_BRIEFING.str - 148
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELS4_BRIEFING.str - 128
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\LEVELS5_BRIEFING.str - 140
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\MBToUni.dat - 510
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\MULTIPLAYER.str - 2292
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\MYPETDUNGEON.str - 11724
+5/12/2000 11:22:16 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\residx.dat - 3479
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\SECRET1.str - 1824
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\SECRET2.str - 1752
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\SECRET3.str - 1836
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\SECRET4.str - 1816
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\SECRET5.str - 1772
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\Speech.str - 106572
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\Text.str - 105624
+5/12/2000 11:22:14 AM - G:\GOG\Dungeon Keeper 2\Data\Text\Default\UniToMB.dat - 538
+1/19/2000 2:24:44 PM - G:\GOG\Dungeon Keeper 2\DK2TextureCache\EngineTextures.dat - 11212108
+1/19/2000 2:24:46 PM - G:\GOG\Dungeon Keeper 2\DK2TextureCache\EngineTextures.dir - 138608
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\DKII.exe
+Value: Path
+Data: G:\GOG\Dungeon Keeper 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\DKII.exe
+Value: 
+Data: 5/12/2011 3:18:28 PM - G:\GOG\Dungeon Keeper 2\DKII.exe - 2977280
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{DE7B753A-F27E-4A02-A02C-9CD09E48E342}
+Value: ConfigApplicationPath
+Data: G:\GOG\Dungeon Keeper 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{DE7B753A-F27E-4A02-A02C-9CD09E48E342}
+Value: ConfigGDFBinaryPath
+Data: 11/6/2012 3:30:34 PM - G:\GOG\Dungeon Keeper 2\goggame.dll - 273744
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{DE7B753A-F27E-4A02-A02C-9CD09E48E342}
+Value: AppExePath
+Data: 4/28/2012 4:23:44 PM - G:\GOG\Dungeon Keeper 2\DKII-dx.EXE - 2977280
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGDUNGEONKEEPER2
+Value: PATH
+Data: G:\GOG\Dungeon Keeper 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGDUNGEONKEEPER2
+Value: SAVEGAMEFOLDER
+Data: G:\GOG\Dungeon Keeper 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGDUNGEONKEEPER2
+Value: LAUNCHCOMMAND
+Data: 4/28/2012 4:23:44 PM - G:\GOG\Dungeon Keeper 2\DKII-dx.EXE  - 2977280
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGDUNGEONKEEPER2
+Value: EXE
+Data: 4/28/2012 4:23:44 PM - G:\GOG\Dungeon Keeper 2\DKII-dx.EXE - 2977280
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Dungeon Keeper II
+Value: UninstallString
+Data: 12/25/2012 8:47:05 PM - G:\GOG\Dungeon Keeper 2\unins000.exe - 1233232
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKDUNGEONKEEPER2_is1
+Value: Inno Setup: App Path
+Data: G:\GOG\Dungeon Keeper 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKDUNGEONKEEPER2_is1
+Value: InstallLocation
+Data: G:\GOG\Dungeon Keeper 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKDUNGEONKEEPER2_is1
+Value: DisplayIcon
+Data: 9/14/2012 1:56:10 PM - G:\GOG\Dungeon Keeper 2\gog.ico - 69248
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\App Paths\DKII.exe
+Value: Path
+Data: G:\GOG\Dungeon Keeper 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\App Paths\DKII.exe
+Value: 
+Data: 5/12/2011 3:18:28 PM - G:\GOG\Dungeon Keeper 2\DKII.exe - 2977280
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+12/25/2012 8:47:52 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Dungeon Keeper 2\Dungeon Keeper 2 [Safe Mode].lnk - 678
+8/26/2011 4:40:14 PM - G:\GOG\Dungeon Keeper 2\DKII_SOFT.EXE - 844215
+12/25/2012 8:47:52 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Dungeon Keeper 2\Dungeon Keeper 2.lnk - 746
+4/28/2012 4:23:44 PM - G:\GOG\Dungeon Keeper 2\DKII-DX.exe - 2977280
+12/25/2012 8:47:52 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Dungeon Keeper 2\Uninstall Dungeon Keeper 2.lnk - 675
+12/25/2012 8:47:05 PM - G:\GOG\Dungeon Keeper 2\unins000.exe - 1233232
+12/25/2012 8:47:52 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Dungeon Keeper 2\Documents\Manual.lnk - 489
+6/27/2011 4:22:56 PM - G:\GOG\Dungeon Keeper 2\manual.pdf - 1767753
+12/25/2012 8:47:52 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Dungeon Keeper 2\Documents\Readme.lnk - 489
+8/24/2011 9:57:22 AM - G:\GOG\Dungeon Keeper 2\Readme.txt - 31656
+12/25/2012 8:47:52 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\Dungeon Keeper 2\Documents\Reference Card.lnk - 693
+6/27/2011 4:25:16 PM - G:\GOG\Dungeon Keeper 2\reference_card.pdf - 370661
