@@ -1,0 +1,28 @@
+Game Name: Far Cry 3
+Operating System:
+Microsoft Windows NT 6.2.9200.0
+
+Path:
+UserDocuments\my games\Far Cry 3
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+11/01/2013 12:54:03 - UserDocuments\my games\Far Cry 3\GamerProfile.xml - 2622
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

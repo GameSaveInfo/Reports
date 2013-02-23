@@ -1,0 +1,44 @@
+Comments:
+  <game name="DmCDevilMayCry" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>DmC Devil May Cry</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="220440"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: DmC Devil May Cry
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\220440\remote
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sun 27 Jan 2:58:23 PM - SteamUserData\220440\remote\dmc5_save_00_checkpnt - 136
+Sun 27 Jan 2:58:23 PM - SteamUserData\220440\remote\dmc5_save_00_info - 176
+Sun 27 Jan 2:58:23 PM - SteamUserData\220440\remote\dmc5_save_00_profile - 26800
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

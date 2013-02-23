@@ -1,0 +1,33 @@
+Game Name: LegacyOf Kain2BO2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\Blood Omen 2
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/23/2013 10:43:53 AM - UserDocuments\Blood Omen 2\Save 00\game.bo2 - 460
+2/23/2013 10:43:56 AM - UserDocuments\Blood Omen 2\Save 01\game.bo2 - 460
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGLEGACYOFKAINBLOODOMEN2
+Value: SAVEGAMEFOLDER
+Data: UserDocuments\Blood Omen 2
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

@@ -1,0 +1,36 @@
+Game Name: Far Cry 3 (Ubi)
+Operating System:
+Microsoft Windows NT 6.2.9200.0
+
+Path:
+C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+26/12/2012 23:26:50 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\1.save - 50747
+27/12/2012 17:48:05 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\1.save.metadata - 9
+11/01/2013 12:54:03 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\5.save - 57000
+03/02/2013 13:30:06 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\5.save.metadata - 9
+26/12/2012 23:26:50 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\New folder\1.save - 50747
+27/12/2012 17:48:05 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\New folder\1.save.metadata - 9
+30/12/2012 14:22:37 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\New folder\5.save - 57498
+30/12/2012 14:22:37 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\New folder\5.save.extendedmeta - 36
+30/12/2012 14:22:37 - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\89332a45-e63e-4670-8a6b-44d9a1dab2fc\46\New folder\5.save.metadata - 9
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

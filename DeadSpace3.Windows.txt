@@ -1,0 +1,44 @@
+Comments:
+  <game name="DeadSpace3" follows="DeadSpace2" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Dead Space 3</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="EA Games\Dead Space 3"/>
+      </locations>
+      <files>
+        <include/>
+      </files>
+      <linkable/>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Dead Space 3
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\EA Games\Dead Space 3
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Mon 18 Feb 4:54:37 PM - UserDocuments\EA Games\Dead Space 3\ds3_v1_slot_01.sav - 75984
+Sun 10 Feb 2:53:44 PM - UserDocuments\EA Games\Dead Space 3\ds3_v1_slot_02.sav - 75984
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

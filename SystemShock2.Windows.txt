@@ -1,0 +1,231 @@
+Game Name: SS2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+G:\GOG\System Shock 2
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: G:\
+Drive Root: G:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+11/18/2010 8:27:30 AM - G:\GOG\System Shock 2\7z.dll - 914432
+2/15/2013 7:11:34 PM - G:\GOG\System Shock 2\cam.cfg - 639
+9/27/2012 2:32:18 PM - G:\GOG\System Shock 2\cam_ext.cfg - 18062
+10/3/2012 5:02:54 PM - G:\GOG\System Shock 2\cam_mod.ini - 1708
+8/5/2012 6:37:30 PM - G:\GOG\System Shock 2\command2.mis.dml - 624
+8/5/2012 6:27:40 PM - G:\GOG\System Shock 2\earth.mis.dml - 157
+2/14/2013 12:34:22 PM - G:\GOG\System Shock 2\EULA.txt - 7505
+4/27/2011 8:49:00 AM - G:\GOG\System Shock 2\ffmpeg.dll - 6654711
+9/15/2012 12:45:50 PM - G:\GOG\System Shock 2\fmsel.dll - 769536
+9/14/2012 1:56:08 PM - G:\GOG\System Shock 2\GameuxInstallHelper.dll - 96264
+2/12/2013 12:55:02 PM - G:\GOG\System Shock 2\gfw_high.ico - 124271
+9/14/2012 1:56:10 PM - G:\GOG\System Shock 2\gog.ico - 69248
+2/12/2013 3:07:32 PM - G:\GOG\System Shock 2\goggame.dll - 273744
+3/28/2012 9:43:48 PM - G:\GOG\System Shock 2\hydro1.mis.dml - 175
+8/26/1999 2:24:48 AM - G:\GOG\System Shock 2\HYDRO2.DIF - 1277538
+7/15/2012 7:43:32 AM - G:\GOG\System Shock 2\hydro2.mis.dml - 194
+1/17/2013 1:37:28 PM - G:\GOG\System Shock 2\ILIST.F - 1596
+1/17/2013 1:34:30 PM - G:\GOG\System Shock 2\ILIST.M - 753
+1/17/2013 1:34:44 PM - G:\GOG\System Shock 2\ILIST.T - 794
+3/4/2010 11:49:20 PM - G:\GOG\System Shock 2\install.cfg - 291
+7/7/1997 2:32:00 AM - G:\GOG\System Shock 2\ir41_32.dll - 169472
+2/14/2013 12:34:21 PM - G:\GOG\System Shock 2\Launch System Shock 2.lnk - 748
+12/12/2012 6:57:18 PM - G:\GOG\System Shock 2\lg.ini - 593
+10/7/1996 2:35:42 PM - G:\GOG\System Shock 2\LGVID.AX - 316928
+9/9/2012 6:05:20 AM - G:\GOG\System Shock 2\lgvid.dll - 20992
+2/12/2013 12:58:04 PM - G:\GOG\System Shock 2\Manual.pdf - 927442
+3/7/2004 12:04:32 PM - G:\GOG\System Shock 2\motiondb.bin - 279355
+8/9/1996 5:21:24 PM - G:\GOG\System Shock 2\MSVCRT40.DLL - 326656
+1/17/2013 1:33:48 PM - G:\GOG\System Shock 2\patch_ext.crf - 1859
+1/17/2013 1:33:06 PM - G:\GOG\System Shock 2\readme_patch.txt - 8295
+6/23/1999 1:41:44 PM - G:\GOG\System Shock 2\SHOCK.BND - 4822
+10/23/2012 4:09:44 PM - G:\GOG\System Shock 2\shock.cfg - 2834
+9/23/2012 4:01:20 AM - G:\GOG\System Shock 2\Shock2.exe - 4991488
+2/16/2013 2:50:28 PM - G:\GOG\System Shock 2\Shock2.log - 31452
+8/26/1999 2:24:44 AM - G:\GOG\System Shock 2\SHODAN.DIF - 320593
+2/1/2013 4:22:40 PM - G:\GOG\System Shock 2\start.exe - 410448
+6/30/2012 4:09:16 AM - G:\GOG\System Shock 2\station.mis.dml - 684
+9/14/2012 1:56:10 PM - G:\GOG\System Shock 2\Support.ico - 62895
+2/14/2013 12:34:22 PM - G:\GOG\System Shock 2\unins000.dat - 235871
+2/14/2013 12:33:38 PM - G:\GOG\System Shock 2\unins000.exe - 1236304
+2/14/2013 12:34:22 PM - G:\GOG\System Shock 2\unins000.ini - 76
+2/14/2013 12:34:22 PM - G:\GOG\System Shock 2\unins000.msg - 22733
+2/14/2013 7:02:12 PM - G:\GOG\System Shock 2\user.bnd - 2460
+2/16/2013 2:50:59 PM - G:\GOG\System Shock 2\current\CAMPAIGN - 51201
+2/14/2013 6:45:56 PM - G:\GOG\System Shock 2\current\earth.mis - 571482
+2/16/2013 2:50:59 PM - G:\GOG\System Shock 2\current\eng1.MIS - 1361572
+2/16/2013 2:20:19 PM - G:\GOG\System Shock 2\current\MedSci1.MIS - 1347268
+2/16/2013 2:07:36 PM - G:\GOG\System Shock 2\current\medsci2.MIS - 1073434
+2/14/2013 6:53:04 PM - G:\GOG\System Shock 2\current\station.MIS - 554893
+3/4/2010 11:39:06 PM - G:\GOG\System Shock 2\Data\!Original game files - leave these alone.txt - 0
+9/9/1999 11:38:32 AM - G:\GOG\System Shock 2\Data\allobjs.osm - 547840
+7/14/1999 10:13:44 AM - G:\GOG\System Shock 2\Data\command1.mis - 4363488
+7/14/1999 10:13:52 AM - G:\GOG\System Shock 2\Data\command2.mis - 5824007
+7/14/1999 10:13:58 AM - G:\GOG\System Shock 2\Data\earth.mis - 3525492
+1/16/1998 10:33:40 AM - G:\GOG\System Shock 2\Data\editor.res - 312076
+7/14/1999 10:14:06 AM - G:\GOG\System Shock 2\Data\eng1.mis - 7189972
+7/14/1999 10:14:14 AM - G:\GOG\System Shock 2\Data\eng2.mis - 6122561
+7/14/1999 10:14:16 AM - G:\GOG\System Shock 2\Data\hydro1.mis - 2658062
+7/14/1999 10:14:22 AM - G:\GOG\System Shock 2\Data\hydro2.mis - 5371050
+7/14/1999 10:14:24 AM - G:\GOG\System Shock 2\Data\hydro3.mis - 1424613
+7/14/1999 10:14:30 AM - G:\GOG\System Shock 2\Data\many.mis - 7426383
+7/14/1999 10:14:34 AM - G:\GOG\System Shock 2\Data\medsci1.mis - 5776900
+7/14/1999 10:14:38 AM - G:\GOG\System Shock 2\Data\medsci2.mis - 4449360
+2/3/1998 9:23:40 AM - G:\GOG\System Shock 2\Data\metaui_r.res - 491974
+3/7/2004 12:04:32 PM - G:\GOG\System Shock 2\Data\motiondb.bin - 279355
+7/14/1999 10:14:40 AM - G:\GOG\System Shock 2\Data\ops1.mis - 877862
+7/14/1999 10:14:42 AM - G:\GOG\System Shock 2\Data\ops2.mis - 3854388
+7/14/1999 10:14:46 AM - G:\GOG\System Shock 2\Data\ops3.mis - 3271292
+7/14/1999 10:14:50 AM - G:\GOG\System Shock 2\Data\ops4.mis - 3417036
+7/14/1999 10:14:56 AM - G:\GOG\System Shock 2\Data\rec1.mis - 5215606
+7/14/1999 10:15:00 AM - G:\GOG\System Shock 2\Data\rec2.mis - 4023031
+7/14/1999 10:15:02 AM - G:\GOG\System Shock 2\Data\rec3.mis - 3087336
+7/14/1999 10:15:08 AM - G:\GOG\System Shock 2\Data\rick1.mis - 6202287
+7/14/1999 10:15:10 AM - G:\GOG\System Shock 2\Data\rick2.mis - 1085964
+7/14/1999 10:15:14 AM - G:\GOG\System Shock 2\Data\rick3.mis - 2596626
+7/17/1998 1:41:10 PM - G:\GOG\System Shock 2\Data\shkres.res - 4156
+9/8/1999 9:26:52 AM - G:\GOG\System Shock 2\Data\shock2.gam - 904943
+7/14/1999 10:15:18 AM - G:\GOG\System Shock 2\Data\shodan.mis - 3439163
+12/5/1996 9:47:12 AM - G:\GOG\System Shock 2\Data\skeldata.res - 730
+7/14/1999 10:15:20 AM - G:\GOG\System Shock 2\Data\station.mis - 2789005
+7/7/1996 1:31:38 PM - G:\GOG\System Shock 2\Data\TEXTURE.RES - 84298
+7/12/1999 4:40:50 PM - G:\GOG\System Shock 2\Data\cutscenes\CREDITS.AVI - 18095912
+7/12/1999 3:35:28 PM - G:\GOG\System Shock 2\Data\cutscenes\cs1.avi - 24182442
+6/23/1999 10:37:08 AM - G:\GOG\System Shock 2\Data\cutscenes\Cs2.avi - 16977152
+6/24/1999 10:26:52 AM - G:\GOG\System Shock 2\Data\cutscenes\Cs3.avi - 33781102
+6/29/1999 12:40:42 PM - G:\GOG\System Shock 2\Data\cutscenes\Intro.avi - 2673592
+5/6/1999 7:55:52 AM - G:\GOG\System Shock 2\Data\cutscenes\landing.avi - 1169668
+5/11/1999 8:34:02 AM - G:\GOG\System Shock 2\Data\cutscenes\shuttle1.avi - 2472908
+5/11/1999 8:44:26 AM - G:\GOG\System Shock 2\Data\cutscenes\shuttle2.avi - 1439220
+5/11/1999 8:51:10 AM - G:\GOG\System Shock 2\Data\cutscenes\shuttle3.avi - 2671076
+5/20/1999 1:31:52 PM - G:\GOG\System Shock 2\Data\cutscenes\starport.avi - 2419584
+7/14/1999 10:15:24 AM - G:\GOG\System Shock 2\Data\res\bitmap.crf - 408894
+7/14/1999 10:15:26 AM - G:\GOG\System Shock 2\Data\res\book.crf - 245504
+7/14/1999 10:15:28 AM - G:\GOG\System Shock 2\Data\res\editor.crf - 2266
+7/14/1999 10:15:46 AM - G:\GOG\System Shock 2\Data\res\fam.crf - 6662951
+7/14/1999 10:15:52 AM - G:\GOG\System Shock 2\Data\res\fonts.crf - 24639
+10/23/2012 4:09:46 PM - G:\GOG\System Shock 2\Data\res\iface.crf - 1522465
+10/23/2012 4:09:46 PM - G:\GOG\System Shock 2\Data\res\intrface.crf - 11776577
+10/23/2012 4:09:46 PM - G:\GOG\System Shock 2\Data\res\mesh.crf - 2593187
+7/14/1999 10:16:46 AM - G:\GOG\System Shock 2\Data\res\motions.crf - 15874268
+10/23/2012 4:09:46 PM - G:\GOG\System Shock 2\Data\res\obj.crf - 6198749
+7/14/1999 10:17:28 AM - G:\GOG\System Shock 2\Data\res\objicon.crf - 341865
+7/14/1999 10:17:30 AM - G:\GOG\System Shock 2\Data\res\pal.crf - 30690
+7/14/1999 10:18:30 AM - G:\GOG\System Shock 2\Data\res\snd.crf - 145678150
+7/14/1999 10:19:50 AM - G:\GOG\System Shock 2\Data\res\snd2.crf - 123664684
+7/14/1999 10:20:24 AM - G:\GOG\System Shock 2\Data\res\song.crf - 6091
+10/23/2012 4:09:48 PM - G:\GOG\System Shock 2\Data\res\strings.crf - 248927
+3/4/2010 11:43:26 PM - G:\GOG\System Shock 2\DataPermanentMods\!Place your permanent mods here.txt - 0
+3/4/2008 10:43:44 AM - G:\GOG\System Shock 2\DataPermanentMods\obj\comdoor.bin - 1952
+3/4/2008 10:32:18 AM - G:\GOG\System Shock 2\DataPermanentMods\obj\elecom.bin - 1956
+3/4/2008 10:54:46 AM - G:\GOG\System Shock 2\DataPermanentMods\obj\readme_command_crash_fix.txt - 876
+3/4/2008 10:30:32 AM - G:\GOG\System Shock 2\DataPermanentMods\obj\txt16\comm6.gif - 1991
+3/4/2008 10:44:36 AM - G:\GOG\System Shock 2\DataPermanentMods\obj\txt16\comm8.gif - 3944
+3/6/2011 1:40:22 PM - G:\GOG\System Shock 2\doc\al_reverb.ini - 5009
+9/21/2012 6:26:02 PM - G:\GOG\System Shock 2\doc\cam_ext.cfg - 17867
+9/10/2012 1:58:24 PM - G:\GOG\System Shock 2\doc\cam_mod.ini - 1586
+7/1/2012 8:08:38 AM - G:\GOG\System Shock 2\doc\dbmod-sample.dml - 10611
+9/9/2012 7:15:26 PM - G:\GOG\System Shock 2\doc\dromed.cfg - 5794
+12/20/2011 6:21:02 PM - G:\GOG\System Shock 2\doc\fm.cfg - 1118
+8/30/2012 6:10:24 AM - G:\GOG\System Shock 2\doc\fmsel-minimal_src.zip - 5243
+9/15/2012 6:29:48 AM - G:\GOG\System Shock 2\doc\FMSel.pdf - 172012
+9/12/2012 4:50:04 AM - G:\GOG\System Shock 2\doc\fm_selector_api.txt - 2640
+9/27/2011 2:21:52 PM - G:\GOG\System Shock 2\doc\kbd_00000407.ini - 2929
+10/3/2011 6:02:44 PM - G:\GOG\System Shock 2\doc\kbd_0000041d.ini - 924
+9/23/2012 4:07:40 AM - G:\GOG\System Shock 2\doc\material-format.txt - 24822
+9/22/2012 12:11:46 PM - G:\GOG\System Shock 2\doc\modders_notes.txt - 69399
+7/14/2012 8:28:54 AM - G:\GOG\System Shock 2\doc\mtl_incidence.jpg - 21982
+9/18/2012 6:33:40 AM - G:\GOG\System Shock 2\doc\new_commands.txt - 7087
+9/21/2012 6:28:46 PM - G:\GOG\System Shock 2\doc\new_config_vars.txt - 36710
+9/21/2012 7:18:40 PM - G:\GOG\System Shock 2\doc\release_notes.txt - 11140
+8/29/2012 8:55:06 PM - G:\GOG\System Shock 2\doc\script_services.txt - 2341
+8/29/2012 8:16:20 PM - G:\GOG\System Shock 2\doc\ss2-material-mod-sample.7z - 134103
+9/18/2012 1:28:40 PM - G:\GOG\System Shock 2\doc\troubleshooting.txt - 5194
+7/14/2012 8:29:04 AM - G:\GOG\System Shock 2\doc\uvmap_cylinder.jpg - 16112
+7/14/2012 8:29:08 AM - G:\GOG\System Shock 2\doc\uvmap_cylinder2.jpg - 62051
+7/7/2012 5:52:14 AM - G:\GOG\System Shock 2\doc\script\Debug.txt - 1009
+9/12/2012 4:47:12 AM - G:\GOG\System Shock 2\doc\script\Engine.txt - 4291
+5/14/2012 12:28:22 PM - G:\GOG\System Shock 2\doc\script\Object.txt - 1861
+5/13/2012 9:52:38 AM - G:\GOG\System Shock 2\doc\script\Physics.txt - 1558
+9/16/2012 10:30:32 PM - G:\GOG\System Shock 2\doc\script\ShockOverlay.txt - 13783
+9/21/2012 4:14:58 PM - G:\GOG\System Shock 2\doc\script\ss2sample-osm.7z - 24365
+5/20/2012 10:19:10 AM - G:\GOG\System Shock 2\doc\script\ss2_overlay_sample.cpp - 11776
+9/16/2012 10:31:58 PM - G:\GOG\System Shock 2\doc\script\Version.txt - 1685
+2/15/2013 7:11:32 PM - G:\GOG\System Shock 2\save_0\CAMPAIGN - 50736
+2/14/2013 6:45:56 PM - G:\GOG\System Shock 2\save_0\earth.mis - 571482
+2/15/2013 7:11:32 PM - G:\GOG\System Shock 2\save_0\MedSci1.MIS - 1364792
+2/14/2013 6:53:04 PM - G:\GOG\System Shock 2\save_0\station.MIS - 554893
+2/16/2013 2:50:59 PM - G:\GOG\System Shock 2\save_14\CAMPAIGN - 51201
+2/14/2013 6:45:56 PM - G:\GOG\System Shock 2\save_14\earth.mis - 571482
+2/16/2013 2:50:59 PM - G:\GOG\System Shock 2\save_14\eng1.MIS - 1361572
+2/16/2013 2:20:19 PM - G:\GOG\System Shock 2\save_14\MedSci1.MIS - 1347268
+2/16/2013 2:07:36 PM - G:\GOG\System Shock 2\save_14\medsci2.MIS - 1073434
+2/14/2013 6:53:04 PM - G:\GOG\System Shock 2\save_14\station.MIS - 554893
+2/16/2013 2:16:54 PM - G:\GOG\System Shock 2\screenshots\dump000.png - 867349
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{CDFC6542-A0E9-4E5B-88E9-4E913C6AA47F}
+Value: ConfigApplicationPath
+Data: G:\GOG\System Shock 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{CDFC6542-A0E9-4E5B-88E9-4E913C6AA47F}
+Value: ConfigGDFBinaryPath
+Data: 2/12/2013 3:07:32 PM - G:\GOG\System Shock 2\goggame.dll - 273744
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\GameUX\Games\{CDFC6542-A0E9-4E5B-88E9-4E913C6AA47F}
+Value: AppExePath
+Data: 2/1/2013 4:22:40 PM - G:\GOG\System Shock 2\start.exe - 410448
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGSSHOCK2
+Value: PATH
+Data: G:\GOG\System Shock 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGSSHOCK2
+Value: SAVEGAMEFOLDER
+Data: G:\GOG\System Shock 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGSSHOCK2
+Value: LAUNCHCOMMAND
+Data: 2/1/2013 4:22:40 PM - G:\GOG\System Shock 2\start.exe  - 410448
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGSSHOCK2
+Value: EXE
+Data: 2/1/2013 4:22:40 PM - G:\GOG\System Shock 2\start.exe - 410448
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKSSHOCK2_is1
+Value: Inno Setup: App Path
+Data: G:\GOG\System Shock 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKSSHOCK2_is1
+Value: InstallLocation
+Data: G:\GOG\System Shock 2
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\GOGPACKSSHOCK2_is1
+Value: DisplayIcon
+Data: 9/14/2012 1:56:10 PM - G:\GOG\System Shock 2\gog.ico - 69248
+Current User Registry Entries: 
+
+Key:HKEY_CURRENT_USER\Software\Classes\VirtualStore\MACHINE\SOFTWARE\NVIDIA Corporation\Global\NVTweak\NvCplAppNamesStored
+Value: shock2.exe
+Data: 9/23/2012 4:01:20 AM - g:\gog\system shock 2\shock2.exe - 4991488
+
+Detected Start Menu Shortcuts: 
+2/14/2013 12:34:21 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\System Shock 2\System Shock 2.lnk - 724
+2/1/2013 4:22:40 PM - G:\GOG\System Shock 2\start.exe - 410448
+2/14/2013 12:34:22 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\System Shock 2\Uninstall System Shock 2.lnk - 665
+2/14/2013 12:33:38 PM - G:\GOG\System Shock 2\unins000.exe - 1236304
+2/14/2013 12:34:22 PM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GOG.com\System Shock 2\Documents\Manual.lnk - 479
+2/12/2013 12:58:04 PM - G:\GOG\System Shock 2\Manual.pdf - 927442

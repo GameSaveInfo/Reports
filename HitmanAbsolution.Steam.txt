@@ -1,0 +1,30 @@
+Game Name: Hitman: Absolution (Steam)
+Operating System:
+Microsoft Windows NT 6.2.9200.0
+
+Path:
+SteamUserData\205930
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: D:\
+Drive Root: D:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+03/02/2013 12:05:53 - SteamUserData\205930\remotecache.vdf - 514
+17/12/2012 17:41:54 - SteamUserData\205930\remote\hm5 - 524288
+30/10/2012 13:27:40 - SteamUserData\205930\remote\savedata.dat - 327684
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

@@ -1,0 +1,31 @@
+Game Name: Iron Brigade
+Operating System:
+Microsoft Windows NT 6.2.9200.0
+
+Path:
+AppData\Doublefine\IronBrigade
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+16/12/2012 21:06:32 - AppData\Doublefine\IronBrigade\achieve_-536870773794632946.sav - 445
+16/12/2012 21:06:32 - AppData\Doublefine\IronBrigade\extend_-536870773794632946.sav - 3064
+16/12/2012 21:06:31 - AppData\Doublefine\IronBrigade\prefs_-536870773794632946.sav - 1485
+16/12/2012 21:06:30 - AppData\Doublefine\IronBrigade\screen.dat - 24
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

@@ -1,0 +1,167 @@
+Comments:
+  <game name="Crysis3" follows="Crysis2" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Crysis 3</title>
+    <version os="Windows">
+      <locations>
+        <path ev="savedgames" path="Crysis3" only_for="WindowsVista"/>
+      </locations>
+      <files>
+        <include path="Profiles"/>
+        <include path="SaveGames"/>
+      </files>
+      <linkable/>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Crysis 3
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SavedGames\Crysis3
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Wed 20 Feb 2:50:04 PM - SavedGames\Crysis3\game.cfg - 454
+Wed 20 Feb 3:40:29 PM - SavedGames\Crysis3\GFE.cfg - 406
+Wed 20 Feb 3:40:02 PM - SavedGames\Crysis3\Profiles\default\actionmaps.xml - 34
+Wed 20 Feb 3:40:02 PM - SavedGames\Crysis3\Profiles\default\attributes.xml - 72485
+Wed 20 Feb 3:40:02 PM - SavedGames\Crysis3\Profiles\default\profile.xml - 57
+Tue 19 Feb 8:57:58 PM - SavedGames\Crysis3\SaveGames\default_00_jailbreak_209.CSF - 238098
+Tue 19 Feb 8:57:58 PM - SavedGames\Crysis3\SaveGames\default_00_jailbreak_209.meta - 258
+Tue 19 Feb 9:02:04 PM - SavedGames\Crysis3\SaveGames\default_01_jailbreak_455.CSF - 263386
+Tue 19 Feb 9:02:04 PM - SavedGames\Crysis3\SaveGames\default_01_jailbreak_455.meta - 258
+Tue 19 Feb 9:15:44 PM - SavedGames\Crysis3\SaveGames\default_02_jailbreak_1045.CSF - 296601
+Tue 19 Feb 9:15:44 PM - SavedGames\Crysis3\SaveGames\default_02_jailbreak_1045.meta - 265
+Tue 19 Feb 10:15:59 PM - SavedGames\Crysis3\SaveGames\default_03_jailbreak_1229.CSF - 304662
+Tue 19 Feb 9:18:57 PM - SavedGames\Crysis3\SaveGames\default_03_jailbreak_1229.meta - 258
+Tue 19 Feb 10:19:34 PM - SavedGames\Crysis3\SaveGames\default_04_jailbreak_1444.CSF - 339238
+Tue 19 Feb 10:19:34 PM - SavedGames\Crysis3\SaveGames\default_04_jailbreak_1444.meta - 256
+Tue 19 Feb 10:22:09 PM - SavedGames\Crysis3\SaveGames\default_05_jailbreak_1599.CSF - 360274
+Tue 19 Feb 10:22:09 PM - SavedGames\Crysis3\SaveGames\default_05_jailbreak_1599.meta - 259
+Tue 19 Feb 10:24:43 PM - SavedGames\Crysis3\SaveGames\default_06_jailbreak_1753.CSF - 419988
+Tue 19 Feb 10:24:43 PM - SavedGames\Crysis3\SaveGames\default_06_jailbreak_1753.meta - 257
+Tue 19 Feb 10:45:22 PM - SavedGames\Crysis3\SaveGames\default_07_fields_358.CSF - 240690
+Tue 19 Feb 10:36:44 PM - SavedGames\Crysis3\SaveGames\default_07_fields_358.meta - 255
+Tue 19 Feb 10:52:48 PM - SavedGames\Crysis3\SaveGames\default_08_fields_341.CSF - 249196
+Tue 19 Feb 10:52:48 PM - SavedGames\Crysis3\SaveGames\default_08_fields_341.meta - 256
+Tue 19 Feb 10:56:33 PM - SavedGames\Crysis3\SaveGames\default_09_fields_566.CSF - 260271
+Tue 19 Feb 10:56:33 PM - SavedGames\Crysis3\SaveGames\default_09_fields_566.meta - 266
+Tue 19 Feb 10:57:25 PM - SavedGames\Crysis3\SaveGames\default_10_fields_619.CSF - 260736
+Tue 19 Feb 10:57:25 PM - SavedGames\Crysis3\SaveGames\default_10_fields_619.meta - 262
+Tue 19 Feb 10:58:39 PM - SavedGames\Crysis3\SaveGames\default_11_fields_693.CSF - 260981
+Tue 19 Feb 10:58:39 PM - SavedGames\Crysis3\SaveGames\default_11_fields_693.meta - 261
+Tue 19 Feb 11:07:04 PM - SavedGames\Crysis3\SaveGames\default_12_fields_1198.CSF - 298352
+Tue 19 Feb 11:07:04 PM - SavedGames\Crysis3\SaveGames\default_12_fields_1198.meta - 264
+Tue 19 Feb 11:08:26 PM - SavedGames\Crysis3\SaveGames\default_13_fields_1280.CSF - 300726
+Tue 19 Feb 11:08:26 PM - SavedGames\Crysis3\SaveGames\default_13_fields_1280.meta - 263
+Tue 19 Feb 11:16:23 PM - SavedGames\Crysis3\SaveGames\default_14_fields_1757.CSF - 328776
+Tue 19 Feb 11:16:23 PM - SavedGames\Crysis3\SaveGames\default_14_fields_1757.meta - 267
+Wed 20 Feb 1:04:10 PM - SavedGames\Crysis3\SaveGames\default_15_fields_2339.CSF - 331356
+Tue 19 Feb 11:26:05 PM - SavedGames\Crysis3\SaveGames\default_15_fields_2339.meta - 253
+Wed 20 Feb 1:18:08 PM - SavedGames\Crysis3\SaveGames\default_16_fields_812.CSF - 347742
+Wed 20 Feb 1:18:08 PM - SavedGames\Crysis3\SaveGames\default_16_fields_812.meta - 256
+Wed 20 Feb 1:31:06 PM - SavedGames\Crysis3\SaveGames\default_17_fields_1572.CSF - 349567
+Wed 20 Feb 1:31:06 PM - SavedGames\Crysis3\SaveGames\default_17_fields_1572.meta - 253
+Wed 20 Feb 1:47:21 PM - SavedGames\Crysis3\SaveGames\default_18_canyon_231.CSF - 280916
+Wed 20 Feb 1:42:36 PM - SavedGames\Crysis3\SaveGames\default_18_canyon_231.meta - 259
+Wed 20 Feb 2:06:52 PM - SavedGames\Crysis3\SaveGames\default_19_canyon_207.CSF - 316534
+Wed 20 Feb 1:51:33 PM - SavedGames\Crysis3\SaveGames\default_19_canyon_207.meta - 264
+Wed 20 Feb 2:38:23 PM - SavedGames\Crysis3\SaveGames\default_20_canyon_2006.CSF - 429318
+Wed 20 Feb 2:38:23 PM - SavedGames\Crysis3\SaveGames\default_20_canyon_2006.meta - 263
+Wed 20 Feb 2:48:37 PM - SavedGames\Crysis3\SaveGames\default_21_canyon_2620.CSF - 476783
+Wed 20 Feb 2:48:37 PM - SavedGames\Crysis3\SaveGames\default_21_canyon_2620.meta - 261
+Wed 20 Feb 2:57:30 PM - SavedGames\Crysis3\SaveGames\default_22_canyon_3154.CSF - 499468
+Wed 20 Feb 2:57:30 PM - SavedGames\Crysis3\SaveGames\default_22_canyon_3154.meta - 261
+Wed 20 Feb 3:00:54 PM - SavedGames\Crysis3\SaveGames\default_23_canyon_3354.CSF - 503282
+Wed 20 Feb 3:00:54 PM - SavedGames\Crysis3\SaveGames\default_23_canyon_3354.meta - 261
+Wed 20 Feb 3:08:44 PM - SavedGames\Crysis3\SaveGames\default_24_canyon_3825.CSF - 537858
+Wed 20 Feb 3:08:44 PM - SavedGames\Crysis3\SaveGames\default_24_canyon_3825.meta - 261
+Wed 20 Feb 3:11:41 PM - SavedGames\Crysis3\SaveGames\default_25_canyon_4001.CSF - 564418
+Wed 20 Feb 3:11:41 PM - SavedGames\Crysis3\SaveGames\default_25_canyon_4001.meta - 264
+Wed 20 Feb 3:27:51 PM - SavedGames\Crysis3\SaveGames\default_26_canyon_4958.CSF - 597100
+Wed 20 Feb 3:27:51 PM - SavedGames\Crysis3\SaveGames\default_26_canyon_4958.meta - 261
+Wed 20 Feb 3:29:17 PM - SavedGames\Crysis3\SaveGames\default_27_canyon_5045.CSF - 597255
+Wed 20 Feb 3:29:17 PM - SavedGames\Crysis3\SaveGames\default_27_canyon_5045.meta - 264
+Wed 20 Feb 3:32:59 PM - SavedGames\Crysis3\SaveGames\default_28_canyon_5267.CSF - 606736
+Wed 20 Feb 3:32:59 PM - SavedGames\Crysis3\SaveGames\default_28_canyon_5267.meta - 268
+Wed 20 Feb 3:40:02 PM - SavedGames\Crysis3\SaveGames\default_29_swamp_121.CSF - 208717
+Wed 20 Feb 3:40:02 PM - SavedGames\Crysis3\SaveGames\default_29_swamp_121.meta - 246
+Wed 20 Feb 1:38:43 PM - SavedGames\Crysis3\SaveGames\default_canyon_crysis.CSF - 272681
+Wed 20 Feb 1:38:43 PM - SavedGames\Crysis3\SaveGames\default_canyon_crysis.meta - 242
+Tue 19 Feb 10:29:27 PM - SavedGames\Crysis3\SaveGames\default_fields_crysis.CSF - 232367
+Tue 19 Feb 10:29:27 PM - SavedGames\Crysis3\SaveGames\default_fields_crysis.meta - 242
+Tue 19 Feb 8:54:25 PM - SavedGames\Crysis3\SaveGames\default_jailbreak_crysis.CSF - 222027
+Tue 19 Feb 8:54:25 PM - SavedGames\Crysis3\SaveGames\default_jailbreak_crysis.meta - 248
+Wed 20 Feb 3:37:59 PM - SavedGames\Crysis3\SaveGames\default_swamp_crysis.CSF - 193160
+Wed 20 Feb 3:37:59 PM - SavedGames\Crysis3\SaveGames\default_swamp_crysis.meta - 240
+Wed 20 Feb 3:37:09 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\lookupdata.bin - 1584
+Wed 20 Feb 1:47:51 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\AmbientOcclusion@Deferred_SSAO_WithNormals_PS.fxcb - 3220
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\Debug@Debug_RenderTargetPS.fxcb - 25381
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\Debug@Debug_ShowMRTPS.fxcb - 24566
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\Debug@Debug_ShowRPS.fxcb - 24410
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\Debug@GradInstructionsPS.fxcb - 24430
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\Debug@ShowInstructionsPS.fxcb - 24550
+Tue 19 Feb 8:36:24 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DeferredRain@ResolvePS.fxcb - 601
+Tue 19 Feb 10:28:37 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DeferredShading@LightPassPS.fxcb - 3466
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@BokehBlurPS.fxcb - 21119
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@CopyDepthToAlphaBiasedNoMaskPS.fxcb - 20867
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@CopyDepthToAlphaBiasedPS.fxcb - 20927
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@CopyDepthToAlphaNoMaskPS.fxcb - 21035
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@DofHiQualityNearFarSetupPS.fxcb - 23415
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@DofHiQualityPS.fxcb - 22595
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@DofOutOfFocusPS.fxcb - 19507
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@DofPS.fxcb - 21343
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@DofStencilPrepassPS.fxcb - 19863
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@FarOutFocusPS.fxcb - 19587
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@InFocusPS.fxcb - 19895
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DepthOfField@NearOutFocusPS.fxcb - 19983
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\DXTCompress@DXTCompressPS.fxcb - 6125
+Tue 19 Feb 8:02:47 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\Fallback@Sync_Comp_PS.fxcb - 728
+Tue 19 Feb 8:02:47 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\Fallback@Sync_Err_PS.fxcb - 728
+Tue 19 Feb 11:23:57 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\HDRPostProcess@HDRFinalScenePS.fxcb - 1674
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\LightFlares@LowSpecBeamPS.fxcb - 27192
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\LightFlares@SunFlareBlurPS.fxcb - 26760
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\LightFlares@SunFlareGenMaskPS.fxcb - 26136
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\LightFlares@SunFlareGenPS.fxcb - 26136
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\LightFlares@SunFlarePS.fxcb - 27176
+Tue 19 Feb 9:08:51 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\PostAA@PostAA_PS.fxcb - 2954
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\ScreenSpaceGI@SSGI_ComputePoissonPS.fxcb - 29746
+Tue 19 Feb 8:02:57 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\ScreenSpaceGI@SSGI_DownsampleDepthPS.fxcb - 24934
+Tue 19 Feb 8:02:55 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\ScreenSpaceGI@SSGI_DownsampleIrradiancePS.fxcb - 25554
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\ScreenSpaceGI@SSGI_DownsampleNormalPS.fxcb - 25634
+Wed 20 Feb 3:37:09 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_ZPassPS.fxcb - 15849
+Wed 20 Feb 2:33:47 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_ZPrepassPS.fxcb - 758
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\Debug@TransformCompVS.fxcb - 24542
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\Debug@TransformVS.fxcb - 24542
+Tue 19 Feb 8:34:31 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\DeferredRain@DeferredRainVS.fxcb - 656
+Tue 19 Feb 8:34:31 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\DeferredRain@ResolveVS.fxcb - 444
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\DepthOfField@BaseVS.fxcb - 19995
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\DXTCompress@DXTCompressVS.fxcb - 1633
+Tue 19 Feb 8:02:47 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\Fallback@Sync_Ter_VS.fxcb - 1095
+Tue 19 Feb 8:02:47 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\Fallback@Sync_VS.fxcb - 900
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\LightFlares@LightCoronaVS.fxcb - 27192
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\LightFlares@LowSpecBeamVS.fxcb - 26677
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\ScreenSpaceGI@SSGI_ComputeVS.fxcb - 25167
+Tue 19 Feb 8:02:48 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\ScreenSpaceGI@SSGI_DownsampleVS.fxcb - 25174
+Wed 20 Feb 3:37:09 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_ZPassVS.fxcb - 14585
+Wed 20 Feb 2:33:46 PM - SavedGames\Crysis3\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_ZPrepassVS.fxcb - 3197
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
