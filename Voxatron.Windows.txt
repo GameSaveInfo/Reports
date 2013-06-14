@@ -1,0 +1,95 @@
+Game Name: Voxatron
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+(Also available on Linux and MacOS)
+
+
+Install Path:
+ProgramFilesX86\Voxatron
+
+(Also distributed as both installer and self-contained .zip, everything extracts to one folder.)
+
+Install Path:
+C:\Program Files (x86)\Voxatron or
+Default .zip: \voxatron_win32
+
+
+Save Path:
+ProgramFilesX86\Voxatron
+
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\vox.exe
+Value:
+Data: 11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.exe - 793771
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Voxatron
+Value: UninstallString
+Data: 1/3/2012 1:51:12 PM - ProgramFilesX86\Voxatron\uninst.exe - 47819
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Voxatron
+Value: DisplayIcon
+Data: 11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.exe - 793771
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\App Paths\vox.exe
+Value:
+Data: 11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.exe - 793771
+Current User Registry Entries:
+
+
+
+Detected Start Menu Shortcuts:
+1/3/2012 1:51:12 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Voxatron\Read Me.lnk - 1005
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.txt - 14206
+1/3/2012 1:51:12 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Voxatron\Uninstall Voxatron.lnk - 802
+1/3/2012 1:51:12 PM - ProgramFilesX86\Voxatron\uninst.exe - 47819
+1/3/2012 1:51:12 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Voxatron\Visit www.lexaloffle.com.lnk - 1029
+1/3/2012 1:51:12 PM - ProgramFilesX86\Voxatron\website.url - 51
+1/3/2012 1:51:12 PM - AllUsersProfile\Microsoft\Windows\Start Menu\Programs\Voxatron\Voxatron.lnk - 1005
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.exe - 793771
+
+Root Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+
+Save Folder Dump:
+1/3/2012 1:51:25 PM - ProgramFilesX86\Voxatron\config.txt - 1574
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\license.txt - 1943
+1/3/2012 1:51:25 PM - ProgramFilesX86\Voxatron\log.txt - 795
+11/17/2011 12:38:06 PM - ProgramFilesX86\Voxatron\player_1.vop - 1392
+1/3/2012 1:49:15 PM - ProgramFilesX86\Voxatron\player_3.vop - 412
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\SDL.dll - 324096
+1/3/2012 1:51:12 PM - ProgramFilesX86\Voxatron\uninst.exe - 47819
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.bmp - 1836
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.dat - 11712941
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.exe - 793771
+1/3/2012 1:49:22 PM - ProgramFilesX86\Voxatron\vox.sco - 1476
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.txt - 14206
+1/3/2012 1:51:12 PM - ProgramFilesX86\Voxatron\website.url - 51
+
+Install Folder Dump:
+1/3/2012 1:51:25 PM - ProgramFilesX86\Voxatron\config.txt - 1574
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\license.txt - 1943
+1/3/2012 1:51:25 PM - ProgramFilesX86\Voxatron\log.txt - 795
+11/17/2011 12:38:06 PM - ProgramFilesX86\Voxatron\player_1.vop - 1392
+1/3/2012 1:49:15 PM - ProgramFilesX86\Voxatron\player_3.vop - 412
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\SDL.dll - 324096
+1/3/2012 1:51:12 PM - ProgramFilesX86\Voxatron\uninst.exe - 47819
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.bmp - 1836
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.dat - 11712941
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.exe - 793771
+1/3/2012 1:49:22 PM - ProgramFilesX86\Voxatron\vox.sco - 1476
+11/10/2011 6:22:24 AM - ProgramFilesX86\Voxatron\vox.txt - 14206
+1/3/2012 1:51:12 PM - ProgramFilesX86\Voxatron\website.url - 51
+
+UAC Enabled
+
+
+VirtualStore Folders:
+1/3/2012 1:53:43 PM - VirtualStore\Program Files (x86)\Voxatron\config.txt - 1574
+1/3/2012 1:53:43 PM - VirtualStore\Program Files (x86)\Voxatron\log.txt - 2728
+1/3/2012 1:52:42 PM - VirtualStore\Program Files (x86)\Voxatron\player_1.vop - 1392
+1/3/2012 1:53:43 PM - VirtualStore\Program Files (x86)\Voxatron\vox.sco - 1476

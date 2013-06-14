@@ -1,0 +1,43 @@
+Comments:
+  <game name="TombRaiderReborn" follows="TombRaiderUnderworld" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Tomb Raider Reborn</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="203160"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Tomb Raider Reborn
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\203160\remote
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Thu 14 Mar 8:38:13 PM - SteamUserData\203160\remote\profile.dat - 533
+Thu 14 Mar 8:27:14 PM - SteamUserData\203160\remote\save1.dat - 153730
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

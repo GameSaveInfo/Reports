@@ -1,0 +1,29 @@
+Game Name: DLC Quest
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\SavedGames\DLC\DLCQuest Data
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+31/03/2013 14:19:35 - UserDocuments\SavedGames\DLC\DLCQuest Data\AllPlayers\controls.xml - 2702
+31/03/2013 16:22:53 - UserDocuments\SavedGames\DLC\DLCQuest Data\AllPlayers\dlcquest_savegame.xml - 73403
+31/03/2013 17:05:50 - UserDocuments\SavedGames\DLC\DLCQuest Data\AllPlayers\lfod_savegame.xml - 78285
+31/03/2013 14:19:34 - UserDocuments\SavedGames\DLC\DLCQuest Data\AllPlayers\UserSettings.xml - 464
+
+UAC Disabled or not present
+
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

@@ -1,0 +1,43 @@
+Comments:
+  <game name="ResidentEvil6" follows="ResidentEvil5" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Resident Evil 6</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="221040"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Resident Evil 6
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\221040
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Tue 26 Mar 10:33:21 PM - SteamUserData\221040\remotecache.vdf - 267
+Sun 24 Mar 8:47:20 PM - SteamUserData\221040\remote\savedata.bin - 39416
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

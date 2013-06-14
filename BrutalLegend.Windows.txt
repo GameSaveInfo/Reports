@@ -1,0 +1,54 @@
+Comments:
+  <game name="BrutalLegendPC" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Brutal Legend (PC))</title>
+    <version os="Windows">
+      <locations>
+        <path ev="appdata" path="Doublefine\BrutalLegend"/>
+      </locations>
+      <files>
+        <include/>
+      </files>
+      <linkable/>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Brutal Legend (PC)
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+AppData\Doublefine\BrutalLegend
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Tue 26 Feb 7:49:41 PM - AppData\Doublefine\BrutalLegend\auto.sav.sav - 47529
+Tue 26 Feb 7:49:41 PM - AppData\Doublefine\BrutalLegend\chkpnts.sav - 401
+Tue 26 Feb 7:46:15 PM - AppData\Doublefine\BrutalLegend\extend.sav - 398
+Tue 26 Feb 6:21:57 PM - AppData\Doublefine\BrutalLegend\P1_010.sav - 20848
+Tue 26 Feb 6:48:13 PM - AppData\Doublefine\BrutalLegend\P1_020.sav - 22005
+Tue 26 Feb 7:04:26 PM - AppData\Doublefine\BrutalLegend\P1_030.sav - 44195
+Tue 26 Feb 7:30:30 PM - AppData\Doublefine\BrutalLegend\P1_040.sav - 46189
+Tue 26 Feb 7:49:41 PM - AppData\Doublefine\BrutalLegend\P1_050.sav - 47071
+Tue 26 Feb 7:00:15 PM - AppData\Doublefine\BrutalLegend\prefs.sav - 3776
+Tue 26 Feb 7:00:15 PM - AppData\Doublefine\BrutalLegend\screen.dat - 75
+Tue 26 Feb 6:13:31 PM - AppData\Doublefine\BrutalLegend\SDLGamepad.config - 510
+Tue 26 Feb 7:52:07 PM - AppData\Doublefine\BrutalLegend\unlocks.sav - 1349
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

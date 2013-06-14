@@ -1,0 +1,31 @@
+Game Name: The Ur-Quan Master HD
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+AppData\uqmhd
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+5/21/2013 11:55:49 AM - AppData\uqmhd\flight.cfg - 2179
+5/21/2013 11:55:49 AM - AppData\uqmhd\uqm.cfg - 764
+5/21/2013 12:02:26 PM - AppData\uqmhd\save\starcon2.02 - 979
+5/21/2013 12:02:10 PM - AppData\uqmhd\save\starcon2.04 - 979
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

@@ -1,0 +1,29 @@
+Game Name: Perspective
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+CommonApplicationData\Digipen\Perspective
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+4/29/2013 1:52:09 PM - CommonApplicationData\Digipen\Perspective\Save.trr - 1564
+4/29/2013 1:52:20 PM - CommonApplicationData\Digipen\Perspective\Settings.trr - 162
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
