@@ -1,0 +1,43 @@
+Comments:
+  <game name="StarTrekPC" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Star Trek</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="203250"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Star Trek
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\203250
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Fri 19 Jul 5:24:38 PM - SteamUserData\203250\remotecache.vdf - 517
+Fri 19 Jul 5:20:43 PM - SteamUserData\203250\remote\continue.sav - 194290
+Fri 19 Jul 5:21:02 PM - SteamUserData\203250\remote\settings - 8352
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

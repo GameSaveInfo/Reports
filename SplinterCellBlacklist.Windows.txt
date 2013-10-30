@@ -1,0 +1,43 @@
+Comments:
+  <game name="SplinterCellBlacklist" follows="SplinterCellConviction" added="1955-11-05T00:00:00" updated="2012-08-27T18:13:36">
+    <title>Tom Clancy's Splinter Cell: Blacklist</title>
+    <version platform="UbisoftSaveStorage">
+      <locations>
+        <path ev="ubisoftsavestorage" path="91"/>
+      </locations>
+      <files>
+        <include/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Splinter Cell Blacklist
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\#####\91
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Tue 27 Aug 10:24:59 PM - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\#####\91\1.save - 285240
+Tue 27 Aug 10:24:58 PM - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\#####\91\1.save.metadata - 9
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

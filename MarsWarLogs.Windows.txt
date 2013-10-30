@@ -1,0 +1,47 @@
+Comments:
+  <game name="MarsWarLogs" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Mars: War Logs</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="Mars - War Logs"/>
+      </locations>
+      <files>
+        <include/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Mars: War Logs
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\Mars - War Logs
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sun 28 Apr 1:43:12 PM - UserDocuments\Mars - War Logs\autosave_27-04-2013_13-18-19.fsav - 172165
+Sun 16 Jun 4:41:50 PM - UserDocuments\Mars - War Logs\commands_config.txt - 3854
+Sat 27 Apr 1:13:43 PM - UserDocuments\Mars - War Logs\default.profile - 108
+Sat 27 Apr 1:13:05 PM - UserDocuments\Mars - War Logs\graphicconfig.txt - 65
+Sat 27 Apr 1:30:33 PM - UserDocuments\Mars - War Logs\save_27-04-2013_13-30-33.fsav - 170109
+Sat 27 Apr 2:16:39 PM - UserDocuments\Mars - War Logs\save_27-04-2013_14-07-52.fsav - 181211
+Sun 28 Apr 1:45:57 PM - UserDocuments\Mars - War Logs\save_27-04-2013_14-28-20.fsav - 169140
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

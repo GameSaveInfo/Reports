@@ -1,0 +1,72 @@
+Comments:
+  <game name="Outlast" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Outlast</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="238320"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Outlast
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\238320
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Thu 05 Sep 3:02:39 PM - SteamUserData\238320\remotecache.vdf - 7924
+Thu 05 Sep 1:23:29 PM - SteamUserData\238320\remote\ol_2013-9-5_13-23-29.sav - 92
+Thu 05 Sep 1:25:40 PM - SteamUserData\238320\remote\ol_2013-9-5_13-25-40.sav - 154
+Thu 05 Sep 1:29:58 PM - SteamUserData\238320\remote\ol_2013-9-5_13-29-58.sav - 179
+Thu 05 Sep 1:31:24 PM - SteamUserData\238320\remote\ol_2013-9-5_13-31-24.sav - 182
+Thu 05 Sep 1:36:08 PM - SteamUserData\238320\remote\ol_2013-9-5_13-36-8.sav - 242
+Thu 05 Sep 1:39:39 PM - SteamUserData\238320\remote\ol_2013-9-5_13-39-39.sav - 357
+Thu 05 Sep 1:48:32 PM - SteamUserData\238320\remote\ol_2013-9-5_13-48-32.sav - 510
+Thu 05 Sep 1:51:24 PM - SteamUserData\238320\remote\ol_2013-9-5_13-51-24.sav - 569
+Thu 05 Sep 1:53:04 PM - SteamUserData\238320\remote\ol_2013-9-5_13-53-4.sav - 665
+Thu 05 Sep 2:10:51 PM - SteamUserData\238320\remote\ol_2013-9-5_14-10-51.sav - 981
+Thu 05 Sep 2:12:43 PM - SteamUserData\238320\remote\ol_2013-9-5_14-12-43.sav - 1078
+Thu 05 Sep 2:30:25 PM - SteamUserData\238320\remote\ol_2013-9-5_14-30-25.sav - 1151
+Thu 05 Sep 2:34:29 PM - SteamUserData\238320\remote\ol_2013-9-5_14-34-29.sav - 1166
+Thu 05 Sep 2:35:03 PM - SteamUserData\238320\remote\ol_2013-9-5_14-35-3.sav - 1185
+Thu 05 Sep 2:38:01 PM - SteamUserData\238320\remote\ol_2013-9-5_14-38-1.sav - 1227
+Thu 05 Sep 2:42:04 PM - SteamUserData\238320\remote\ol_2013-9-5_14-42-4.sav - 1268
+Thu 05 Sep 2:45:43 PM - SteamUserData\238320\remote\ol_2013-9-5_14-45-43.sav - 1373
+Thu 05 Sep 2:47:14 PM - SteamUserData\238320\remote\ol_2013-9-5_14-47-14.sav - 1414
+Thu 05 Sep 2:48:11 PM - SteamUserData\238320\remote\ol_2013-9-5_14-48-11.sav - 1416
+Thu 05 Sep 2:50:29 PM - SteamUserData\238320\remote\ol_2013-9-5_14-50-29.sav - 1448
+Thu 05 Sep 2:54:34 PM - SteamUserData\238320\remote\ol_2013-9-5_14-54-34.sav - 1452
+Thu 05 Sep 2:56:18 PM - SteamUserData\238320\remote\ol_2013-9-5_14-56-18.sav - 1456
+Thu 05 Sep 2:57:44 PM - SteamUserData\238320\remote\ol_2013-9-5_14-57-44.sav - 1498
+Thu 05 Sep 2:58:35 PM - SteamUserData\238320\remote\ol_2013-9-5_14-58-35.sav - 1501
+Thu 05 Sep 2:09:23 PM - SteamUserData\238320\remote\ol_2013-9-5_14-9-23.sav - 903
+Thu 05 Sep 2:09:05 PM - SteamUserData\238320\remote\ol_2013-9-5_14-9-5.sav - 818
+Thu 05 Sep 3:00:27 PM - SteamUserData\238320\remote\ol_2013-9-5_15-0-27.sav - 1596
+Thu 05 Sep 3:01:20 PM - SteamUserData\238320\remote\ol_2013-9-5_15-1-20.sav - 1637
+Thu 05 Sep 3:02:00 PM - SteamUserData\238320\remote\ol_2013-9-5_15-2-0.sav - 1672
+Thu 05 Sep 1:33:34 PM - SteamUserData\238320\remote\profile.bin - 360
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

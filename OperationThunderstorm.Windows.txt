@@ -1,0 +1,54 @@
+Comments:
+  <game name="OperationThunderstorm" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Operation Thunderstorm</title>
+    <version os="Windows">
+      <locations>
+        <path ev="public" path="Documents\City Interactive\Operation Thunderstorm" only_for="WindowsVista"/>
+      </locations>
+      <files>
+        <include path="Profiles"/>
+        <include path="Save"/>
+        <include filename="settings.cfg"/>
+        <include filename="Game.ini"/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Operation Thunderstorm
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+Public\Documents\City Interactive\Operation Thunderstorm
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Thu 24 Oct 4:34:16 PM - Public\Documents\City Interactive\Operation Thunderstorm\BanIPList.txt - 0
+Thu 24 Oct 3:49:50 PM - Public\Documents\City Interactive\Operation Thunderstorm\Game.ini - 44
+Thu 24 Oct 3:49:54 PM - Public\Documents\City Interactive\Operation Thunderstorm\MPMissions.Gamdb00p - 3836
+Thu 24 Oct 3:49:53 PM - Public\Documents\City Interactive\Operation Thunderstorm\settings.cfg - 248
+Mon 21 Oct 6:22:57 PM - Public\Documents\City Interactive\Operation Thunderstorm\Profiles\Profile000.gdb - 12940
+Thu 24 Oct 4:30:59 PM - Public\Documents\City Interactive\Operation Thunderstorm\Save\Profile000\SinglePlayer\Checkpoint.sav - 3366938
+Thu 24 Oct 4:16:14 PM - Public\Documents\City Interactive\Operation Thunderstorm\Save\Profile000\SinglePlayer\Kpalv.sav - 14635
+Thu 24 Oct 4:32:14 PM - Public\Documents\City Interactive\Operation Thunderstorm\Save\Profile000\SinglePlayer\Quick.sav - 3619314
+Thu 24 Oct 4:16:20 PM - Public\Documents\City Interactive\Operation Thunderstorm\Save\Profile000\SinglePlayer\Reload.sav - 1989486
+Thu 24 Oct 4:33:09 PM - Public\Documents\City Interactive\Operation Thunderstorm\Save\Profile000\SinglePlayer\Save1001.ini - 395
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

@@ -1,0 +1,186 @@
+Comments:
+  <game name="ShadowWarrior2013"  added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Shadow Warrior (2013))</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="Shadow Warrior"/>
+      </locations>
+      <files>
+        <include path="profiles"/>
+        <include filename="profiles.cfg"/>
+          </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Shadow Warrior (2013)
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\Shadow Warrior
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Thu 17 Oct 12:44:02 PM - UserDocuments\Shadow Warrior\profiles.cfg - 25
+Tue 08 Oct 9:34:18 PM - UserDocuments\Shadow Warrior\cache\cache.bin - 12925902
+Thu 26 Sep 9:04:45 PM - UserDocuments\Shadow Warrior\cache\cache.bin.ver - 20
+Thu 17 Oct 1:23:38 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\binds.cfg - 29
+Thu 17 Oct 1:23:38 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\config.cfg - 637
+Thu 17 Oct 1:23:38 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\profile.bin - 5629
+Thu 17 Oct 1:23:25 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\profile.binb - 5605
+Sun 29 Sep 6:30:56 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_020dcd6b11247c546e133281d138ca53.bin - 244380
+Sun 29 Sep 3:18:39 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_028a66be45a1281dfdb0cbdcd966e4bc.bin - 285627
+Sun 29 Sep 7:57:59 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_06f17f9ea5caeef465c533494a152c2f.bin - 234170
+Tue 08 Oct 8:17:48 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_07543b8ace404635d81c37f9082941ff.bin - 237287
+Tue 08 Oct 8:14:15 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_0e5e78ca68d022f6c851ea225d66f4b5.bin - 284034
+Sun 29 Sep 7:18:07 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_0ea95c090bc6b12d4edb194d9cb1d8d4.bin - 127887
+Sun 13 Oct 9:43:08 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_0f3ca93002fc0fbe5c2ac234490016d7.bin - 262186
+Sun 13 Oct 3:10:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_0f8632302e0c47d090ebd6fa805c2827.bin - 356478
+Sun 13 Oct 7:55:37 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_1438d02d9a0e6574632077c2178ff049.bin - 458273
+Sun 06 Oct 6:31:52 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_154ca36b655e9e2cd87208bf4a0b1044.bin - 335708
+Sun 13 Oct 3:08:21 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_1789cdef77f2b2c85f1f94265b79cfd5.bin - 404854
+Sun 29 Sep 6:16:55 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_18111844a1602ed1ca3217ef0574abd4.bin - 304314
+Tue 08 Oct 6:38:14 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_1876ff69fad782e928a9c4af80c17e0d.bin - 259675
+Sun 13 Oct 3:04:18 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_189b827f35e84f7db40e253c81f13a48.bin - 387013
+Thu 17 Oct 1:03:58 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_1d636b0eab937ef787800783e81d73ad.bin - 138928
+Tue 08 Oct 7:48:31 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_2236c99bb87be35b73465445b344af22.bin - 245690
+Tue 08 Oct 7:20:04 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_26a32f2fea160fb893af595a1d9c596f.bin - 305689
+Tue 08 Oct 10:11:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_272086db99e092882d9c46d9d4ab6779.bin - 346381
+Sun 13 Oct 9:08:28 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_2795ccc87af3456269e70d8a73c3ff2e.bin - 289589
+Thu 26 Sep 9:07:21 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_2b6c0309c9ca88eeb5ee1c71eb99520e.bin - 331714
+Sun 29 Sep 2:38:18 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_34418d4af6f930a4e25c7f7f75867ae4.bin - 260211
+Thu 17 Oct 12:51:16 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_3571001934961b8061027440df23a607.bin - 157812
+Sun 29 Sep 6:04:28 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_371eadb68326ee2ae7d0dc886da905f5.bin - 280721
+Sun 29 Sep 6:55:23 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_39fb667f4b77a70a9decaafa810f4f8b.bin - 224538
+Sun 29 Sep 6:22:00 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_3a1382083e00964e11b5792ae2f32e01.bin - 291575
+Sun 29 Sep 7:40:39 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_405f439858a2af0e1f5dbda9e41eba50.bin - 324723
+Tue 08 Oct 6:30:27 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_4276954458646a069f6f8781efec67b1.bin - 271799
+Sun 29 Sep 7:36:13 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_43aea52b72e8d526234bd933e86c45a8.bin - 145469
+Sun 29 Sep 7:52:11 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_44ffbef6b4e499dc9b1af948d7f40fba.bin - 193563
+Tue 08 Oct 6:52:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_450ad6abb45fafcccc3e16fad4f6c864.bin - 279779
+Sun 29 Sep 3:07:29 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_45523e22c0861783db3c40c621c26a62.bin - 226802
+Sun 29 Sep 2:58:21 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_45b581e4197128401703ae409e059f37.bin - 213748
+Tue 08 Oct 9:51:45 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_47ea9858fe81eb6c0b0626cada19dd9f.bin - 321223
+Sun 13 Oct 8:18:26 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_480d795f61e8a5815d8ae82520a1cbe8.bin - 256659
+Tue 08 Oct 8:00:54 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_49d7cd0fb2190d32557f1798e31e4e94.bin - 249630
+Tue 08 Oct 6:18:50 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_4ae10c7a3dcac89953d3b1474f4ac67a.bin - 294382
+Sun 29 Sep 6:15:06 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_4c76cc4e815c84c4296789997a4bfba4.bin - 304958
+Tue 08 Oct 9:38:30 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_4ca795bcf7c19467a31ca1821236fb5a.bin - 286817
+Sun 06 Oct 7:15:39 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_5320a9955334d662e161e092d036df5c.bin - 316170
+Sun 13 Oct 8:24:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_54749967477d823821f984d399f14928.bin - 229736
+Sun 13 Oct 3:06:55 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_557566f98eb917e861e2623925530bec.bin - 425547
+Sun 29 Sep 2:10:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_57df2522452d86561082897e453c10d1.bin - 224850
+Sun 29 Sep 6:18:52 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_5843372087708782d671f21a266698cd.bin - 269376
+Sun 29 Sep 7:08:40 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_59b4f6c99ed994557c3fe3ce30f49d2c.bin - 234524
+Tue 08 Oct 6:46:50 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_5b3e2a714eb117b71c80197e045c570e.bin - 294262
+Tue 08 Oct 9:42:32 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_5d0273a9bcf2f9ea74eeba6b6e4b4243.bin - 309800
+Sun 13 Oct 9:46:44 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_5d3cab7279872ee3989b1d87cddce027.bin - 244940
+Sun 29 Sep 3:12:26 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_5e6e9e12244637e2cd7c2c7772578778.bin - 235197
+Sat 05 Oct 3:24:44 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_5efab1eef6725f769e4a36ee9d174e7b.bin - 270260
+Sun 29 Sep 7:50:24 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_5f6fdae72b3e9177cafd91544178ede8.bin - 203119
+Tue 08 Oct 7:33:54 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_60cfc1e39f30fb47db092463ff7f5115.bin - 100063
+Sun 06 Oct 6:37:53 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_639a89c1b5bcd9065ce1e375d94e7e77.bin - 326870
+Thu 17 Oct 12:48:32 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_63fdd2d9a0296ebb64f58ea9f5d419bd.bin - 141266
+Sun 13 Oct 9:36:15 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_65c1ccc6553e2cc0af39c760f5fb75ea.bin - 279822
+Thu 26 Sep 9:34:13 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_6601cc2789ac54b74dba7d17c7736129.bin - 217070
+Sun 29 Sep 6:40:49 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_67f7dcd2be663e3bb4f67d5159e71c09.bin - 250210
+Tue 08 Oct 8:04:16 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_6c1aff3486e92d5c944b47f93a5e4dd5.bin - 278135
+Tue 08 Oct 7:30:30 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_6d15389cec1ce66994232377bbc9b079.bin - 256559
+Thu 17 Oct 12:58:53 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_6dd85d7b29494115ceecf1e8a146bbbb.bin - 155307
+Sun 13 Oct 9:31:46 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_7048895dccca750e4c7538ea6f5d9e0a.bin - 259914
+Sun 29 Sep 7:22:02 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_711febcf9fdced9bdc8acab448b349df.bin - 91835
+Thu 26 Sep 9:30:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_76838b285ea4e9e66d28f5ee41e1a8df.bin - 221955
+Sun 29 Sep 5:57:37 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_793d0ec7baabfdc86c475397366b4f14.bin - 249255
+Sun 13 Oct 8:33:04 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_7bef552f2a91ce707fb5e2479aabdca6.bin - 218950
+Sun 29 Sep 8:15:44 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_7f3f3aa4c2abd0823316e5736184c909.bin - 216252
+Tue 08 Oct 8:26:29 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_8232a3b1999a9151b9552eb64379c334.bin - 273607
+Tue 08 Oct 6:26:23 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_82fa915a3a80bef2bd434fd786253c42.bin - 300473
+Sun 29 Sep 7:47:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_8577729dccbfe77c4d3af84afc01e890.bin - 195588
+Sun 06 Oct 6:34:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_8ac20e9b3040b79a9431dc9086faad2f.bin - 325700
+Sun 29 Sep 2:21:57 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_8bbe9b8499f03c19a95284990cc63ff9.bin - 245701
+Sun 29 Sep 7:56:01 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_8ea6fb5304a15d3cc81dc42f705934d8.bin - 218748
+Sun 13 Oct 2:52:14 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_8fd2041a0297a6a94d5d9212cee97fd1.bin - 376029
+Sun 29 Sep 2:25:02 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_9086f27a8ae7ea170af6c1a5e31ebfe9.bin - 252541
+Sun 29 Sep 6:22:17 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_95423b3626854c3f91197ba01e15d040.bin - 253275
+Tue 08 Oct 9:58:19 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_98c9b1c1943ad75e6739546964077587.bin - 330408
+Sun 06 Oct 7:08:13 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_9954ccf7f51e2143627de84c39d4ea30.bin - 293807
+Sun 29 Sep 1:56:44 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_99efce05121f22d6667391083c74d663.bin - 341059
+Sun 06 Oct 6:39:25 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_9a93b5cc757c990f1a3ca6d000ff05b9.bin - 343871
+Tue 08 Oct 9:46:32 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_9b8a0f21d29d8b8705d75d7bad6e6816.bin - 296609
+Sun 29 Sep 6:26:35 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_9bab62bee5c01c9b5b884ad9723508a1.bin - 287343
+Sun 29 Sep 8:34:59 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a0be0e7746b676e0d74002b7ce270393.bin - 210358
+Sun 29 Sep 8:29:10 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a11a0f52ab415e4d7ba6f78e7ca548d8.bin - 219140
+Sun 06 Oct 7:00:15 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a12ae3efdf4520adc06f0b3bc318339b.bin - 309112
+Thu 26 Sep 10:13:04 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a1e2184471f46b1731d90278691af508.bin - 349610
+Tue 08 Oct 7:22:24 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a26e91ecde6f14833f12459535bad105.bin - 319546
+Thu 17 Oct 1:09:01 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a2cd8a196fc73d2631ff27c516474085.bin - 179755
+Sun 13 Oct 8:05:40 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a3908b86310dc3bf197471dced8d8565.bin - 232185
+Sun 13 Oct 7:53:50 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a3da5730267ef56e2e6cc358fe9da4ba.bin - 419185
+Sun 13 Oct 10:03:25 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_a6fea1ce797ed5c9406232c16c04a7eb.bin - 222272
+Sun 13 Oct 8:34:41 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_aab0e483e83f8b45a247859585635358.bin - 239394
+Sun 06 Oct 7:22:53 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_ab263ce513a1bf72660f14cabd75c9f7.bin - 293367
+Sun 29 Sep 2:16:13 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_abbbb42115fcbf426f8fd471a22e8bc2.bin - 238032
+Tue 08 Oct 8:38:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_ae6708d988cbcb5d7fe37ee7a0e51541.bin - 247352
+Sun 13 Oct 8:15:29 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_afbd7d53196720ec0d434987ae349c22.bin - 213688
+Tue 08 Oct 8:33:24 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b0467707aa4fb1889c954fc068f3ba99.bin - 275970
+Sun 06 Oct 6:46:09 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b0b59f4ad25bdd59e0fd9627598a78b2.bin - 226247
+Thu 26 Sep 10:02:25 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b1624a04e990bc4179992a18653d7e4d.bin - 277317
+Tue 08 Oct 6:34:54 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b493141be912e27db45667914790c70b.bin - 257263
+Tue 08 Oct 7:40:41 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b6c2fc5a20296bc0476fa78840658468.bin - 116097
+Tue 08 Oct 7:06:45 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b87e43b90e2e53000ed2ff4af7643ed3.bin - 300065
+Tue 08 Oct 10:01:02 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b8bfad4edcb4f911ee3846e1d5089a7b.bin - 322009
+Sun 13 Oct 8:41:53 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b8df9b5fb85e2a6c31c022d2fb6a5952.bin - 273506
+Sun 29 Sep 6:08:09 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_b957a9ad4fadde5cac80d929074dbcc3.bin - 242168
+Tue 08 Oct 10:14:25 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_be6e8e7d134a99d55e86366a56e5d9ee.bin - 328749
+Sun 29 Sep 7:04:32 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_c04509a723e991cf296b1ac2af08560f.bin - 218130
+Sun 29 Sep 2:05:47 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_c0ae79344dfd93507e3835c2a9a55393.bin - 227693
+Sun 06 Oct 6:49:46 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_c0d2b43d65c67e1f20bee8fc6117220c.bin - 231493
+Sun 29 Sep 6:34:43 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_c441c1da0aebe8ca3a47ae39c21d304e.bin - 256685
+Tue 08 Oct 7:05:34 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_c7c49a9e1d664e8a61a319c64c4a3ae9.bin - 290242
+Sun 13 Oct 9:23:18 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_cc0ea23795e69f59d88e53bb7c8c2587.bin - 248713
+Sun 29 Sep 8:37:51 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_d61312d0a3bfa25b4f1fd2cafcdb909d.bin - 238107
+Tue 08 Oct 7:00:38 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_db6df540e63ceab67cdb340ae4a332b5.bin - 323216
+Sun 06 Oct 6:55:02 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_dc357f2773f9af079c05147e9aab77a7.bin - 273197
+Sun 13 Oct 9:50:01 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_dce9e9dfb4e32807a5c9857e2840900d.bin - 260037
+Tue 08 Oct 9:33:33 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_decde42acd00c6032e4edbf404595f43.bin - 294894
+Sun 29 Sep 8:19:35 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_e087c8fcd71fd6b6fc8fcf259f9faa9b.bin - 335063
+Sun 29 Sep 6:42:10 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_e0d68d3ca8b638e2de40f223e344b1c3.bin - 215421
+Tue 08 Oct 8:20:22 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_e5077e9ca31cd6ad66a80f8af32a00fa.bin - 269267
+Sun 29 Sep 8:09:56 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_e551714b4a91bfa4111b7909016d74f0.bin - 238630
+Sun 13 Oct 2:59:51 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_e7022162531c686524658a9ed8e355e9.bin - 374816
+Tue 08 Oct 7:10:14 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_e7612d1c7e565a726bc30508bc6f094d.bin - 296619
+Tue 08 Oct 8:11:03 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_e82d72e2b4dcc53c9183d0bf0e06585b.bin - 590715
+Sun 29 Sep 2:55:38 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_eccfa963478d8abb18e22a911a1cc6fe.bin - 203557
+Tue 08 Oct 7:02:46 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_ed5487dbc73885ab7ae609d80d080cab.bin - 287938
+Sun 13 Oct 9:15:33 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_edc3b08fd6441b5d7f7a99fa612dd9f0.bin - 274173
+Thu 17 Oct 1:23:25 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f1532c5ea1e6fb21a6c0419f56558f1e58ed1.bin - 188444
+Sun 29 Sep 7:01:19 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f1812164558ab749905485bf4394744a.bin - 244672
+Sun 29 Sep 3:04:56 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f24e565daba789d3e7e1fff990f44206.bin - 203330
+Sun 13 Oct 9:29:39 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f2a7d9ff9370560566f6ce720bba1144.bin - 252726
+Thu 26 Sep 9:48:53 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f2b4ac8bbbcb2783fefcfee88fcbe7ec.bin - 259256
+Sun 29 Sep 2:42:55 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f47139becfa20242487debf1fbc8ffb1.bin - 280357
+Sun 29 Sep 8:02:51 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f63513a5b4f6a7019c7e3ef11399e5d2.bin - 254801
+Sun 06 Oct 7:19:03 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f7461fda1c4ebf41e14bf359950aa774.bin - 306727
+Sun 29 Sep 7:48:42 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_f85131a6435e29d6ddf03edfa37e9f71.bin - 187571
+Sun 13 Oct 8:00:22 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_fcca028a42e256997febcab5d657758b.bin - 322619
+Thu 17 Oct 1:16:16 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_quicksave.bin - 157733
+Tue 08 Oct 10:14:48 PM - UserDocuments\Shadow Warrior\profiles\mobeeuz\save_quicksave_backup.bin - 349140
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

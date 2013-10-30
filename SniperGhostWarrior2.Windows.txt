@@ -1,0 +1,116 @@
+Comments:
+  <game name="SniperGhostWarrior2" follows="SniperGhostWarrior" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Sniper: Ghost Warrior 2</title>
+    <version os="Windows">
+      <locations>
+        <path ev="savedgames" path="SniperGhostWarrior2" />
+      </locations>
+      <files>
+        <include path="Profiles"/>
+        <include path="SaveGames"/>
+      </files>
+      <linkable/>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Sniper: Ghost Warrior 2
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SavedGames\SniperGhostWarrior2
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Fri 12 Jul 9:41:04 PM - SavedGames\SniperGhostWarrior2\Profiles\default\actionmaps.xml - 26
+Fri 12 Jul 9:41:04 PM - SavedGames\SniperGhostWarrior2\Profiles\default\attributes.xml - 22092
+Fri 12 Jul 9:41:04 PM - SavedGames\SniperGhostWarrior2\Profiles\default\profile.xml - 50
+Fri 12 Jul 9:40:54 PM - SavedGames\SniperGhostWarrior2\SaveGames\default_basic.CSF - 189736
+Fri 12 Jul 9:40:54 PM - SavedGames\SniperGhostWarrior2\SaveGames\default_basic.meta - 257
+Fri 12 Jul 9:39:53 PM - SavedGames\SniperGhostWarrior2\SaveGames\default_basic_restart.CSF - 186738
+Fri 12 Jul 9:39:53 PM - SavedGames\SniperGhostWarrior2\SaveGames\default_basic_restart.meta - 256
+Fri 12 Jul 9:41:08 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\lookupdata.bin - 2436
+Fri 12 Jul 7:44:59 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGDShaders\Illum@IllumDS.fxcb - 20
+Fri 12 Jul 7:44:58 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGDShaders\_Shared@Common_ShadowGenDS.fxcb - 20
+Fri 12 Jul 7:44:58 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGDShaders\_Shared@Common_ZPassDS.fxcb - 20
+Fri 12 Jul 7:46:15 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGGShaders\MotionBlur@DofBokehRefQuadGS.fxcb - 20
+Fri 12 Jul 7:49:55 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGGShaders\ParticlesNoMat@ParticleCustomRenderGS.fxcb - 20
+Fri 12 Jul 7:46:15 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGGShaders\ParticlesNoMat@ParticleGS.fxcb - 20
+Fri 12 Jul 8:53:51 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGGShaders\Stars@StarsGS.fxcb - 20
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGGShaders\_Shared@Common_ShadowGen_GS.fxcb - 35277
+Fri 12 Jul 7:44:59 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGHShaders\Illum@IllumHS.fxcb - 20
+Fri 12 Jul 7:44:58 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGHShaders\_Shared@Common_ShadowGenHS.fxcb - 20
+Fri 12 Jul 7:44:58 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGHShaders\_Shared@Common_ZPassHS.fxcb - 20
+Fri 12 Jul 7:44:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\Custom@CustomPS.fxcb - 66990
+Fri 12 Jul 9:40:00 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\Eye@EyePS.fxcb - 20
+Fri 12 Jul 8:53:37 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\Glass@GlassPS.fxcb - 20
+Fri 12 Jul 8:24:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\HDRPostProcess@HDRFinalScenePS.fxcb - 20
+Fri 12 Jul 7:41:43 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\Helper@HelperPS.fxcb - 0
+Fri 12 Jul 9:40:00 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\HumanSkin@SkinPS.fxcb - 20
+Fri 12 Jul 7:41:43 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\Illum@IlluminationPS.fxcb - 20
+Fri 12 Jul 7:41:43 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\Terrain@TerrainLayerPS.fxcb - 0
+Fri 12 Jul 7:41:43 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\Terrain@TerrainPS.fxcb - 0
+Fri 12 Jul 7:46:15 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\Vegetation@VegetationPS.fxcb - 20
+Fri 12 Jul 7:44:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\VoxTerrain@VoxTerrainPS.fxcb - 63677
+Fri 12 Jul 8:27:36 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_CausticsPassPS.fxcb - 20
+Fri 12 Jul 8:28:04 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_CustomRenderPassPS.fxcb - 20
+Fri 12 Jul 8:28:12 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_DebugPassPS.fxcb - 20
+Fri 12 Jul 7:44:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_DetailPassPS.fxcb - 39950
+Fri 12 Jul 7:41:43 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_EffectLayerPassPS.fxcb - 0
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_GlowPassPS.fxcb - 35906
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_MotionBlurPassPS.fxcb - 35886
+Fri 12 Jul 9:39:51 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_SG_PS.fxcb - 36677
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_ShadowGen_PS_DX10.fxcb - 35209
+Fri 12 Jul 9:41:08 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_ShadowPS.fxcb - 44544
+Fri 12 Jul 9:39:51 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGPShaders\_Shared@Common_ZPassPS.fxcb - 43198
+Fri 12 Jul 7:52:38 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\Cloth@ClothVS.fxcb - 20
+Fri 12 Jul 7:51:47 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\Cloth@ZPassVS.fxcb - 20
+Fri 12 Jul 7:44:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\Custom@CustomVS.fxcb - 58322
+Fri 12 Jul 9:40:00 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\Eye@EyeVS.fxcb - 20
+Fri 12 Jul 9:40:31 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\HumanSkin@SkinVS.fxcb - 20
+Fri 12 Jul 9:07:27 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\Illum@IlluminationVS.fxcb - 981
+Fri 12 Jul 9:40:00 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\Terrain@TerrainLayerVS.fxcb - 20
+Fri 12 Jul 7:47:48 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\Vegetation@VegetationVS.fxcb - 20
+Fri 12 Jul 7:44:49 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\VoxTerrain@VoxTerrainVS.fxcb - 40229
+Fri 12 Jul 7:49:01 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_CustomRenderPassVS.fxcb - 20
+Fri 12 Jul 7:44:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_DetailPassVS.fxcb - 53318
+Fri 12 Jul 8:58:28 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_EffectLayerPassVS.fxcb - 20
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_GlowPassVS.fxcb - 55730
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_MotionBlurPassVS.fxcb - 56838
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_SG_VS.fxcb - 106700
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_ShadowGen_VS_DX10.fxcb - 53393
+Fri 12 Jul 9:41:08 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_ShadowVS.fxcb - 52580
+Fri 12 Jul 9:39:50 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D11\CGVShaders\_Shared@Common_ZPassVS.fxcb - 99491
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\lookupdata.bin - 576
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\Helper@HelperPS.fxcb - 20
+Fri 12 Jul 7:38:00 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\Illum@IlluminationPS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\Terrain@TerrainLayerPS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\Terrain@TerrainPS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_CausticsPassPS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_CustomRenderPassPS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_DebugPassPS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_EffectLayerPassPS.fxcb - 20
+Fri 12 Jul 7:38:26 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_GlowPassPS.fxcb - 20
+Fri 12 Jul 7:38:26 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_MotionBlurPassPS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_SG_PS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_ShadowPS.fxcb - 43592
+Fri 12 Jul 7:38:26 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGPShaders\_Shared@Common_ZPassPS.fxcb - 20
+Fri 12 Jul 7:39:30 PM - SavedGames\SniperGhostWarrior2\Shaders\Cache\D3D9\CGVShaders\_Shared@Common_ShadowVS.fxcb - 52436
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

@@ -1,0 +1,47 @@
+Comments:
+
+New location since Steam Update:
+
+  <game name="BatmanArkhamAsylumSteam" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Batman Arkham Asylum (Steam))</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="35140"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Batman Arkham Asylum (Steam)
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\35140
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sat 26 Oct 4:33:38 PM - SteamUserData\35140\remotecache.vdf - 513
+Sun 20 Oct 11:11:24 PM - SteamUserData\35140\remote\profile.bin - 73
+Sat 26 Oct 4:31:47 PM - SteamUserData\35140\remote\save0.sgd - 65538
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

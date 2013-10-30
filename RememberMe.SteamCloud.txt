@@ -1,0 +1,45 @@
+Comments:
+  <game name="RememberMe" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Remember Me</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="228300"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Remember Me
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\228300
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Fri 19 Jul 5:24:38 PM - SteamUserData\228300\remotecache.vdf - 803
+Thu 06 Jun 7:30:40 PM - SteamUserData\228300\remote\profile.bin - 67
+Tue 25 Jun 11:57:46 PM - SteamUserData\228300\remote\remembermesave0\checkpoint.sav - 46501
+Sun 16 Jun 4:10:48 PM - SteamUserData\228300\remote\remembermesave0\options.sav - 2020
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

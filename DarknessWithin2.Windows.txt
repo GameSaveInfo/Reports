@@ -1,3 +1,65 @@
+Comments:
+The 1.02g patch moved the save locations to my documents - here is the new info
+
+  <game name="DarknessWithin2" follows="DarknessWithin" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Darkness Within 2</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="Darkness Within 2"/>
+      </locations>
+      <files>
+        <include/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Darkness Within 2-G
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\Darkness Within 2
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sun 20 Oct 1:02:58 AM - UserDocuments\Darkness Within 2\cmdline.txt - 95
+Sun 20 Oct 1:05:47 AM - UserDocuments\Darkness Within 2\config.txt - 975
+Sat 09 Jul 2:21:57 PM - UserDocuments\Darkness Within 2\headers - 635
+Sun 20 Oct 1:05:47 AM - UserDocuments\Darkness Within 2\log.txt - 826
+Wed 14 Jul 4:57:35 PM - UserDocuments\Darkness Within 2\savegame1 - 9830
+Mon 25 Oct 8:30:59 PM - UserDocuments\Darkness Within 2\savegame2 - 18597
+Thu 28 Oct 10:14:41 PM - UserDocuments\Darkness Within 2\savegame3 - 19617
+Sat 09 Jul 2:21:57 PM - UserDocuments\Darkness Within 2\savegame4 - 36456
+Wed 14 Jul 4:57:35 PM - UserDocuments\Darkness Within 2\shot1.jpg - 408647
+Mon 25 Oct 8:30:59 PM - UserDocuments\Darkness Within 2\shot2.jpg - 187071
+Thu 28 Oct 10:14:41 PM - UserDocuments\Darkness Within 2\shot3.jpg - 127553
+Sat 09 Jul 2:21:57 PM - UserDocuments\Darkness Within 2\shot4.jpg - 243331
+Sat 09 Jul 2:21:49 PM - UserDocuments\Darkness Within 2\temp - 36456
+Sat 09 Jul 2:21:49 PM - UserDocuments\Darkness Within 2\temp.jpg - 243331
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
+
+
+===================
+OLD DATA
+
 Operating System:
 Microsoft Windows NT 6.1.7600.0
 

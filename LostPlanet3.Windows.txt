@@ -1,0 +1,70 @@
+Comments:
+  <game name="LostPlanet3"  follows="LostPlanet2" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Lost Planet 3</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="My Games\LostPlanetGame\LostPlanetGame"/>
+      </locations>
+      <files>
+        <include path="SaveData"/>
+      </files>
+      <files type="Settings">
+        <include path="Config"/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Lost Planet 3
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\My Games\LostPlanetGame\LostPlanetGame
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Mon 26 Aug 11:43:18 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Cloud\CloudStorage.ini - 41
+Mon 26 Aug 11:43:21 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\KeyMappings.INI - 5591
+Tue 27 Aug 4:01:34 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetAI.ini - 8967
+Tue 27 Aug 4:01:34 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetAwards.ini - 18904
+Tue 27 Aug 4:01:33 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetCamera.ini - 15448
+Tue 27 Aug 4:01:35 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetCheckpointList.ini - 1091
+Tue 27 Aug 4:01:28 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetEditor.ini - 60277
+Tue 27 Aug 4:01:28 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetEditorUserSettings.ini - 9186
+Tue 27 Aug 5:25:29 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetEngine.ini - 140828
+Tue 27 Aug 5:25:29 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetGame.ini - 25441
+Tue 27 Aug 5:25:16 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetInput.ini - 212730
+Tue 27 Aug 4:01:28 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetLightmass.ini - 6922
+Tue 27 Aug 4:01:34 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetMapMenuInfo.ini - 8460
+Tue 27 Aug 4:01:35 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetMP_MapList.ini - 3773
+Tue 27 Aug 4:01:42 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetPawn.ini - 17114
+Tue 27 Aug 4:01:35 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetStats.ini - 5058
+Mon 26 Aug 11:49:58 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetSystemSettings.ini - 38370
+Tue 27 Aug 4:01:42 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetUI.ini - 258678
+Tue 27 Aug 4:01:42 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Config\LostPlanetUnlockables.ini - 23718
+Tue 27 Aug 1:44:03 AM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Logs\Launch-backup-2013.08.27-17.25.28.log - 135
+Tue 27 Aug 5:25:29 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\Logs\Launch.log - 135
+Tue 27 Aug 5:25:01 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\SaveData\ANGEL.profile - 4565
+Tue 27 Aug 5:25:01 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\SaveData\SaveSlot0\Description - 285
+Tue 27 Aug 5:25:01 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\SaveData\SaveSlot0\SPCheckpoint0.sav - 332219
+Tue 27 Aug 5:20:49 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\SaveData\SaveSlot1\Description - 284
+Tue 27 Aug 5:20:49 PM - UserDocuments\My Games\LostPlanetGame\LostPlanetGame\SaveData\SaveSlot1\SPCheckpoint0.sav - 328858
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

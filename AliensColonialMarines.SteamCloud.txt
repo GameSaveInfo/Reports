@@ -1,0 +1,42 @@
+Comments:
+  <game name="AliensColonialMarines" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Aliens: Colonial Marines</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="49540"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Aliens: Colonial Marines
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\49540\remote
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sun 11 Aug 3:20:44 PM - SteamUserData\49540\remote\profile.bin - 1954
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

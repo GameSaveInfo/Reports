@@ -1,0 +1,44 @@
+Comments:
+  <game name="CastlevaniaLordsofShadow" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Castlevania: Lords of Shadow</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="234080"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Castlevania: Lords of Shadow
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\234080
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Tue 27 Aug 8:22:12 PM - SteamUserData\234080\remotecache.vdf - 532
+Tue 27 Aug 8:22:05 PM - SteamUserData\234080\remote\castlevania.cfg - 14638
+Tue 27 Aug 8:19:27 PM - SteamUserData\234080\remote\castlevania.profile - 294932
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
