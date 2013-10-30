@@ -1,0 +1,40 @@
+Game Name: Papers, Please
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+AppData\3909\PapersPlease
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+10/30/2013 12:51:43 PM - AppData\3909\PapersPlease\headers.sav - 936
+10/30/2013 12:57:22 PM - AppData\3909\PapersPlease\names.sav - 72
+10/30/2013 12:33:47 PM - AppData\3909\PapersPlease\save_2PQJG4Q3TD5JE4ZQS55OPY4TEDU32ERR.sav - 1976
+10/30/2013 12:26:36 PM - AppData\3909\PapersPlease\save_PPE30WCGCAH5R4HA38FQ9EMC1E4EY1YD.sav - 1896
+10/30/2013 12:42:47 PM - AppData\3909\PapersPlease\save_RG9RJ9MW0RK8DL2T0PNYZERB8943DQQF.sav - 2552
+10/30/2013 12:51:43 PM - AppData\3909\PapersPlease\save_RQVP9K0QMBH1AI8AUTVJ2M5WX6PXZZZW.sav - 3088
+10/30/2013 12:21:07 PM - AppData\3909\PapersPlease\save_UZJQI8SVI15WCGFSAG6MIYX8Q104XEHH.sav - 1648
+10/30/2013 12:16:01 PM - AppData\3909\PapersPlease\settings.sav - 656
+10/30/2013 12:57:22 PM - AppData\3909\PapersPlease\stats.sav - 584
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\GOG.com\GOGPAPERSPLEASE
+Value: SAVEGAMEFOLDER
+Data: AppData\3909\PapersPlease
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
