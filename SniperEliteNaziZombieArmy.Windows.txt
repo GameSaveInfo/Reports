@@ -1,0 +1,43 @@
+Comments:
+  <game name="SniperEliteNaziZombieArmy" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Sniper Elite: Nazi Zombie Army</title>
+    <version os="Windows">
+      <locations>
+        <path ev="localappdata" path="Sniper Elite Nazi Zombie Army"/>
+      </locations>
+      <files>
+        <include/>
+      </files>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Sniper Elite: Nazi Zombie Army
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+LocalAppData\Sniper Elite Nazi Zombie Army
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sun 14 Jul 12:10:23 AM - LocalAppData\Sniper Elite Nazi Zombie Army\Settings.ini - 1129
+Thu 31 Oct 3:40:58 PM - LocalAppData\Sniper Elite Nazi Zombie Army\PC_ProfileSaves\76561193688043152\PlayerProfile.prf - 4096
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

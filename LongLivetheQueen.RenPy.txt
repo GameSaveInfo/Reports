@@ -1,0 +1,42 @@
+Game Name: Long Live the Queen
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+AppData\RenPy\LongLiveTheQueen
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+10/17/2013 6:06:59 PM - AppData\RenPy\LongLiveTheQueen\1-1-LT1.save - 84827
+10/17/2013 7:18:44 PM - AppData\RenPy\LongLiveTheQueen\auto-1-LT1.save - 120477
+10/17/2013 7:13:20 PM - AppData\RenPy\LongLiveTheQueen\auto-2-LT1.save - 112369
+10/17/2013 7:07:29 PM - AppData\RenPy\LongLiveTheQueen\auto-3-LT1.save - 106381
+10/17/2013 7:02:04 PM - AppData\RenPy\LongLiveTheQueen\auto-4-LT1.save - 103093
+10/17/2013 6:57:51 PM - AppData\RenPy\LongLiveTheQueen\auto-5-LT1.save - 103574
+10/17/2013 6:51:41 PM - AppData\RenPy\LongLiveTheQueen\auto-6-LT1.save - 103762
+10/17/2013 6:46:35 PM - AppData\RenPy\LongLiveTheQueen\auto-7-LT1.save - 96964
+10/17/2013 6:41:22 PM - AppData\RenPy\LongLiveTheQueen\auto-8-LT1.save - 92134
+10/17/2013 7:22:29 PM - AppData\RenPy\LongLiveTheQueen\persistent - 10198
+10/17/2013 7:22:03 PM - AppData\RenPy\LongLiveTheQueen\victory.html - 66840
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\GOG.com\GOGLLTQ
+Value: SAVEGAMEFOLDER
+Data: AppData\RenPy\LongLiveTheQueen
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
