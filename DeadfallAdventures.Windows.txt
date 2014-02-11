@@ -1,0 +1,44 @@
+Comments:
+  <game name="DeadfallAdventures" added="2012-09-07T23:18:00" updated="2012-09-07T23:18:00">
+    <title>Deadfall Adventures</title>
+      <version platform="SteamCloud">
+    <locations>
+      <path ev="steamuserdata" path="231330"/>
+    </locations>
+      <files>
+        <include path="remote"/>
+      </files>
+    <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Deadfall Adventures
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+SteamUserData\231330
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Sat 07 Dec 8:59:15 PM - SteamUserData\231330\remotecache.vdf - 525
+Sat 07 Dec 8:39:23 PM - SteamUserData\231330\remote\advcheckpoint0.sav - 315667
+Sat 07 Dec 8:59:07 PM - SteamUserData\231330\remote\profile.bin - 607
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

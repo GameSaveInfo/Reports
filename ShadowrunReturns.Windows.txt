@@ -1,0 +1,27 @@
+Game Name: Shadowrun Returns
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+LocalAppData\Harebrained Schemes\Shadowrun Returns\Saves
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+11/1/2013 5:27:03 PM - LocalAppData\Harebrained Schemes\Shadowrun Returns\Saves\8e06eff37ab24142a93676de3df38a89.sav - 4785
+11/1/2013 5:29:12 PM - LocalAppData\Harebrained Schemes\Shadowrun Returns\Saves\autosave.sav - 9327
+
+UAC Disabled or not present
+
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts:

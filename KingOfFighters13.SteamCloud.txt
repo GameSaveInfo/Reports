@@ -1,0 +1,26 @@
+Game Name: THE KING OF FIGHTERS XIII STEAM EDITION
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SteamUserData\222940\remote\kofxiii
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+11/3/2013 11:40:05 AM - SteamUserData\222940\remote\kofxiii\input.config - 360
+11/3/2013 12:05:32 PM - SteamUserData\222940\remote\kofxiii\profile.dat - 114688
+11/10/2013 7:06:43 PM - SteamUserData\222940\remote\kofxiii\progress.bin - 77824
+
+UAC Disabled or not present
+
+Local Machine Registry Entries: 
+Current User Registry Entries:

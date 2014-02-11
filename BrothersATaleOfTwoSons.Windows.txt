@@ -1,0 +1,29 @@
+Game Name: Brothers- A tale of two sons
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\My Games\Brothers - A Tale of Two Sons
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+12/31/2013 11:31:25 PM - UserDocuments\My Games\Brothers - A Tale of Two Sons\BrothersGameState.sav - 269
+12/31/2013 11:36:58 PM - UserDocuments\My Games\Brothers - A Tale of Two Sons\Checkpoint.sav - 500000
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:

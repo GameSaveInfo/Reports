@@ -1,0 +1,46 @@
+Comments:
+  <game name="Battlefield4" follows="Battlefield3" added="1955-11-05T00:00:00" updated="1955-11-05T00:00:00">
+    <title>Battlefield 4</title>
+    <version os="Windows">
+      <locations>
+        <path ev="userdocuments" path="Battlefield 4"/>
+      </locations>
+      <files type="Settings">
+        <include path="settings"/>
+      </files>
+      <linkable/>
+      <contributor>Arc Angel</contributor>
+    </version>
+  </game>
+
+Game Name: Battlefield 4
+Operating System:
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path:
+UserDocuments\Battlefield 4\settings
+
+
+ScummVM Path Entries:
+
+Folder Dump:
+
+Drive Information:
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+Tue 26 Nov 7:52:31 PM - UserDocuments\Battlefield 4\settings\meta.xml - 62240
+Sun 03 Nov 10:06:37 PM - UserDocuments\Battlefield 4\settings\PROFSAVE - 1024000
+Sun 03 Nov 10:06:37 PM - UserDocuments\Battlefield 4\settings\PROFSAVE_header - 8
+Sun 03 Nov 10:06:37 PM - UserDocuments\Battlefield 4\settings\PROFSAVE_profile - 19371
+
+UAC Enabled
+
+
+VirtualStore Folders:
+Local Machine Registry Entries:
+Current User Registry Entries:
+
+Detected Start Menu Shortcuts:
