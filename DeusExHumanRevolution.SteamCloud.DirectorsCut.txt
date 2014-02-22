@@ -1,0 +1,31 @@
+Game Name: Deus Ex: Human Revolution - Director's Cut
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SteamUserData\238010
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/22/2014 11:57:43 AM - SteamUserData\238010\remotecache.vdf - 756
+2/22/2014 11:57:30 AM - SteamUserData\238010\remote\gamer1_4 - 18948
+2/22/2014 11:57:30 AM - SteamUserData\238010\remote\saveindex - 110
+2/22/2014 11:57:30 AM - SteamUserData\238010\remote\user - 220
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

@@ -1,0 +1,36 @@
+Game Name: Final Fantasy VIII
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\Square Enix\FINAL FANTASY VIII Steam
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/22/2014 9:32:51 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\APP.LOG - 0
+2/22/2014 9:32:48 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\ff8input.cfg - 512
+2/22/2014 9:32:48 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\ff8video.cfg - 36
+2/22/2014 9:32:32 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\lastLogin.dat - 278
+2/22/2014 9:32:50 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\original_app.log - 0
+2/22/2014 9:32:48 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\proxySettings.dat - 20
+2/22/2014 9:32:53 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\SE-EYEGLCOB.TTF - 35060
+2/22/2014 9:32:48 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\user_1924303\achievement.dat - 180
+2/22/2014 9:32:32 AM - UserDocuments\Square Enix\FINAL FANTASY VIII Steam\user_1924303\metadata.xml - 8816
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

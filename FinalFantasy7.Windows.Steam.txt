@@ -1,0 +1,53 @@
+Game Name: Final Fantasy VII
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\Square Enix\FINAL FANTASY VII Steam
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+7/20/2013 10:09:35 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\APP.LOG - 0
+7/20/2013 10:09:26 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cloud_feature_setted - 0
+8/10/2013 9:33:49 AM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\ff7input.cfg - 301
+7/20/2013 10:57:27 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\ff7sound.cfg - 8
+8/10/2013 9:33:49 AM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\ff7video.cfg - 32
+8/10/2013 9:33:50 AM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\lastLogin.dat - 278
+8/10/2013 9:33:50 AM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\networkSettings.dat - 24
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\S2D.P - 352
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\S3D.P - 352
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\SF2D.P - 320
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\SF3D.P - 320
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\SG2D.P - 320
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\SG3D.P - 320
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\SGT2D.P - 352
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\SGT3D.P - 352
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\T2D.P - 296
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\T3D.P - 296
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\TF2D.P - 272
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\TF3D.P - 272
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\TG2D.P - 272
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\TG3D.P - 272
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\TGT2D.P - 296
+7/20/2013 10:55:30 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\cache\TGT3D.P - 296
+8/10/2013 9:33:51 AM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\user_1924303\achievement.dat - 8
+8/10/2013 9:33:51 AM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\user_1924303\avatar.png - 14348
+7/20/2013 10:09:12 PM - UserDocuments\Square Enix\FINAL FANTASY VII Steam\user_1924303\metadata.xml - 6667
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

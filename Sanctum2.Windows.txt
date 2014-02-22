@@ -1,0 +1,43 @@
+Game Name: Sanctum 2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\my games\Sanctum2
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+1/12/2014 10:07:50 AM - UserDocuments\my games\Sanctum2\Engine\Localization\int\SanctumGameDLC1.int - 8949
+1/12/2014 10:07:50 AM - UserDocuments\my games\Sanctum2\Engine\Localization\int\SanctumGameDLC2.int - 6366
+1/12/2014 10:07:50 AM - UserDocuments\my games\Sanctum2\Engine\Localization\int\SanctumGameDLC3.int - 12622
+1/12/2014 10:07:50 AM - UserDocuments\my games\Sanctum2\Engine\Localization\int\SanctumGameDLC4.int - 6797
+9/6/2013 10:04:32 PM - UserDocuments\my games\Sanctum2\SanctumGame\Cloud\CloudStorage.ini - 41
+1/12/2014 10:07:50 AM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumDLC.ini - 1083
+11/28/2013 10:56:13 PM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumEditor.ini - 47105
+11/28/2013 10:56:13 PM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumEditorUserSettings.ini - 8536
+1/12/2014 10:07:50 AM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumEngine.ini - 40594
+1/12/2014 10:07:50 AM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumGame.ini - 5670
+11/30/2013 12:52:13 AM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumInput.ini - 60052
+11/28/2013 10:56:14 PM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumLightmass.ini - 6922
+11/29/2013 10:50:50 PM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumSettings.ini - 241
+11/29/2013 10:50:53 PM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumSystemSettings.ini - 22429
+1/12/2014 10:07:12 AM - UserDocuments\my games\Sanctum2\SanctumGame\Config\SanctumUI.ini - 8512
+1/12/2014 10:07:50 AM - UserDocuments\my games\Sanctum2\SanctumGame\Logs\Launch.log - 11296
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

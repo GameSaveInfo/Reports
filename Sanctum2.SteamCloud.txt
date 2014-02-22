@@ -1,0 +1,32 @@
+Game Name: Sanctum 2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SteamUserData\210770
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+1/12/2014 10:28:06 AM - SteamUserData\210770\remotecache.vdf - 548
+1/12/2014 10:24:11 AM - SteamUserData\210770\local\PROFILE\Profile.bin - 139
+1/12/2014 10:49:16 AM - SteamUserData\210770\local\savedata\SanctumProgress\Progress - 131072
+1/12/2014 10:24:11 AM - SteamUserData\210770\remote\profile\profile.bin - 139
+1/12/2014 10:28:06 AM - SteamUserData\210770\remote\savedata\sanctumprogress\progress - 131072
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

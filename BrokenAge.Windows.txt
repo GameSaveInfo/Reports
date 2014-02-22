@@ -1,0 +1,33 @@
+Game Name: Broken Age
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\BrokenAge
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/22/2014 1:37:40 PM - UserDocuments\BrokenAge\saves\auto.prev - 234
+2/22/2014 1:37:40 PM - UserDocuments\BrokenAge\saves\auto.sav - 403
+2/22/2014 1:37:27 PM - UserDocuments\BrokenAge\saves\game.prev - 227
+2/22/2014 1:37:27 PM - UserDocuments\BrokenAge\saves\game.settings - 240
+2/22/2014 1:37:40 PM - UserDocuments\BrokenAge\saves\slot_1.prev - 232
+2/22/2014 1:37:40 PM - UserDocuments\BrokenAge\saves\slot_1.sav - 403
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

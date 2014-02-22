@@ -1,0 +1,77 @@
+Game Name: Descent
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+G:\SteamLibrary\SteamApps\common\Descent
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: G:\
+Drive Root: G:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/20/2014 5:20:09 PM - G:\SteamLibrary\SteamApps\common\Descent\chaos.hog - 174751
+2/20/2014 5:20:09 PM - G:\SteamLibrary\SteamApps\common\Descent\chaos.msn - 309
+2/20/2014 5:20:09 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.b50 - 1503
+2/20/2014 5:20:18 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.bat - 162
+2/22/2014 11:54:16 AM - G:\SteamLibrary\SteamApps\common\Descent\descent.cfg - 293
+2/20/2014 5:20:12 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.dem - 2211582
+2/20/2014 5:20:09 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.faq - 48362
+2/20/2014 5:20:12 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.hog - 6856701
+2/20/2014 5:20:19 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.ico - 3262
+2/20/2014 5:20:09 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.m50 - 946
+2/20/2014 5:20:12 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.phx - 2079
+2/20/2014 5:20:16 PM - G:\SteamLibrary\SteamApps\common\Descent\descent.pig - 4920305
+2/20/2014 5:20:11 PM - G:\SteamLibrary\SteamApps\common\Descent\descent2.adv - 1340
+2/20/2014 5:20:10 PM - G:\SteamLibrary\SteamApps\common\Descent\descentg.ini - 5204
+2/20/2014 5:20:21 PM - G:\SteamLibrary\SteamApps\common\Descent\descentr.exe - 1132633
+2/20/2014 5:20:09 PM - G:\SteamLibrary\SteamApps\common\Descent\devteam.pcx - 23314
+2/20/2014 5:20:22 PM - G:\SteamLibrary\SteamApps\common\Descent\dosbox-0.74.tar.gz - 1265711
+2/20/2014 5:20:24 PM - G:\SteamLibrary\SteamApps\common\Descent\dosbox.exe - 3727360
+2/20/2014 5:20:20 PM - G:\SteamLibrary\SteamApps\common\Descent\dosboxdescent.conf - 10805
+2/20/2014 5:20:18 PM - G:\SteamLibrary\SteamApps\common\Descent\dosboxdescent_client.conf - 173
+2/20/2014 5:20:21 PM - G:\SteamLibrary\SteamApps\common\Descent\dosboxdescent_server.conf - 165
+2/20/2014 5:20:18 PM - G:\SteamLibrary\SteamApps\common\Descent\dosboxdescent_settings.conf - 120
+2/20/2014 5:20:21 PM - G:\SteamLibrary\SteamApps\common\Descent\dosboxdescent_single.conf - 122
+2/20/2014 5:20:20 PM - G:\SteamLibrary\SteamApps\common\Descent\gfw_high.ico - 120297
+2/20/2014 5:20:22 PM - G:\SteamLibrary\SteamApps\common\Descent\gogdosconfig.exe - 2936640
+2/20/2014 5:20:19 PM - G:\SteamLibrary\SteamApps\common\Descent\hmidet.386 - 17134
+2/20/2014 5:20:19 PM - G:\SteamLibrary\SteamApps\common\Descent\hmidrv.386 - 116455
+2/20/2014 5:20:19 PM - G:\SteamLibrary\SteamApps\common\Descent\hmimdrv.386 - 111928
+2/20/2014 5:20:19 PM - G:\SteamLibrary\SteamApps\common\Descent\launch descent.bat - 109
+2/20/2014 5:20:19 PM - G:\SteamLibrary\SteamApps\common\Descent\launch graphic mode setup.bat - 36
+2/20/2014 5:20:18 PM - G:\SteamLibrary\SteamApps\common\Descent\launch multiplayer.bat - 42
+2/20/2014 5:20:18 PM - G:\SteamLibrary\SteamApps\common\Descent\launch settings.bat - 111
+2/20/2014 5:20:11 PM - G:\SteamLibrary\SteamApps\common\Descent\level18.dem - 273939
+2/22/2014 11:54:11 AM - G:\SteamLibrary\SteamApps\common\Descent\MADJACK.PLR - 522
+2/22/2014 11:54:13 AM - G:\SteamLibrary\SteamApps\common\Descent\MADJACK.SG0 - 141519
+2/20/2014 5:20:18 PM - G:\SteamLibrary\SteamApps\common\Descent\manual.pdf - 6509102
+2/20/2014 5:20:10 PM - G:\SteamLibrary\SteamApps\common\Descent\miniboss.dem - 403783
+2/20/2014 5:20:19 PM - G:\SteamLibrary\SteamApps\common\Descent\pcxview.exe - 12314
+2/20/2014 5:20:18 PM - G:\SteamLibrary\SteamApps\common\Descent\phqghume.ayl - 0
+2/20/2014 5:20:16 PM - G:\SteamLibrary\SteamApps\common\Descent\readme.txt - 11283
+2/20/2014 5:20:10 PM - G:\SteamLibrary\SteamApps\common\Descent\refcard.pdf - 44849
+2/20/2014 5:20:20 PM - G:\SteamLibrary\SteamApps\common\Descent\sdl.dll - 448231
+2/20/2014 5:20:19 PM - G:\SteamLibrary\SteamApps\common\Descent\sdl_net.dll - 13312
+2/20/2014 5:20:21 PM - G:\SteamLibrary\SteamApps\common\Descent\setup.exe - 397425
+2/22/2014 11:54:21 AM - G:\SteamLibrary\SteamApps\common\Descent\stdout.txt - 560
+2/22/2014 11:53:51 AM - G:\SteamLibrary\SteamApps\common\Descent\steam_appid.txt - 8
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+
+Key:HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\Steam App 273570
+Value: InstallLocation
+Data: G:\SteamLibrary\SteamApps\common\Descent
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

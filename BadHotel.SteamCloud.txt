@@ -1,0 +1,29 @@
+Game Name: BadHotele
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+SteamUserData\231720
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/22/2014 11:11:29 AM - SteamUserData\231720\remotecache.vdf - 265
+2/22/2014 11:07:04 AM - SteamUserData\231720\remote\storage.lua - 2961
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
