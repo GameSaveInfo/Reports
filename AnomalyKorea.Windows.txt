@@ -1,0 +1,33 @@
+Game Name: Anomoly Korea
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+UserDocuments\Anomaly Korea
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/22/2014 10:57:32 AM - UserDocuments\Anomaly Korea\config.bin - 154
+2/22/2014 10:58:42 AM - UserDocuments\Anomaly Korea\iPhoneProfiles - 25
+2/22/2014 10:58:14 AM - UserDocuments\Anomaly Korea\SavedGame.bin - 6513
+2/22/2014 10:58:28 AM - UserDocuments\Anomaly Korea\iPhoneDefUser\achievements - 3288
+2/22/2014 10:58:28 AM - UserDocuments\Anomaly Korea\iPhoneDefUser\achievements.alt - 3288
+2/22/2014 10:57:34 AM - UserDocuments\Anomaly Korea\iPhoneDefUser\progress - 45
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 

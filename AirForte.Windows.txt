@@ -1,0 +1,131 @@
+Game Name: Air Forte
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+C:\Program Files (x86)\Air Forte\data
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+11/13/2012 5:24:16 PM - C:\Program Files (x86)\Air Forte\data\AirForte.exe - 287744
+7/27/2011 2:08:08 PM - C:\Program Files (x86)\Air Forte\data\atigktxx.dll - 14848
+2/22/2014 10:37:14 AM - C:\Program Files (x86)\Air Forte\data\autopatcher.exe - 0
+9/25/2011 3:15:20 PM - C:\Program Files (x86)\Air Forte\data\csfml-audio-2.dll - 61440
+9/25/2011 3:15:20 PM - C:\Program Files (x86)\Air Forte\data\csfml-graphics-2.dll - 1164800
+9/25/2011 3:15:20 PM - C:\Program Files (x86)\Air Forte\data\csfml-window-2.dll - 59392
+9/25/2011 6:32:58 PM - C:\Program Files (x86)\Air Forte\data\libsndfile-1.dll - 2304512
+9/25/2011 6:32:30 PM - C:\Program Files (x86)\Air Forte\data\openal32.dll - 109080
+7/2/2010 6:05:12 PM - C:\Program Files (x86)\Air Forte\data\readme.htm - 9148
+2/13/2011 8:59:46 PM - C:\Program Files (x86)\Air Forte\data\sfmlnet-audio-2.dll - 20992
+8/18/2011 12:46:22 PM - C:\Program Files (x86)\Air Forte\data\sfmlnet-graphics-2.dll - 42496
+8/18/2011 12:46:20 PM - C:\Program Files (x86)\Air Forte\data\sfmlnet-window-2.dll - 27136
+2/22/2014 10:37:22 AM - C:\Program Files (x86)\Air Forte\data\AirForteSaveData\SanMadJack.sav - 249
+2/22/2014 10:37:10 AM - C:\Program Files (x86)\Air Forte\data\AirForteSaveData\settings.dat - 412
+6/5/2010 10:03:20 AM - C:\Program Files (x86)\Air Forte\data\content\docs\readme-freetype.txt - 6910
+6/5/2010 10:25:28 AM - C:\Program Files (x86)\Air Forte\data\content\docs\readme-glew.txt - 178
+6/5/2010 10:26:30 AM - C:\Program Files (x86)\Air Forte\data\content\docs\readme-libpng.txt - 4299
+6/5/2010 10:24:10 AM - C:\Program Files (x86)\Air Forte\data\content\docs\readme-libsndfile.txt - 176
+6/5/2010 10:58:00 AM - C:\Program Files (x86)\Air Forte\data\content\docs\readme-mono.txt - 812
+6/5/2010 10:59:10 AM - C:\Program Files (x86)\Air Forte\data\content\docs\readme-openal.txt - 179
+6/5/2010 10:00:48 AM - C:\Program Files (x86)\Air Forte\data\content\docs\readme-sfml.txt - 1015
+6/5/2010 10:03:54 AM - C:\Program Files (x86)\Air Forte\data\content\docs\readme-zlib.txt - 1072
+4/11/2010 5:38:44 PM - C:\Program Files (x86)\Air Forte\data\content\fonts\accid.ttf - 41388
+4/11/2010 5:38:44 PM - C:\Program Files (x86)\Air Forte\data\content\fonts\bitstream_vera_sans_bold.ttf - 58716
+4/11/2010 5:38:44 PM - C:\Program Files (x86)\Air Forte\data\content\fonts\din1451.ttf - 48708
+5/25/2010 9:13:16 PM - C:\Program Files (x86)\Air Forte\data\content\fonts\ventura_edding.otf - 65856
+5/13/2010 9:52:32 AM - C:\Program Files (x86)\Air Forte\data\content\music\BennyHammond_GoonTime.ogg - 1057745
+5/13/2010 9:58:54 AM - C:\Program Files (x86)\Air Forte\data\content\music\BennyHammond_RenfieldsRun.ogg - 1642284
+5/8/2010 9:48:50 AM - C:\Program Files (x86)\Air Forte\data\content\music\BennyHammond_SilentNight.ogg - 1858474
+5/12/2010 9:15:32 PM - C:\Program Files (x86)\Air Forte\data\content\music\BennyHammond_TrackFive.ogg - 1087628
+5/12/2010 9:08:00 PM - C:\Program Files (x86)\Air Forte\data\content\music\MusicReadme.txt - 232
+5/29/2010 10:48:04 PM - C:\Program Files (x86)\Air Forte\data\content\sound\aww1.ogg - 19920
+5/29/2010 10:48:52 PM - C:\Program Files (x86)\Air Forte\data\content\sound\aww2.ogg - 18118
+5/29/2010 10:51:56 PM - C:\Program Files (x86)\Air Forte\data\content\sound\aww3.ogg - 19160
+5/29/2010 10:51:18 PM - C:\Program Files (x86)\Air Forte\data\content\sound\aww4.ogg - 24017
+6/7/2010 4:51:40 PM - C:\Program Files (x86)\Air Forte\data\content\sound\BennyHammond_DancingWithSanta.ogg - 1095537
+5/12/2010 9:17:48 PM - C:\Program Files (x86)\Air Forte\data\content\sound\BennyHammond_Tsunami.ogg - 932896
+5/11/2010 8:59:10 PM - C:\Program Files (x86)\Air Forte\data\content\sound\boing.ogg - 8269
+5/11/2010 8:59:06 PM - C:\Program Files (x86)\Air Forte\data\content\sound\bubblemake.ogg - 11452
+5/11/2010 8:59:02 PM - C:\Program Files (x86)\Air Forte\data\content\sound\bubblepop.ogg - 5350
+5/11/2010 8:59:00 PM - C:\Program Files (x86)\Air Forte\data\content\sound\bubblestop.ogg - 8995
+5/11/2010 8:58:56 PM - C:\Program Files (x86)\Air Forte\data\content\sound\cheering1.ogg - 53205
+5/11/2010 8:58:52 PM - C:\Program Files (x86)\Air Forte\data\content\sound\cheering2.ogg - 41595
+5/11/2010 8:58:50 PM - C:\Program Files (x86)\Air Forte\data\content\sound\cheering3.ogg - 55884
+5/11/2010 8:58:46 PM - C:\Program Files (x86)\Air Forte\data\content\sound\chime.ogg - 11631
+5/11/2010 8:58:44 PM - C:\Program Files (x86)\Air Forte\data\content\sound\clickbeep.ogg - 3901
+5/11/2010 8:58:40 PM - C:\Program Files (x86)\Air Forte\data\content\sound\clickerror.ogg - 9463
+5/11/2010 8:58:38 PM - C:\Program Files (x86)\Air Forte\data\content\sound\cymbal1.ogg - 38347
+5/11/2010 8:58:34 PM - C:\Program Files (x86)\Air Forte\data\content\sound\cymbal2.ogg - 20497
+5/11/2010 8:58:32 PM - C:\Program Files (x86)\Air Forte\data\content\sound\cymbal3.ogg - 10051
+5/11/2010 8:58:28 PM - C:\Program Files (x86)\Air Forte\data\content\sound\cymbal4.ogg - 31282
+5/11/2010 8:58:24 PM - C:\Program Files (x86)\Air Forte\data\content\sound\engine.ogg - 64190
+5/11/2010 8:58:22 PM - C:\Program Files (x86)\Air Forte\data\content\sound\enginestart.ogg - 5847
+5/11/2010 8:58:12 PM - C:\Program Files (x86)\Air Forte\data\content\sound\enginestop.ogg - 8970
+5/11/2010 8:58:08 PM - C:\Program Files (x86)\Air Forte\data\content\sound\explode.ogg - 6412
+5/11/2010 8:58:02 PM - C:\Program Files (x86)\Air Forte\data\content\sound\growl.ogg - 10908
+5/12/2010 9:26:12 AM - C:\Program Files (x86)\Air Forte\data\content\sound\hooray.ogg - 16259
+5/11/2010 8:57:56 PM - C:\Program Files (x86)\Air Forte\data\content\sound\jet1.ogg - 23854
+5/11/2010 8:57:50 PM - C:\Program Files (x86)\Air Forte\data\content\sound\jet2.ogg - 25683
+5/11/2010 8:57:42 PM - C:\Program Files (x86)\Air Forte\data\content\sound\jet3.ogg - 26589
+5/11/2010 8:57:38 PM - C:\Program Files (x86)\Air Forte\data\content\sound\jet4.ogg - 23815
+5/11/2010 8:57:30 PM - C:\Program Files (x86)\Air Forte\data\content\sound\klaxon1.ogg - 9109
+5/11/2010 8:57:24 PM - C:\Program Files (x86)\Air Forte\data\content\sound\maraca.ogg - 6487
+5/11/2010 8:57:12 PM - C:\Program Files (x86)\Air Forte\data\content\sound\marimba.ogg - 7195
+6/11/2010 12:29:22 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numeight.ogg - 10498
+6/11/2010 12:26:24 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numfive.ogg - 10904
+6/11/2010 12:26:42 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numfour.ogg - 11006
+6/11/2010 12:29:04 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numnine.ogg - 11150
+6/11/2010 12:28:48 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numseven.ogg - 11223
+6/11/2010 12:26:08 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numsix.ogg - 11410
+6/11/2010 12:28:28 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numten.ogg - 11024
+6/11/2010 12:27:02 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numthree.ogg - 11061
+6/11/2010 12:27:32 PM - C:\Program Files (x86)\Air Forte\data\content\sound\numtwo.ogg - 10404
+5/11/2010 8:57:06 PM - C:\Program Files (x86)\Air Forte\data\content\sound\piano.ogg - 9752
+5/11/2010 8:56:56 PM - C:\Program Files (x86)\Air Forte\data\content\sound\pop.ogg - 6911
+5/11/2010 8:56:44 PM - C:\Program Files (x86)\Air Forte\data\content\sound\slidewhistle.ogg - 13643
+5/11/2010 8:56:30 PM - C:\Program Files (x86)\Air Forte\data\content\sound\stretch.ogg - 11852
+5/11/2010 8:56:18 PM - C:\Program Files (x86)\Air Forte\data\content\sound\timer.ogg - 26783
+5/11/2010 8:56:06 PM - C:\Program Files (x86)\Air Forte\data\content\sound\trumpet.ogg - 14281
+7/5/2012 10:18:48 PM - C:\Program Files (x86)\Air Forte\data\content\strings\default.txt - 5
+9/22/2011 8:15:00 AM - C:\Program Files (x86)\Air Forte\data\content\strings\en\fonts.txt - 258
+11/17/2011 9:40:38 AM - C:\Program Files (x86)\Air Forte\data\content\strings\en\strings.csv - 27526
+6/1/2010 3:43:12 PM - C:\Program Files (x86)\Air Forte\data\content\textures\comic01.jpg - 820442
+6/10/2010 11:06:56 AM - C:\Program Files (x86)\Air Forte\data\content\textures\comic02.jpg - 857958
+6/11/2010 11:20:48 AM - C:\Program Files (x86)\Air Forte\data\content\textures\comic03.jpg - 839725
+5/8/2010 9:09:14 PM - C:\Program Files (x86)\Air Forte\data\content\textures\comicspread.png - 270817
+6/29/2010 10:16:42 AM - C:\Program Files (x86)\Air Forte\data\content\textures\flags.png - 250078
+6/12/2010 9:19:58 PM - C:\Program Files (x86)\Air Forte\data\content\textures\icon.png - 3840
+6/29/2010 10:39:34 AM - C:\Program Files (x86)\Air Forte\data\content\textures\sheet0.png - 433922
+6/1/2010 3:44:46 PM - C:\Program Files (x86)\Air Forte\data\content\textures\sheet1.jpg - 825701
+5/10/2010 9:21:22 PM - C:\Program Files (x86)\Air Forte\data\content\textures\sheet2.png - 709551
+6/10/2010 12:17:38 PM - C:\Program Files (x86)\Air Forte\data\content\textures\sheet3.jpg - 733084
+6/29/2010 10:41:32 AM - C:\Program Files (x86)\Air Forte\data\content\textures\sheet4.png - 342399
+5/9/2010 12:37:52 PM - C:\Program Files (x86)\Air Forte\data\content\textures\sheet5.png - 741027
+6/29/2010 9:25:54 AM - C:\Program Files (x86)\Air Forte\data\content\textures\sheetafrica.png - 149443
+6/29/2010 9:28:32 AM - C:\Program Files (x86)\Air Forte\data\content\textures\sheetasia.png - 155336
+6/28/2010 10:50:14 PM - C:\Program Files (x86)\Air Forte\data\content\textures\sheeteurope.png - 179869
+6/29/2010 9:31:52 AM - C:\Program Files (x86)\Air Forte\data\content\textures\sheetnamerica.png - 139468
+6/29/2010 9:26:56 AM - C:\Program Files (x86)\Air Forte\data\content\textures\sheetoceania.png - 79136
+6/28/2010 11:06:08 PM - C:\Program Files (x86)\Air Forte\data\content\textures\sheetsouthamerica.png - 112605
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
+2/22/2014 10:37:07 AM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Air Forte\Air Forte readme.lnk - 1119
+7/2/2010 6:05:12 PM - C:\Program Files (x86)\Air Forte\data\readme.htm - 9148
+2/22/2014 10:37:07 AM - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Air Forte\Air Forte.lnk - 2085
+11/13/2012 5:24:16 PM - C:\Program Files (x86)\Air Forte\data\AirForte.exe - 287744

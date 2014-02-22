@@ -1,0 +1,35 @@
+Game Name: Anomoly2
+Operating System: 
+Microsoft Windows NT 6.1.7601 Service Pack 1
+
+Path: 
+AppData\11bitstudios\Anomaly 2
+
+
+ScummVM Path Entries: 
+
+Folder Dump: 
+
+Drive Information: 
+Drive Name: C:\
+Drive Root: C:\
+Drive Format: NTFS
+Drive Type: Fixed
+Ready Status: True
+2/22/2014 11:26:04 AM - AppData\11bitstudios\Anomaly 2\config.bin - 832
+2/22/2014 11:29:04 AM - AppData\11bitstudios\Anomaly 2\iPhoneProfiles - 23
+2/22/2014 11:28:56 AM - AppData\11bitstudios\Anomaly 2\DefaultUser\progress - 76
+2/22/2014 11:29:01 AM - AppData\11bitstudios\Anomaly 2\DefaultUser\progress.alt - 76
+2/22/2014 11:28:56 AM - AppData\11bitstudios\Anomaly 2\DefaultUser\results - 111
+2/22/2014 11:19:31 AM - AppData\11bitstudios\Anomaly 2\DefaultUser\results.alt - 20
+2/22/2014 11:28:55 AM - AppData\11bitstudios\Anomaly 2\DefaultUser\stats - 347
+2/22/2014 11:28:56 AM - AppData\11bitstudios\Anomaly 2\DefaultUser\stats.alt - 363
+
+UAC Enabled
+
+
+VirtualStore Folders: 
+Local Machine Registry Entries: 
+Current User Registry Entries: 
+
+Detected Start Menu Shortcuts: 
